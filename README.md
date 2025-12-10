@@ -37,7 +37,7 @@ Example json:
 3. **Configuration** Flexible options stored in the `config` folder for easy adjustments.
 4. **Speed** Uses goroutines to scrape asynchronously and significantly reduce total runtime.
 5. **Stealth** Built‑in safe delays ensure Cloudflare is not triggered under default settings.
-6. **JS proofness** 100% reliable scraping even on JS heavy site like <strong>csgo-database</strong>.
+6. **JS proof** 100% reliable scraping even on JS heavy site like <strong>csgo-database</strong>.
 
 
 <strong>Disclaimer!</strong>
@@ -85,6 +85,7 @@ go mod tidy
 ```bash
 go run .
 ```
+
 
 
 
