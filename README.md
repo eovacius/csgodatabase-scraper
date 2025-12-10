@@ -87,6 +87,14 @@ go mod tidy
 ```bash
 go run .
 ```
+4. **Apply flags**
+
+
+- `--aggressive` — scrape aggressively without delay (less safe but much faster).
+
+```bash
+go run . --aggressive
+```
 
 
 
