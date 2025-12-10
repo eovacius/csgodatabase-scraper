@@ -51,8 +51,8 @@ U /"___|/ __"| u |___"\  / __"| uU /"___|U |  _"\ u U  /"\  u U|  _"\ u\| ___"|/
 	spawnWorker(browserCtx, &wg, &collections, config.CollectionsList, "collections")
 
 	// thats to test whether we get detected or not
-	// spawnWorker(ctx, &wg, &cases, config.List, "cases")
-	// spawnWorker(ctx, &wg, &collections, config.CollectionsList, "collections")
+	// spawnWorker(browserCtx, &wg, &cases, config.List, "cases")
+	// spawnWorker(browserCtx, &wg, &collections, config.CollectionsList, "collections")
 
 	wg.Wait()
 

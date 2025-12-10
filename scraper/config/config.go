@@ -34,17 +34,17 @@ var CollectionsList = []string{
 }
 
 // Scraper settings
-const (
+var (
 	Target         = "https://www.csgodatabase.com" // target site to scrape from
 	DeadLine       = 120 * time.Second              // time limit for context
 	UrlLengthLimit = 60                             // shorten url to specified length
 	Delay          = 1 * time.Second                // delay to avoid triggering site protections
-	ConsoleLog     = false                          // log output to console
+	Headless       = true                           // run browser in headless/headed mode
 )
 
 // allocator options
 var Opts = append(chromedp.DefaultExecAllocatorOptions[:],
-	chromedp.Flag("headless", true),
+	chromedp.Flag("headless", Headless),
 	chromedp.Flag("disable-blink-features", "AutomationControlled"),
 	chromedp.Flag("blink-settings", "imagesEnabled=false"),
 	chromedp.Flag("exclude-switches", "enable-automation"),

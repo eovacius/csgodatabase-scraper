@@ -2,6 +2,7 @@ package main
 
 import (
 	"encoding/json"
+	"flag"
 	"fmt"
 	"log"
 	"os"
@@ -12,6 +13,16 @@ import (
 )
 
 func main() {
+	// cli flags
+	aggressive := flag.Bool("aggressive", false, "Run scraper aggressively (less delay)")
+
+	flag.Parse()
+
+	if *aggressive {
+		config.Delay = 0 * time.Millisecond
+		fmt.Println("Aggressive mode. Delay:", config.Delay)
+	}
+
 	fmt.Println("[*] Starting scraper...")
 
 	skins, err := scraper.ScrapeSkins()
@@ -28,10 +39,6 @@ func main() {
 		log.Fatalf("[!] Error marshaling JSON: %v", err)
 	}
 
-	// if you want data to be printed to console
-	if config.ConsoleLog {
-		fmt.Println(string(jsonData))
-	}
 	// generate filename with current date
 	timestamp := time.Now().Format("2006-01-02")
 	filename := fmt.Sprintf("json/data_%s.json", timestamp)
