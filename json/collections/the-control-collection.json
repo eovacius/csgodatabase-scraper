@@ -1,0 +1,439 @@
+[
+  {
+    "name": "Fade",
+    "weapon": "AWP",
+    "rarity": "Covert Sniper Rifle",
+    "collection": "The Control Collection",
+    "price": {
+      "price_string": "$1020.00 - $1584.51",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 1020,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1584.51,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:39-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/AWP_Fade.png"
+  },
+  {
+    "name": "Blue Phosphor",
+    "weapon": "M4A1-S",
+    "rarity": "Classified Rifle",
+    "collection": "The Control Collection",
+    "price": {
+      "price_string": "$949.99 - $1522.42",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 949.99,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1522.42,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:39-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/M4A1-S_Blue_Phosphor.png"
+  },
+  {
+    "name": "Target Acquired",
+    "weapon": "USP-S",
+    "rarity": "Classified Pistol",
+    "collection": "The Control Collection",
+    "price": {
+      "price_string": "$126.93 - $863.84",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 126.93,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 863.84,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:39-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/USP-S_Target_Acquired.png"
+  },
+  {
+    "name": "Crime Scene",
+    "weapon": "UMP-45",
+    "rarity": "Restricted SMG",
+    "collection": "The Control Collection",
+    "price": {
+      "price_string": "$93.40 - $250.00",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 93.4,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 250,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:39-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/UMP-45_Crime_Scene.png"
+  },
+  {
+    "name": "Berries And Cherries",
+    "weapon": "Five-SeveN",
+    "rarity": "Restricted Pistol",
+    "collection": "The Control Collection",
+    "price": {
+      "price_string": "$108.23 - $177.51",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 108.23,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 177.51,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:39-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Five-SeveN_Berries_And_Cherries.png"
+  },
+  {
+    "name": "Prime Conspiracy",
+    "weapon": "FAMAS",
+    "rarity": "Restricted Rifle",
+    "collection": "The Control Collection",
+    "price": {
+      "price_string": "$90.68 - $199.00",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 90.68,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 199,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:39-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/FAMAS_Prime_Conspiracy.png"
+  },
+  {
+    "name": "Magna Carta",
+    "weapon": "SCAR-20",
+    "rarity": "Mil-spec Sniper Rifle",
+    "collection": "The Control Collection",
+    "price": {
+      "price_string": "$15.45 - $34.00",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 15.45,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 34,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:39-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/SCAR-20_Magna_Carta.png"
+  },
+  {
+    "name": "Dispatch",
+    "weapon": "P2000",
+    "rarity": "Mil-spec Pistol",
+    "collection": "The Control Collection",
+    "price": {
+      "price_string": "$17.18 - $87.44",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 17.18,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 87.44,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:39-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/P2000_Dispatch.png"
+  },
+  {
+    "name": "Threat Detected",
+    "weapon": "SSG 08",
+    "rarity": "Mil-spec Sniper Rifle",
+    "collection": "The Control Collection",
+    "price": {
+      "price_string": "$17.22 - $42.35",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 17.22,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 42.35,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:39-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/SSG_08_Threat_Detected.png"
+  },
+  {
+    "name": "Global Offensive",
+    "weapon": "M4A4",
+    "rarity": "Mil-spec Rifle",
+    "collection": "The Control Collection",
+    "price": {
+      "price_string": "$16.35 - $106.76",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 16.35,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 106.76,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:39-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/M4A4_Global_Offensive.png"
+  },
+  {
+    "name": "Carbon Fiber",
+    "weapon": "MAG-7",
+    "rarity": "Industrial Shotgun",
+    "collection": "The Control Collection",
+    "price": {
+      "price_string": "$3.05 - $5.45",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 3.05,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 5.45,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:39-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MAG-7_Carbon_Fiber.png"
+  },
+  {
+    "name": "Nitro",
+    "weapon": "MP5-SD",
+    "rarity": "Industrial SMG",
+    "collection": "The Control Collection",
+    "price": {
+      "price_string": "$2.58 - $11.41",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 2.58,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 11.41,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:39-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MP5-SD_Nitro.png"
+  },
+  {
+    "name": "Switch Board",
+    "weapon": "Dual Berettas",
+    "rarity": "Industrial Pistol",
+    "collection": "The Control Collection",
+    "price": {
+      "price_string": "$2.47 - $11.63",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 2.47,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 11.63,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:39-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Dual_Berettas_Switch_Board.png"
+  },
+  {
+    "name": "The Bronze",
+    "weapon": "Desert Eagle",
+    "rarity": "Industrial Pistol",
+    "collection": "The Control Collection",
+    "price": {
+      "price_string": "$3.53 - $7.78",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 3.53,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 7.78,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:39-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Desert_Eagle_The_Bronze.png"
+  },
+  {
+    "name": "Jungle Dashed",
+    "weapon": "CZ75-Auto",
+    "rarity": "Consumer Pistol",
+    "collection": "The Control Collection",
+    "price": {
+      "price_string": "$0.42 - $3.51",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.42,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 3.51,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:39-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/CZ75-Auto_Jungle_Dashed.png"
+  },
+  {
+    "name": "Forest Night",
+    "weapon": "P250",
+    "rarity": "Consumer Pistol",
+    "collection": "The Control Collection",
+    "price": {
+      "price_string": "$0.38 - $7.00",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.38,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 7,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:39-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/P250_Forest_Night.png"
+  },
+  {
+    "name": "Army Sheen",
+    "weapon": "MP9",
+    "rarity": "Consumer SMG",
+    "collection": "The Control Collection",
+    "price": {
+      "price_string": "$0.46 - $1.80",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.46,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1.8,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:39-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MP9_Army_Sheen.png"
+  },
+  {
+    "name": "Surveillance",
+    "weapon": "AUG",
+    "rarity": "Consumer Rifle",
+    "collection": "The Control Collection",
+    "price": {
+      "price_string": "$0.42 - $1.69",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.42,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1.69,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:39-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/AUG_Surveillance.png"
+  },
+  {
+    "name": "Charter",
+    "weapon": "XM1014",
+    "rarity": "Consumer Shotgun",
+    "collection": "The Control Collection",
+    "price": {
+      "price_string": "$0.41 - $1.69",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.41,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1.69,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:39-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/XM1014_Charter.png"
+  }
+]

@@ -1,0 +1,646 @@
+[
+  {
+    "name": "Nouveau Rouge",
+    "weapon": "AK-47",
+    "rarity": "Classified Rifle",
+    "collection": "The Radiant Collection",
+    "price": {
+      "price_string": "$14.12 - $450.00",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 14.12,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 450,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:26-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/AK-47_Nouveau_Rouge.png"
+  },
+  {
+    "name": "Glitched Paint",
+    "weapon": "M4A1-S",
+    "rarity": "Restricted Rifle",
+    "collection": "The Radiant Collection",
+    "price": {
+      "price_string": "$3.82 - $37.36",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 3.82,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 37.36,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:26-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/M4A1-S_Glitched_Paint.png"
+  },
+  {
+    "name": "Mulberry",
+    "weapon": "Desert Eagle",
+    "rarity": "Restricted Pistol",
+    "collection": "The Radiant Collection",
+    "price": {
+      "price_string": "$4.90 - $53.99",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 4.9,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 53.99,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:26-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Desert_Eagle_Mulberry.png"
+  },
+  {
+    "name": "Bleeding Edge",
+    "weapon": "USP-S",
+    "rarity": "Restricted Pistol",
+    "collection": "The Radiant Collection",
+    "price": {
+      "price_string": "$2.95 - $32.95",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 2.95,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 32.95,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:26-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/USP-S_Bleeding_Edge.png"
+  },
+  {
+    "name": "Blush Pour",
+    "weapon": "SSG 08",
+    "rarity": "Mil-spec Sniper Rifle",
+    "collection": "The Radiant Collection",
+    "price": {
+      "price_string": "$0.36 - $4.08",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.36,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 4.08,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:26-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/SSG_08_Blush_Pour.png"
+  },
+  {
+    "name": "Arsenic Spill",
+    "weapon": "AWP",
+    "rarity": "Mil-spec Sniper Rifle",
+    "collection": "The Radiant Collection",
+    "price": {
+      "price_string": "$0.65 - $6.77",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.65,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 6.77,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:26-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/AWP_Arsenic_Spill.png"
+  },
+  {
+    "name": "Rose Hex",
+    "weapon": "M4A1-S",
+    "rarity": "Mil-spec Rifle",
+    "collection": "The Radiant Collection",
+    "price": {
+      "price_string": "$0.45 - $5.08",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.45,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 5.08,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:26-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/M4A1-S_Rose_Hex.png"
+  },
+  {
+    "name": "Red Tide",
+    "weapon": "P250",
+    "rarity": "Mil-spec Pistol",
+    "collection": "The Radiant Collection",
+    "price": {
+      "price_string": "$0.39 - $46.88",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.39,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 46.88,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:26-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/P250_Red_Tide.png"
+  },
+  {
+    "name": "Coral Bloom",
+    "weapon": "Glock-18",
+    "rarity": "Mil-spec Pistol",
+    "collection": "The Radiant Collection",
+    "price": {
+      "price_string": "$0.38 - $46.76",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.38,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 46.76,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:26-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Glock-18_Coral_Bloom.png"
+  },
+  {
+    "name": "Shredded",
+    "weapon": "MP9",
+    "rarity": "Mil-spec SMG",
+    "collection": "The Radiant Collection",
+    "price": {
+      "price_string": "$0.38 - $4.17",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.38,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 4.17,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:26-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MP9_Shredded.png"
+  },
+  {
+    "name": "Grey Ghost",
+    "weapon": "FAMAS",
+    "rarity": "Industrial Rifle",
+    "collection": "The Radiant Collection",
+    "price": {
+      "price_string": "$0.04 - $0.65",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.04,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.65,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:26-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/FAMAS_Grey_Ghost.png"
+  },
+  {
+    "name": "Steel Work",
+    "weapon": "M4A4",
+    "rarity": "Industrial Rifle",
+    "collection": "The Radiant Collection",
+    "price": {
+      "price_string": "$0.04 - $1.12",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.04,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1.12,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:26-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/M4A4_Steel_Work.png"
+  },
+  {
+    "name": "Sedimentary",
+    "weapon": "P250",
+    "rarity": "Industrial Pistol",
+    "collection": "The Radiant Collection",
+    "price": {
+      "price_string": "$0.04 - $0.40",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.04,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.4,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:26-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/P250_Sedimentary.png"
+  },
+  {
+    "name": "O-Ranger",
+    "weapon": "Galil AR",
+    "rarity": "Industrial Rifle",
+    "collection": "The Radiant Collection",
+    "price": {
+      "price_string": "$0.03 - $0.60",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.03,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.6,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:26-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Galil_AR_O-Ranger.png"
+  },
+  {
+    "name": "Basket Halftone",
+    "weapon": "SG 553",
+    "rarity": "Industrial Rifle",
+    "collection": "The Radiant Collection",
+    "price": {
+      "price_string": "$0.04 - $0.64",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.04,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.64,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:26-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/SG_553_Basket_Halftone.png"
+  },
+  {
+    "name": "Citric Acid",
+    "weapon": "Tec-9",
+    "rarity": "Industrial Pistol",
+    "collection": "The Radiant Collection",
+    "price": {
+      "price_string": "$0.05 - $0.97",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.05,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.97,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:26-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Tec-9_Citric_Acid.png"
+  },
+  {
+    "name": "Short Ochre",
+    "weapon": "MP7",
+    "rarity": "Consumer SMG",
+    "collection": "The Radiant Collection",
+    "price": {
+      "price_string": "$0.01 - $0.62",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.62,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:26-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MP7_Short_Ochre.png"
+  },
+  {
+    "name": "Autumn Thicket",
+    "weapon": "Five-SeveN",
+    "rarity": "Consumer Pistol",
+    "collection": "The Radiant Collection",
+    "price": {
+      "price_string": "$0.01 - $6.42",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 6.42,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:26-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Five-SeveN_Autumn_Thicket.png"
+  },
+  {
+    "name": "Red Jasper",
+    "weapon": "G3SG1",
+    "rarity": "Consumer Sniper Rifle",
+    "collection": "The Radiant Collection",
+    "price": {
+      "price_string": "$0.01 - $0.23",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.23,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:26-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/G3SG1_Red_Jasper.png"
+  },
+  {
+    "name": "Wood Block Camo",
+    "weapon": "PP-Bizon",
+    "rarity": "Consumer SMG",
+    "collection": "The Radiant Collection",
+    "price": {
+      "price_string": "$0.01 - $0.53",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.53,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:26-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/PP-Bizon_Wood_Block_Camo.png"
+  },
+  {
+    "name": "BorDeux",
+    "weapon": "Dual Berettas",
+    "rarity": "Consumer Pistol",
+    "collection": "The Radiant Collection",
+    "price": {
+      "price_string": "$0.01 - $0.99",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.99,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:26-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Dual_Berettas_BorDeux.png"
+  },
+  {
+    "name": "Marsh Grass",
+    "weapon": "Nova",
+    "rarity": "Consumer Shotgun",
+    "collection": "The Radiant Collection",
+    "price": {
+      "price_string": "$0.01 - $0.20",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.2,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:26-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Nova_Marsh_Grass.png"
+  },
+  {
+    "name": "Short Ochre",
+    "weapon": "SCAR-20",
+    "rarity": "Consumer Sniper Rifle",
+    "collection": "The Radiant Collection",
+    "price": {
+      "price_string": "$0.01 - $0.14",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.14,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:26-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/SCAR-20_Short_Ochre.png"
+  },
+  {
+    "name": "Canvas Cloud",
+    "weapon": "XM1014",
+    "rarity": "Consumer Shotgun",
+    "collection": "The Radiant Collection",
+    "price": {
+      "price_string": "$0.01 - $0.98",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.98,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:26-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/XM1014_Canvas_Cloud.png"
+  },
+  {
+    "name": "Pink Pearl",
+    "weapon": "CZ75-Auto",
+    "rarity": "Consumer Pistol",
+    "collection": "The Radiant Collection",
+    "price": {
+      "price_string": "$0.01 - $2.00",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 2,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:26-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/CZ75-Auto_Pink_Pearl.png"
+  },
+  {
+    "name": "Bronzer",
+    "weapon": "MAC-10",
+    "rarity": "Consumer SMG",
+    "collection": "The Radiant Collection",
+    "price": {
+      "price_string": "$0.01 - $0.22",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.22,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:26-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MAC-10_Bronzer.png"
+  },
+  {
+    "name": "Desert Halftone",
+    "weapon": "P90",
+    "rarity": "Consumer SMG",
+    "collection": "The Radiant Collection",
+    "price": {
+      "price_string": "$0.01 - $0.18",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.18,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:26-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/P90_Desert_Halftone.png"
+  },
+  {
+    "name": "Multi-Terrain",
+    "weapon": "MP9",
+    "rarity": "Consumer SMG",
+    "collection": "The Radiant Collection",
+    "price": {
+      "price_string": "$0.01 - $0.73",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.73,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:26-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MP9_Multi-Terrain.png"
+  }
+]

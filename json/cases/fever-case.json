@@ -1,0 +1,393 @@
+[
+  {
+    "name": "Printstream",
+    "weapon": "AWP",
+    "rarity": "Covert Sniper Rifle",
+    "collection": "The Fever Collection",
+    "price": {
+      "price_string": "$42.98 - $533.03",
+      "price_stattrak_string": "$62.52 - $909.08",
+      "currency": "USD",
+      "min": {
+        "value": 42.98,
+        "stattrak_value": 62.52,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 533.03,
+        "stattrak_value": 909.08,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:02-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/AWP_Printstream.png"
+  },
+  {
+    "name": "Bad Trip",
+    "weapon": "FAMAS",
+    "rarity": "Covert Rifle",
+    "collection": "The Fever Collection",
+    "price": {
+      "price_string": "$41.52 - $124.28",
+      "price_stattrak_string": "$42.47 - $112.22",
+      "currency": "USD",
+      "min": {
+        "value": 41.52,
+        "stattrak_value": 42.47,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 124.28,
+        "stattrak_value": 112.22,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:02-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/FAMAS_Bad_Trip.png"
+  },
+  {
+    "name": "K.O. Factory",
+    "weapon": "UMP-45",
+    "rarity": "Classified SMG",
+    "collection": "The Fever Collection",
+    "price": {
+      "price_string": "$3.83 - $46.70",
+      "price_stattrak_string": "$4.90 - $58.01",
+      "currency": "USD",
+      "min": {
+        "value": 3.83,
+        "stattrak_value": 4.9,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 46.7,
+        "stattrak_value": 58.01,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:02-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/UMP-45_K.O._Factory.png"
+  },
+  {
+    "name": "Shinobu",
+    "weapon": "Glock-18",
+    "rarity": "Classified Pistol",
+    "collection": "The Fever Collection",
+    "price": {
+      "price_string": "$4.09 - $43.14",
+      "price_stattrak_string": "$7.25 - $85.70",
+      "currency": "USD",
+      "min": {
+        "value": 4.09,
+        "stattrak_value": 7.25,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 43.14,
+        "stattrak_value": 85.7,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:02-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Glock-18_Shinobu.png"
+  },
+  {
+    "name": "Searing Rage",
+    "weapon": "AK-47",
+    "rarity": "Classified Rifle",
+    "collection": "The Fever Collection",
+    "price": {
+      "price_string": "$3.98 - $57.53",
+      "price_stattrak_string": "$9.49 - $79.27",
+      "currency": "USD",
+      "min": {
+        "value": 3.98,
+        "stattrak_value": 9.49,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 57.53,
+        "stattrak_value": 79.27,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:02-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/AK-47_Searing_Rage.png"
+  },
+  {
+    "name": "Tosai",
+    "weapon": "Zeus x27",
+    "rarity": "Restricted Pistol",
+    "collection": "The Fever Collection",
+    "price": {
+      "price_string": "$0.42 - $3.75",
+      "price_stattrak_string": "$0.68 - $8.03",
+      "currency": "USD",
+      "min": {
+        "value": 0.42,
+        "stattrak_value": 0.68,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 3.75,
+        "stattrak_value": 8.03,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:02-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Zeus_x27_Tosai.png"
+  },
+  {
+    "name": "Wave Breaker",
+    "weapon": "P90",
+    "rarity": "Restricted SMG",
+    "collection": "The Fever Collection",
+    "price": {
+      "price_string": "$0.37 - $6.80",
+      "price_stattrak_string": "$0.64 - $15.00",
+      "currency": "USD",
+      "min": {
+        "value": 0.37,
+        "stattrak_value": 0.64,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 6.8,
+        "stattrak_value": 15,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:02-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/P90_Wave_Breaker.png"
+  },
+  {
+    "name": "Rising Sun",
+    "weapon": "Nova",
+    "rarity": "Restricted Shotgun",
+    "collection": "The Fever Collection",
+    "price": {
+      "price_string": "$0.36 - $7.09",
+      "price_stattrak_string": "$0.58 - $16.99",
+      "currency": "USD",
+      "min": {
+        "value": 0.36,
+        "stattrak_value": 0.58,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 7.09,
+        "stattrak_value": 16.99,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:02-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Nova_Rising_Sun.png"
+  },
+  {
+    "name": "Control",
+    "weapon": "Galil AR",
+    "rarity": "Restricted Rifle",
+    "collection": "The Fever Collection",
+    "price": {
+      "price_string": "$0.42 - $5.59",
+      "price_stattrak_string": "$0.69 - $8.08",
+      "currency": "USD",
+      "min": {
+        "value": 0.42,
+        "stattrak_value": 0.69,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 5.59,
+        "stattrak_value": 8.08,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:02-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Galil_AR_Control.png"
+  },
+  {
+    "name": "Serpent Strike",
+    "weapon": "Desert Eagle",
+    "rarity": "Restricted Pistol",
+    "collection": "The Fever Collection",
+    "price": {
+      "price_string": "$0.47 - $4.56",
+      "price_stattrak_string": "$1.04 - $8.88",
+      "currency": "USD",
+      "min": {
+        "value": 0.47,
+        "stattrak_value": 1.04,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 4.56,
+        "stattrak_value": 8.88,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:02-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Desert_Eagle_Serpent_Strike.png"
+  },
+  {
+    "name": "Mockingbird",
+    "weapon": "XM1014",
+    "rarity": "Mil-spec Shotgun",
+    "collection": "The Fever Collection",
+    "price": {
+      "price_string": "$0.06 - $1.15",
+      "price_stattrak_string": "$0.09 - $7.53",
+      "currency": "USD",
+      "min": {
+        "value": 0.06,
+        "stattrak_value": 0.09,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1.15,
+        "stattrak_value": 7.53,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:02-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/XM1014_Mockingbird.png"
+  },
+  {
+    "name": "PC-GRN",
+    "weapon": "USP-S",
+    "rarity": "Mil-spec Pistol",
+    "collection": "The Fever Collection",
+    "price": {
+      "price_string": "$0.12 - $2.34",
+      "price_stattrak_string": "$0.40 - $11.99",
+      "currency": "USD",
+      "min": {
+        "value": 0.12,
+        "stattrak_value": 0.4,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 2.34,
+        "stattrak_value": 11.99,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:02-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/USP-S_PC-GRN.png"
+  },
+  {
+    "name": "Memorial",
+    "weapon": "SSG 08",
+    "rarity": "Mil-spec Sniper Rifle",
+    "collection": "The Fever Collection",
+    "price": {
+      "price_string": "$0.07 - $1.53",
+      "price_stattrak_string": "$0.12 - $37.75",
+      "currency": "USD",
+      "min": {
+        "value": 0.07,
+        "stattrak_value": 0.12,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1.53,
+        "stattrak_value": 37.75,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:02-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/SSG_08_Memorial.png"
+  },
+  {
+    "name": "Sure Grip",
+    "weapon": "P2000",
+    "rarity": "Mil-spec Pistol",
+    "collection": "The Fever Collection",
+    "price": {
+      "price_string": "$0.06 - $1.41",
+      "price_stattrak_string": "$0.09 - $1.39",
+      "currency": "USD",
+      "min": {
+        "value": 0.06,
+        "stattrak_value": 0.09,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1.41,
+        "stattrak_value": 1.39,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:02-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/P2000_Sure_Grip.png"
+  },
+  {
+    "name": "Nexus",
+    "weapon": "MP9",
+    "rarity": "Mil-spec SMG",
+    "collection": "The Fever Collection",
+    "price": {
+      "price_string": "$0.05 - $1.28",
+      "price_stattrak_string": "$0.10 - $3.74",
+      "currency": "USD",
+      "min": {
+        "value": 0.05,
+        "stattrak_value": 0.1,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1.28,
+        "stattrak_value": 3.74,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:02-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MP9_Nexus.png"
+  },
+  {
+    "name": "Resupply",
+    "weapon": "MAG-7",
+    "rarity": "Mil-spec Shotgun",
+    "collection": "The Fever Collection",
+    "price": {
+      "price_string": "$0.06 - $1.01",
+      "price_stattrak_string": "$0.09 - $1.35",
+      "currency": "USD",
+      "min": {
+        "value": 0.06,
+        "stattrak_value": 0.09,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1.01,
+        "stattrak_value": 1.35,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:02-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MAG-7_Resupply.png"
+  },
+  {
+    "name": "Choppa",
+    "weapon": "M4A4",
+    "rarity": "Mil-spec Rifle",
+    "collection": "The Fever Collection",
+    "price": {
+      "price_string": "$0.07 - $2.58",
+      "price_stattrak_string": "$0.13 - $8.19",
+      "currency": "USD",
+      "min": {
+        "value": 0.07,
+        "stattrak_value": 0.13,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 2.58,
+        "stattrak_value": 8.19,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:02-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/M4A4_Choppa.png"
+  }
+]

@@ -1,0 +1,347 @@
+[
+  {
+    "name": "Cobalt Quartz",
+    "weapon": "Dual Berettas",
+    "rarity": "Restricted Pistol",
+    "collection": "The Lake Collection",
+    "price": {
+      "price_string": "$0.29 - $1.84",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.29,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1.84,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:02-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Dual_Berettas_Cobalt_Quartz.png"
+  },
+  {
+    "name": "Night Ops",
+    "weapon": "USP-S",
+    "rarity": "Mil-spec Pistol",
+    "collection": "The Lake Collection",
+    "price": {
+      "price_string": "$0.18 - $2.74",
+      "price_stattrak_string": "$200.56 - $1111.11",
+      "currency": "USD",
+      "min": {
+        "value": 0.18,
+        "stattrak_value": 200.56,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 2.74,
+        "stattrak_value": 1111.11,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:02-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/USP-S_Night_Ops.png"
+  },
+  {
+    "name": "Anodized Navy",
+    "weapon": "SG 553",
+    "rarity": "Mil-spec Rifle",
+    "collection": "The Lake Collection",
+    "price": {
+      "price_string": "$0.59 - $2.03",
+      "price_stattrak_string": "$81.09 - $250.90",
+      "currency": "USD",
+      "min": {
+        "value": 0.59,
+        "stattrak_value": 81.09,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 2.03,
+        "stattrak_value": 250.9,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:02-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/SG_553_Anodized_Navy.png"
+  },
+  {
+    "name": "Teardown",
+    "weapon": "P90",
+    "rarity": "Mil-spec SMG",
+    "collection": "The Lake Collection",
+    "price": {
+      "price_string": "$0.11 - $1.23",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.11,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1.23,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:02-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/P90_Teardown.png"
+  },
+  {
+    "name": "Safari Mesh",
+    "weapon": "AWP",
+    "rarity": "Industrial Sniper Rifle",
+    "collection": "The Lake Collection",
+    "price": {
+      "price_string": "$0.10 - $8.06",
+      "price_stattrak_string": "$167.15 - $2881.00",
+      "currency": "USD",
+      "min": {
+        "value": 0.1,
+        "stattrak_value": 167.15,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 8.06,
+        "stattrak_value": 2881,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:02-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/AWP_Safari_Mesh.png"
+  },
+  {
+    "name": "Blue Steel",
+    "weapon": "XM1014",
+    "rarity": "Industrial Shotgun",
+    "collection": "The Lake Collection",
+    "price": {
+      "price_string": "$0.03 - $0.92",
+      "price_stattrak_string": "$44.99 - $126.00",
+      "currency": "USD",
+      "min": {
+        "value": 0.03,
+        "stattrak_value": 44.99,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.92,
+        "stattrak_value": 126,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:02-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/XM1014_Blue_Steel.png"
+  },
+  {
+    "name": "Mudder",
+    "weapon": "Desert Eagle",
+    "rarity": "Industrial Pistol",
+    "collection": "The Lake Collection",
+    "price": {
+      "price_string": "$0.06 - $3.62",
+      "price_stattrak_string": "$61.49 - $2500.00",
+      "currency": "USD",
+      "min": {
+        "value": 0.06,
+        "stattrak_value": 61.49,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 3.62,
+        "stattrak_value": 2500,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:02-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Desert_Eagle_Mudder.png"
+  },
+  {
+    "name": "Cyanospatter",
+    "weapon": "FAMAS",
+    "rarity": "Industrial Rifle",
+    "collection": "The Lake Collection",
+    "price": {
+      "price_string": "$0.03 - $7.40",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.03,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 7.4,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:02-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/FAMAS_Cyanospatter.png"
+  },
+  {
+    "name": "Night Ops",
+    "weapon": "PP-Bizon",
+    "rarity": "Industrial SMG",
+    "collection": "The Lake Collection",
+    "price": {
+      "price_string": "$0.02 - $0.29",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.02,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.29,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:02-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/PP-Bizon_Night_Ops.png"
+  },
+  {
+    "name": "Boreal Forest",
+    "weapon": "P250",
+    "rarity": "Consumer Pistol",
+    "collection": "The Lake Collection",
+    "price": {
+      "price_string": "$0.01 - $7.00",
+      "price_stattrak_string": "$12.61 - $52.55",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 12.61,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 7,
+        "stattrak_value": 52.55,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:02-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/P250_Boreal_Forest.png"
+  },
+  {
+    "name": "Storm",
+    "weapon": "AUG",
+    "rarity": "Consumer Rifle",
+    "collection": "The Lake Collection",
+    "price": {
+      "price_string": "$0.01 - $100.00",
+      "price_stattrak_string": "$17.38 - $63.83",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 17.38,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 100,
+        "stattrak_value": 63.83,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:02-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/AUG_Storm.png"
+  },
+  {
+    "name": "Blue Spruce",
+    "weapon": "XM1014",
+    "rarity": "Consumer Shotgun",
+    "collection": "The Lake Collection",
+    "price": {
+      "price_string": "$0.01 - $5.00",
+      "price_stattrak_string": "$14.99 - $401.27",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 14.99,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 5,
+        "stattrak_value": 401.27,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:02-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/XM1014_Blue_Spruce.png"
+  },
+  {
+    "name": "Jungle Dashed",
+    "weapon": "G3SG1",
+    "rarity": "Consumer Sniper Rifle",
+    "collection": "The Lake Collection",
+    "price": {
+      "price_string": "$0.01 - $40.00",
+      "price_stattrak_string": "$11.94 - $65.12",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 11.94,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 40,
+        "stattrak_value": 65.12,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:02-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/G3SG1_Jungle_Dashed.png"
+  },
+  {
+    "name": "Sage Spray",
+    "weapon": "Galil AR",
+    "rarity": "Consumer Rifle",
+    "collection": "The Lake Collection",
+    "price": {
+      "price_string": "$0.01 - $0.99",
+      "price_stattrak_string": "$11.07 - $88.84",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 11.07,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.99,
+        "stattrak_value": 88.84,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:02-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Galil_AR_Sage_Spray.png"
+  },
+  {
+    "name": "Waves Perforated",
+    "weapon": "SG 553",
+    "rarity": "Consumer Rifle",
+    "collection": "The Lake Collection",
+    "price": {
+      "price_string": "$0.01 - $7.50",
+      "price_stattrak_string": "$13.36 - $67.25",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 13.36,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 7.5,
+        "stattrak_value": 67.25,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:02-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/SG_553_Waves_Perforated.png"
+  }
+]

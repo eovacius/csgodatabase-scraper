@@ -1,0 +1,784 @@
+[
+  {
+    "name": "Howl",
+    "weapon": "M4A4",
+    "rarity": "",
+    "collection": "The Huntsman Collection",
+    "price": {
+      "price_string": "$4939.99 - $9998.00",
+      "price_stattrak_string": "$8500.00 - $9381.72",
+      "currency": "USD",
+      "min": {
+        "value": 4939.99,
+        "stattrak_value": 8500,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 9998,
+        "stattrak_value": 9381.72,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:53-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/M4A4_Howl.png"
+  },
+  {
+    "name": "Vulcan",
+    "weapon": "AK-47",
+    "rarity": "Covert Rifle",
+    "collection": "The Huntsman Collection",
+    "price": {
+      "price_string": "$121.31 - $1285.33",
+      "price_stattrak_string": "$226.55 - $2382.60",
+      "currency": "USD",
+      "min": {
+        "value": 121.31,
+        "stattrak_value": 226.55,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1285.33,
+        "stattrak_value": 2382.6,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:53-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/AK-47_Vulcan.png"
+  },
+  {
+    "name": "Desert-Strike",
+    "weapon": "M4A4",
+    "rarity": "Covert Rifle",
+    "collection": "The Huntsman Collection",
+    "price": {
+      "price_string": "$33.58 - $1835.32",
+      "price_stattrak_string": "$10.67 - $205.00",
+      "currency": "USD",
+      "min": {
+        "value": 33.58,
+        "stattrak_value": 10.67,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1835.32,
+        "stattrak_value": 205,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:53-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/M4A4_Desert-Strike.png"
+  },
+  {
+    "name": "Atomic Alloy",
+    "weapon": "M4A1-S",
+    "rarity": "Classified Rifle",
+    "collection": "The Huntsman Collection",
+    "price": {
+      "price_string": "$29.87 - $414.07",
+      "price_stattrak_string": "$43.56 - $1672.11",
+      "currency": "USD",
+      "min": {
+        "value": 29.87,
+        "stattrak_value": 43.56,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 414.07,
+        "stattrak_value": 1672.11,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:53-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/M4A1-S_Atomic_Alloy.png"
+  },
+  {
+    "name": "Orion",
+    "weapon": "USP-S",
+    "rarity": "Classified Pistol",
+    "collection": "The Huntsman Collection",
+    "price": {
+      "price_string": "$50.95 - $330.93",
+      "price_stattrak_string": "$113.64 - $1999.99",
+      "currency": "USD",
+      "min": {
+        "value": 50.95,
+        "stattrak_value": 113.64,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 330.93,
+        "stattrak_value": 1999.99,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:53-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/USP-S_Orion.png"
+  },
+  {
+    "name": "Caiman",
+    "weapon": "USP-S",
+    "rarity": "Classified Pistol",
+    "collection": "The Huntsman Collection",
+    "price": {
+      "price_string": "$34.92 - $131.25",
+      "price_stattrak_string": "$55.11 - $230.05",
+      "currency": "USD",
+      "min": {
+        "value": 34.92,
+        "stattrak_value": 55.11,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 131.25,
+        "stattrak_value": 230.05,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:53-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/USP-S_Caiman.png"
+  },
+  {
+    "name": "Cyrex",
+    "weapon": "SCAR-20",
+    "rarity": "Classified Sniper Rifle",
+    "collection": "The Huntsman Collection",
+    "price": {
+      "price_string": "$26.40 - $84.48",
+      "price_stattrak_string": "$28.75 - $120.35",
+      "currency": "USD",
+      "min": {
+        "value": 26.4,
+        "stattrak_value": 28.75,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 84.48,
+        "stattrak_value": 120.35,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:53-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/SCAR-20_Cyrex.png"
+  },
+  {
+    "name": "Torque",
+    "weapon": "AUG",
+    "rarity": "Restricted Rifle",
+    "collection": "The Huntsman Collection",
+    "price": {
+      "price_string": "$6.15 - $248.77",
+      "price_stattrak_string": "$7.58 - $455.30",
+      "currency": "USD",
+      "min": {
+        "value": 6.15,
+        "stattrak_value": 7.58,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 248.77,
+        "stattrak_value": 455.3,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:53-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/AUG_Torque.png"
+  },
+  {
+    "name": "Heaven Guard",
+    "weapon": "XM1014",
+    "rarity": "Restricted Shotgun",
+    "collection": "The Huntsman Collection",
+    "price": {
+      "price_string": "$6.43 - $33.92",
+      "price_stattrak_string": "$6.94 - $33.32",
+      "currency": "USD",
+      "min": {
+        "value": 6.43,
+        "stattrak_value": 6.94,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 33.92,
+        "stattrak_value": 33.32,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:53-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/XM1014_Heaven_Guard.png"
+  },
+  {
+    "name": "Tatter",
+    "weapon": "MAC-10",
+    "rarity": "Restricted SMG",
+    "collection": "The Huntsman Collection",
+    "price": {
+      "price_string": "$5.99 - $19.70",
+      "price_stattrak_string": "$6.51 - $21.37",
+      "currency": "USD",
+      "min": {
+        "value": 5.99,
+        "stattrak_value": 6.51,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 19.7,
+        "stattrak_value": 21.37,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:53-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MAC-10_Tatter.png"
+  },
+  {
+    "name": "Curse",
+    "weapon": "MAC-10",
+    "rarity": "Restricted SMG",
+    "collection": "The Huntsman Collection",
+    "price": {
+      "price_string": "$7.51 - $22.90",
+      "price_stattrak_string": "$10.91 - $46.26",
+      "currency": "USD",
+      "min": {
+        "value": 7.51,
+        "stattrak_value": 10.91,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 22.9,
+        "stattrak_value": 46.26,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:53-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MAC-10_Curse.png"
+  },
+  {
+    "name": "Antique",
+    "weapon": "PP-Bizon",
+    "rarity": "Restricted SMG",
+    "collection": "The Huntsman Collection",
+    "price": {
+      "price_string": "$5.18 - $60.00",
+      "price_stattrak_string": "$7.38 - $45.00",
+      "currency": "USD",
+      "min": {
+        "value": 5.18,
+        "stattrak_value": 7.38,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 60,
+        "stattrak_value": 45,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:53-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/PP-Bizon_Antique.png"
+  },
+  {
+    "name": "Isaac",
+    "weapon": "Tec-9",
+    "rarity": "Mil-spec Pistol",
+    "collection": "The Huntsman Collection",
+    "price": {
+      "price_string": "$1.94 - $26.36",
+      "price_stattrak_string": "$2.75 - $107.32",
+      "currency": "USD",
+      "min": {
+        "value": 1.94,
+        "stattrak_value": 2.75,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 26.36,
+        "stattrak_value": 107.32,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:53-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Tec-9_Isaac.png"
+  },
+  {
+    "name": "Poison Dart",
+    "weapon": "CZ75-Auto",
+    "rarity": "Mil-spec Pistol",
+    "collection": "The Huntsman Collection",
+    "price": {
+      "price_string": "$2.88 - $35.70",
+      "price_stattrak_string": "$2.09 - $245.79",
+      "currency": "USD",
+      "min": {
+        "value": 2.88,
+        "stattrak_value": 2.09,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 35.7,
+        "stattrak_value": 245.79,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:53-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/CZ75-Auto_Poison_Dart.png"
+  },
+  {
+    "name": "Twist",
+    "weapon": "CZ75-Auto",
+    "rarity": "Mil-spec Pistol",
+    "collection": "The Huntsman Collection",
+    "price": {
+      "price_string": "$0.85 - $10.31",
+      "price_stattrak_string": "$1.17 - $6.91",
+      "currency": "USD",
+      "min": {
+        "value": 0.85,
+        "stattrak_value": 1.17,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 10.31,
+        "stattrak_value": 6.91,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:53-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/CZ75-Auto_Twist.png"
+  },
+  {
+    "name": "Retribution",
+    "weapon": "Dual Berettas",
+    "rarity": "Mil-spec Pistol",
+    "collection": "The Huntsman Collection",
+    "price": {
+      "price_string": "$4.89 - $18.00",
+      "price_stattrak_string": "$1.65 - $1835.32",
+      "currency": "USD",
+      "min": {
+        "value": 4.89,
+        "stattrak_value": 1.65,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 18,
+        "stattrak_value": 1835.32,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:53-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Dual_Berettas_Retribution.png"
+  },
+  {
+    "name": "Pulse",
+    "weapon": "P2000",
+    "rarity": "Mil-spec Pistol",
+    "collection": "The Huntsman Collection",
+    "price": {
+      "price_string": "$0.92 - $100.00",
+      "price_stattrak_string": "$1.23 - $4.60",
+      "currency": "USD",
+      "min": {
+        "value": 0.92,
+        "stattrak_value": 1.23,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 100,
+        "stattrak_value": 4.6,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:53-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/P2000_Pulse.png"
+  },
+  {
+    "name": "Kami",
+    "weapon": "Galil AR",
+    "rarity": "Mil-spec Rifle",
+    "collection": "The Huntsman Collection",
+    "price": {
+      "price_string": "$1.24 - $5.37",
+      "price_stattrak_string": "$1.51 - $12.33",
+      "currency": "USD",
+      "min": {
+        "value": 1.24,
+        "stattrak_value": 1.51,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 5.37,
+        "stattrak_value": 12.33,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:53-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Galil_AR_Kami.png"
+  },
+  {
+    "name": "Slashed",
+    "weapon": "SSG 08",
+    "rarity": "Mil-spec Sniper Rifle",
+    "collection": "The Huntsman Collection",
+    "price": {
+      "price_string": "$1.12 - $2.29",
+      "price_stattrak_string": "$1.53 - $4.87",
+      "currency": "USD",
+      "min": {
+        "value": 1.12,
+        "stattrak_value": 1.53,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 2.29,
+        "stattrak_value": 4.87,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:53-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/SSG_08_Slashed.png"
+  },
+  {
+    "name": "Module",
+    "weapon": "P90",
+    "rarity": "Mil-spec SMG",
+    "collection": "The Huntsman Collection",
+    "price": {
+      "price_string": "$1.36 - $2.80",
+      "price_stattrak_string": "$1.42 - $4.05",
+      "currency": "USD",
+      "min": {
+        "value": 1.36,
+        "stattrak_value": 1.42,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 2.8,
+        "stattrak_value": 4.05,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:53-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/P90_Module.png"
+  },
+  {
+    "name": "Desert Warfare",
+    "weapon": "P90",
+    "rarity": "Mil-spec SMG",
+    "collection": "The Huntsman Collection",
+    "price": {
+      "price_string": "$2.13 - $22.99",
+      "price_stattrak_string": "$1.59 - $34.20",
+      "currency": "USD",
+      "min": {
+        "value": 2.13,
+        "stattrak_value": 1.59,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 22.99,
+        "stattrak_value": 34.2,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:53-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/P90_Desert_Warfare.png"
+  },
+  {
+    "name": "Vanilla",
+    "weapon": "★ Huntsman Knife",
+    "rarity": "Extraordinary Knife",
+    "collection": "",
+    "price": {
+      "price_string": "",
+      "price_stattrak_string": "",
+      "currency": "",
+      "min": {
+        "value": 0,
+        "stattrak_value": 0,
+        "unit": ""
+      },
+      "max": {
+        "value": 0,
+        "stattrak_value": 0,
+        "unit": ""
+      },
+      "updated_at": "2025-12-10T03:52:53-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/knives/Huntsman_Knife.png"
+  },
+  {
+    "name": "Blue Steel",
+    "weapon": "★ Huntsman Knife",
+    "rarity": "Extraordinary Knife",
+    "collection": "",
+    "price": {
+      "price_string": "$113.68 - $245.80",
+      "price_stattrak_string": "$171.89 - $349.62",
+      "currency": "USD",
+      "min": {
+        "value": 113.68,
+        "stattrak_value": 171.89,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 245.8,
+        "stattrak_value": 349.62,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:53-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/knives/Huntsman_Knife_Blue_Steel.png"
+  },
+  {
+    "name": "Boreal Forest",
+    "weapon": "★ Huntsman Knife",
+    "rarity": "Extraordinary Knife",
+    "collection": "",
+    "price": {
+      "price_string": "$60.61 - $140.12",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 60.61,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 140.12,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:53-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/knives/Huntsman_Knife_Boreal_Forest.png"
+  },
+  {
+    "name": "Case Hardened",
+    "weapon": "★ Huntsman Knife",
+    "rarity": "Extraordinary Knife",
+    "collection": "",
+    "price": {
+      "price_string": "$143.89 - $625.00",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 143.89,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 625,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:53-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/knives/Huntsman_Knife_Case_Hardened.png"
+  },
+  {
+    "name": "Crimson Web",
+    "weapon": "★ Huntsman Knife",
+    "rarity": "Extraordinary Knife",
+    "collection": "",
+    "price": {
+      "price_string": "$110.99 - $1167.75",
+      "price_stattrak_string": "$283.21 - $502.13",
+      "currency": "USD",
+      "min": {
+        "value": 110.99,
+        "stattrak_value": 283.21,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1167.75,
+        "stattrak_value": 502.13,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:53-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/knives/Huntsman_Knife_Crimson_Web.png"
+  },
+  {
+    "name": "Fade",
+    "weapon": "★ Huntsman Knife",
+    "rarity": "Extraordinary Knife",
+    "collection": "",
+    "price": {
+      "price_string": "$261.21 - $436.38",
+      "price_stattrak_string": "$307.27 - $500.84",
+      "currency": "USD",
+      "min": {
+        "value": 261.21,
+        "stattrak_value": 307.27,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 436.38,
+        "stattrak_value": 500.84,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:53-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/knives/Huntsman_Knife_Fade.png"
+  },
+  {
+    "name": "Forest DDPAT",
+    "weapon": "★ Huntsman Knife",
+    "rarity": "Extraordinary Knife",
+    "collection": "",
+    "price": {
+      "price_string": "$59.78 - $181.75",
+      "price_stattrak_string": "$77.68 - $181.95",
+      "currency": "USD",
+      "min": {
+        "value": 59.78,
+        "stattrak_value": 77.68,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 181.75,
+        "stattrak_value": 181.95,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:53-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/knives/Huntsman_Knife_Forest_DDPAT.png"
+  },
+  {
+    "name": "Night",
+    "weapon": "★ Huntsman Knife",
+    "rarity": "Extraordinary Knife",
+    "collection": "",
+    "price": {
+      "price_string": "$76.48 - $490.63",
+      "price_stattrak_string": "$91.48 - $256.89",
+      "currency": "USD",
+      "min": {
+        "value": 76.48,
+        "stattrak_value": 91.48,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 490.63,
+        "stattrak_value": 256.89,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:53-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/knives/Huntsman_Knife_Night.png"
+  },
+  {
+    "name": "Safari Mesh",
+    "weapon": "★ Huntsman Knife",
+    "rarity": "Extraordinary Knife",
+    "collection": "",
+    "price": {
+      "price_string": "$61.36 - $331.70",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 61.36,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 331.7,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:53-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/knives/Huntsman_Knife_Safari_Mesh.png"
+  },
+  {
+    "name": "Scorched",
+    "weapon": "★ Huntsman Knife",
+    "rarity": "Extraordinary Knife",
+    "collection": "",
+    "price": {
+      "price_string": "$68.77 - $142.99",
+      "price_stattrak_string": "$83.54 - $376.56",
+      "currency": "USD",
+      "min": {
+        "value": 68.77,
+        "stattrak_value": 83.54,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 142.99,
+        "stattrak_value": 376.56,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:53-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/knives/Huntsman_Knife_Scorched.png"
+  },
+  {
+    "name": "Slaughter",
+    "weapon": "★ Huntsman Knife",
+    "rarity": "Extraordinary Knife",
+    "collection": "",
+    "price": {
+      "price_string": "$208.33 - $499.99",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 208.33,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 499.99,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:53-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/knives/Huntsman_Knife_Slaughter.png"
+  },
+  {
+    "name": "Stained",
+    "weapon": "★ Huntsman Knife",
+    "rarity": "Extraordinary Knife",
+    "collection": "",
+    "price": {
+      "price_string": "$86.51 - $779.20",
+      "price_stattrak_string": "$116.84 - $224.91",
+      "currency": "USD",
+      "min": {
+        "value": 86.51,
+        "stattrak_value": 116.84,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 779.2,
+        "stattrak_value": 224.91,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:53-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/knives/Huntsman_Knife_Stained.png"
+  },
+  {
+    "name": "Urban Masked",
+    "weapon": "★ Huntsman Knife",
+    "rarity": "Extraordinary Knife",
+    "collection": "",
+    "price": {
+      "price_string": "$65.40 - $198.48",
+      "price_stattrak_string": "$81.88 - $134.49",
+      "currency": "USD",
+      "min": {
+        "value": 65.4,
+        "stattrak_value": 81.88,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 198.48,
+        "stattrak_value": 134.49,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:53-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/knives/Huntsman_Knife_Urban_Masked.png"
+  }
+]

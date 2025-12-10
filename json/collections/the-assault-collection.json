@@ -1,0 +1,163 @@
+[
+  {
+    "name": "Fade",
+    "weapon": "Glock-18",
+    "rarity": "Restricted Pistol",
+    "collection": "The Assault Collection",
+    "price": {
+      "price_string": "$1488.21 - $3721.14",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 1488.21,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 3721.14,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:53-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Glock-18_Fade.png"
+  },
+  {
+    "name": "Bulldozer",
+    "weapon": "MP9",
+    "rarity": "Restricted SMG",
+    "collection": "The Assault Collection",
+    "price": {
+      "price_string": "$52.15 - $1004.26",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 52.15,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1004.26,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:53-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MP9_Bulldozer.png"
+  },
+  {
+    "name": "Hot Rod",
+    "weapon": "AUG",
+    "rarity": "Mil-spec Rifle",
+    "collection": "The Assault Collection",
+    "price": {
+      "price_string": "$478.33 - $639.55",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 478.33,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 639.55,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:53-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/AUG_Hot_Rod.png"
+  },
+  {
+    "name": "Anodized Navy",
+    "weapon": "Negev",
+    "rarity": "Mil-spec Machine Gun",
+    "collection": "The Assault Collection",
+    "price": {
+      "price_string": "$410.61 - $885.50",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 410.61,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 885.5,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:53-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Negev_Anodized_Navy.png"
+  },
+  {
+    "name": "Candy Apple",
+    "weapon": "Five-SeveN",
+    "rarity": "Industrial Pistol",
+    "collection": "The Assault Collection",
+    "price": {
+      "price_string": "$72.33 - $130.84",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 72.33,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 130.84,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:53-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Five-SeveN_Candy_Apple.png"
+  },
+  {
+    "name": "Caramel",
+    "weapon": "UMP-45",
+    "rarity": "Consumer SMG",
+    "collection": "The Assault Collection",
+    "price": {
+      "price_string": "$9.38 - $73.57",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 9.38,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 73.57,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:53-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/UMP-45_Caramel.png"
+  },
+  {
+    "name": "Tornado",
+    "weapon": "SG 553",
+    "rarity": "Consumer Rifle",
+    "collection": "The Assault Collection",
+    "price": {
+      "price_string": "$10.24 - $250.00",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 10.24,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 250,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:53-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/SG_553_Tornado.png"
+  }
+]

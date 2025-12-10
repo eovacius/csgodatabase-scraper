@@ -1,0 +1,623 @@
+[
+  {
+    "name": "Integrale",
+    "weapon": "SG 553",
+    "rarity": "Classified Rifle",
+    "collection": "The 2018 Inferno Collection",
+    "price": {
+      "price_string": "$3.10 - $113.36",
+      "price_stattrak_string": "$38.94 - $1471.22",
+      "currency": "USD",
+      "min": {
+        "value": 3.1,
+        "stattrak_value": 38.94,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 113.36,
+        "stattrak_value": 1471.22,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:20-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/SG_553_Integrale.png"
+  },
+  {
+    "name": "Twin Turbo",
+    "weapon": "Dual Berettas",
+    "rarity": "Classified Pistol",
+    "collection": "The 2018 Inferno Collection",
+    "price": {
+      "price_string": "$1.95 - $15.94",
+      "price_stattrak_string": "$21.20 - $1115.00",
+      "currency": "USD",
+      "min": {
+        "value": 1.95,
+        "stattrak_value": 21.2,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 15.94,
+        "stattrak_value": 1115,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:20-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Dual_Berettas_Twin_Turbo.png"
+  },
+  {
+    "name": "Safety Net",
+    "weapon": "AK-47",
+    "rarity": "Restricted Rifle",
+    "collection": "The 2018 Inferno Collection",
+    "price": {
+      "price_string": "$2.30 - $15.61",
+      "price_stattrak_string": "$16.42 - $400.00",
+      "currency": "USD",
+      "min": {
+        "value": 2.3,
+        "stattrak_value": 16.42,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 15.61,
+        "stattrak_value": 400,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:20-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/AK-47_Safety_Net.png"
+  },
+  {
+    "name": "Vino Primo",
+    "weapon": "P250",
+    "rarity": "Restricted Pistol",
+    "collection": "The 2018 Inferno Collection",
+    "price": {
+      "price_string": "$0.48 - $12.00",
+      "price_stattrak_string": "$7.47 - $103.70",
+      "currency": "USD",
+      "min": {
+        "value": 0.48,
+        "stattrak_value": 7.47,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 12,
+        "stattrak_value": 103.7,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:20-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/P250_Vino_Primo.png"
+  },
+  {
+    "name": "Fade",
+    "weapon": "MP7",
+    "rarity": "Restricted SMG",
+    "collection": "The 2018 Inferno Collection",
+    "price": {
+      "price_string": "$2.96 - $9.17",
+      "price_stattrak_string": "$22.77 - $106.46",
+      "currency": "USD",
+      "min": {
+        "value": 2.96,
+        "stattrak_value": 22.77,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 9.17,
+        "stattrak_value": 106.46,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:20-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MP7_Fade.png"
+  },
+  {
+    "name": "Check Engine",
+    "weapon": "USP-S",
+    "rarity": "Mil-spec Pistol",
+    "collection": "The 2018 Inferno Collection",
+    "price": {
+      "price_string": "$0.20 - $4.06",
+      "price_stattrak_string": "$3.37 - $50.00",
+      "currency": "USD",
+      "min": {
+        "value": 0.2,
+        "stattrak_value": 3.37,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 4.06,
+        "stattrak_value": 50,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:20-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/USP-S_Check_Engine.png"
+  },
+  {
+    "name": "Converter",
+    "weapon": "M4A4",
+    "rarity": "Mil-spec Rifle",
+    "collection": "The 2018 Inferno Collection",
+    "price": {
+      "price_string": "$0.20 - $1.86",
+      "price_stattrak_string": "$3.55 - $15.95",
+      "currency": "USD",
+      "min": {
+        "value": 0.2,
+        "stattrak_value": 3.55,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1.86,
+        "stattrak_value": 15.95,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:20-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/M4A4_Converter.png"
+  },
+  {
+    "name": "Hand Brake",
+    "weapon": "SSG 08",
+    "rarity": "Mil-spec Sniper Rifle",
+    "collection": "The 2018 Inferno Collection",
+    "price": {
+      "price_string": "$0.17 - $1.98",
+      "price_stattrak_string": "$1.21 - $120.53",
+      "currency": "USD",
+      "min": {
+        "value": 0.17,
+        "stattrak_value": 1.21,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1.98,
+        "stattrak_value": 120.53,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:20-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/SSG_08_Hand_Brake.png"
+  },
+  {
+    "name": "Brake Light",
+    "weapon": "Sawed-Off",
+    "rarity": "Mil-spec Shotgun",
+    "collection": "The 2018 Inferno Collection",
+    "price": {
+      "price_string": "$0.33 - $3.20",
+      "price_stattrak_string": "$0.58 - $6.73",
+      "currency": "USD",
+      "min": {
+        "value": 0.33,
+        "stattrak_value": 0.58,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 3.2,
+        "stattrak_value": 6.73,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:20-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Sawed-Off_Brake_Light.png"
+  },
+  {
+    "name": "High Beam",
+    "weapon": "Glock-18",
+    "rarity": "Industrial Pistol",
+    "collection": "The 2018 Inferno Collection",
+    "price": {
+      "price_string": "$0.09 - $0.49",
+      "price_stattrak_string": "$1.07 - $4.74",
+      "currency": "USD",
+      "min": {
+        "value": 0.09,
+        "stattrak_value": 1.07,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.49,
+        "stattrak_value": 4.74,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:20-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Glock-18_High_Beam.png"
+  },
+  {
+    "name": "Nitro",
+    "weapon": "R8 Revolver",
+    "rarity": "Industrial Pistol",
+    "collection": "The 2018 Inferno Collection",
+    "price": {
+      "price_string": "$0.02 - $1.01",
+      "price_stattrak_string": "$0.07 - $25.74",
+      "currency": "USD",
+      "min": {
+        "value": 0.02,
+        "stattrak_value": 0.07,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1.01,
+        "stattrak_value": 25.74,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:20-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/R8_Revolver_Nitro.png"
+  },
+  {
+    "name": "Calf Skin",
+    "weapon": "MAC-10",
+    "rarity": "Industrial SMG",
+    "collection": "The 2018 Inferno Collection",
+    "price": {
+      "price_string": "$0.03 - $0.54",
+      "price_stattrak_string": "$0.09 - $17.09",
+      "currency": "USD",
+      "min": {
+        "value": 0.03,
+        "stattrak_value": 0.09,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.54,
+        "stattrak_value": 17.09,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:20-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MAC-10_Calf_Skin.png"
+  },
+  {
+    "name": "Candy Apple",
+    "weapon": "PP-Bizon",
+    "rarity": "Industrial SMG",
+    "collection": "The 2018 Inferno Collection",
+    "price": {
+      "price_string": "$0.02 - $1.00",
+      "price_stattrak_string": "$0.37 - $2.39",
+      "currency": "USD",
+      "min": {
+        "value": 0.02,
+        "stattrak_value": 0.37,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1,
+        "stattrak_value": 2.39,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:20-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/PP-Bizon_Candy_Apple.png"
+  },
+  {
+    "name": "Dirt Drop",
+    "weapon": "MP5-SD",
+    "rarity": "Consumer SMG",
+    "collection": "The 2018 Inferno Collection",
+    "price": {
+      "price_string": "$0.01 - $4935.26",
+      "price_stattrak_string": "$0.01 - $9.99",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 0.01,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 4935.26,
+        "stattrak_value": 9.99,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:20-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MP5-SD_Dirt_Drop.png"
+  },
+  {
+    "name": "Slide",
+    "weapon": "MP9",
+    "rarity": "Consumer SMG",
+    "collection": "The 2018 Inferno Collection",
+    "price": {
+      "price_string": "$0.01 - $4.11",
+      "price_stattrak_string": "$0.01 - $4.50",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 0.01,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 4.11,
+        "stattrak_value": 4.5,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:20-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MP9_Slide.png"
+  },
+  {
+    "name": "Sweeper",
+    "weapon": "AUG",
+    "rarity": "Consumer Rifle",
+    "collection": "The 2018 Inferno Collection",
+    "price": {
+      "price_string": "$0.01 - $3.75",
+      "price_stattrak_string": "$0.02 - $0.89",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 0.02,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 3.75,
+        "stattrak_value": 0.89,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:20-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/AUG_Sweeper.png"
+  },
+  {
+    "name": "Mudder",
+    "weapon": "UMP-45",
+    "rarity": "Consumer SMG",
+    "collection": "The 2018 Inferno Collection",
+    "price": {
+      "price_string": "$0.01 - $3738.83",
+      "price_stattrak_string": "$0.01 - $99.99",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 0.01,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 3738.83,
+        "stattrak_value": 99.99,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:20-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/UMP-45_Mudder.png"
+  },
+  {
+    "name": "Rust Coat",
+    "weapon": "MAG-7",
+    "rarity": "Consumer Shotgun",
+    "collection": "The 2018 Inferno Collection",
+    "price": {
+      "price_string": "$0.01 - $4985.00",
+      "price_stattrak_string": "$0.01 - $0.49",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 0.01,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 4985,
+        "stattrak_value": 0.49,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:20-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MAG-7_Rust_Coat.png"
+  },
+  {
+    "name": "Shanghai 2024 Inferno Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced: 27 November 2024",
+    "price": {
+      "price_string": "",
+      "price_stattrak_string": "",
+      "currency": "",
+      "min": {
+        "value": 0,
+        "stattrak_value": 0,
+        "unit": ""
+      },
+      "max": {
+        "value": 0,
+        "stattrak_value": 0,
+        "unit": ""
+      },
+      "updated_at": "2025-12-10T03:52:20-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/Shanghai_2024_Inferno_Souvenir_Package.png"
+  },
+  {
+    "name": "Copenhagen 2024 Inferno Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced: 14 March 2024",
+    "price": {
+      "price_string": "$2.36",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 2.36,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 2.36,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:20-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/Copenhagen_2024_Inferno_Souvenir_Package.png"
+  },
+  {
+    "name": "Paris 2023 Inferno Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced: 05 May 2023",
+    "price": {
+      "price_string": "$1.83",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 1.83,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1.83,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:20-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/Paris_2023_Inferno_Souvenir_Package.png"
+  },
+  {
+    "name": "Rio 2022 Inferno Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced: 21 October 2022",
+    "price": {
+      "price_string": "$3.86",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 3.86,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 3.86,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:20-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/Rio_2022_Inferno_Souvenir_Package.png"
+  },
+  {
+    "name": "Antwerp 2022 Inferno Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced: 03 May 2022",
+    "price": {
+      "price_string": "$2.56",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 2.56,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 2.56,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:20-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/Antwerp_2022_Inferno_Souvenir_Package.png"
+  },
+  {
+    "name": "Stockholm 2021 Inferno Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced: 22 October 2021",
+    "price": {
+      "price_string": "$2.90",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 2.9,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 2.9,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:20-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/Stockholm_2021_Inferno_Souvenir_Package.png"
+  },
+  {
+    "name": "Berlin 2019 Inferno Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced:",
+    "price": {
+      "price_string": "$7.68",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 7.68,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 7.68,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:20-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/Berlin_2019_Inferno_Souvenir_Package.png"
+  },
+  {
+    "name": "Katowice 2019 Inferno Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced:",
+    "price": {
+      "price_string": "$12.83",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 12.83,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 12.83,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:20-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/Katowice_2019_Inferno_Souvenir_Package.png"
+  },
+  {
+    "name": "London 2018 Inferno Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced:",
+    "price": {
+      "price_string": "$12.56",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 12.56,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 12.56,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:20-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/London_2018_Inferno_Souvenir_Package.png"
+  }
+]

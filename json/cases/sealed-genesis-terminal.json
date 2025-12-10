@@ -1,0 +1,393 @@
+[
+  {
+    "name": "The Oligarch",
+    "weapon": "AK-47",
+    "rarity": "Covert Rifle",
+    "collection": "The Genesis Collection",
+    "price": {
+      "price_string": "$46.54 - $842.26",
+      "price_stattrak_string": "$112.26 - $4589.55",
+      "currency": "USD",
+      "min": {
+        "value": 46.54,
+        "stattrak_value": 112.26,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 842.26,
+        "stattrak_value": 4589.55,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:25-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/AK-47_The_Oligarch.png"
+  },
+  {
+    "name": "Full Throttle",
+    "weapon": "M4A4",
+    "rarity": "Covert Rifle",
+    "collection": "The Genesis Collection",
+    "price": {
+      "price_string": "$32.68 - $583.90",
+      "price_stattrak_string": "$60.39 - $329.64",
+      "currency": "USD",
+      "min": {
+        "value": 32.68,
+        "stattrak_value": 60.39,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 583.9,
+        "stattrak_value": 329.64,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:25-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/M4A4_Full_Throttle.png"
+  },
+  {
+    "name": "Mirror Mosaic",
+    "weapon": "Glock-18",
+    "rarity": "Classified Pistol",
+    "collection": "The Genesis Collection",
+    "price": {
+      "price_string": "$5.26 - $75.90",
+      "price_stattrak_string": "$11.20 - $175.16",
+      "currency": "USD",
+      "min": {
+        "value": 5.26,
+        "stattrak_value": 11.2,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 75.9,
+        "stattrak_value": 175.16,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:25-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Glock-18_Mirror_Mosaic.png"
+  },
+  {
+    "name": "Smoking Kills",
+    "weapon": "MP7",
+    "rarity": "Classified SMG",
+    "collection": "The Genesis Collection",
+    "price": {
+      "price_string": "$5.71 - $140.13",
+      "price_stattrak_string": "$11.59 - $138.26",
+      "currency": "USD",
+      "min": {
+        "value": 5.71,
+        "stattrak_value": 11.59,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 140.13,
+        "stattrak_value": 138.26,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:25-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MP7_Smoking_Kills.png"
+  },
+  {
+    "name": "Ice Coaled",
+    "weapon": "AWP",
+    "rarity": "Classified Sniper Rifle",
+    "collection": "The Genesis Collection",
+    "price": {
+      "price_string": "$7.55 - $84.49",
+      "price_stattrak_string": "$19.41 - $276.53",
+      "currency": "USD",
+      "min": {
+        "value": 7.55,
+        "stattrak_value": 19.41,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 84.49,
+        "stattrak_value": 276.53,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:25-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/AWP_Ice_Coaled.png"
+  },
+  {
+    "name": "Continuum",
+    "weapon": "UMP-45",
+    "rarity": "Restricted SMG",
+    "collection": "The Genesis Collection",
+    "price": {
+      "price_string": "$0.58 - $7.84",
+      "price_stattrak_string": "$1.13 - $28.01",
+      "currency": "USD",
+      "min": {
+        "value": 0.58,
+        "stattrak_value": 1.13,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 7.84,
+        "stattrak_value": 28.01,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:25-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/UMP-45_Continuum.png"
+  },
+  {
+    "name": "Cat Fight",
+    "weapon": "MAC-10",
+    "rarity": "Restricted SMG",
+    "collection": "The Genesis Collection",
+    "price": {
+      "price_string": "$0.59 - $8.38",
+      "price_stattrak_string": "$1.32 - $648.10",
+      "currency": "USD",
+      "min": {
+        "value": 0.59,
+        "stattrak_value": 1.32,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 8.38,
+        "stattrak_value": 648.1,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:25-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MAC-10_Cat_Fight.png"
+  },
+  {
+    "name": "Angel Eyes",
+    "weapon": "Dual Berettas",
+    "rarity": "Restricted Pistol",
+    "collection": "The Genesis Collection",
+    "price": {
+      "price_string": "$0.58 - $10.00",
+      "price_stattrak_string": "$1.18 - $70.06",
+      "currency": "USD",
+      "min": {
+        "value": 0.58,
+        "stattrak_value": 1.18,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 10,
+        "stattrak_value": 70.06,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:25-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Dual_Berettas_Angel_Eyes.png"
+  },
+  {
+    "name": "Liquidation",
+    "weapon": "M4A1-S",
+    "rarity": "Restricted Rifle",
+    "collection": "The Genesis Collection",
+    "price": {
+      "price_string": "$2.62 - $45.48",
+      "price_stattrak_string": "$6.93 - $186.84",
+      "currency": "USD",
+      "min": {
+        "value": 2.62,
+        "stattrak_value": 6.93,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 45.48,
+        "stattrak_value": 186.84,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:25-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/M4A1-S_Liquidation.png"
+  },
+  {
+    "name": "Ocular",
+    "weapon": "Nova",
+    "rarity": "Restricted Shotgun",
+    "collection": "The Genesis Collection",
+    "price": {
+      "price_string": "$0.58 - $13.93",
+      "price_stattrak_string": "$1.13 - $23.33",
+      "currency": "USD",
+      "min": {
+        "value": 0.58,
+        "stattrak_value": 1.13,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 13.93,
+        "stattrak_value": 23.33,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:25-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Nova_Ocular.png"
+  },
+  {
+    "name": "Focus",
+    "weapon": "MP5-SD",
+    "rarity": "Mil-spec SMG",
+    "collection": "The Genesis Collection",
+    "price": {
+      "price_string": "$0.08 - $1.99",
+      "price_stattrak_string": "$0.20 - $3.96",
+      "currency": "USD",
+      "min": {
+        "value": 0.08,
+        "stattrak_value": 0.2,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1.99,
+        "stattrak_value": 3.96,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:25-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MP5-SD_Focus.png"
+  },
+  {
+    "name": "MAGnitude",
+    "weapon": "MAG-7",
+    "rarity": "Mil-spec Shotgun",
+    "collection": "The Genesis Collection",
+    "price": {
+      "price_string": "$0.08 - $1.56",
+      "price_stattrak_string": "$0.19 - $0.51",
+      "currency": "USD",
+      "min": {
+        "value": 0.08,
+        "stattrak_value": 0.19,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1.56,
+        "stattrak_value": 0.51,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:25-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MAG-7_MAGnitude.png"
+  },
+  {
+    "name": "Bullfrog",
+    "weapon": "P250",
+    "rarity": "Mil-spec Pistol",
+    "collection": "The Genesis Collection",
+    "price": {
+      "price_string": "$0.08 - $1.59",
+      "price_stattrak_string": "$0.21 - $4.86",
+      "currency": "USD",
+      "min": {
+        "value": 0.08,
+        "stattrak_value": 0.21,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1.59,
+        "stattrak_value": 4.86,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:25-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/P250_Bullfrog.png"
+  },
+  {
+    "name": "Broken Record",
+    "weapon": "MP9",
+    "rarity": "Mil-spec SMG",
+    "collection": "The Genesis Collection",
+    "price": {
+      "price_string": "$0.08 - $83.03",
+      "price_stattrak_string": "$0.20 - $2.34",
+      "currency": "USD",
+      "min": {
+        "value": 0.08,
+        "stattrak_value": 0.2,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 83.03,
+        "stattrak_value": 2.34,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:25-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MP9_Broken_Record.png"
+  },
+  {
+    "name": "Red Wing",
+    "weapon": "P2000",
+    "rarity": "Mil-spec Pistol",
+    "collection": "The Genesis Collection",
+    "price": {
+      "price_string": "$0.09 - $5.00",
+      "price_stattrak_string": "$0.18 - $4.84",
+      "currency": "USD",
+      "min": {
+        "value": 0.09,
+        "stattrak_value": 0.18,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 5,
+        "stattrak_value": 4.84,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:25-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/P2000_Red_Wing.png"
+  },
+  {
+    "name": "Trigger Discipline",
+    "weapon": "AUG",
+    "rarity": "Mil-spec Rifle",
+    "collection": "The Genesis Collection",
+    "price": {
+      "price_string": "$0.09 - $25.00",
+      "price_stattrak_string": "$0.18 - $57.65",
+      "currency": "USD",
+      "min": {
+        "value": 0.09,
+        "stattrak_value": 0.18,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 25,
+        "stattrak_value": 57.65,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:25-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/AUG_Trigger_Discipline.png"
+  },
+  {
+    "name": "Caged",
+    "weapon": "SCAR-20",
+    "rarity": "Mil-spec Sniper Rifle",
+    "collection": "The Genesis Collection",
+    "price": {
+      "price_string": "$0.08 - $1.67",
+      "price_stattrak_string": "$0.19 - $9.34",
+      "currency": "USD",
+      "min": {
+        "value": 0.08,
+        "stattrak_value": 0.19,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1.67,
+        "stattrak_value": 9.34,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:25-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/SCAR-20_Caged.png"
+  }
+]

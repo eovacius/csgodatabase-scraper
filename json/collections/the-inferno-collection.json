@@ -1,0 +1,324 @@
+[
+  {
+    "name": "Brass",
+    "weapon": "Tec-9",
+    "rarity": "Mil-spec Pistol",
+    "collection": "The Inferno Collection",
+    "price": {
+      "price_string": "$1.68 - $100.02",
+      "price_stattrak_string": "$11.12 - $397.97",
+      "currency": "USD",
+      "min": {
+        "value": 1.68,
+        "stattrak_value": 11.12,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 100.02,
+        "stattrak_value": 397.97,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:59-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Tec-9_Brass.png"
+  },
+  {
+    "name": "Anodized Navy",
+    "weapon": "Dual Berettas",
+    "rarity": "Mil-spec Pistol",
+    "collection": "The Inferno Collection",
+    "price": {
+      "price_string": "$2.11 - $16.80",
+      "price_stattrak_string": "$9.57 - $92.25",
+      "currency": "USD",
+      "min": {
+        "value": 2.11,
+        "stattrak_value": 9.57,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 16.8,
+        "stattrak_value": 92.25,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:59-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Dual_Berettas_Anodized_Navy.png"
+  },
+  {
+    "name": "Tornado",
+    "weapon": "M4A4",
+    "rarity": "Industrial Rifle",
+    "collection": "The Inferno Collection",
+    "price": {
+      "price_string": "$3.10 - $431.20",
+      "price_stattrak_string": "$7.27 - $444.19",
+      "currency": "USD",
+      "min": {
+        "value": 3.1,
+        "stattrak_value": 7.27,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 431.2,
+        "stattrak_value": 444.19,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:59-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/M4A4_Tornado.png"
+  },
+  {
+    "name": "Gunsmoke",
+    "weapon": "P250",
+    "rarity": "Industrial Pistol",
+    "collection": "The Inferno Collection",
+    "price": {
+      "price_string": "$1.44 - $57.09",
+      "price_stattrak_string": "$1.82 - $589.00",
+      "currency": "USD",
+      "min": {
+        "value": 1.44,
+        "stattrak_value": 1.82,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 57.09,
+        "stattrak_value": 589,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:59-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/P250_Gunsmoke.png"
+  },
+  {
+    "name": "Walnut",
+    "weapon": "Nova",
+    "rarity": "Consumer Shotgun",
+    "collection": "The Inferno Collection",
+    "price": {
+      "price_string": "$1.34 - $39.81",
+      "price_stattrak_string": "$0.49 - $192188.36",
+      "currency": "USD",
+      "min": {
+        "value": 1.34,
+        "stattrak_value": 0.49,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 39.81,
+        "stattrak_value": 192188.36,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:59-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Nova_Walnut.png"
+  },
+  {
+    "name": "Sand Dune",
+    "weapon": "MAG-7",
+    "rarity": "Consumer Shotgun",
+    "collection": "The Inferno Collection",
+    "price": {
+      "price_string": "$1.15 - $116.76",
+      "price_stattrak_string": "$0.32 - $44.61",
+      "currency": "USD",
+      "min": {
+        "value": 1.15,
+        "stattrak_value": 0.32,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 116.76,
+        "stattrak_value": 44.61,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:59-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MAG-7_Sand_Dune.png"
+  },
+  {
+    "name": "Boston 2018 Inferno Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced:",
+    "price": {
+      "price_string": "",
+      "price_stattrak_string": "",
+      "currency": "",
+      "min": {
+        "value": 0,
+        "stattrak_value": 0,
+        "unit": ""
+      },
+      "max": {
+        "value": 0,
+        "stattrak_value": 0,
+        "unit": ""
+      },
+      "updated_at": "2025-12-10T03:52:59-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/Boston_2018_Inferno_Souvenir_Package.png"
+  },
+  {
+    "name": "Krakow 2017 Inferno Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced:",
+    "price": {
+      "price_string": "$23.84",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 23.84,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 23.84,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:59-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/Krakow_2017_Inferno_Souvenir_Package.png"
+  },
+  {
+    "name": "MLG Columbus 2016 Inferno Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced: 28 March 2016",
+    "price": {
+      "price_string": "$46.71",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 46.71,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 46.71,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:59-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/MLG_Columbus_2016_Inferno_Souvenir_Package.png"
+  },
+  {
+    "name": "DreamHack Cluj-Napoca 2015 Inferno Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced:",
+    "price": {
+      "price_string": "",
+      "price_stattrak_string": "",
+      "currency": "",
+      "min": {
+        "value": 0,
+        "stattrak_value": 0,
+        "unit": ""
+      },
+      "max": {
+        "value": 0,
+        "stattrak_value": 0,
+        "unit": ""
+      },
+      "updated_at": "2025-12-10T03:52:59-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/DreamHack_Cluj-Napoca_2015_Inferno_Souvenir_Package.png"
+  },
+  {
+    "name": "ESL One Cologne 2015 Inferno Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced:",
+    "price": {
+      "price_string": "",
+      "price_stattrak_string": "",
+      "currency": "",
+      "min": {
+        "value": 0,
+        "stattrak_value": 0,
+        "unit": ""
+      },
+      "max": {
+        "value": 0,
+        "stattrak_value": 0,
+        "unit": ""
+      },
+      "updated_at": "2025-12-10T03:52:59-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/ESL_One_Cologne_2015_Inferno_Souvenir_Package.png"
+  },
+  {
+    "name": "ESL One Katowice 2015 Inferno Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced:",
+    "price": {
+      "price_string": "",
+      "price_stattrak_string": "",
+      "currency": "",
+      "min": {
+        "value": 0,
+        "stattrak_value": 0,
+        "unit": ""
+      },
+      "max": {
+        "value": 0,
+        "stattrak_value": 0,
+        "unit": ""
+      },
+      "updated_at": "2025-12-10T03:52:59-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/ESL_One_Katowice_2015_Inferno_Souvenir_Package.png"
+  },
+  {
+    "name": "DreamHack 2014 Inferno Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced:",
+    "price": {
+      "price_string": "$166.72",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 166.72,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 166.72,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:59-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/DreamHack_2014_Inferno_Souvenir_Package.png"
+  },
+  {
+    "name": "ESL One Cologne 2014 Inferno Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced:",
+    "price": {
+      "price_string": "$71.07",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 71.07,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 71.07,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:59-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/ESL_One_Cologne_2014_Inferno_Souvenir_Package.png"
+  }
+]

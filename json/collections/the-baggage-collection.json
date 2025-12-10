@@ -1,0 +1,347 @@
+[
+  {
+    "name": "Jet Set",
+    "weapon": "AK-47",
+    "rarity": "Classified Rifle",
+    "collection": "The Baggage Collection",
+    "price": {
+      "price_string": "$272.01 - $843.60",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 272.01,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 843.6,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:56-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/AK-47_Jet_Set.png"
+  },
+  {
+    "name": "Pilot",
+    "weapon": "Desert Eagle",
+    "rarity": "Restricted Pistol",
+    "collection": "The Baggage Collection",
+    "price": {
+      "price_string": "$67.47 - $291.94",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 67.47,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 291.94,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:56-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Desert_Eagle_Pilot.png"
+  },
+  {
+    "name": "First Class",
+    "weapon": "AK-47",
+    "rarity": "Restricted Rifle",
+    "collection": "The Baggage Collection",
+    "price": {
+      "price_string": "$81.21 - $325.80",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 81.21,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 325.8,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:56-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/AK-47_First_Class.png"
+  },
+  {
+    "name": "Business Class",
+    "weapon": "USP-S",
+    "rarity": "Mil-spec Pistol",
+    "collection": "The Baggage Collection",
+    "price": {
+      "price_string": "$23.30 - $145.91",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 23.3,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 145.91,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:56-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/USP-S_Business_Class.png"
+  },
+  {
+    "name": "First Class",
+    "weapon": "Sawed-Off",
+    "rarity": "Mil-spec Shotgun",
+    "collection": "The Baggage Collection",
+    "price": {
+      "price_string": "",
+      "price_stattrak_string": "",
+      "currency": "",
+      "min": {
+        "value": 0,
+        "stattrak_value": 0,
+        "unit": ""
+      },
+      "max": {
+        "value": 0,
+        "stattrak_value": 0,
+        "unit": ""
+      },
+      "updated_at": "2025-12-10T03:52:56-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Sawed-Off_First_Class.png"
+  },
+  {
+    "name": "Red Leather",
+    "weapon": "XM1014",
+    "rarity": "Mil-spec Shotgun",
+    "collection": "The Baggage Collection",
+    "price": {
+      "price_string": "$44.92 - $99.48",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 44.92,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 99.48,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:56-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/XM1014_Red_Leather.png"
+  },
+  {
+    "name": "Coach Class",
+    "weapon": "P2000",
+    "rarity": "Industrial Pistol",
+    "collection": "The Baggage Collection",
+    "price": {
+      "price_string": "$6.97 - $66.00",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 6.97,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 66,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:56-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/P2000_Coach_Class.png"
+  },
+  {
+    "name": "Traveler",
+    "weapon": "SG 553",
+    "rarity": "Industrial Rifle",
+    "collection": "The Baggage Collection",
+    "price": {
+      "price_string": "$6.11 - $42.30",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 6.11,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 42.3,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:56-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/SG_553_Traveler.png"
+  },
+  {
+    "name": "Commuter",
+    "weapon": "MAC-10",
+    "rarity": "Industrial SMG",
+    "collection": "The Baggage Collection",
+    "price": {
+      "price_string": "$8.16 - $23.34",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 8.16,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 23.34,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:56-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MAC-10_Commuter.png"
+  },
+  {
+    "name": "Leather",
+    "weapon": "P90",
+    "rarity": "Industrial SMG",
+    "collection": "The Baggage Collection",
+    "price": {
+      "price_string": "$6.62 - $30.00",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 6.62,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 30,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:56-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/P90_Leather.png"
+  },
+  {
+    "name": "Green Plaid",
+    "weapon": "CZ75-Auto",
+    "rarity": "Consumer Pistol",
+    "collection": "The Baggage Collection",
+    "price": {
+      "price_string": "$2.41 - $100.00",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 2.41,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 100,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:56-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/CZ75-Auto_Green_Plaid.png"
+  },
+  {
+    "name": "Contractor",
+    "weapon": "G3SG1",
+    "rarity": "Consumer Sniper Rifle",
+    "collection": "The Baggage Collection",
+    "price": {
+      "price_string": "$1.98 - $105.09",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 1.98,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 105.09,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:56-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/G3SG1_Contractor.png"
+  },
+  {
+    "name": "Sand Dune",
+    "weapon": "SSG 08",
+    "rarity": "Consumer Sniper Rifle",
+    "collection": "The Baggage Collection",
+    "price": {
+      "price_string": "$2.81 - $108.99",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 2.81,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 108.99,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:56-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/SSG_08_Sand_Dune.png"
+  },
+  {
+    "name": "Olive Plaid",
+    "weapon": "MP7",
+    "rarity": "Consumer SMG",
+    "collection": "The Baggage Collection",
+    "price": {
+      "price_string": "$2.76 - $45.00",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 2.76,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 45,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:56-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MP7_Olive_Plaid.png"
+  },
+  {
+    "name": "Green Plaid",
+    "weapon": "MP9",
+    "rarity": "Consumer SMG",
+    "collection": "The Baggage Collection",
+    "price": {
+      "price_string": "$2.59 - $16.45",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 2.59,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 16.45,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:56-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MP9_Green_Plaid.png"
+  }
+]

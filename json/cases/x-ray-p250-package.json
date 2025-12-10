@@ -1,0 +1,25 @@
+[
+  {
+    "name": "X-Ray",
+    "weapon": "P250",
+    "rarity": "Restricted Pistol",
+    "collection": "The X-Ray Collection",
+    "price": {
+      "price_string": "$0.37 - $1.16",
+      "price_stattrak_string": "$1.55 - $5.37",
+      "currency": "USD",
+      "min": {
+        "value": 0.37,
+        "stattrak_value": 1.55,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1.16,
+        "stattrak_value": 5.37,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:11-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/P250_X-Ray.png"
+  }
+]

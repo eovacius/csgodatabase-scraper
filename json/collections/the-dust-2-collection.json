@@ -1,0 +1,623 @@
+[
+  {
+    "name": "Amber Fade",
+    "weapon": "R8 Revolver",
+    "rarity": "Classified Pistol",
+    "collection": "The Dust 2 Collection",
+    "price": {
+      "price_string": "$1.16 - $82.92",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 1.16,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 82.92,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:25-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/R8_Revolver_Amber_Fade.png"
+  },
+  {
+    "name": "Amber Fade",
+    "weapon": "P2000",
+    "rarity": "Restricted Pistol",
+    "collection": "The Dust 2 Collection",
+    "price": {
+      "price_string": "$0.51 - $5.96",
+      "price_stattrak_string": "$16.31 - $179.23",
+      "currency": "USD",
+      "min": {
+        "value": 0.51,
+        "stattrak_value": 16.31,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 5.96,
+        "stattrak_value": 179.23,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:25-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/P2000_Amber_Fade.png"
+  },
+  {
+    "name": "VariCamo",
+    "weapon": "M4A1-S",
+    "rarity": "Mil-spec Rifle",
+    "collection": "The Dust 2 Collection",
+    "price": {
+      "price_string": "$0.15 - $2.67",
+      "price_stattrak_string": "$16.29 - $343.66",
+      "currency": "USD",
+      "min": {
+        "value": 0.15,
+        "stattrak_value": 16.29,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 2.67,
+        "stattrak_value": 343.66,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:25-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/M4A1-S_VariCamo.png"
+  },
+  {
+    "name": "Damascus Steel",
+    "weapon": "SG 553",
+    "rarity": "Mil-spec Rifle",
+    "collection": "The Dust 2 Collection",
+    "price": {
+      "price_string": "$0.09 - $4.19",
+      "price_stattrak_string": "$4.21 - $249.99",
+      "currency": "USD",
+      "min": {
+        "value": 0.09,
+        "stattrak_value": 4.21,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 4.19,
+        "stattrak_value": 249.99,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:25-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/SG_553_Damascus_Steel.png"
+  },
+  {
+    "name": "Brass",
+    "weapon": "PP-Bizon",
+    "rarity": "Mil-spec SMG",
+    "collection": "The Dust 2 Collection",
+    "price": {
+      "price_string": "$0.08 - $3.63",
+      "price_stattrak_string": "$5.34 - $582.71",
+      "currency": "USD",
+      "min": {
+        "value": 0.08,
+        "stattrak_value": 5.34,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 3.63,
+        "stattrak_value": 582.71,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:25-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/PP-Bizon_Brass.png"
+  },
+  {
+    "name": "Snake Camo",
+    "weapon": "Sawed-Off",
+    "rarity": "Industrial Shotgun",
+    "collection": "The Dust 2 Collection",
+    "price": {
+      "price_string": "$0.02 - $1.00",
+      "price_stattrak_string": "$0.73 - $102.41",
+      "currency": "USD",
+      "min": {
+        "value": 0.02,
+        "stattrak_value": 0.73,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1,
+        "stattrak_value": 102.41,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:25-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Sawed-Off_Snake_Camo.png"
+  },
+  {
+    "name": "Orange Peel",
+    "weapon": "Five-SeveN",
+    "rarity": "Industrial Pistol",
+    "collection": "The Dust 2 Collection",
+    "price": {
+      "price_string": "$0.02 - $1.47",
+      "price_stattrak_string": "$1.56 - $12.00",
+      "currency": "USD",
+      "min": {
+        "value": 0.02,
+        "stattrak_value": 1.56,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1.47,
+        "stattrak_value": 12,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:25-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Five-SeveN_Orange_Peel.png"
+  },
+  {
+    "name": "VariCamo",
+    "weapon": "Tec-9",
+    "rarity": "Industrial Pistol",
+    "collection": "The Dust 2 Collection",
+    "price": {
+      "price_string": "$0.02 - $30.01",
+      "price_stattrak_string": "$1.30 - $16.06",
+      "currency": "USD",
+      "min": {
+        "value": 0.02,
+        "stattrak_value": 1.3,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 30.01,
+        "stattrak_value": 16.06,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:25-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Tec-9_VariCamo.png"
+  },
+  {
+    "name": "Safari Mesh",
+    "weapon": "AK-47",
+    "rarity": "Industrial Rifle",
+    "collection": "The Dust 2 Collection",
+    "price": {
+      "price_string": "$0.06 - $34.60",
+      "price_stattrak_string": "$10.44 - $2871.00",
+      "currency": "USD",
+      "min": {
+        "value": 0.06,
+        "stattrak_value": 10.44,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 34.6,
+        "stattrak_value": 2871,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:25-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/AK-47_Safari_Mesh.png"
+  },
+  {
+    "name": "Palm",
+    "weapon": "MAC-10",
+    "rarity": "Industrial SMG",
+    "collection": "The Dust 2 Collection",
+    "price": {
+      "price_string": "$0.02 - $2.00",
+      "price_stattrak_string": "$1.17 - $500.00",
+      "currency": "USD",
+      "min": {
+        "value": 0.02,
+        "stattrak_value": 1.17,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 2,
+        "stattrak_value": 500,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:25-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MAC-10_Palm.png"
+  },
+  {
+    "name": "Sand Dune",
+    "weapon": "P250",
+    "rarity": "Consumer Pistol",
+    "collection": "The Dust 2 Collection",
+    "price": {
+      "price_string": "$0.01 - $5.85",
+      "price_stattrak_string": "$0.59 - $589.00",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 0.59,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 5.85,
+        "stattrak_value": 589,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:25-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/P250_Sand_Dune.png"
+  },
+  {
+    "name": "Sand Mesh",
+    "weapon": "SCAR-20",
+    "rarity": "Consumer Sniper Rifle",
+    "collection": "The Dust 2 Collection",
+    "price": {
+      "price_string": "$0.01 - $1.00",
+      "price_stattrak_string": "$0.15 - $200.00",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 0.15,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1,
+        "stattrak_value": 200,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:25-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/SCAR-20_Sand_Mesh.png"
+  },
+  {
+    "name": "Predator",
+    "weapon": "Nova",
+    "rarity": "Consumer Shotgun",
+    "collection": "The Dust 2 Collection",
+    "price": {
+      "price_string": "$0.01 - $0.99",
+      "price_stattrak_string": "$0.14 - $45.00",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 0.14,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.99,
+        "stattrak_value": 45,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:25-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Nova_Predator.png"
+  },
+  {
+    "name": "Desert Storm",
+    "weapon": "G3SG1",
+    "rarity": "Consumer Sniper Rifle",
+    "collection": "The Dust 2 Collection",
+    "price": {
+      "price_string": "$0.01 - $0.47",
+      "price_stattrak_string": "$0.12 - $199.02",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 0.12,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.47,
+        "stattrak_value": 199.02,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:25-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/G3SG1_Desert_Storm.png"
+  },
+  {
+    "name": "Sand Dashed",
+    "weapon": "MP9",
+    "rarity": "Consumer SMG",
+    "collection": "The Dust 2 Collection",
+    "price": {
+      "price_string": "$0.01 - $1.19",
+      "price_stattrak_string": "$0.18 - $154.28",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 0.18,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1.19,
+        "stattrak_value": 154.28,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:25-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MP9_Sand_Dashed.png"
+  },
+  {
+    "name": "Sand Spray",
+    "weapon": "P90",
+    "rarity": "Consumer SMG",
+    "collection": "The Dust 2 Collection",
+    "price": {
+      "price_string": "$0.01 - $4935.26",
+      "price_stattrak_string": "$0.16 - $101.08",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 0.16,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 4935.26,
+        "stattrak_value": 101.08,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:25-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/P90_Sand_Spray.png"
+  },
+  {
+    "name": "Berlin 2019 Dust II Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced:",
+    "price": {
+      "price_string": "$13.13",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 13.13,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 13.13,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:25-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/Berlin_2019_Dust_II_Souvenir_Package.png"
+  },
+  {
+    "name": "Katowice 2019 Dust II Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced:",
+    "price": {
+      "price_string": "$27.13",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 27.13,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 27.13,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:25-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/Katowice_2019_Dust_II_Souvenir_Package.png"
+  },
+  {
+    "name": "London 2018 Dust II Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced:",
+    "price": {
+      "price_string": "$18.17",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 18.17,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 18.17,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:25-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/London_2018_Dust_II_Souvenir_Package.png"
+  },
+  {
+    "name": "Atlanta 2017 Dust II Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced:",
+    "price": {
+      "price_string": "$25.94",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 25.94,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 25.94,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:25-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/Atlanta_2017_Dust_II_Souvenir_Package.png"
+  },
+  {
+    "name": "Cologne 2016 Dust II Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced:",
+    "price": {
+      "price_string": "",
+      "price_stattrak_string": "",
+      "currency": "",
+      "min": {
+        "value": 0,
+        "stattrak_value": 0,
+        "unit": ""
+      },
+      "max": {
+        "value": 0,
+        "stattrak_value": 0,
+        "unit": ""
+      },
+      "updated_at": "2025-12-10T03:52:25-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/Cologne_2016_Dust_II_Souvenir_Package.png"
+  },
+  {
+    "name": "MLG Columbus 2016 Dust II Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced: 28 March 2016",
+    "price": {
+      "price_string": "",
+      "price_stattrak_string": "",
+      "currency": "",
+      "min": {
+        "value": 0,
+        "stattrak_value": 0,
+        "unit": ""
+      },
+      "max": {
+        "value": 0,
+        "stattrak_value": 0,
+        "unit": ""
+      },
+      "updated_at": "2025-12-10T03:52:25-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/MLG_Columbus_2016_Dust_II_Souvenir_Package.png"
+  },
+  {
+    "name": "DreamHack Cluj-Napoca 2015 Dust II Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced:",
+    "price": {
+      "price_string": "$42.57",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 42.57,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 42.57,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:25-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/DreamHack_Cluj-Napoca_2015_Dust_II_Souvenir_Package.png"
+  },
+  {
+    "name": "ESL One Cologne 2015 Dust II Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced:",
+    "price": {
+      "price_string": "$29.59",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 29.59,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 29.59,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:25-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/ESL_One_Cologne_2015_Dust_II_Souvenir_Package.png"
+  },
+  {
+    "name": "ESL One Katowice 2015 Dust II Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced:",
+    "price": {
+      "price_string": "",
+      "price_stattrak_string": "",
+      "currency": "",
+      "min": {
+        "value": 0,
+        "stattrak_value": 0,
+        "unit": ""
+      },
+      "max": {
+        "value": 0,
+        "stattrak_value": 0,
+        "unit": ""
+      },
+      "updated_at": "2025-12-10T03:52:25-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/ESL_One_Katowice_2015_Dust_II_Souvenir_Package.png"
+  },
+  {
+    "name": "DreamHack 2014 Dust II Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced:",
+    "price": {
+      "price_string": "",
+      "price_stattrak_string": "",
+      "currency": "",
+      "min": {
+        "value": 0,
+        "stattrak_value": 0,
+        "unit": ""
+      },
+      "max": {
+        "value": 0,
+        "stattrak_value": 0,
+        "unit": ""
+      },
+      "updated_at": "2025-12-10T03:52:25-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/DreamHack_2014_Dust_II_Souvenir_Package.png"
+  },
+  {
+    "name": "ESL One Cologne 2014 Dust II Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced:",
+    "price": {
+      "price_string": "$108.36",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 108.36,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 108.36,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:25-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/ESL_One_Cologne_2014_Dust_II_Souvenir_Package.png"
+  }
+]

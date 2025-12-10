@@ -1,0 +1,393 @@
+[
+  {
+    "name": "The Emperor",
+    "weapon": "M4A4",
+    "rarity": "Covert Rifle",
+    "collection": "The Prisma Collection",
+    "price": {
+      "price_string": "$47.64 - $594.19",
+      "price_stattrak_string": "$57.46 - $628.51",
+      "currency": "USD",
+      "min": {
+        "value": 47.64,
+        "stattrak_value": 57.46,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 594.19,
+        "stattrak_value": 628.51,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:31-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/M4A4_The_Emperor.png"
+  },
+  {
+    "name": "Angry Mob",
+    "weapon": "Five-SeveN",
+    "rarity": "Covert Pistol",
+    "collection": "The Prisma Collection",
+    "price": {
+      "price_string": "$48.97 - $110.74",
+      "price_stattrak_string": "$48.86 - $214.15",
+      "currency": "USD",
+      "min": {
+        "value": 48.97,
+        "stattrak_value": 48.86,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 110.74,
+        "stattrak_value": 214.15,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:31-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Five-SeveN_Angry_Mob.png"
+  },
+  {
+    "name": "Incinegator",
+    "weapon": "XM1014",
+    "rarity": "Classified Shotgun",
+    "collection": "The Prisma Collection",
+    "price": {
+      "price_string": "$4.81 - $80.66",
+      "price_stattrak_string": "$3.07 - $392.52",
+      "currency": "USD",
+      "min": {
+        "value": 4.81,
+        "stattrak_value": 3.07,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 80.66,
+        "stattrak_value": 392.52,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:31-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/XM1014_Incinegator.png"
+  },
+  {
+    "name": "Momentum",
+    "weapon": "AUG",
+    "rarity": "Classified Rifle",
+    "collection": "The Prisma Collection",
+    "price": {
+      "price_string": "$4.99 - $132.00",
+      "price_stattrak_string": "$5.02 - $92.60",
+      "currency": "USD",
+      "min": {
+        "value": 4.99,
+        "stattrak_value": 5.02,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 132,
+        "stattrak_value": 92.6,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:31-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/AUG_Momentum.png"
+  },
+  {
+    "name": "Skull Crusher",
+    "weapon": "R8 Revolver",
+    "rarity": "Classified Pistol",
+    "collection": "The Prisma Collection",
+    "price": {
+      "price_string": "$4.69 - $12.39",
+      "price_stattrak_string": "$4.36 - $25.00",
+      "currency": "USD",
+      "min": {
+        "value": 4.69,
+        "stattrak_value": 4.36,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 12.39,
+        "stattrak_value": 25,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:31-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/R8_Revolver_Skull_Crusher.png"
+  },
+  {
+    "name": "Moonrise",
+    "weapon": "UMP-45",
+    "rarity": "Restricted SMG",
+    "collection": "The Prisma Collection",
+    "price": {
+      "price_string": "$0.51 - $3.27",
+      "price_stattrak_string": "$0.89 - $8.00",
+      "currency": "USD",
+      "min": {
+        "value": 0.51,
+        "stattrak_value": 0.89,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 3.27,
+        "stattrak_value": 8,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:31-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/UMP-45_Moonrise.png"
+  },
+  {
+    "name": "Gauss",
+    "weapon": "MP5-SD",
+    "rarity": "Restricted SMG",
+    "collection": "The Prisma Collection",
+    "price": {
+      "price_string": "$0.50 - $8.75",
+      "price_stattrak_string": "$0.51 - $100.00",
+      "currency": "USD",
+      "min": {
+        "value": 0.5,
+        "stattrak_value": 0.51,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 8.75,
+        "stattrak_value": 100,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:31-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MP5-SD_Gauss.png"
+  },
+  {
+    "name": "Light Rail",
+    "weapon": "Desert Eagle",
+    "rarity": "Restricted Pistol",
+    "collection": "The Prisma Collection",
+    "price": {
+      "price_string": "$0.76 - $9.53",
+      "price_stattrak_string": "$2.39 - $25.90",
+      "currency": "USD",
+      "min": {
+        "value": 0.76,
+        "stattrak_value": 2.39,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 9.53,
+        "stattrak_value": 25.9,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:31-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Desert_Eagle_Light_Rail.png"
+  },
+  {
+    "name": "Bamboozle",
+    "weapon": "Tec-9",
+    "rarity": "Restricted Pistol",
+    "collection": "The Prisma Collection",
+    "price": {
+      "price_string": "$0.59 - $5.71",
+      "price_stattrak_string": "$0.79 - $8.89",
+      "currency": "USD",
+      "min": {
+        "value": 0.59,
+        "stattrak_value": 0.79,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 5.71,
+        "stattrak_value": 8.89,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:31-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Tec-9_Bamboozle.png"
+  },
+  {
+    "name": "Atheris",
+    "weapon": "AWP",
+    "rarity": "Restricted Sniper Rifle",
+    "collection": "The Prisma Collection",
+    "price": {
+      "price_string": "$3.05 - $24.32",
+      "price_stattrak_string": "$7.29 - $57.78",
+      "currency": "USD",
+      "min": {
+        "value": 3.05,
+        "stattrak_value": 7.29,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 24.32,
+        "stattrak_value": 57.78,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:31-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/AWP_Atheris.png"
+  },
+  {
+    "name": "Off World",
+    "weapon": "P90",
+    "rarity": "Mil-spec SMG",
+    "collection": "The Prisma Collection",
+    "price": {
+      "price_string": "$0.18 - $1.04",
+      "price_stattrak_string": "$0.21 - $2.91",
+      "currency": "USD",
+      "min": {
+        "value": 0.18,
+        "stattrak_value": 0.21,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1.04,
+        "stattrak_value": 2.91,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:31-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/P90_Off_World.png"
+  },
+  {
+    "name": "Verdigris",
+    "weapon": "P250",
+    "rarity": "Mil-spec Pistol",
+    "collection": "The Prisma Collection",
+    "price": {
+      "price_string": "$0.22 - $1.01",
+      "price_stattrak_string": "$0.28 - $3.02",
+      "currency": "USD",
+      "min": {
+        "value": 0.22,
+        "stattrak_value": 0.28,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1.01,
+        "stattrak_value": 3.02,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:31-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/P250_Verdigris.png"
+  },
+  {
+    "name": "Mischief",
+    "weapon": "MP7",
+    "rarity": "Mil-spec SMG",
+    "collection": "The Prisma Collection",
+    "price": {
+      "price_string": "$0.18 - $1.96",
+      "price_stattrak_string": "$0.25 - $6.38",
+      "currency": "USD",
+      "min": {
+        "value": 0.18,
+        "stattrak_value": 0.25,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1.96,
+        "stattrak_value": 6.38,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:31-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MP7_Mischief.png"
+  },
+  {
+    "name": "Akoben",
+    "weapon": "Galil AR",
+    "rarity": "Mil-spec Rifle",
+    "collection": "The Prisma Collection",
+    "price": {
+      "price_string": "$0.18 - $1.22",
+      "price_stattrak_string": "$0.26 - $4.45",
+      "currency": "USD",
+      "min": {
+        "value": 0.18,
+        "stattrak_value": 0.26,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1.22,
+        "stattrak_value": 4.45,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:31-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Galil_AR_Akoben.png"
+  },
+  {
+    "name": "Whitefish",
+    "weapon": "MAC-10",
+    "rarity": "Mil-spec SMG",
+    "collection": "The Prisma Collection",
+    "price": {
+      "price_string": "$0.20 - $1.92",
+      "price_stattrak_string": "$0.24 - $7.01",
+      "currency": "USD",
+      "min": {
+        "value": 0.2,
+        "stattrak_value": 0.24,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1.92,
+        "stattrak_value": 7.01,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:31-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MAC-10_Whitefish.png"
+  },
+  {
+    "name": "Uncharted",
+    "weapon": "AK-47",
+    "rarity": "Mil-spec Rifle",
+    "collection": "The Prisma Collection",
+    "price": {
+      "price_string": "$0.41 - $3.05",
+      "price_stattrak_string": "$2.22 - $20.00",
+      "currency": "USD",
+      "min": {
+        "value": 0.41,
+        "stattrak_value": 2.22,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 3.05,
+        "stattrak_value": 20,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:31-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/AK-47_Uncharted.png"
+  },
+  {
+    "name": "Crypsis",
+    "weapon": "FAMAS",
+    "rarity": "Mil-spec Rifle",
+    "collection": "The Prisma Collection",
+    "price": {
+      "price_string": "$0.17 - $1.99",
+      "price_stattrak_string": "$0.32 - $2.42",
+      "currency": "USD",
+      "min": {
+        "value": 0.17,
+        "stattrak_value": 0.32,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1.99,
+        "stattrak_value": 2.42,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:31-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/FAMAS_Crypsis.png"
+  }
+]

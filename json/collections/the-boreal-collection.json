@@ -1,0 +1,669 @@
+[
+  {
+    "name": "Green Energy",
+    "weapon": "AWP",
+    "rarity": "Classified Sniper Rifle",
+    "collection": "The Boreal Collection",
+    "price": {
+      "price_string": "$16.12 - $254.01",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 16.12,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 254.01,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:23-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/AWP_Green_Energy.png"
+  },
+  {
+    "name": "Glockingbird",
+    "weapon": "Glock-18",
+    "rarity": "Restricted Pistol",
+    "collection": "The Boreal Collection",
+    "price": {
+      "price_string": "$1.69 - $31.05",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 1.69,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 31.05,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:23-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Glock-18_Glockingbird.png"
+  },
+  {
+    "name": "Sheet Lightning",
+    "weapon": "M4A4",
+    "rarity": "Restricted Rifle",
+    "collection": "The Boreal Collection",
+    "price": {
+      "price_string": "$1.86 - $37.14",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 1.86,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 37.14,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:23-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/M4A4_Sheet_Lightning.png"
+  },
+  {
+    "name": "Wintergreen",
+    "weapon": "AK-47",
+    "rarity": "Mil-spec Rifle",
+    "collection": "The Boreal Collection",
+    "price": {
+      "price_string": "$0.97 - $23.75",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.97,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 23.75,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:23-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/AK-47_Wintergreen.png"
+  },
+  {
+    "name": "Tropical Breeze",
+    "weapon": "USP-S",
+    "rarity": "Mil-spec Pistol",
+    "collection": "The Boreal Collection",
+    "price": {
+      "price_string": "$0.42 - $7.38",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.42,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 7.38,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:23-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/USP-S_Tropical_Breeze.png"
+  },
+  {
+    "name": "Poplar Thicket",
+    "weapon": "MAC-10",
+    "rarity": "Mil-spec SMG",
+    "collection": "The Boreal Collection",
+    "price": {
+      "price_string": "$0.19 - $3.62",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.19,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 3.62,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:23-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MAC-10_Poplar_Thicket.png"
+  },
+  {
+    "name": "Gold Leaf",
+    "weapon": "MP5-SD",
+    "rarity": "Mil-spec SMG",
+    "collection": "The Boreal Collection",
+    "price": {
+      "price_string": "$0.18 - $2.57",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.18,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 2.57,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:23-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MP5-SD_Gold_Leaf.png"
+  },
+  {
+    "name": "Copperflage",
+    "weapon": "XM1014",
+    "rarity": "Mil-spec Shotgun",
+    "collection": "The Boreal Collection",
+    "price": {
+      "price_string": "$0.20 - $3.49",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.2,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 3.49,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:23-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/XM1014_Copperflage.png"
+  },
+  {
+    "name": "Acid Hex",
+    "weapon": "MAC-10",
+    "rarity": "Industrial SMG",
+    "collection": "The Boreal Collection",
+    "price": {
+      "price_string": "$0.05 - $1.09",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.05,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1.09,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:23-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MAC-10_Acid_Hex.png"
+  },
+  {
+    "name": "VariCamo Grey",
+    "weapon": "AK-47",
+    "rarity": "Industrial Rifle",
+    "collection": "The Boreal Collection",
+    "price": {
+      "price_string": "$0.09 - $2.45",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.09,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 2.45,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:23-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/AK-47_VariCamo_Grey.png"
+  },
+  {
+    "name": "Mustard Gas",
+    "weapon": "P90",
+    "rarity": "Industrial SMG",
+    "collection": "The Boreal Collection",
+    "price": {
+      "price_string": "$0.05 - $1.00",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.05,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:23-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/P90_Mustard_Gas.png"
+  },
+  {
+    "name": "Leafhopper",
+    "weapon": "R8 Revolver",
+    "rarity": "Industrial Pistol",
+    "collection": "The Boreal Collection",
+    "price": {
+      "price_string": "$0.04 - $0.69",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.04,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.69,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:23-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/R8_Revolver_Leafhopper.png"
+  },
+  {
+    "name": "Acid Dart",
+    "weapon": "Galil AR",
+    "rarity": "Industrial Rifle",
+    "collection": "The Boreal Collection",
+    "price": {
+      "price_string": "$0.05 - $0.63",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.05,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.63,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:23-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Galil_AR_Acid_Dart.png"
+  },
+  {
+    "name": "Tiger Tear",
+    "weapon": "SSG 08",
+    "rarity": "Industrial Sniper Rifle",
+    "collection": "The Boreal Collection",
+    "price": {
+      "price_string": "$0.06 - $1.10",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.06,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1.1,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:23-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/SSG_08_Tiger_Tear.png"
+  },
+  {
+    "name": "Garter-9",
+    "weapon": "Tec-9",
+    "rarity": "Industrial Pistol",
+    "collection": "The Boreal Collection",
+    "price": {
+      "price_string": "$0.05 - $1.59",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.05,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1.59,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:23-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Tec-9_Garter-9.png"
+  },
+  {
+    "name": "Marsh",
+    "weapon": "P2000",
+    "rarity": "Industrial Pistol",
+    "collection": "The Boreal Collection",
+    "price": {
+      "price_string": "$0.05 - $0.76",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.05,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.76,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:23-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/P2000_Marsh.png"
+  },
+  {
+    "name": "Polished Malachite",
+    "weapon": "Dual Berettas",
+    "rarity": "Industrial Pistol",
+    "collection": "The Boreal Collection",
+    "price": {
+      "price_string": "$0.05 - $2.55",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.05,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 2.55,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:23-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Dual_Berettas_Polished_Malachite.png"
+  },
+  {
+    "name": "Swamp DDPAT",
+    "weapon": "Zeus x27",
+    "rarity": "Consumer Pistol",
+    "collection": "The Boreal Collection",
+    "price": {
+      "price_string": "$0.02 - $1.00",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.02,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:23-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Zeus_x27_Swamp_DDPAT.png"
+  },
+  {
+    "name": "Copper Oxide",
+    "weapon": "P250",
+    "rarity": "Consumer Pistol",
+    "collection": "The Boreal Collection",
+    "price": {
+      "price_string": "$0.01 - $0.44",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.44,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:23-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/P250_Copper_Oxide.png"
+  },
+  {
+    "name": "Raw Ceramic",
+    "weapon": "Negev",
+    "rarity": "Consumer Machine Gun",
+    "collection": "The Boreal Collection",
+    "price": {
+      "price_string": "$0.01 - $0.90",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.9,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:23-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Negev_Raw_Ceramic.png"
+  },
+  {
+    "name": "Commando Company",
+    "weapon": "AUG",
+    "rarity": "Consumer Rifle",
+    "collection": "The Boreal Collection",
+    "price": {
+      "price_string": "$0.01 - $1.00",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:23-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/AUG_Commando_Company.png"
+  },
+  {
+    "name": "Green Ceramic",
+    "weapon": "SSG 08",
+    "rarity": "Consumer Sniper Rifle",
+    "collection": "The Boreal Collection",
+    "price": {
+      "price_string": "$0.01 - $1.62",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1.62,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:23-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/SSG_08_Green_Ceramic.png"
+  },
+  {
+    "name": "Pine",
+    "weapon": "MP9",
+    "rarity": "Consumer SMG",
+    "collection": "The Boreal Collection",
+    "price": {
+      "price_string": "$0.01 - $0.42",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.42,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:23-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MP9_Pine.png"
+  },
+  {
+    "name": "Palm",
+    "weapon": "FAMAS",
+    "rarity": "Consumer Rifle",
+    "collection": "The Boreal Collection",
+    "price": {
+      "price_string": "$0.01 - $15.00",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 15,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:23-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/FAMAS_Palm.png"
+  },
+  {
+    "name": "Raw Ceramic",
+    "weapon": "Tec-9",
+    "rarity": "Consumer Pistol",
+    "collection": "The Boreal Collection",
+    "price": {
+      "price_string": "$0.01 - $0.22",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.22,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:23-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Tec-9_Raw_Ceramic.png"
+  },
+  {
+    "name": "Sage Camo",
+    "weapon": "M249",
+    "rarity": "Consumer Machine Gun",
+    "collection": "The Boreal Collection",
+    "price": {
+      "price_string": "$0.01 - $0.22",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.22,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:23-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/M249_Sage_Camo.png"
+  },
+  {
+    "name": "Copper Oxide",
+    "weapon": "MAG-7",
+    "rarity": "Consumer Shotgun",
+    "collection": "The Boreal Collection",
+    "price": {
+      "price_string": "$0.01 - $0.20",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.2,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:23-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MAG-7_Copper_Oxide.png"
+  },
+  {
+    "name": "Green Swirl",
+    "weapon": "UMP-45",
+    "rarity": "Consumer SMG",
+    "collection": "The Boreal Collection",
+    "price": {
+      "price_string": "$0.01 - $9.97",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 9.97,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:23-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/UMP-45_Green_Swirl.png"
+  },
+  {
+    "name": "Green Cell",
+    "weapon": "G3SG1",
+    "rarity": "Consumer Sniper Rifle",
+    "collection": "The Boreal Collection",
+    "price": {
+      "price_string": "$0.01 - $0.63",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.63,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:23-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/G3SG1_Green_Cell.png"
+  }
+]

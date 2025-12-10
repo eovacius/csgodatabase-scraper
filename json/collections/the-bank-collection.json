@@ -1,0 +1,370 @@
+[
+  {
+    "name": "Franklin",
+    "weapon": "P250",
+    "rarity": "Classified Pistol",
+    "collection": "The Bank Collection",
+    "price": {
+      "price_string": "$1.44 - $9.32",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 1.44,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 9.32,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:57-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/P250_Franklin.png"
+  },
+  {
+    "name": "Emerald Pinstripe",
+    "weapon": "AK-47",
+    "rarity": "Restricted Rifle",
+    "collection": "The Bank Collection",
+    "price": {
+      "price_string": "$2.23 - $19.99",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 2.23,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 19.99,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:57-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/AK-47_Emerald_Pinstripe.png"
+  },
+  {
+    "name": "Tuxedo",
+    "weapon": "CZ75-Auto",
+    "rarity": "Mil-spec Pistol",
+    "collection": "The Bank Collection",
+    "price": {
+      "price_string": "$0.23 - $2.09",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.23,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 2.09,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:57-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/CZ75-Auto_Tuxedo.png"
+  },
+  {
+    "name": "Tuxedo",
+    "weapon": "Galil AR",
+    "rarity": "Mil-spec Rifle",
+    "collection": "The Bank Collection",
+    "price": {
+      "price_string": "$0.32 - $3.81",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.32,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 3.81,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:57-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Galil_AR_Tuxedo.png"
+  },
+  {
+    "name": "Meteorite",
+    "weapon": "Desert Eagle",
+    "rarity": "Mil-spec Pistol",
+    "collection": "The Bank Collection",
+    "price": {
+      "price_string": "$0.82 - $2.32",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.82,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 2.32,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:57-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Desert_Eagle_Meteorite.png"
+  },
+  {
+    "name": "Green Apple",
+    "weapon": "G3SG1",
+    "rarity": "Industrial Sniper Rifle",
+    "collection": "The Bank Collection",
+    "price": {
+      "price_string": "$0.05 - $0.48",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.05,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.48,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:57-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/G3SG1_Green_Apple.png"
+  },
+  {
+    "name": "Death Rattle",
+    "weapon": "Glock-18",
+    "rarity": "Industrial Pistol",
+    "collection": "The Bank Collection",
+    "price": {
+      "price_string": "$0.08 - $0.95",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.08,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.95,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:57-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Glock-18_Death_Rattle.png"
+  },
+  {
+    "name": "Silver",
+    "weapon": "MAC-10",
+    "rarity": "Industrial SMG",
+    "collection": "The Bank Collection",
+    "price": {
+      "price_string": "$0.16 - $0.75",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.16,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.75,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:57-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MAC-10_Silver.png"
+  },
+  {
+    "name": "Caged Steel",
+    "weapon": "Nova",
+    "rarity": "Industrial Shotgun",
+    "collection": "The Bank Collection",
+    "price": {
+      "price_string": "$0.07 - $0.31",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.07,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.31,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:57-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Nova_Caged_Steel.png"
+  },
+  {
+    "name": "Carbon Fiber",
+    "weapon": "UMP-45",
+    "rarity": "Industrial SMG",
+    "collection": "The Bank Collection",
+    "price": {
+      "price_string": "$0.08 - $0.42",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.08,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.42,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:57-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/UMP-45_Carbon_Fiber.png"
+  },
+  {
+    "name": "Bone Mask",
+    "weapon": "R8 Revolver",
+    "rarity": "Consumer Pistol",
+    "collection": "The Bank Collection",
+    "price": {
+      "price_string": "$0.01 - $100.01",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 100.01,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:57-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/R8_Revolver_Bone_Mask.png"
+  },
+  {
+    "name": "Forest DDPAT",
+    "weapon": "MP7",
+    "rarity": "Consumer SMG",
+    "collection": "The Bank Collection",
+    "price": {
+      "price_string": "$0.01 - $1.46",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1.46,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:57-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MP7_Forest_DDPAT.png"
+  },
+  {
+    "name": "Forest DDPAT",
+    "weapon": "Sawed-Off",
+    "rarity": "Consumer Shotgun",
+    "collection": "The Bank Collection",
+    "price": {
+      "price_string": "$0.01 - $15.06",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 15.06,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:57-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Sawed-Off_Forest_DDPAT.png"
+  },
+  {
+    "name": "Urban DDPAT",
+    "weapon": "Tec-9",
+    "rarity": "Consumer Pistol",
+    "collection": "The Bank Collection",
+    "price": {
+      "price_string": "$0.01 - $1.15",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1.15,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:57-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Tec-9_Urban_DDPAT.png"
+  },
+  {
+    "name": "Army Sheen",
+    "weapon": "Negev",
+    "rarity": "Consumer Machine Gun",
+    "collection": "The Bank Collection",
+    "price": {
+      "price_string": "$0.01 - $0.99",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.99,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:57-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Negev_Army_Sheen.png"
+  },
+  {
+    "name": "Army Sheen",
+    "weapon": "SG 553",
+    "rarity": "Consumer Rifle",
+    "collection": "The Bank Collection",
+    "price": {
+      "price_string": "$0.02 - $1.33",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.02,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1.33,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:57-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/SG_553_Army_Sheen.png"
+  }
+]

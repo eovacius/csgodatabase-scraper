@@ -1,0 +1,370 @@
+[
+  {
+    "name": "Akihabara Accept",
+    "weapon": "AUG",
+    "rarity": "Covert Rifle",
+    "collection": "The Rising Sun Collection",
+    "price": {
+      "price_string": "$280.00 - $1534.71",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 280,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1534.71,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:51-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/AUG_Akihabara_Accept.png"
+  },
+  {
+    "name": "Hydroponic",
+    "weapon": "AK-47",
+    "rarity": "Classified Rifle",
+    "collection": "The Rising Sun Collection",
+    "price": {
+      "price_string": "$1622.84 - $8914.99",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 1622.84,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 8914.99,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:51-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/AK-47_Hydroponic.png"
+  },
+  {
+    "name": "Neon Kimono",
+    "weapon": "Five-SeveN",
+    "rarity": "Restricted Pistol",
+    "collection": "The Rising Sun Collection",
+    "price": {
+      "price_string": "$348.55 - $1168.91",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 348.55,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1168.91,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:51-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Five-SeveN_Neon_Kimono.png"
+  },
+  {
+    "name": "Sunset Storm 弐",
+    "weapon": "Desert Eagle",
+    "rarity": "Restricted Pistol",
+    "collection": "The Rising Sun Collection",
+    "price": {
+      "price_string": "$342.90 - $9999.00",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 342.9,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 9999,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:51-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Desert_Eagle_Sunset_Storm_%E5%BC%90.png"
+  },
+  {
+    "name": "Sunset Storm 壱",
+    "weapon": "Desert Eagle",
+    "rarity": "Restricted Pistol",
+    "collection": "The Rising Sun Collection",
+    "price": {
+      "price_string": "$352.43 - $1293.06",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 352.43,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1293.06,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:51-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Desert_Eagle_Sunset_Storm_%E5%A3%B1.png"
+  },
+  {
+    "name": "Daybreak",
+    "weapon": "M4A4",
+    "rarity": "Restricted Rifle",
+    "collection": "The Rising Sun Collection",
+    "price": {
+      "price_string": "$284.27 - $2767.08",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 284.27,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 2767.08,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:51-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/M4A4_Daybreak.png"
+  },
+  {
+    "name": "Counter Terrace",
+    "weapon": "MAG-7",
+    "rarity": "Mil-spec Shotgun",
+    "collection": "The Rising Sun Collection",
+    "price": {
+      "price_string": "$110.07 - $690.00",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 110.07,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 690,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:51-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MAG-7_Counter_Terrace.png"
+  },
+  {
+    "name": "Terrace",
+    "weapon": "Tec-9",
+    "rarity": "Mil-spec Pistol",
+    "collection": "The Rising Sun Collection",
+    "price": {
+      "price_string": "$115.07 - $934.20",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 115.07,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 934.2,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:51-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Tec-9_Terrace.png"
+  },
+  {
+    "name": "Aqua Terrace",
+    "weapon": "Galil AR",
+    "rarity": "Mil-spec Rifle",
+    "collection": "The Rising Sun Collection",
+    "price": {
+      "price_string": "$154.96 - $583.87",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 154.96,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 583.87,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:51-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Galil_AR_Aqua_Terrace.png"
+  },
+  {
+    "name": "Crimson Kimono",
+    "weapon": "P250",
+    "rarity": "Industrial Pistol",
+    "collection": "The Rising Sun Collection",
+    "price": {
+      "price_string": "$20.38 - $59.99",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 20.38,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 59.99,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:51-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/P250_Crimson_Kimono.png"
+  },
+  {
+    "name": "Midnight Storm",
+    "weapon": "Desert Eagle",
+    "rarity": "Industrial Pistol",
+    "collection": "The Rising Sun Collection",
+    "price": {
+      "price_string": "$27.10 - $161.39",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 27.1,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 161.39,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:51-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Desert_Eagle_Midnight_Storm.png"
+  },
+  {
+    "name": "Mint Kimono",
+    "weapon": "P250",
+    "rarity": "Consumer Pistol",
+    "collection": "The Rising Sun Collection",
+    "price": {
+      "price_string": "$3.01 - $13.95",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 3.01,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 13.95,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:51-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/P250_Mint_Kimono.png"
+  },
+  {
+    "name": "Bamboo Shadow",
+    "weapon": "Sawed-Off",
+    "rarity": "Consumer Shotgun",
+    "collection": "The Rising Sun Collection",
+    "price": {
+      "price_string": "$2.67 - $22.23",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 2.67,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 22.23,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:51-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Sawed-Off_Bamboo_Shadow.png"
+  },
+  {
+    "name": "Bamboo Forest",
+    "weapon": "Tec-9",
+    "rarity": "Consumer Pistol",
+    "collection": "The Rising Sun Collection",
+    "price": {
+      "price_string": "$2.76 - $51.41",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 2.76,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 51.41,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:51-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Tec-9_Bamboo_Forest.png"
+  },
+  {
+    "name": "Orange Kimono",
+    "weapon": "G3SG1",
+    "rarity": "Consumer Sniper Rifle",
+    "collection": "The Rising Sun Collection",
+    "price": {
+      "price_string": "$3.56 - $12.90",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 3.56,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 12.9,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:51-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/G3SG1_Orange_Kimono.png"
+  },
+  {
+    "name": "Bamboo Print",
+    "weapon": "PP-Bizon",
+    "rarity": "Consumer SMG",
+    "collection": "The Rising Sun Collection",
+    "price": {
+      "price_string": "$2.74 - $15.87",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 2.74,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 15.87,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:51-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/PP-Bizon_Bamboo_Print.png"
+  }
+]

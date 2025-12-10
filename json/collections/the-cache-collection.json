@@ -1,0 +1,577 @@
+[
+  {
+    "name": "Styx",
+    "weapon": "FAMAS",
+    "rarity": "Restricted Rifle",
+    "collection": "The Cache Collection",
+    "price": {
+      "price_string": "$6.91 - $85.19",
+      "price_stattrak_string": "$17.27 - $102.35",
+      "currency": "USD",
+      "min": {
+        "value": 6.91,
+        "stattrak_value": 17.27,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 85.19,
+        "stattrak_value": 102.35,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:45-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/FAMAS_Styx.png"
+  },
+  {
+    "name": "Cerberus",
+    "weapon": "Galil AR",
+    "rarity": "Restricted Rifle",
+    "collection": "The Cache Collection",
+    "price": {
+      "price_string": "$17.91 - $507.95",
+      "price_stattrak_string": "$38.95 - $400.00",
+      "currency": "USD",
+      "min": {
+        "value": 17.91,
+        "stattrak_value": 38.95,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 507.95,
+        "stattrak_value": 400,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:45-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Galil_AR_Cerberus.png"
+  },
+  {
+    "name": "Bone Machine",
+    "weapon": "XM1014",
+    "rarity": "Mil-spec Shotgun",
+    "collection": "The Cache Collection",
+    "price": {
+      "price_string": "$4.39 - $41.24",
+      "price_stattrak_string": "$4.17 - $70.00",
+      "currency": "USD",
+      "min": {
+        "value": 4.39,
+        "stattrak_value": 4.17,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 41.24,
+        "stattrak_value": 70,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:45-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/XM1014_Bone_Machine.png"
+  },
+  {
+    "name": "Toxic",
+    "weapon": "Tec-9",
+    "rarity": "Mil-spec Pistol",
+    "collection": "The Cache Collection",
+    "price": {
+      "price_string": "$5.85 - $80.00",
+      "price_stattrak_string": "$9.21 - $122.50",
+      "currency": "USD",
+      "min": {
+        "value": 5.85,
+        "stattrak_value": 9.21,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 80,
+        "stattrak_value": 122.5,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:45-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Tec-9_Toxic.png"
+  },
+  {
+    "name": "Reactor",
+    "weapon": "Glock-18",
+    "rarity": "Mil-spec Pistol",
+    "collection": "The Cache Collection",
+    "price": {
+      "price_string": "$4.73 - $109.28",
+      "price_stattrak_string": "$12.65 - $546.85",
+      "currency": "USD",
+      "min": {
+        "value": 4.73,
+        "stattrak_value": 12.65,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 109.28,
+        "stattrak_value": 546.85,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:45-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Glock-18_Reactor.png"
+  },
+  {
+    "name": "Nuclear Garden",
+    "weapon": "MAC-10",
+    "rarity": "Mil-spec SMG",
+    "collection": "The Cache Collection",
+    "price": {
+      "price_string": "$6.18 - $45.42",
+      "price_stattrak_string": "$5.20 - $115.73",
+      "currency": "USD",
+      "min": {
+        "value": 6.18,
+        "stattrak_value": 5.2,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 45.42,
+        "stattrak_value": 115.73,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:45-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MAC-10_Nuclear_Garden.png"
+  },
+  {
+    "name": "Setting Sun",
+    "weapon": "MP9",
+    "rarity": "Mil-spec SMG",
+    "collection": "The Cache Collection",
+    "price": {
+      "price_string": "$5.33 - $58.62",
+      "price_stattrak_string": "$5.50 - $238.49",
+      "currency": "USD",
+      "min": {
+        "value": 5.33,
+        "stattrak_value": 5.5,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 58.62,
+        "stattrak_value": 238.49,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:45-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MP9_Setting_Sun.png"
+  },
+  {
+    "name": "Contamination",
+    "weapon": "P250",
+    "rarity": "Industrial Pistol",
+    "collection": "The Cache Collection",
+    "price": {
+      "price_string": "$1.61 - $35.00",
+      "price_stattrak_string": "$0.83 - $15.30",
+      "currency": "USD",
+      "min": {
+        "value": 1.61,
+        "stattrak_value": 0.83,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 35,
+        "stattrak_value": 15.3,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:45-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/P250_Contamination.png"
+  },
+  {
+    "name": "Nuclear Waste",
+    "weapon": "Negev",
+    "rarity": "Industrial Machine Gun",
+    "collection": "The Cache Collection",
+    "price": {
+      "price_string": "$1.61 - $12.00",
+      "price_stattrak_string": "$1.25 - $9.62",
+      "currency": "USD",
+      "min": {
+        "value": 1.61,
+        "stattrak_value": 1.25,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 12,
+        "stattrak_value": 9.62,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:45-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Negev_Nuclear_Waste.png"
+  },
+  {
+    "name": "Radiation Hazard",
+    "weapon": "AUG",
+    "rarity": "Industrial Rifle",
+    "collection": "The Cache Collection",
+    "price": {
+      "price_string": "$1.59 - $7.98",
+      "price_stattrak_string": "$1.36 - $34.00",
+      "currency": "USD",
+      "min": {
+        "value": 1.59,
+        "stattrak_value": 1.36,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 7.98,
+        "stattrak_value": 34,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:45-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/AUG_Radiation_Hazard.png"
+  },
+  {
+    "name": "Hot Shot",
+    "weapon": "Five-SeveN",
+    "rarity": "Industrial Pistol",
+    "collection": "The Cache Collection",
+    "price": {
+      "price_string": "$2.03 - $430.47",
+      "price_stattrak_string": "$2.32 - $61.45",
+      "currency": "USD",
+      "min": {
+        "value": 2.03,
+        "stattrak_value": 2.32,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 430.47,
+        "stattrak_value": 61.45,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:45-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Five-SeveN_Hot_Shot.png"
+  },
+  {
+    "name": "Fallout Warning",
+    "weapon": "SG 553",
+    "rarity": "Industrial Rifle",
+    "collection": "The Cache Collection",
+    "price": {
+      "price_string": "$1.35 - $6.00",
+      "price_stattrak_string": "$0.99 - $209.95",
+      "currency": "USD",
+      "min": {
+        "value": 1.35,
+        "stattrak_value": 0.99,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 6,
+        "stattrak_value": 209.95,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:45-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/SG_553_Fallout_Warning.png"
+  },
+  {
+    "name": "Chemical Green",
+    "weapon": "PP-Bizon",
+    "rarity": "Industrial SMG",
+    "collection": "The Cache Collection",
+    "price": {
+      "price_string": "$1.42 - $12.39",
+      "price_stattrak_string": "$1.03 - $45.54",
+      "currency": "USD",
+      "min": {
+        "value": 1.42,
+        "stattrak_value": 1.03,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 12.39,
+        "stattrak_value": 45.54,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:45-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/PP-Bizon_Chemical_Green.png"
+  },
+  {
+    "name": "Katowice 2019 Cache Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced:",
+    "price": {
+      "price_string": "$27.49",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 27.49,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 27.49,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:45-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/Katowice_2019_Cache_Souvenir_Package.png"
+  },
+  {
+    "name": "London 2018 Cache Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced:",
+    "price": {
+      "price_string": "$26.43",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 26.43,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 26.43,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:45-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/London_2018_Cache_Souvenir_Package.png"
+  },
+  {
+    "name": "Boston 2018 Cache Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced:",
+    "price": {
+      "price_string": "$23.30",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 23.3,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 23.3,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:45-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/Boston_2018_Cache_Souvenir_Package.png"
+  },
+  {
+    "name": "Krakow 2017 Cache Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced:",
+    "price": {
+      "price_string": "$38.43",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 38.43,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 38.43,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:45-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/Krakow_2017_Cache_Souvenir_Package.png"
+  },
+  {
+    "name": "Atlanta 2017 Cache Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced:",
+    "price": {
+      "price_string": "",
+      "price_stattrak_string": "",
+      "currency": "",
+      "min": {
+        "value": 0,
+        "stattrak_value": 0,
+        "unit": ""
+      },
+      "max": {
+        "value": 0,
+        "stattrak_value": 0,
+        "unit": ""
+      },
+      "updated_at": "2025-12-10T03:52:45-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/Atlanta_2017_Cache_Souvenir_Package.png"
+  },
+  {
+    "name": "Cologne 2016 Cache Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced:",
+    "price": {
+      "price_string": "",
+      "price_stattrak_string": "",
+      "currency": "",
+      "min": {
+        "value": 0,
+        "stattrak_value": 0,
+        "unit": ""
+      },
+      "max": {
+        "value": 0,
+        "stattrak_value": 0,
+        "unit": ""
+      },
+      "updated_at": "2025-12-10T03:52:45-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/Cologne_2016_Cache_Souvenir_Package.png"
+  },
+  {
+    "name": "MLG Columbus 2016 Cache Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced: 28 March 2016",
+    "price": {
+      "price_string": "$44.91",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 44.91,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 44.91,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:45-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/MLG_Columbus_2016_Cache_Souvenir_Package.png"
+  },
+  {
+    "name": "DreamHack Cluj-Napoca 2015 Cache Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced:",
+    "price": {
+      "price_string": "$52.00",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 52,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 52,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:45-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/DreamHack_Cluj-Napoca_2015_Cache_Souvenir_Package.png"
+  },
+  {
+    "name": "ESL One Cologne 2015 Cache Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced:",
+    "price": {
+      "price_string": "",
+      "price_stattrak_string": "",
+      "currency": "",
+      "min": {
+        "value": 0,
+        "stattrak_value": 0,
+        "unit": ""
+      },
+      "max": {
+        "value": 0,
+        "stattrak_value": 0,
+        "unit": ""
+      },
+      "updated_at": "2025-12-10T03:52:45-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/ESL_One_Cologne_2015_Cache_Souvenir_Package.png"
+  },
+  {
+    "name": "ESL One Katowice 2015 Cache Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced:",
+    "price": {
+      "price_string": "$51.27",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 51.27,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 51.27,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:45-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/ESL_One_Katowice_2015_Cache_Souvenir_Package.png"
+  },
+  {
+    "name": "DreamHack 2014 Cache Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced:",
+    "price": {
+      "price_string": "$124.91",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 124.91,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 124.91,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:45-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/DreamHack_2014_Cache_Souvenir_Package.png"
+  },
+  {
+    "name": "ESL One Cologne 2014 Cache Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced:",
+    "price": {
+      "price_string": "$196.06",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 196.06,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 196.06,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:45-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/ESL_One_Cologne_2014_Cache_Souvenir_Package.png"
+  }
+]

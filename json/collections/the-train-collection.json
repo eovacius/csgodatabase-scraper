@@ -1,0 +1,577 @@
+[
+  {
+    "name": "Red Quartz",
+    "weapon": "Tec-9",
+    "rarity": "Restricted Pistol",
+    "collection": "The Train Collection",
+    "price": {
+      "price_string": "$0.28 - $2.69",
+      "price_stattrak_string": "$15.01 - $76.55",
+      "currency": "USD",
+      "min": {
+        "value": 0.28,
+        "stattrak_value": 15.01,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 2.69,
+        "stattrak_value": 76.55,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:06-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Tec-9_Red_Quartz.png"
+  },
+  {
+    "name": "Amber Fade",
+    "weapon": "Sawed-Off",
+    "rarity": "Mil-spec Shotgun",
+    "collection": "The Train Collection",
+    "price": {
+      "price_string": "$0.14 - $2.14",
+      "price_stattrak_string": "$8.39 - $150.00",
+      "currency": "USD",
+      "min": {
+        "value": 0.14,
+        "stattrak_value": 8.39,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 2.14,
+        "stattrak_value": 150,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:06-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Sawed-Off_Amber_Fade.png"
+  },
+  {
+    "name": "Urban Rubble",
+    "weapon": "Desert Eagle",
+    "rarity": "Mil-spec Pistol",
+    "collection": "The Train Collection",
+    "price": {
+      "price_string": "$0.19 - $2.34",
+      "price_stattrak_string": "$7.69 - $34.99",
+      "currency": "USD",
+      "min": {
+        "value": 0.19,
+        "stattrak_value": 7.69,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 2.34,
+        "stattrak_value": 34.99,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:06-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Desert_Eagle_Urban_Rubble.png"
+  },
+  {
+    "name": "Metallic DDPAT",
+    "weapon": "P250",
+    "rarity": "Industrial Pistol",
+    "collection": "The Train Collection",
+    "price": {
+      "price_string": "$0.08 - $0.58",
+      "price_stattrak_string": "$2.83 - $6.34",
+      "currency": "USD",
+      "min": {
+        "value": 0.08,
+        "stattrak_value": 2.83,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.58,
+        "stattrak_value": 6.34,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:06-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/P250_Metallic_DDPAT.png"
+  },
+  {
+    "name": "Carbon Fiber",
+    "weapon": "SCAR-20",
+    "rarity": "Industrial Sniper Rifle",
+    "collection": "The Train Collection",
+    "price": {
+      "price_string": "$0.08 - $0.86",
+      "price_stattrak_string": "$1.59 - $5.86",
+      "currency": "USD",
+      "min": {
+        "value": 0.08,
+        "stattrak_value": 1.59,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.86,
+        "stattrak_value": 5.86,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:06-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/SCAR-20_Carbon_Fiber.png"
+  },
+  {
+    "name": "Metallic DDPAT",
+    "weapon": "MAG-7",
+    "rarity": "Industrial Shotgun",
+    "collection": "The Train Collection",
+    "price": {
+      "price_string": "$0.10 - $1.00",
+      "price_stattrak_string": "$1.46 - $50.00",
+      "currency": "USD",
+      "min": {
+        "value": 0.1,
+        "stattrak_value": 1.46,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1,
+        "stattrak_value": 50,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:06-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MAG-7_Metallic_DDPAT.png"
+  },
+  {
+    "name": "Urban DDPAT",
+    "weapon": "M4A4",
+    "rarity": "Industrial Rifle",
+    "collection": "The Train Collection",
+    "price": {
+      "price_string": "$0.07 - $39.25",
+      "price_stattrak_string": "$6.96 - $32.43",
+      "currency": "USD",
+      "min": {
+        "value": 0.07,
+        "stattrak_value": 6.96,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 39.25,
+        "stattrak_value": 32.43,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:06-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/M4A4_Urban_DDPAT.png"
+  },
+  {
+    "name": "Candy Apple",
+    "weapon": "MAC-10",
+    "rarity": "Industrial SMG",
+    "collection": "The Train Collection",
+    "price": {
+      "price_string": "$0.13 - $1.33",
+      "price_stattrak_string": "$9.12 - $19.84",
+      "currency": "USD",
+      "min": {
+        "value": 0.13,
+        "stattrak_value": 9.12,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1.33,
+        "stattrak_value": 19.84,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:06-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MAC-10_Candy_Apple.png"
+  },
+  {
+    "name": "Ash Wood",
+    "weapon": "P90",
+    "rarity": "Industrial SMG",
+    "collection": "The Train Collection",
+    "price": {
+      "price_string": "$0.05 - $0.66",
+      "price_stattrak_string": "$0.81 - $71.68",
+      "currency": "USD",
+      "min": {
+        "value": 0.05,
+        "stattrak_value": 0.81,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.66,
+        "stattrak_value": 71.68,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:06-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/P90_Ash_Wood.png"
+  },
+  {
+    "name": "Polar Mesh",
+    "weapon": "Nova",
+    "rarity": "Consumer Shotgun",
+    "collection": "The Train Collection",
+    "price": {
+      "price_string": "$0.02 - $10.00",
+      "price_stattrak_string": "$0.21 - $100.00",
+      "currency": "USD",
+      "min": {
+        "value": 0.02,
+        "stattrak_value": 0.21,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 10,
+        "stattrak_value": 100,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:06-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Nova_Polar_Mesh.png"
+  },
+  {
+    "name": "Urban DDPAT",
+    "weapon": "UMP-45",
+    "rarity": "Consumer SMG",
+    "collection": "The Train Collection",
+    "price": {
+      "price_string": "$0.01 - $2.95",
+      "price_stattrak_string": "$0.18 - $58.39",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 0.18,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 2.95,
+        "stattrak_value": 58.39,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:06-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/UMP-45_Urban_DDPAT.png"
+  },
+  {
+    "name": "Forest Night",
+    "weapon": "Five-SeveN",
+    "rarity": "Consumer Pistol",
+    "collection": "The Train Collection",
+    "price": {
+      "price_string": "$0.01 - $100.00",
+      "price_stattrak_string": "$0.28 - $49.00",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 0.28,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 100,
+        "stattrak_value": 49,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:06-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Five-SeveN_Forest_Night.png"
+  },
+  {
+    "name": "Colony",
+    "weapon": "Dual Berettas",
+    "rarity": "Consumer Pistol",
+    "collection": "The Train Collection",
+    "price": {
+      "price_string": "$0.02 - $6.70",
+      "price_stattrak_string": "$0.26 - $13.43",
+      "currency": "USD",
+      "min": {
+        "value": 0.02,
+        "stattrak_value": 0.26,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 6.7,
+        "stattrak_value": 13.43,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:06-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Dual_Berettas_Colony.png"
+  },
+  {
+    "name": "Polar Camo",
+    "weapon": "G3SG1",
+    "rarity": "Consumer Sniper Rifle",
+    "collection": "The Train Collection",
+    "price": {
+      "price_string": "$0.01 - $1.50",
+      "price_stattrak_string": "$0.27 - $80.00",
+      "currency": "USD",
+      "min": {
+        "value": 0.01,
+        "stattrak_value": 0.27,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1.5,
+        "stattrak_value": 80,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:06-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/G3SG1_Polar_Camo.png"
+  },
+  {
+    "name": "Urban Dashed",
+    "weapon": "PP-Bizon",
+    "rarity": "Consumer SMG",
+    "collection": "The Train Collection",
+    "price": {
+      "price_string": "$0.02 - $11.11",
+      "price_stattrak_string": "$0.18 - $5.05",
+      "currency": "USD",
+      "min": {
+        "value": 0.02,
+        "stattrak_value": 0.18,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 11.11,
+        "stattrak_value": 5.05,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:06-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/PP-Bizon_Urban_Dashed.png"
+  },
+  {
+    "name": "Berlin 2019 Train Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced:",
+    "price": {
+      "price_string": "$13.24",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 13.24,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 13.24,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:06-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/Berlin_2019_Train_Souvenir_Package.png"
+  },
+  {
+    "name": "Katowice 2019 Train Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced:",
+    "price": {
+      "price_string": "$14.42",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 14.42,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 14.42,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:06-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/Katowice_2019_Train_Souvenir_Package.png"
+  },
+  {
+    "name": "London 2018 Train Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced:",
+    "price": {
+      "price_string": "$12.94",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 12.94,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 12.94,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:06-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/London_2018_Train_Souvenir_Package.png"
+  },
+  {
+    "name": "Boston 2018 Train Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced:",
+    "price": {
+      "price_string": "$17.90",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 17.9,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 17.9,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:06-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/Boston_2018_Train_Souvenir_Package.png"
+  },
+  {
+    "name": "Krakow 2017 Train Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced:",
+    "price": {
+      "price_string": "$19.69",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 19.69,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 19.69,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:06-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/Krakow_2017_Train_Souvenir_Package.png"
+  },
+  {
+    "name": "Atlanta 2017 Train Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced:",
+    "price": {
+      "price_string": "$17.16",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 17.16,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 17.16,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:06-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/Atlanta_2017_Train_Souvenir_Package.png"
+  },
+  {
+    "name": "Cologne 2016 Train Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced:",
+    "price": {
+      "price_string": "$36.81",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 36.81,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 36.81,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:06-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/Cologne_2016_Train_Souvenir_Package.png"
+  },
+  {
+    "name": "MLG Columbus 2016 Train Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced: 28 March 2016",
+    "price": {
+      "price_string": "$99.10",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 99.1,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 99.1,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:06-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/MLG_Columbus_2016_Train_Souvenir_Package.png"
+  },
+  {
+    "name": "DreamHack Cluj-Napoca 2015 Train Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced:",
+    "price": {
+      "price_string": "$38.37",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 38.37,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 38.37,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:06-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/DreamHack_Cluj-Napoca_2015_Train_Souvenir_Package.png"
+  },
+  {
+    "name": "ESL One Cologne 2015 Train Souvenir Package",
+    "weapon": "Souvenir Package",
+    "rarity": "Consumer Grade Container",
+    "collection": "Introduced:",
+    "price": {
+      "price_string": "",
+      "price_stattrak_string": "",
+      "currency": "",
+      "min": {
+        "value": 0,
+        "stattrak_value": 0,
+        "unit": ""
+      },
+      "max": {
+        "value": 0,
+        "stattrak_value": 0,
+        "unit": ""
+      },
+      "updated_at": "2025-12-10T03:53:06-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/containers/ESL_One_Cologne_2015_Train_Souvenir_Package.png"
+  }
+]

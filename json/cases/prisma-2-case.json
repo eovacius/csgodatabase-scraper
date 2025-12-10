@@ -1,0 +1,393 @@
+[
+  {
+    "name": "Bullet Queen",
+    "weapon": "Glock-18",
+    "rarity": "Covert Pistol",
+    "collection": "The Prisma 2 Collection",
+    "price": {
+      "price_string": "$45.97 - $251.92",
+      "price_stattrak_string": "$47.78 - $246.63",
+      "currency": "USD",
+      "min": {
+        "value": 45.97,
+        "stattrak_value": 47.78,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 251.92,
+        "stattrak_value": 246.63,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:28-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Glock-18_Bullet_Queen.png"
+  },
+  {
+    "name": "Player Two",
+    "weapon": "M4A1-S",
+    "rarity": "Covert Rifle",
+    "collection": "The Prisma 2 Collection",
+    "price": {
+      "price_string": "$47.94 - $315.10",
+      "price_stattrak_string": "$52.51 - $381.67",
+      "currency": "USD",
+      "min": {
+        "value": 47.94,
+        "stattrak_value": 52.51,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 315.1,
+        "stattrak_value": 381.67,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:28-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/M4A1-S_Player_Two.png"
+  },
+  {
+    "name": "Justice",
+    "weapon": "MAG-7",
+    "rarity": "Classified Shotgun",
+    "collection": "The Prisma 2 Collection",
+    "price": {
+      "price_string": "$4.60 - $42.59",
+      "price_stattrak_string": "$5.30 - $64.86",
+      "currency": "USD",
+      "min": {
+        "value": 4.6,
+        "stattrak_value": 5.3,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 42.59,
+        "stattrak_value": 64.86,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:28-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MAG-7_Justice.png"
+  },
+  {
+    "name": "Disco Tech",
+    "weapon": "MAC-10",
+    "rarity": "Classified SMG",
+    "collection": "The Prisma 2 Collection",
+    "price": {
+      "price_string": "$4.50 - $48.11",
+      "price_stattrak_string": "$6.18 - $77.28",
+      "currency": "USD",
+      "min": {
+        "value": 4.5,
+        "stattrak_value": 6.18,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 48.11,
+        "stattrak_value": 77.28,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:28-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MAC-10_Disco_Tech.png"
+  },
+  {
+    "name": "Phantom Disruptor",
+    "weapon": "AK-47",
+    "rarity": "Classified Rifle",
+    "collection": "The Prisma 2 Collection",
+    "price": {
+      "price_string": "$4.53 - $51.34",
+      "price_stattrak_string": "$12.37 - $57.49",
+      "currency": "USD",
+      "min": {
+        "value": 4.53,
+        "stattrak_value": 12.37,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 51.34,
+        "stattrak_value": 57.49,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:28-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/AK-47_Phantom_Disruptor.png"
+  },
+  {
+    "name": "Fever Dream",
+    "weapon": "SSG 08",
+    "rarity": "Restricted Sniper Rifle",
+    "collection": "The Prisma 2 Collection",
+    "price": {
+      "price_string": "$0.60 - $5.92",
+      "price_stattrak_string": "$2.13 - $15.65",
+      "currency": "USD",
+      "min": {
+        "value": 0.6,
+        "stattrak_value": 2.13,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 5.92,
+        "stattrak_value": 15.65,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:28-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/SSG_08_Fever_Dream.png"
+  },
+  {
+    "name": "Darkwing",
+    "weapon": "SG 553",
+    "rarity": "Restricted Rifle",
+    "collection": "The Prisma 2 Collection",
+    "price": {
+      "price_string": "$0.44 - $6.12",
+      "price_stattrak_string": "$0.67 - $13.90",
+      "currency": "USD",
+      "min": {
+        "value": 0.44,
+        "stattrak_value": 0.67,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 6.12,
+        "stattrak_value": 13.9,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:28-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/SG_553_Darkwing.png"
+  },
+  {
+    "name": "Enforcer",
+    "weapon": "SCAR-20",
+    "rarity": "Restricted Sniper Rifle",
+    "collection": "The Prisma 2 Collection",
+    "price": {
+      "price_string": "$0.43 - $14.00",
+      "price_stattrak_string": "$0.65 - $11.53",
+      "currency": "USD",
+      "min": {
+        "value": 0.43,
+        "stattrak_value": 0.65,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 14,
+        "stattrak_value": 11.53,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:28-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/SCAR-20_Enforcer.png"
+  },
+  {
+    "name": "Apocalypto",
+    "weapon": "Sawed-Off",
+    "rarity": "Restricted Shotgun",
+    "collection": "The Prisma 2 Collection",
+    "price": {
+      "price_string": "$0.31 - $14.00",
+      "price_stattrak_string": "$0.77 - $14.78",
+      "currency": "USD",
+      "min": {
+        "value": 0.31,
+        "stattrak_value": 0.77,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 14,
+        "stattrak_value": 14.78,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:28-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Sawed-Off_Apocalypto.png"
+  },
+  {
+    "name": "Acid Etched",
+    "weapon": "P2000",
+    "rarity": "Restricted Pistol",
+    "collection": "The Prisma 2 Collection",
+    "price": {
+      "price_string": "$0.47 - $15.00",
+      "price_stattrak_string": "$0.79 - $10.11",
+      "currency": "USD",
+      "min": {
+        "value": 0.47,
+        "stattrak_value": 0.79,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 15,
+        "stattrak_value": 10.11,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:28-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/P2000_Acid_Etched.png"
+  },
+  {
+    "name": "Bone Forged",
+    "weapon": "R8 Revolver",
+    "rarity": "Mil-spec Pistol",
+    "collection": "The Prisma 2 Collection",
+    "price": {
+      "price_string": "$0.10 - $0.63",
+      "price_stattrak_string": "$0.15 - $1.06",
+      "currency": "USD",
+      "min": {
+        "value": 0.1,
+        "stattrak_value": 0.15,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.63,
+        "stattrak_value": 1.06,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:28-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/R8_Revolver_Bone_Forged.png"
+  },
+  {
+    "name": "Prototype",
+    "weapon": "Negev",
+    "rarity": "Mil-spec Machine Gun",
+    "collection": "The Prisma 2 Collection",
+    "price": {
+      "price_string": "$0.12 - $1.96",
+      "price_stattrak_string": "$0.12 - $1.69",
+      "currency": "USD",
+      "min": {
+        "value": 0.12,
+        "stattrak_value": 0.12,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1.96,
+        "stattrak_value": 1.69,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:28-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Negev_Prototype.png"
+  },
+  {
+    "name": "Desert Strike",
+    "weapon": "MP5-SD",
+    "rarity": "Mil-spec SMG",
+    "collection": "The Prisma 2 Collection",
+    "price": {
+      "price_string": "$0.09 - $1.50",
+      "price_stattrak_string": "$0.11 - $1.88",
+      "currency": "USD",
+      "min": {
+        "value": 0.09,
+        "stattrak_value": 0.11,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1.5,
+        "stattrak_value": 1.88,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:28-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MP5-SD_Desert_Strike.png"
+  },
+  {
+    "name": "Blue Ply",
+    "weapon": "Desert Eagle",
+    "rarity": "Mil-spec Pistol",
+    "collection": "The Prisma 2 Collection",
+    "price": {
+      "price_string": "$0.21 - $3.97",
+      "price_stattrak_string": "$0.72 - $11.36",
+      "currency": "USD",
+      "min": {
+        "value": 0.21,
+        "stattrak_value": 0.72,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 3.97,
+        "stattrak_value": 11.36,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:28-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Desert_Eagle_Blue_Ply.png"
+  },
+  {
+    "name": "Distressed",
+    "weapon": "CZ75-Auto",
+    "rarity": "Mil-spec Pistol",
+    "collection": "The Prisma 2 Collection",
+    "price": {
+      "price_string": "$0.10 - $3.89",
+      "price_stattrak_string": "$0.12 - $1.96",
+      "currency": "USD",
+      "min": {
+        "value": 0.1,
+        "stattrak_value": 0.12,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 3.89,
+        "stattrak_value": 1.96,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:28-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/CZ75-Auto_Distressed.png"
+  },
+  {
+    "name": "Capillary",
+    "weapon": "AWP",
+    "rarity": "Mil-spec Sniper Rifle",
+    "collection": "The Prisma 2 Collection",
+    "price": {
+      "price_string": "$0.37 - $5.89",
+      "price_stattrak_string": "$1.42 - $15.28",
+      "currency": "USD",
+      "min": {
+        "value": 0.37,
+        "stattrak_value": 1.42,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 5.89,
+        "stattrak_value": 15.28,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:28-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/AWP_Capillary.png"
+  },
+  {
+    "name": "Tom Cat",
+    "weapon": "AUG",
+    "rarity": "Mil-spec Rifle",
+    "collection": "The Prisma 2 Collection",
+    "price": {
+      "price_string": "$0.12 - $0.88",
+      "price_stattrak_string": "$0.13 - $1.57",
+      "currency": "USD",
+      "min": {
+        "value": 0.12,
+        "stattrak_value": 0.13,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.88,
+        "stattrak_value": 1.57,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:28-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/AUG_Tom_Cat.png"
+  }
+]

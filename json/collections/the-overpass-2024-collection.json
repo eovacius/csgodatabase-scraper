@@ -1,0 +1,370 @@
+[
+  {
+    "name": "B the Monster",
+    "weapon": "AK-47",
+    "rarity": "Covert Rifle",
+    "collection": "The Overpass 2024 Collection",
+    "price": {
+      "price_string": "$97.27 - $1769.28",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 97.27,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1769.28,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:31-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/AK-47_B_the_Monster.png"
+  },
+  {
+    "name": "Dragon Snore",
+    "weapon": "Zeus x27",
+    "rarity": "Classified Pistol",
+    "collection": "The Overpass 2024 Collection",
+    "price": {
+      "price_string": "$20.67 - $225.86",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 20.67,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 225.86,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:31-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Zeus_x27_Dragon_Snore.png"
+  },
+  {
+    "name": "Crakow!",
+    "weapon": "AWP",
+    "rarity": "Classified Sniper Rifle",
+    "collection": "The Overpass 2024 Collection",
+    "price": {
+      "price_string": "$21.89 - $396.01",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 21.89,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 396.01,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:31-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/AWP_Crakow!.png"
+  },
+  {
+    "name": "Monster Melt",
+    "weapon": "XM1014",
+    "rarity": "Restricted Shotgun",
+    "collection": "The Overpass 2024 Collection",
+    "price": {
+      "price_string": "$2.54 - $29.84",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 2.54,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 29.84,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:31-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/XM1014_Monster_Melt.png"
+  },
+  {
+    "name": "Sweet Little Angels",
+    "weapon": "Dual Berettas",
+    "rarity": "Restricted Pistol",
+    "collection": "The Overpass 2024 Collection",
+    "price": {
+      "price_string": "$2.59 - $32.22",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 2.59,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 32.22,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:31-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Dual_Berettas_Sweet_Little_Angels.png"
+  },
+  {
+    "name": "Eye of Zapems",
+    "weapon": "AUG",
+    "rarity": "Restricted Rifle",
+    "collection": "The Overpass 2024 Collection",
+    "price": {
+      "price_string": "$2.62 - $32.38",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 2.62,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 32.38,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:31-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/AUG_Eye_of_Zapems.png"
+  },
+  {
+    "name": "Wurst Hölle",
+    "weapon": "Nova",
+    "rarity": "Mil-spec Shotgun",
+    "collection": "The Overpass 2024 Collection",
+    "price": {
+      "price_string": "$0.28 - $5.45",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.28,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 5.45,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:31-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Nova_Wurst_H%C3%B6lle.png"
+  },
+  {
+    "name": "Pipsqueak",
+    "weapon": "MAC-10",
+    "rarity": "Mil-spec SMG",
+    "collection": "The Overpass 2024 Collection",
+    "price": {
+      "price_string": "$0.28 - $8.60",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.28,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 8.6,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:31-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MAC-10_Pipsqueak.png"
+  },
+  {
+    "name": "Teal Graf",
+    "weapon": "Glock-18",
+    "rarity": "Mil-spec Pistol",
+    "collection": "The Overpass 2024 Collection",
+    "price": {
+      "price_string": "$0.31 - $3.04",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.31,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 3.04,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:31-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Glock-18_Teal_Graf.png"
+  },
+  {
+    "name": "Metallic Squeezer",
+    "weapon": "Galil AR",
+    "rarity": "Mil-spec Rifle",
+    "collection": "The Overpass 2024 Collection",
+    "price": {
+      "price_string": "$0.28 - $4.00",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.28,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 4,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:31-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Galil_AR_Metallic_Squeezer.png"
+  },
+  {
+    "name": "Neon Squeezer",
+    "weapon": "MP5-SD",
+    "rarity": "Industrial SMG",
+    "collection": "The Overpass 2024 Collection",
+    "price": {
+      "price_string": "$0.04 - $0.30",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.04,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.3,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:31-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MP5-SD_Neon_Squeezer.png"
+  },
+  {
+    "name": "Wash me",
+    "weapon": "P90",
+    "rarity": "Industrial SMG",
+    "collection": "The Overpass 2024 Collection",
+    "price": {
+      "price_string": "$0.04 - $0.73",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.04,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.73,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:31-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/P90_Wash_me.png"
+  },
+  {
+    "name": "Wall Bang",
+    "weapon": "Negev",
+    "rarity": "Industrial Machine Gun",
+    "collection": "The Overpass 2024 Collection",
+    "price": {
+      "price_string": "$0.04 - $1.41",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.04,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1.41,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:31-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Negev_Wall_Bang.png"
+  },
+  {
+    "name": "Wash me plz",
+    "weapon": "M4A1-S",
+    "rarity": "Industrial Rifle",
+    "collection": "The Overpass 2024 Collection",
+    "price": {
+      "price_string": "$0.10 - $1.04",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.1,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1.04,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:31-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/M4A1-S_Wash_me_plz.png"
+  },
+  {
+    "name": "Midnight Paintover",
+    "weapon": "Five-SeveN",
+    "rarity": "Industrial Pistol",
+    "collection": "The Overpass 2024 Collection",
+    "price": {
+      "price_string": "$0.05 - $0.97",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.05,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 0.97,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:31-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Five-SeveN_Midnight_Paintover.png"
+  },
+  {
+    "name": "Tilted",
+    "weapon": "Desert Eagle",
+    "rarity": "Industrial Pistol",
+    "collection": "The Overpass 2024 Collection",
+    "price": {
+      "price_string": "$0.08 - $3.94",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 0.08,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 3.94,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:31-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Desert_Eagle_Tilted.png"
+  }
+]

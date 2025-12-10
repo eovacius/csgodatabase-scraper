@@ -1,0 +1,324 @@
+[
+  {
+    "name": "Medusa",
+    "weapon": "AWP",
+    "rarity": "Covert Sniper Rifle",
+    "collection": "The Gods and Monsters Collection",
+    "price": {
+      "price_string": "$1752.09 - $4070.45",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 1752.09,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 4070.45,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:48-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/AWP_Medusa.png"
+  },
+  {
+    "name": "Poseidon",
+    "weapon": "M4A4",
+    "rarity": "Classified Rifle",
+    "collection": "The Gods and Monsters Collection",
+    "price": {
+      "price_string": "$1531.03 - $5510.67",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 1531.03,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 5510.67,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:48-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/M4A4_Poseidon.png"
+  },
+  {
+    "name": "Icarus Fell",
+    "weapon": "M4A1-S",
+    "rarity": "Restricted Rifle",
+    "collection": "The Gods and Monsters Collection",
+    "price": {
+      "price_string": "$933.03 - $1746.53",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 933.03,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1746.53,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:48-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/M4A1-S_Icarus_Fell.png"
+  },
+  {
+    "name": "Chronos",
+    "weapon": "G3SG1",
+    "rarity": "Restricted Sniper Rifle",
+    "collection": "The Gods and Monsters Collection",
+    "price": {
+      "price_string": "$308.17 - $846.22",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 308.17,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 846.22,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:48-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/G3SG1_Chronos.png"
+  },
+  {
+    "name": "Minotaur's Labyrinth",
+    "weapon": "UMP-45",
+    "rarity": "Mil-spec SMG",
+    "collection": "The Gods and Monsters Collection",
+    "price": {
+      "price_string": "$125.96 - $291.94",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 125.96,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 291.94,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:48-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/UMP-45_Minotaur's_Labyrinth.png"
+  },
+  {
+    "name": "Pandora's Box",
+    "weapon": "MP9",
+    "rarity": "Mil-spec SMG",
+    "collection": "The Gods and Monsters Collection",
+    "price": {
+      "price_string": "$166.82 - $316.80",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 166.82,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 316.8,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:48-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MP9_Pandora's_Box.png"
+  },
+  {
+    "name": "Sun in Leo",
+    "weapon": "AWP",
+    "rarity": "Industrial Sniper Rifle",
+    "collection": "The Gods and Monsters Collection",
+    "price": {
+      "price_string": "$20.25 - $158.15",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 20.25,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 158.15,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:48-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/AWP_Sun_in_Leo.png"
+  },
+  {
+    "name": "Shipping Forecast",
+    "weapon": "M249",
+    "rarity": "Industrial Machine Gun",
+    "collection": "The Gods and Monsters Collection",
+    "price": {
+      "price_string": "$14.38 - $9999.00",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 14.38,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 9999,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:48-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/M249_Shipping_Forecast.png"
+  },
+  {
+    "name": "Hades",
+    "weapon": "Tec-9",
+    "rarity": "Industrial Pistol",
+    "collection": "The Gods and Monsters Collection",
+    "price": {
+      "price_string": "$13.96 - $88.12",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 13.96,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 88.12,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:48-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Tec-9_Hades.png"
+  },
+  {
+    "name": "Pathfinder",
+    "weapon": "P2000",
+    "rarity": "Industrial Pistol",
+    "collection": "The Gods and Monsters Collection",
+    "price": {
+      "price_string": "$15.94 - $25.41",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 15.94,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 25.41,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:48-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/P2000_Pathfinder.png"
+  },
+  {
+    "name": "Moon in Libra",
+    "weapon": "Nova",
+    "rarity": "Consumer Shotgun",
+    "collection": "The Gods and Monsters Collection",
+    "price": {
+      "price_string": "$4.12 - $9.09",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 4.12,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 9.09,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:48-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Nova_Moon_in_Libra.png"
+  },
+  {
+    "name": "Daedalus",
+    "weapon": "AUG",
+    "rarity": "Consumer Rifle",
+    "collection": "The Gods and Monsters Collection",
+    "price": {
+      "price_string": "$3.86 - $32.26",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 3.86,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 32.26,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:48-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/AUG_Daedalus.png"
+  },
+  {
+    "name": "Moon in Libra",
+    "weapon": "Dual Berettas",
+    "rarity": "Consumer Pistol",
+    "collection": "The Gods and Monsters Collection",
+    "price": {
+      "price_string": "$4.00 - $16.84",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 4,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 16.84,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:48-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Dual_Berettas_Moon_in_Libra.png"
+  },
+  {
+    "name": "Asterion",
+    "weapon": "MP7",
+    "rarity": "Consumer SMG",
+    "collection": "The Gods and Monsters Collection",
+    "price": {
+      "price_string": "$4.33 - $25.00",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 4.33,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 25,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:48-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MP7_Asterion.png"
+  }
+]

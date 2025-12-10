@@ -1,0 +1,945 @@
+[
+  {
+    "name": "Dragonfire",
+    "weapon": "SSG 08",
+    "rarity": "Covert Sniper Rifle",
+    "collection": "The Glove Collection",
+    "price": {
+      "price_string": "$420.38 - $879.09",
+      "price_stattrak_string": "$42.51 - $366.57",
+      "currency": "USD",
+      "min": {
+        "value": 420.38,
+        "stattrak_value": 42.51,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 879.09,
+        "stattrak_value": 366.57,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:38-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/SSG_08_Dragonfire.png"
+  },
+  {
+    "name": "Buzz Kill",
+    "weapon": "M4A4",
+    "rarity": "Covert Rifle",
+    "collection": "The Glove Collection",
+    "price": {
+      "price_string": "$277.77 - $1578.26",
+      "price_stattrak_string": "$90.74 - $999.00",
+      "currency": "USD",
+      "min": {
+        "value": 277.77,
+        "stattrak_value": 90.74,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1578.26,
+        "stattrak_value": 999,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:38-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/M4A4_Buzz_Kill.png"
+  },
+  {
+    "name": "Mecha Industries",
+    "weapon": "FAMAS",
+    "rarity": "Classified Rifle",
+    "collection": "The Glove Collection",
+    "price": {
+      "price_string": "$39.81 - $1500.00",
+      "price_stattrak_string": "$5.61 - $64.23",
+      "currency": "USD",
+      "min": {
+        "value": 39.81,
+        "stattrak_value": 5.61,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1500,
+        "stattrak_value": 64.23,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:38-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/FAMAS_Mecha_Industries.png"
+  },
+  {
+    "name": "Shallow Grave",
+    "weapon": "P90",
+    "rarity": "Classified SMG",
+    "collection": "The Glove Collection",
+    "price": {
+      "price_string": "$45.68 - $1911.00",
+      "price_stattrak_string": "$3.92 - $1950.00",
+      "currency": "USD",
+      "min": {
+        "value": 45.68,
+        "stattrak_value": 3.92,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1911,
+        "stattrak_value": 1950,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:38-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/P90_Shallow_Grave.png"
+  },
+  {
+    "name": "Wasteland Princess",
+    "weapon": "Sawed-Off",
+    "rarity": "Classified Shotgun",
+    "collection": "The Glove Collection",
+    "price": {
+      "price_string": "$45.54 - $154.83",
+      "price_stattrak_string": "$11.51 - $69.29",
+      "currency": "USD",
+      "min": {
+        "value": 45.54,
+        "stattrak_value": 11.51,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 154.83,
+        "stattrak_value": 69.29,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:38-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Sawed-Off_Wasteland_Princess.png"
+  },
+  {
+    "name": "Royal Consorts",
+    "weapon": "Dual Berettas",
+    "rarity": "Restricted Pistol",
+    "collection": "The Glove Collection",
+    "price": {
+      "price_string": "$3.75 - $18.32",
+      "price_stattrak_string": "$1.42 - $18.89",
+      "currency": "USD",
+      "min": {
+        "value": 3.75,
+        "stattrak_value": 1.42,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 18.32,
+        "stattrak_value": 18.89,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:38-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Dual_Berettas_Royal_Consorts.png"
+  },
+  {
+    "name": "Stinger",
+    "weapon": "G3SG1",
+    "rarity": "Restricted Sniper Rifle",
+    "collection": "The Glove Collection",
+    "price": {
+      "price_string": "$4.98 - $16.44",
+      "price_stattrak_string": "$1.33 - $57.10",
+      "currency": "USD",
+      "min": {
+        "value": 4.98,
+        "stattrak_value": 1.33,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 16.44,
+        "stattrak_value": 57.1,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:38-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/G3SG1_Stinger.png"
+  },
+  {
+    "name": "Flashback",
+    "weapon": "M4A1-S",
+    "rarity": "Restricted Rifle",
+    "collection": "The Glove Collection",
+    "price": {
+      "price_string": "$4.02 - $40.88",
+      "price_stattrak_string": "$3.18 - $24.87",
+      "currency": "USD",
+      "min": {
+        "value": 4.02,
+        "stattrak_value": 3.18,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 40.88,
+        "stattrak_value": 24.87,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:38-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/M4A1-S_Flashback.png"
+  },
+  {
+    "name": "Gila",
+    "weapon": "Nova",
+    "rarity": "Restricted Shotgun",
+    "collection": "The Glove Collection",
+    "price": {
+      "price_string": "$4.79 - $3131.00",
+      "price_stattrak_string": "$1.56 - $11.93",
+      "currency": "USD",
+      "min": {
+        "value": 4.79,
+        "stattrak_value": 1.56,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 3131,
+        "stattrak_value": 11.93,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:38-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Nova_Gila.png"
+  },
+  {
+    "name": "Cyrex",
+    "weapon": "USP-S",
+    "rarity": "Restricted Pistol",
+    "collection": "The Glove Collection",
+    "price": {
+      "price_string": "$3.94 - $15.89",
+      "price_stattrak_string": "$3.73 - $20.96",
+      "currency": "USD",
+      "min": {
+        "value": 3.94,
+        "stattrak_value": 3.73,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 15.89,
+        "stattrak_value": 20.96,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:38-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/USP-S_Cyrex.png"
+  },
+  {
+    "name": "Polymer",
+    "weapon": "CZ75-Auto",
+    "rarity": "Mil-spec Pistol",
+    "collection": "The Glove Collection",
+    "price": {
+      "price_string": "$0.65 - $3.96",
+      "price_stattrak_string": "$0.24 - $210.00",
+      "currency": "USD",
+      "min": {
+        "value": 0.65,
+        "stattrak_value": 0.24,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 3.96,
+        "stattrak_value": 210,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:38-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/CZ75-Auto_Polymer.png"
+  },
+  {
+    "name": "Ironwork",
+    "weapon": "Glock-18",
+    "rarity": "Mil-spec Pistol",
+    "collection": "The Glove Collection",
+    "price": {
+      "price_string": "$0.50 - $50.00",
+      "price_stattrak_string": "$0.46 - $14.34",
+      "currency": "USD",
+      "min": {
+        "value": 0.5,
+        "stattrak_value": 0.46,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 50,
+        "stattrak_value": 14.34,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:38-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Glock-18_Ironwork.png"
+  },
+  {
+    "name": "Cirrus",
+    "weapon": "MP7",
+    "rarity": "Mil-spec SMG",
+    "collection": "The Glove Collection",
+    "price": {
+      "price_string": "$0.53 - $3.18",
+      "price_stattrak_string": "$0.54 - $5.18",
+      "currency": "USD",
+      "min": {
+        "value": 0.53,
+        "stattrak_value": 0.54,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 3.18,
+        "stattrak_value": 5.18,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:38-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MP7_Cirrus.png"
+  },
+  {
+    "name": "Black Sand",
+    "weapon": "Galil AR",
+    "rarity": "Mil-spec Rifle",
+    "collection": "The Glove Collection",
+    "price": {
+      "price_string": "$0.49 - $5.13",
+      "price_stattrak_string": "$0.28 - $4.48",
+      "currency": "USD",
+      "min": {
+        "value": 0.49,
+        "stattrak_value": 0.28,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 5.13,
+        "stattrak_value": 4.48,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:38-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Galil_AR_Black_Sand.png"
+  },
+  {
+    "name": "Sand Scale",
+    "weapon": "MP9",
+    "rarity": "Mil-spec SMG",
+    "collection": "The Glove Collection",
+    "price": {
+      "price_string": "$0.49 - $3.55",
+      "price_stattrak_string": "$0.36 - $1.60",
+      "currency": "USD",
+      "min": {
+        "value": 0.49,
+        "stattrak_value": 0.36,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 3.55,
+        "stattrak_value": 1.6,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:38-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MP9_Sand_Scale.png"
+  },
+  {
+    "name": "Sonar",
+    "weapon": "MAG-7",
+    "rarity": "Mil-spec Shotgun",
+    "collection": "The Glove Collection",
+    "price": {
+      "price_string": "$0.60 - $8.50",
+      "price_stattrak_string": "$0.24 - $18.20",
+      "currency": "USD",
+      "min": {
+        "value": 0.6,
+        "stattrak_value": 0.24,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 8.5,
+        "stattrak_value": 18.2,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:38-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MAG-7_Sonar.png"
+  },
+  {
+    "name": "Turf",
+    "weapon": "P2000",
+    "rarity": "Mil-spec Pistol",
+    "collection": "The Glove Collection",
+    "price": {
+      "price_string": "$0.60 - $6.63",
+      "price_stattrak_string": "$0.31 - $5.48",
+      "currency": "USD",
+      "min": {
+        "value": 0.6,
+        "stattrak_value": 0.31,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 6.63,
+        "stattrak_value": 5.48,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:38-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/P2000_Turf.png"
+  },
+  {
+    "name": "Bronzed",
+    "weapon": "★ Bloodhound Gloves",
+    "rarity": "Extraordinary Gloves",
+    "collection": "",
+    "price": {
+      "price_string": "$107.14 - $767.78",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 107.14,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 767.78,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:38-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/gloves/Bloodhound_Gloves_Bronzed.png"
+  },
+  {
+    "name": "Charred",
+    "weapon": "★ Bloodhound Gloves",
+    "rarity": "Extraordinary Gloves",
+    "collection": "",
+    "price": {
+      "price_string": "$120.71 - $763.52",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 120.71,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 763.52,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:38-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/gloves/Bloodhound_Gloves_Charred.png"
+  },
+  {
+    "name": "Guerrilla",
+    "weapon": "★ Bloodhound Gloves",
+    "rarity": "Extraordinary Gloves",
+    "collection": "",
+    "price": {
+      "price_string": "$109.64 - $1391.04",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 109.64,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1391.04,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:38-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/gloves/Bloodhound_Gloves_Guerrilla.png"
+  },
+  {
+    "name": "Snakebite",
+    "weapon": "★ Bloodhound Gloves",
+    "rarity": "Extraordinary Gloves",
+    "collection": "",
+    "price": {
+      "price_string": "$97.72 - $2559.61",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 97.72,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 2559.61,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:38-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/gloves/Bloodhound_Gloves_Snakebite.png"
+  },
+  {
+    "name": "Convoy",
+    "weapon": "★ Driver Gloves",
+    "rarity": "Extraordinary Gloves",
+    "collection": "",
+    "price": {
+      "price_string": "$116.77 - $937.84",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 116.77,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 937.84,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:38-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/gloves/Driver_Gloves_Convoy.png"
+  },
+  {
+    "name": "Crimson Weave",
+    "weapon": "★ Driver Gloves",
+    "rarity": "Extraordinary Gloves",
+    "collection": "",
+    "price": {
+      "price_string": "$221.30 - $5045.52",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 221.3,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 5045.52,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:38-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/gloves/Driver_Gloves_Crimson_Weave.png"
+  },
+  {
+    "name": "Diamondback",
+    "weapon": "★ Driver Gloves",
+    "rarity": "Extraordinary Gloves",
+    "collection": "",
+    "price": {
+      "price_string": "$171.09 - $3124.64",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 171.09,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 3124.64,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:38-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/gloves/Driver_Gloves_Diamondback.png"
+  },
+  {
+    "name": "Lunar Weave",
+    "weapon": "★ Driver Gloves",
+    "rarity": "Extraordinary Gloves",
+    "collection": "",
+    "price": {
+      "price_string": "$150.15 - $4028.47",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 150.15,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 4028.47,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:38-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/gloves/Driver_Gloves_Lunar_Weave.png"
+  },
+  {
+    "name": "Badlands",
+    "weapon": "★ Hand Wraps",
+    "rarity": "Extraordinary Gloves",
+    "collection": "",
+    "price": {
+      "price_string": "$214.62 - $2433.45",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 214.62,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 2433.45,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:38-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/gloves/Hand_Wraps_Badlands.png"
+  },
+  {
+    "name": "Leather",
+    "weapon": "★ Hand Wraps",
+    "rarity": "Extraordinary Gloves",
+    "collection": "",
+    "price": {
+      "price_string": "$261.52 - $2364.03",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 261.52,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 2364.03,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:38-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/gloves/Hand_Wraps_Leather.png"
+  },
+  {
+    "name": "Slaughter",
+    "weapon": "★ Hand Wraps",
+    "rarity": "Extraordinary Gloves",
+    "collection": "",
+    "price": {
+      "price_string": "$252.69 - $1858.45",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 252.69,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1858.45,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:38-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/gloves/Hand_Wraps_Slaughter.png"
+  },
+  {
+    "name": "Spruce DDPAT",
+    "weapon": "★ Hand Wraps",
+    "rarity": "Extraordinary Gloves",
+    "collection": "",
+    "price": {
+      "price_string": "$145.37 - $1317.38",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 145.37,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1317.38,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:38-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/gloves/Hand_Wraps_Spruce_DDPAT.png"
+  },
+  {
+    "name": "Boom!",
+    "weapon": "★ Moto Gloves",
+    "rarity": "Extraordinary Gloves",
+    "collection": "",
+    "price": {
+      "price_string": "$124.66 - $6231.39",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 124.66,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 6231.39,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:38-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/gloves/Moto_Gloves_Boom!.png"
+  },
+  {
+    "name": "Cool Mint",
+    "weapon": "★ Moto Gloves",
+    "rarity": "Extraordinary Gloves",
+    "collection": "",
+    "price": {
+      "price_string": "$262.03 - $5356.85",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 262.03,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 5356.85,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:38-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/gloves/Moto_Gloves_Cool_Mint.png"
+  },
+  {
+    "name": "Eclipse",
+    "weapon": "★ Moto Gloves",
+    "rarity": "Extraordinary Gloves",
+    "collection": "",
+    "price": {
+      "price_string": "$123.07 - $1143.34",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 123.07,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1143.34,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:38-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/gloves/Moto_Gloves_Eclipse.png"
+  },
+  {
+    "name": "Spearmint",
+    "weapon": "★ Moto Gloves",
+    "rarity": "Extraordinary Gloves",
+    "collection": "",
+    "price": {
+      "price_string": "$524.54 - $5728.15",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 524.54,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 5728.15,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:38-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/gloves/Moto_Gloves_Spearmint.png"
+  },
+  {
+    "name": "Crimson Kimono",
+    "weapon": "★ Specialist Gloves",
+    "rarity": "Extraordinary Gloves",
+    "collection": "",
+    "price": {
+      "price_string": "$1500.00 - $15306.12",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 1500,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 15306.12,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:38-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/gloves/Specialist_Gloves_Crimson_Kimono.png"
+  },
+  {
+    "name": "Emerald Web",
+    "weapon": "★ Specialist Gloves",
+    "rarity": "Extraordinary Gloves",
+    "collection": "",
+    "price": {
+      "price_string": "$588.15 - $5789.17",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 588.15,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 5789.17,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:38-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/gloves/Specialist_Gloves_Emerald_Web.png"
+  },
+  {
+    "name": "Forest DDPAT",
+    "weapon": "★ Specialist Gloves",
+    "rarity": "Extraordinary Gloves",
+    "collection": "",
+    "price": {
+      "price_string": "$135.98 - $1140.30",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 135.98,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1140.3,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:38-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/gloves/Specialist_Gloves_Forest_DDPAT.png"
+  },
+  {
+    "name": "Foundation",
+    "weapon": "★ Specialist Gloves",
+    "rarity": "Extraordinary Gloves",
+    "collection": "",
+    "price": {
+      "price_string": "$269.12 - $4091.95",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 269.12,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 4091.95,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:38-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/gloves/Specialist_Gloves_Foundation.png"
+  },
+  {
+    "name": "Arid",
+    "weapon": "★ Sport Gloves",
+    "rarity": "Extraordinary Gloves",
+    "collection": "",
+    "price": {
+      "price_string": "$412.30 - $6923.41",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 412.3,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 6923.41,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:38-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/gloves/Sport_Gloves_Arid.png"
+  },
+  {
+    "name": "Hedge Maze",
+    "weapon": "★ Sport Gloves",
+    "rarity": "Extraordinary Gloves",
+    "collection": "",
+    "price": {
+      "price_string": "$1779.16 - $11000.00",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 1779.16,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 11000,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:38-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/gloves/Sport_Gloves_Hedge_Maze.png"
+  },
+  {
+    "name": "Pandora's Box",
+    "weapon": "★ Sport Gloves",
+    "rarity": "Extraordinary Gloves",
+    "collection": "",
+    "price": {
+      "price_string": "$1800.00 - $9273.57",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 1800,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 9273.57,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:38-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/gloves/Sport_Gloves_Pandora's_Box.png"
+  },
+  {
+    "name": "Superconductor",
+    "weapon": "★ Sport Gloves",
+    "rarity": "Extraordinary Gloves",
+    "collection": "",
+    "price": {
+      "price_string": "$1228.97 - $15000.00",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 1228.97,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 15000,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:52:38-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/gloves/Sport_Gloves_Superconductor.png"
+  }
+]

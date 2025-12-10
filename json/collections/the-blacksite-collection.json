@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Lab Rats",
+    "weapon": "MP5-SD",
+    "rarity": "Restricted SMG",
+    "collection": "The Blacksite Collection",
+    "price": {
+      "price_string": "$0.25 - $1.00",
+      "price_stattrak_string": "$0.25 - $1.00",
+      "currency": "USD",
+      "min": {
+        "value": 0.25,
+        "stattrak_value": 0.25,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1,
+        "stattrak_value": 1,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:10-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MP5-SD_Lab_Rats.png"
+  }
+]

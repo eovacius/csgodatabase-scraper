@@ -1,0 +1,140 @@
+[
+  {
+    "name": "Whiteout",
+    "weapon": "MP7",
+    "rarity": "Mil-spec SMG",
+    "collection": "The Office Collection",
+    "price": {
+      "price_string": "$19.85 - $1200.00",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 19.85,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 1200,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:05-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/MP7_Whiteout.png"
+  },
+  {
+    "name": "Silver",
+    "weapon": "P2000",
+    "rarity": "Mil-spec Pistol",
+    "collection": "The Office Collection",
+    "price": {
+      "price_string": "$28.33 - $115.42",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 28.33,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 115.42,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:05-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/P2000_Silver.png"
+  },
+  {
+    "name": "Blizzard Marbleized",
+    "weapon": "M249",
+    "rarity": "Industrial Machine Gun",
+    "collection": "The Office Collection",
+    "price": {
+      "price_string": "$17.43 - $58.38",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 17.43,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 58.38,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:05-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/M249_Blizzard_Marbleized.png"
+  },
+  {
+    "name": "Arctic Camo",
+    "weapon": "G3SG1",
+    "rarity": "Industrial Sniper Rifle",
+    "collection": "The Office Collection",
+    "price": {
+      "price_string": "$5.80 - $9999.00",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 5.8,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 9999,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:05-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/G3SG1_Arctic_Camo.png"
+  },
+  {
+    "name": "Winter Forest",
+    "weapon": "Galil AR",
+    "rarity": "Industrial Rifle",
+    "collection": "The Office Collection",
+    "price": {
+      "price_string": "$7.76 - $281.75",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 7.76,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 281.75,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:05-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/Galil_AR_Winter_Forest.png"
+  },
+  {
+    "name": "Contrast Spray",
+    "weapon": "FAMAS",
+    "rarity": "Consumer Rifle",
+    "collection": "The Office Collection",
+    "price": {
+      "price_string": "$2.19 - $350.31",
+      "price_stattrak_string": "",
+      "currency": "USD",
+      "min": {
+        "value": 2.19,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "max": {
+        "value": 350.31,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-10T03:53:05-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/skins/FAMAS_Contrast_Spray.png"
+  }
+]
