@@ -34,12 +34,13 @@ Example json:
 ## Script offers:
 
 1. **Structured data** Pre‑scraped and well‑organized JSON files available in the `json` folder.
-2. **Live market prices** Detailed pricing ranges that most scrapers don’t provide.
-3. **Fresh scraping** Run the script anytime to fetch up‑to‑date skin data and latest prices.
-4. **Configuration** Flexible options stored in the `config` folder for easy adjustments.
-5. **Speed** Uses goroutines to scrape asynchronously and significantly reduce total runtime.
-6. **Stealth** Built‑in safe delays ensure Cloudflare is not triggered under default settings.
-7. **JS proof** 100% reliable scraping even on JS heavy site like <strong>csgo-database</strong>.
+2. **All items** cases, collections, souvenirs, agents, stickers, packages...
+3. **Live market prices** Detailed pricing ranges that most scrapers don’t provide.
+4. **Fresh scraping** Run the script anytime to fetch up‑to‑date skin data and latest prices.
+5. **Configuration** Flexible options stored in the `config` folder for easy adjustments.
+6. **Speed** Uses goroutines to scrape asynchronously and significantly reduce total runtime.
+7. **Stealth** Built‑in safe delays ensure Cloudflare is not triggered under default settings.
+8. **JS proof** 100% reliable scraping even on JS heavy site like <strong>csgo-database</strong>.
 
 
 <strong>Disclaimer!</strong>
@@ -87,7 +88,7 @@ go mod tidy
 ```bash
 go run .
 ```
-4. **Apply flags**
+4. **Apply flags** (optional)
 
 
 - `--aggressive` — scrape aggressively without delay (less safe but much faster).

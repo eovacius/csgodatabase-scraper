@@ -97,15 +97,15 @@ func SpecialMark(weapon string) string {
 func SaveJSON(path string, data interface{}) {
 	file, err := json.MarshalIndent(data, "", "  ")
 	if err != nil {
-		fmt.Printf("[!] Failed to marshal JSON: %v\n", err)
+		fmt.Printf("\033[31m[!]\033[0m Failed to marshal JSON: %v\n", err)
 		return
 	}
 
 	err = os.WriteFile(path, file, 0644)
 	if err != nil {
-		fmt.Printf("[!] Failed to write file %s: %v\n", path, err)
+		fmt.Printf("\033[31m[!]\033[0m Failed to write file %s: %v\n", path, err)
 		return
 	}
 
-	fmt.Printf("[+] Saved: %s\n", path)
+	fmt.Printf("\033[32m[+]\033[0m Saved: %s\n", path)
 }

@@ -27,16 +27,16 @@ func main() {
 
 	skins, err := scraper.ScrapeSkins()
 	if err != nil {
-		log.Fatalf("[!] Error during scraping: %v", err)
+		log.Fatalf("\033[31m[!]\033[0m Error during scraping: %v", err)
 	}
 
 	if len(skins) == 0 {
-		log.Fatalf("[!] No skins were scraped! Exiting...")
+		log.Fatalf("\033[31m[!]\033[0m No skins were scraped! Exiting...")
 	}
 
 	jsonData, err := json.MarshalIndent(skins, "", "  ")
 	if err != nil {
-		log.Fatalf("[!] Error marshaling JSON: %v", err)
+		log.Fatalf("\033[31m[!]\033[0m Error marshaling JSON: %v", err)
 	}
 
 	// generate filename with current date
@@ -45,8 +45,8 @@ func main() {
 
 	err = os.WriteFile(filename, jsonData, 0644)
 	if err != nil {
-		log.Fatalf("[!] Error writing to file: %v", err)
+		log.Fatalf("\033[31m[!]\033[0m Error writing to file: %v", err)
 	}
 
-	fmt.Println("\n[+] Done. See files inside json folder")
+	fmt.Println("\n\033[32m[+]\033[0m Done. See files inside json folder")
 }

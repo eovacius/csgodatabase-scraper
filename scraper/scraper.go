@@ -5,6 +5,7 @@ import (
 	_ "embed"
 	"fmt"
 	"os"
+	"strings"
 	"sync"
 
 	"github.com/chromedp/chromedp"
@@ -21,7 +22,7 @@ var ConfigJS string
 // Run func executes the scraping process and returns a slice of Skin structs with error if any.
 func ScrapeSkins() ([]config.Skin, error) {
 	// fancy ascii title ;)
-	fmt.Print(`
+	fmt.Print("\033[34m" + `
    ____  ____     ____    ____      ____    ____        _       ____   U _____ u   ____     
 U /"___|/ __"| u |___"\  / __"| uU /"___|U |  _"\ u U  /"\  u U|  _"\ u\| ___"|/U |  _"\ u  
 \| | u <\___ \/  U __) |<\___ \/ \| | u   \| |_) |/  \/ _ \/  \| |_) |/ |  _|"   \| |_) |/  
@@ -29,7 +30,7 @@ U /"___|/ __"| u |___"\  / __"| uU /"___|U |  _"\ u U  /"\  u U|  _"\ u\| ___"|/
   \____||____/>> |_____|u|____/>>  \____|  |_| \_\  /_/   \_\  |_|      |_____|   |_| \_\   
  _// \\  )(  (__)<<  //   )(  (__)_// \\   //   \\_  \\    >>  ||>>_    <<   >>   //   \\_  
 (__)(__)(__)    (__)(__) (__)    (__)(__) (__)  (__)(__)  (__)(__)__)  (__) (__) (__)  (__) 
-		`)
+		` + "\033[0m")
 
 	allocCtx, cancel := chromedp.NewExecAllocator(context.Background(), config.Opts...)
 	defer cancel()
@@ -70,7 +71,7 @@ func spawnWorker(browserCtx context.Context, wg *sync.WaitGroup, target *[]confi
 		defer cancel()
 
 		*target = scrapeList(ictx, list, name)
-		fmt.Printf("[+] done %s\n", name)
+		fmt.Printf("\033[32m[+]\033[0m Done %s\n", name)
 	}()
 }
 
@@ -79,46 +80,77 @@ func scrapeList(ctx context.Context, list []string, key string) []config.Skin {
 	path := "json/" + key
 	_ = os.Mkdir(path, 0755)
 
+	const maxRetries = 2
+
 	for _, item := range list {
 		url := config.Target + "/" + key + "/" + item + "/"
 
-		fmt.Printf("Trying to scrape: %s\n", url)
-
-		var pageTitle string
-		var rawData []map[string]string
-
-		err := chromedp.Run(ctx,
-			chromedp.Navigate(url),
-			chromedp.Evaluate(string(ConfigJS), nil),
-			chromedp.Sleep(config.Delay),
-			chromedp.Title(&pageTitle),
-			chromedp.Evaluate(string(ScriptJS), &rawData),
-		)
-		if err != nil {
-			fmt.Printf("\nchromedp error: %v\n", err)
-			continue
-		}
-
 		var skins []config.Skin
-		for _, data := range rawData {
-			skins = append(skins, config.Skin{
-				Name:       data["name"],
-				Weapon:     internal.SpecialMark(data["weapon"]),
-				Rarity:     data["rarity"],
-				Collection: data["collection"],
-				Price:      internal.ParsePrice(data["price"], data["stattrakPrice"]),
-				URL:        data["url"],
-			})
+		success := false
+
+		for attempt := 0; attempt <= maxRetries && !success; attempt++ {
+			if attempt == 0 {
+				fmt.Printf("Scraping: %s\n", url)
+			} else {
+				fmt.Printf("Retry %d/%d: %s\n", attempt, maxRetries, url)
+			}
+
+			var pageTitle string
+			var rawData []map[string]string
+
+			err := chromedp.Run(ctx,
+				chromedp.Navigate(url),
+				chromedp.Evaluate(string(ConfigJS), nil),
+				chromedp.Sleep(config.Delay),
+				chromedp.Title(&pageTitle),
+				chromedp.Evaluate(string(ScriptJS), &rawData),
+			)
+
+			if err != nil {
+				fmt.Printf("\033[31m[!]\033[0m chromedp error: %v\n", err)
+				continue
+			}
+
+			if strings.Contains(strings.ToLower(pageTitle), "page not found") {
+				fmt.Printf("\033[31m[!]\033[0m 404 Page not found\n")
+				break
+			}
+
+			if strings.Contains(strings.ToLower(pageTitle), "verify") ||
+				strings.Contains(strings.ToLower(pageTitle), "human") ||
+
+				// thats to test detection retry logic
+				// strings.Contains(strings.ToLower(pageTitle), "the 2018 inferno collection skins - csgo database") ||
+				strings.Contains(strings.ToLower(pageTitle), "just a moment") {
+				fmt.Printf("\033[31m[!]\033[0m Detection triggered\n")
+				continue
+			}
+
+			for _, data := range rawData {
+				skins = append(skins, config.Skin{
+					Name:       data["name"],
+					Weapon:     internal.SpecialMark(data["weapon"]),
+					Rarity:     data["rarity"],
+					Collection: data["collection"],
+					Price:      internal.ParsePrice(data["price"], data["stattrakPrice"]),
+					URL:        data["url"],
+				})
+			}
+
+			if len(skins) == 0 {
+				fmt.Printf("\033[31m[!]\033[0m No skins found\n")
+				continue
+			}
+			success = true
 		}
 
-		if len(skins) == 0 {
-			fmt.Printf("[!] No skins found for %s\n", item)
+		if !success {
+			fmt.Printf("\033[31m[!]\033[0m Failed after %d attempts: %s\n", maxRetries+1, url)
 			continue
 		}
 
 		filename := fmt.Sprintf("%s/%s.json", path, item)
 		internal.SaveJSON(filename, skins)
-
 		allSkins = append(allSkins, skins...)
 	}
 
