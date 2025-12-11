@@ -4,9 +4,11 @@ import (
 	"context"
 	_ "embed"
 	"fmt"
+	"math/rand"
 	"os"
 	"strings"
 	"sync"
+	"time"
 
 	"github.com/chromedp/chromedp"
 	"github.com/eovacius/csgodatabase-scraper/internal"
@@ -108,11 +110,11 @@ func scrapeList(ctx context.Context, list []string, key string) []config.Skin {
 
 			if err != nil {
 				fmt.Printf("\033[31m[!]\033[0m chromedp error: %v\n", err)
-				continue
+				break
 			}
 
 			if strings.Contains(strings.ToLower(pageTitle), "page not found") {
-				fmt.Printf("\033[31m[!]\033[0m 404 Page not found\n")
+				fmt.Printf("\033[33m[?]\033[0m 404 Page not found: %s\n", url)
 				break
 			}
 
@@ -122,7 +124,14 @@ func scrapeList(ctx context.Context, list []string, key string) []config.Skin {
 				// thats to test detection retry logic
 				// strings.Contains(strings.ToLower(pageTitle), "the 2018 inferno collection skins - csgo database") ||
 				strings.Contains(strings.ToLower(pageTitle), "just a moment") {
-				fmt.Printf("\033[31m[!]\033[0m Detection triggered\n")
+
+				if attempt == 0 {
+					fmt.Printf("\033[31m[!]\033[0m Detection triggered! Switching to stealth mode...\n")
+				} else {
+					fmt.Printf("\033[31m[!]\033[0m Detection triggered!\n")
+				}
+				randomMs := 500 + rand.Intn(1500)
+				config.Delay += time.Duration(randomMs) * time.Millisecond
 				continue
 			}
 
@@ -145,7 +154,7 @@ func scrapeList(ctx context.Context, list []string, key string) []config.Skin {
 		}
 
 		if !success {
-			fmt.Printf("\033[31m[!]\033[0m Failed after %d attempts: %s\n", maxRetries+1, url)
+			fmt.Printf("\033[31m[!]\033[0m Failed to scrape: %s\n", url)
 			continue
 		}
 

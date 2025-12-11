@@ -86,14 +86,18 @@ go mod tidy
 3. **Run script in root**
 
 ```bash
-go run .
+go run . # [duration: ~45-60s]
 ```
 4. **Apply flags** (optional)
 
 
-- `--aggressive` — scrape aggressively without delay (less safe but much faster).
+- `--aggressive` — scrape aggressively without delay (less safe but much faster) [duration: ~10-20s]
 
 ```bash
+go run . --aggressive
+```
+
+```bash — scrape in stealth mode with more humanized and random timed requests (goes undetected but much slower) [duration: ~90s-120s]
 go run . --aggressive
 ```
 

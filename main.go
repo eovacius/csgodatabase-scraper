@@ -5,6 +5,7 @@ import (
 	"flag"
 	"fmt"
 	"log"
+	"math/rand"
 	"os"
 	"time"
 
@@ -15,12 +16,18 @@ import (
 func main() {
 	// cli flags
 	aggressive := flag.Bool("aggressive", false, "Run scraper aggressively (less delay)")
+	stealth := flag.Bool("stealth", false, "Run scraper in stealth mode (randomized and more human like delay)")
 
 	flag.Parse()
 
 	if *aggressive {
 		config.Delay = 0 * time.Millisecond
 		fmt.Println("Aggressive mode. Delay:", config.Delay)
+	}
+
+	if *stealth {
+		randomMs := 500 + rand.Intn(1500)
+		config.Delay += time.Duration(randomMs) * time.Millisecond
 	}
 
 	fmt.Println("[*] Starting scraper...")
