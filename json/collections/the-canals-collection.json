@@ -5,7 +5,7 @@
     "rarity": "Covert Sniper Rifle",
     "collection": "The Canals Collection",
     "price": {
-      "price_string": "$1775.46 - $5801.70",
+      "price_string": "$1775.46 - $5793.33",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -14,11 +14,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 5801.7,
+        "value": 5793.33,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:54-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AWP_The_Prince.png"
   },
@@ -28,7 +28,7 @@
     "rarity": "Classified Shotgun",
     "collection": "The Canals Collection",
     "price": {
-      "price_string": "$401.91 - $1266.74",
+      "price_string": "$401.91 - $1243.66",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -37,11 +37,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 1266.74,
+        "value": 1243.66,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:54-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MAG-7_Cinquedea.png"
   },
@@ -51,7 +51,7 @@
     "rarity": "Restricted SMG",
     "collection": "The Canals Collection",
     "price": {
-      "price_string": "$104.31 - $515.59",
+      "price_string": "$104.31 - $541.37",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -60,11 +60,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 515.59,
+        "value": 541.37,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:54-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MP9_Stained_Glass.png"
   },
@@ -74,7 +74,7 @@
     "rarity": "Restricted SMG",
     "collection": "The Canals Collection",
     "price": {
-      "price_string": "$95.60 - $180.98",
+      "price_string": "$95.60 - $220.00",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -83,11 +83,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 180.98,
+        "value": 220,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:54-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MAC-10_Red_Filigree.png"
   },
@@ -110,7 +110,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:54-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Nova_Baroque_Orange.png"
   },
@@ -133,7 +133,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:54-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Dual_Berettas_Emerald.png"
   },
@@ -156,7 +156,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:54-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/G3SG1_Violet_Murano.png"
   },
@@ -166,11 +166,11 @@
     "rarity": "Mil-spec Sniper Rifle",
     "collection": "The Canals Collection",
     "price": {
-      "price_string": "$22.97 - $1365.10",
+      "price_string": "$22.68 - $1365.10",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 22.97,
+        "value": 22.68,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -179,7 +179,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:54-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SSG_08_Orange_Filigree.png"
   },
@@ -189,11 +189,11 @@
     "rarity": "Mil-spec SMG",
     "collection": "The Canals Collection",
     "price": {
-      "price_string": "$23.17 - $145.83",
+      "price_string": "$20.52 - $145.83",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 23.17,
+        "value": 20.52,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -202,7 +202,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:54-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P90_Baroque_Red.png"
   },
@@ -212,20 +212,20 @@
     "rarity": "Industrial Rifle",
     "collection": "The Canals Collection",
     "price": {
-      "price_string": "$5.61 - $154.01",
+      "price_string": "$5.56 - $150.72",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 5.61,
+        "value": 5.56,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 154.01,
+        "value": 150.72,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:54-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AK-47_Baroque_Purple.png"
   },
@@ -248,7 +248,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:54-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SG_553_Candy_Apple.png"
   },
@@ -258,11 +258,11 @@
     "rarity": "Industrial Pistol",
     "collection": "The Canals Collection",
     "price": {
-      "price_string": "$3.66 - $70000.00",
+      "price_string": "$3.83 - $70000.00",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 3.66,
+        "value": 3.83,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -271,7 +271,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:54-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Tec-9_Orange_Murano.png"
   },
@@ -281,11 +281,11 @@
     "rarity": "Industrial Pistol",
     "collection": "The Canals Collection",
     "price": {
-      "price_string": "$4.50 - $40.00",
+      "price_string": "$4.48 - $40.00",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 4.5,
+        "value": 4.48,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -294,7 +294,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:54-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P250_Dark_Filigree.png"
   },
@@ -317,7 +317,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:54-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/CZ75-Auto_Indigo.png"
   },
@@ -340,7 +340,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:54-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/R8_Revolver_Canal_Spray.png"
   },
@@ -363,7 +363,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:54-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AUG_Navy_Murano.png"
   },
@@ -386,7 +386,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:54-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Negev_Boroque_Sand.png"
   },
@@ -409,7 +409,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:54-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SCAR-20_Stone_Mosaico.png"
   }

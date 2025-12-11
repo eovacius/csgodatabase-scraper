@@ -18,7 +18,7 @@
         "stattrak_value": 2028.31,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/M4A1-S_Imminent_Danger.png"
   },
@@ -28,20 +28,20 @@
     "rarity": "Classified Pistol",
     "collection": "The 2021 Vertigo Collection",
     "price": {
-      "price_string": "$278.52 - $549.48",
-      "price_stattrak_string": "$70.87 - $210.18",
+      "price_string": "$282.80 - $499.99",
+      "price_stattrak_string": "$69.87 - $210.18",
       "currency": "USD",
       "min": {
-        "value": 278.52,
-        "stattrak_value": 70.87,
+        "value": 282.8,
+        "stattrak_value": 69.87,
         "unit": "USD"
       },
       "max": {
-        "value": 549.48,
+        "value": 499.99,
         "stattrak_value": 210.18,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Five-SeveN_Fall_Hazard.png"
   },
@@ -52,11 +52,11 @@
     "collection": "The 2021 Vertigo Collection",
     "price": {
       "price_string": "$155.59 - $768.11",
-      "price_stattrak_string": "$56.59 - $336.07",
+      "price_stattrak_string": "$56.58 - $336.07",
       "currency": "USD",
       "min": {
         "value": 155.59,
-        "stattrak_value": 56.59,
+        "stattrak_value": 56.58,
         "unit": "USD"
       },
       "max": {
@@ -64,7 +64,7 @@
         "stattrak_value": 336.07,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SG_553_Hazard_Pay.png"
   },
@@ -75,19 +75,19 @@
     "collection": "The 2021 Vertigo Collection",
     "price": {
       "price_string": "$65.33 - $174.75",
-      "price_stattrak_string": "$20.67 - $81.70",
+      "price_stattrak_string": "$19.60 - $78.38",
       "currency": "USD",
       "min": {
         "value": 65.33,
-        "stattrak_value": 20.67,
+        "stattrak_value": 19.6,
         "unit": "USD"
       },
       "max": {
         "value": 174.75,
-        "stattrak_value": 81.7,
+        "stattrak_value": 78.38,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Galil_AR_CAUTION!.png"
   },
@@ -98,11 +98,11 @@
     "collection": "The 2021 Vertigo Collection",
     "price": {
       "price_string": "$47.66 - $116.77",
-      "price_stattrak_string": "$4.92 - $32.40",
+      "price_stattrak_string": "$5.21 - $32.40",
       "currency": "USD",
       "min": {
         "value": 47.66,
-        "stattrak_value": 4.92,
+        "stattrak_value": 5.21,
         "unit": "USD"
       },
       "max": {
@@ -110,7 +110,7 @@
         "stattrak_value": 32.4,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MAG-7_Prism_Terrace.png"
   },
@@ -121,19 +121,19 @@
     "collection": "The 2021 Vertigo Collection",
     "price": {
       "price_string": "$42.76 - $83.34",
-      "price_stattrak_string": "$9.66 - $35.80",
+      "price_stattrak_string": "$9.81 - $36.08",
       "currency": "USD",
       "min": {
         "value": 42.76,
-        "stattrak_value": 9.66,
+        "stattrak_value": 9.81,
         "unit": "USD"
       },
       "max": {
         "value": 83.34,
-        "stattrak_value": 35.8,
+        "stattrak_value": 36.08,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P250_Digital_Architect.png"
   },
@@ -143,11 +143,11 @@
     "rarity": "Mil-spec Machine Gun",
     "collection": "The 2021 Vertigo Collection",
     "price": {
-      "price_string": "$10.53 - $45.00",
+      "price_string": "$10.55 - $45.00",
       "price_stattrak_string": "$0.20 - $157.00",
       "currency": "USD",
       "min": {
-        "value": 10.53,
+        "value": 10.55,
         "stattrak_value": 0.2,
         "unit": "USD"
       },
@@ -156,7 +156,7 @@
         "stattrak_value": 157,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Negev_Infrastructure.png"
   },
@@ -166,20 +166,20 @@
     "rarity": "Mil-spec Rifle",
     "collection": "The 2021 Vertigo Collection",
     "price": {
-      "price_string": "$22.08 - $105.37",
+      "price_string": "$21.61 - $93.63",
       "price_stattrak_string": "$13.79 - $75.00",
       "currency": "USD",
       "min": {
-        "value": 22.08,
+        "value": 21.61,
         "stattrak_value": 13.79,
         "unit": "USD"
       },
       "max": {
-        "value": 105.37,
+        "value": 93.63,
         "stattrak_value": 75,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AK-47_Green_Laminate.png"
   },
@@ -189,20 +189,20 @@
     "rarity": "Mil-spec Shotgun",
     "collection": "The 2021 Vertigo Collection",
     "price": {
-      "price_string": "$12.02 - $20.48",
+      "price_string": "$11.94 - $20.47",
       "price_stattrak_string": "$0.36 - $10.00",
       "currency": "USD",
       "min": {
-        "value": 12.02,
+        "value": 11.94,
         "stattrak_value": 0.36,
         "unit": "USD"
       },
       "max": {
-        "value": 20.48,
+        "value": 20.47,
         "stattrak_value": 10,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Nova_Interlock.png"
   },
@@ -212,20 +212,20 @@
     "rarity": "Mil-spec SMG",
     "collection": "The 2021 Vertigo Collection",
     "price": {
-      "price_string": "$12.91 - $35.00",
+      "price_string": "$13.67 - $30.00",
       "price_stattrak_string": "$0.42 - $28.32",
       "currency": "USD",
       "min": {
-        "value": 12.91,
+        "value": 13.67,
         "stattrak_value": 0.42,
         "unit": "USD"
       },
       "max": {
-        "value": 35,
+        "value": 30,
         "stattrak_value": 28.32,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P90_Schematic.png"
   },
@@ -235,20 +235,20 @@
     "rarity": "Industrial SMG",
     "collection": "The 2021 Vertigo Collection",
     "price": {
-      "price_string": "$3.00 - $46.46",
-      "price_stattrak_string": "$0.05 - $23.51",
+      "price_string": "$3.04 - $46.46",
+      "price_stattrak_string": "$0.05 - $23.05",
       "currency": "USD",
       "min": {
-        "value": 3,
+        "value": 3.04,
         "stattrak_value": 0.05,
         "unit": "USD"
       },
       "max": {
         "value": 46.46,
-        "stattrak_value": 23.51,
+        "stattrak_value": 23.05,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/UMP-45_Mechanism.png"
   },
@@ -258,20 +258,20 @@
     "rarity": "Industrial Pistol",
     "collection": "The 2021 Vertigo Collection",
     "price": {
-      "price_string": "$3.47 - $12.86",
-      "price_stattrak_string": "$0.11 - $6.45",
+      "price_string": "$3.43 - $14.29",
+      "price_stattrak_string": "$0.11 - $6.33",
       "currency": "USD",
       "min": {
-        "value": 3.47,
+        "value": 3.43,
         "stattrak_value": 0.11,
         "unit": "USD"
       },
       "max": {
-        "value": 12.86,
-        "stattrak_value": 6.45,
+        "value": 14.29,
+        "stattrak_value": 6.33,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Glock-18_Red_Tire.png"
   },
@@ -281,11 +281,11 @@
     "rarity": "Industrial Sniper Rifle",
     "collection": "The 2021 Vertigo Collection",
     "price": {
-      "price_string": "$3.90 - $9.95",
+      "price_string": "$3.82 - $9.95",
       "price_stattrak_string": "$0.70 - $4.78",
       "currency": "USD",
       "min": {
-        "value": 3.9,
+        "value": 3.82,
         "stattrak_value": 0.7,
         "unit": "USD"
       },
@@ -294,7 +294,7 @@
         "stattrak_value": 4.78,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SSG_08_Carbon_Fiber.png"
   },
@@ -304,7 +304,7 @@
     "rarity": "Industrial SMG",
     "collection": "The 2021 Vertigo Collection",
     "price": {
-      "price_string": "$3.59 - $16.69",
+      "price_string": "$3.59 - $16.36",
       "price_stattrak_string": "$0.06 - $3.05",
       "currency": "USD",
       "min": {
@@ -313,11 +313,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 16.69,
+        "value": 16.36,
         "stattrak_value": 3.05,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/PP-Bizon_Breaker_Box.png"
   },
@@ -340,7 +340,7 @@
         "stattrak_value": 12.5,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/FAMAS_Faulty_Wiring.png"
   },
@@ -350,8 +350,8 @@
     "rarity": "Consumer Pistol",
     "collection": "The 2021 Vertigo Collection",
     "price": {
-      "price_string": "$0.50 - $14.17",
-      "price_stattrak_string": "$0.01 - $1.27",
+      "price_string": "$0.50 - $14.16",
+      "price_stattrak_string": "$0.01 - $2.00",
       "currency": "USD",
       "min": {
         "value": 0.5,
@@ -359,11 +359,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 14.17,
-        "stattrak_value": 1.27,
+        "value": 14.16,
+        "stattrak_value": 2,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/CZ75-Auto_Framework.png"
   },
@@ -386,7 +386,7 @@
         "stattrak_value": 2.5,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Dual_Berettas_Oil_Change.png"
   },
@@ -397,11 +397,11 @@
     "collection": "The 2021 Vertigo Collection",
     "price": {
       "price_string": "$0.55 - $7.60",
-      "price_stattrak_string": "$0.02 - $2.00",
+      "price_stattrak_string": "$0.01 - $2.00",
       "currency": "USD",
       "min": {
         "value": 0.55,
-        "stattrak_value": 0.02,
+        "stattrak_value": 0.01,
         "unit": "USD"
       },
       "max": {
@@ -409,7 +409,7 @@
         "stattrak_value": 2,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MAC-10_Strats.png"
   },
@@ -420,7 +420,7 @@
     "collection": "The 2021 Vertigo Collection",
     "price": {
       "price_string": "$0.46 - $3.78",
-      "price_stattrak_string": "$0.02 - $5.07",
+      "price_stattrak_string": "$0.02 - $4.97",
       "currency": "USD",
       "min": {
         "value": 0.46,
@@ -429,10 +429,10 @@
       },
       "max": {
         "value": 3.78,
-        "stattrak_value": 5.07,
+        "stattrak_value": 4.97,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/XM1014_Blue_Tire.png"
   },
@@ -442,20 +442,20 @@
     "rarity": "Consumer Grade Container",
     "collection": "Introduced: 27 November 2024",
     "price": {
-      "price_string": "$2.16",
+      "price_string": "$2.14",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 2.16,
+        "value": 2.14,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 2.16,
+        "value": 2.14,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Shanghai_2024_Vertigo_Souvenir_Package.png"
   },
@@ -465,20 +465,20 @@
     "rarity": "Consumer Grade Container",
     "collection": "Introduced: 14 March 2024",
     "price": {
-      "price_string": "$2.73",
+      "price_string": "$2.71",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 2.73,
+        "value": 2.71,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 2.73,
+        "value": 2.71,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Copenhagen_2024_Vertigo_Souvenir_Package.png"
   },
@@ -488,20 +488,20 @@
     "rarity": "Consumer Grade Container",
     "collection": "Introduced: 05 May 2023",
     "price": {
-      "price_string": "$1.72",
+      "price_string": "$1.86",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 1.72,
+        "value": 1.86,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 1.72,
+        "value": 1.86,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Paris_2023_Vertigo_Souvenir_Package.png"
   },
@@ -524,7 +524,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Rio_2022_Vertigo_Souvenir_Package.png"
   },
@@ -534,20 +534,20 @@
     "rarity": "Consumer Grade Container",
     "collection": "Introduced: 03 May 2022",
     "price": {
-      "price_string": "$4.37",
+      "price_string": "$4.28",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 4.37,
+        "value": 4.28,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 4.37,
+        "value": 4.28,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Antwerp_2022_Vertigo_Souvenir_Package.png"
   },
@@ -570,7 +570,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Stockholm_2021_Vertigo_Souvenir_Package.png"
   }

@@ -5,7 +5,7 @@
     "rarity": "Classified Rifle",
     "collection": "The Chop Shop Collection",
     "price": {
-      "price_string": "$1800.00 - $5369.69",
+      "price_string": "$1800.00 - $5188.63",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -14,11 +14,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 5369.69,
+        "value": 5188.63,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:55-08:00"
+      "updated_at": "2025-12-11T03:59:55-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/M4A1-S_Hot_Rod.png"
   },
@@ -41,7 +41,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:55-08:00"
+      "updated_at": "2025-12-11T03:59:55-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Glock-18_Twilight_Galaxy.png"
   },
@@ -64,7 +64,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:55-08:00"
+      "updated_at": "2025-12-11T03:59:55-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Dual_Berettas_Duelist.png"
   },
@@ -87,7 +87,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:55-08:00"
+      "updated_at": "2025-12-11T03:59:55-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SG_553_Bulldozer.png"
   },
@@ -97,7 +97,7 @@
     "rarity": "Mil-spec Pistol",
     "collection": "The Chop Shop Collection",
     "price": {
-      "price_string": "$37.69 - $399.17",
+      "price_string": "$37.69 - $401.44",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -106,11 +106,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 399.17,
+        "value": 401.44,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:55-08:00"
+      "updated_at": "2025-12-11T03:59:55-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P250_Whiteout.png"
   },
@@ -120,20 +120,20 @@
     "rarity": "Mil-spec Pistol",
     "collection": "The Chop Shop Collection",
     "price": {
-      "price_string": "$40.54 - $93.42",
+      "price_string": "$42.67 - $92.30",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 40.54,
+        "value": 42.67,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 93.42,
+        "value": 92.3,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:55-08:00"
+      "updated_at": "2025-12-11T03:59:55-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Five-SeveN_Nitro.png"
   },
@@ -143,7 +143,7 @@
     "rarity": "Mil-spec Pistol",
     "collection": "The Chop Shop Collection",
     "price": {
-      "price_string": "$46.50 - $174.75",
+      "price_string": "$46.50 - $221.27",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -152,11 +152,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 174.75,
+        "value": 221.27,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:55-08:00"
+      "updated_at": "2025-12-11T03:59:55-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/CZ75-Auto_Emerald.png"
   },
@@ -166,7 +166,7 @@
     "rarity": "Mil-spec SMG",
     "collection": "The Chop Shop Collection",
     "price": {
-      "price_string": "$53.36 - $169.64",
+      "price_string": "$53.36 - $1798.61",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -175,11 +175,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 169.64,
+        "value": 1798.61,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:55-08:00"
+      "updated_at": "2025-12-11T03:59:55-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MAC-10_Fade.png"
   },
@@ -202,7 +202,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:55-08:00"
+      "updated_at": "2025-12-11T03:59:55-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MP7_Full_Stop.png"
   },
@@ -212,7 +212,7 @@
     "rarity": "Industrial Pistol",
     "collection": "The Chop Shop Collection",
     "price": {
-      "price_string": "$7.89 - $75.12",
+      "price_string": "$7.89 - $48.49",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -221,11 +221,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 75.12,
+        "value": 48.49,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:55-08:00"
+      "updated_at": "2025-12-11T03:59:55-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/USP-S_Para_Green.png"
   },
@@ -235,20 +235,20 @@
     "rarity": "Industrial Pistol",
     "collection": "The Chop Shop Collection",
     "price": {
-      "price_string": "$12.09 - $137.25",
+      "price_string": "$12.07 - $135.22",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 12.09,
+        "value": 12.07,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 137.25,
+        "value": 135.22,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:55-08:00"
+      "updated_at": "2025-12-11T03:59:55-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Desert_Eagle_Night.png"
   },
@@ -258,11 +258,11 @@
     "rarity": "Industrial Rifle",
     "collection": "The Chop Shop Collection",
     "price": {
-      "price_string": "$8.61 - $46.00",
+      "price_string": "$8.33 - $46.00",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 8.61,
+        "value": 8.33,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -271,7 +271,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:55-08:00"
+      "updated_at": "2025-12-11T03:59:55-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Galil_AR_Urban_Rubble.png"
   },
@@ -281,11 +281,11 @@
     "rarity": "Consumer Sniper Rifle",
     "collection": "The Chop Shop Collection",
     "price": {
-      "price_string": "$2.02 - $9.00",
+      "price_string": "$1.93 - $9.00",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 2.02,
+        "value": 1.93,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -294,7 +294,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:55-08:00"
+      "updated_at": "2025-12-11T03:59:55-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SCAR-20_Army_Sheen.png"
   },
@@ -317,7 +317,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:55-08:00"
+      "updated_at": "2025-12-11T03:59:55-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MAG-7_Seabird.png"
   },
@@ -327,7 +327,7 @@
     "rarity": "Consumer Machine Gun",
     "collection": "The Chop Shop Collection",
     "price": {
-      "price_string": "$1.72 - $9.50",
+      "price_string": "$1.72 - $7.96",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -336,11 +336,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 9.5,
+        "value": 7.96,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:55-08:00"
+      "updated_at": "2025-12-11T03:59:55-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/M249_Impact_Drill.png"
   },
@@ -350,20 +350,20 @@
     "rarity": "Consumer Pistol",
     "collection": "The Chop Shop Collection",
     "price": {
-      "price_string": "$2.01 - $6.10",
+      "price_string": "$1.99 - $6.33",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 2.01,
+        "value": 1.99,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 6.1,
+        "value": 6.33,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:55-08:00"
+      "updated_at": "2025-12-11T03:59:55-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/CZ75-Auto_Army_Sheen.png"
   }

@@ -5,20 +5,20 @@
     "rarity": "Mil-spec Pistol",
     "collection": "The Aztec Collection",
     "price": {
-      "price_string": "$3.73 - $5.83",
+      "price_string": "$3.76 - $5.85",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 3.73,
+        "value": 3.76,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 5.83,
+        "value": 5.85,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:57-08:00"
+      "updated_at": "2025-12-11T03:59:56-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Tec-9_Ossified.png"
   },
@@ -28,7 +28,7 @@
     "rarity": "Industrial Rifle",
     "collection": "The Aztec Collection",
     "price": {
-      "price_string": "$7.24 - $173.33",
+      "price_string": "$7.24 - $172.47",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -37,11 +37,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 173.33,
+        "value": 172.47,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:57-08:00"
+      "updated_at": "2025-12-11T03:59:56-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/M4A4_Jungle_Tiger.png"
   },
@@ -64,7 +64,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:57-08:00"
+      "updated_at": "2025-12-11T03:59:56-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AK-47_Jungle_Spray.png"
   },
@@ -87,7 +87,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:57-08:00"
+      "updated_at": "2025-12-11T03:59:56-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SSG_08_Lichen_Dashed.png"
   },
@@ -97,11 +97,11 @@
     "rarity": "Consumer Pistol",
     "collection": "The Aztec Collection",
     "price": {
-      "price_string": "$1.97 - $64.16",
+      "price_string": "$1.95 - $64.16",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 1.97,
+        "value": 1.95,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -110,7 +110,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:57-08:00"
+      "updated_at": "2025-12-11T03:59:56-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Five-SeveN_Jungle.png"
   },
@@ -133,7 +133,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:57-08:00"
+      "updated_at": "2025-12-11T03:59:56-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Nova_Forest_Leaves.png"
   }

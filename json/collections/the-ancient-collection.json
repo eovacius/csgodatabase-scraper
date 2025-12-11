@@ -5,20 +5,20 @@
     "rarity": "Covert Rifle",
     "collection": "The Ancient Collection",
     "price": {
-      "price_string": "$598.88 - $7057.32",
-      "price_stattrak_string": "$686.69 - $2307.44",
+      "price_string": "$724.00 - $7057.32",
+      "price_stattrak_string": "$679.65 - $2480.02",
       "currency": "USD",
       "min": {
-        "value": 598.88,
-        "stattrak_value": 686.69,
+        "value": 724,
+        "stattrak_value": 679.65,
         "unit": "USD"
       },
       "max": {
         "value": 7057.32,
-        "stattrak_value": 2307.44,
+        "stattrak_value": 2480.02,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/M4A1-S_Welcome_to_the_Jungle.png"
   },
@@ -28,20 +28,20 @@
     "rarity": "Classified Rifle",
     "collection": "The Ancient Collection",
     "price": {
-      "price_string": "$159.21 - $1612.19",
+      "price_string": "$163.80 - $1651.65",
       "price_stattrak_string": "$122.16 - $1506.88",
       "currency": "USD",
       "min": {
-        "value": 159.21,
+        "value": 163.8,
         "stattrak_value": 122.16,
         "unit": "USD"
       },
       "max": {
-        "value": 1612.19,
+        "value": 1651.65,
         "stattrak_value": 1506.88,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AK-47_Panthera_onca.png"
   },
@@ -51,8 +51,8 @@
     "rarity": "Classified SMG",
     "collection": "The Ancient Collection",
     "price": {
-      "price_string": "$15.98 - $168.53",
-      "price_stattrak_string": "$15.98 - $168.53",
+      "price_string": "$15.98 - $175.33",
+      "price_stattrak_string": "$15.98 - $175.33",
       "currency": "USD",
       "min": {
         "value": 15.98,
@@ -60,11 +60,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 168.53,
-        "stattrak_value": 168.53,
+        "value": 175.33,
+        "stattrak_value": 175.33,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P90_Run_and_Hide.png"
   },
@@ -74,11 +74,11 @@
     "rarity": "Restricted Pistol",
     "collection": "The Ancient Collection",
     "price": {
-      "price_string": "$50.45 - $209.33",
+      "price_string": "$51.82 - $209.33",
       "price_stattrak_string": "$5.45 - $44.60",
       "currency": "USD",
       "min": {
-        "value": 50.45,
+        "value": 51.82,
         "stattrak_value": 5.45,
         "unit": "USD"
       },
@@ -87,7 +87,7 @@
         "stattrak_value": 44.6,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/USP-S_Ancient_Visions.png"
   },
@@ -97,20 +97,20 @@
     "rarity": "Restricted SMG",
     "collection": "The Ancient Collection",
     "price": {
-      "price_string": "$50.25 - $151.44",
-      "price_stattrak_string": "$9.10 - $99.81",
+      "price_string": "$49.32 - $151.44",
+      "price_stattrak_string": "$9.10 - $125.50",
       "currency": "USD",
       "min": {
-        "value": 50.25,
+        "value": 49.32,
         "stattrak_value": 9.1,
         "unit": "USD"
       },
       "max": {
         "value": 151.44,
-        "stattrak_value": 99.81,
+        "stattrak_value": 125.5,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MAC-10_Gold_Brick.png"
   },
@@ -133,7 +133,7 @@
         "stattrak_value": 20,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/XM1014_Ancient_Lore.png"
   },
@@ -144,19 +144,19 @@
     "collection": "The Ancient Collection",
     "price": {
       "price_string": "$14.44 - $49.00",
-      "price_stattrak_string": "$0.91 - $2.99",
+      "price_stattrak_string": "$0.87 - $2.80",
       "currency": "USD",
       "min": {
         "value": 14.44,
-        "stattrak_value": 0.91,
+        "stattrak_value": 0.87,
         "unit": "USD"
       },
       "max": {
         "value": 49,
-        "stattrak_value": 2.99,
+        "stattrak_value": 2.8,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/FAMAS_Dark_Water.png"
   },
@@ -166,20 +166,20 @@
     "rarity": "Mil-spec Rifle",
     "collection": "The Ancient Collection",
     "price": {
-      "price_string": "$13.77 - $52.83",
+      "price_string": "$13.54 - $52.16",
       "price_stattrak_string": "$2.28 - $165.84",
       "currency": "USD",
       "min": {
-        "value": 13.77,
+        "value": 13.54,
         "stattrak_value": 2.28,
         "unit": "USD"
       },
       "max": {
-        "value": 52.83,
+        "value": 52.16,
         "stattrak_value": 165.84,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Galil_AR_Dusk_Ruins.png"
   },
@@ -189,20 +189,20 @@
     "rarity": "Mil-spec Rifle",
     "collection": "The Ancient Collection",
     "price": {
-      "price_string": "$16.89 - $46.59",
-      "price_stattrak_string": "$3.06 - $9.33",
+      "price_string": "$16.72 - $46.59",
+      "price_stattrak_string": "$3.01 - $8.94",
       "currency": "USD",
       "min": {
-        "value": 16.89,
-        "stattrak_value": 3.06,
+        "value": 16.72,
+        "stattrak_value": 3.01,
         "unit": "USD"
       },
       "max": {
         "value": 46.59,
-        "stattrak_value": 9.33,
+        "stattrak_value": 8.94,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AUG_Carved_Jade.png"
   },
@@ -212,11 +212,11 @@
     "rarity": "Mil-spec Pistol",
     "collection": "The Ancient Collection",
     "price": {
-      "price_string": "$13.11 - $44.20",
+      "price_string": "$12.34 - $44.20",
       "price_stattrak_string": "$0.30 - $6.00",
       "currency": "USD",
       "min": {
-        "value": 13.11,
+        "value": 12.34,
         "stattrak_value": 0.3,
         "unit": "USD"
       },
@@ -225,7 +225,7 @@
         "stattrak_value": 6,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Tec-9_Blast_From_the_Past.png"
   },
@@ -235,11 +235,11 @@
     "rarity": "Industrial Pistol",
     "collection": "The Ancient Collection",
     "price": {
-      "price_string": "$2.79 - $10.15",
+      "price_string": "$2.80 - $10.15",
       "price_stattrak_string": "$0.20 - $2.14",
       "currency": "USD",
       "min": {
-        "value": 2.79,
+        "value": 2.8,
         "stattrak_value": 0.2,
         "unit": "USD"
       },
@@ -248,7 +248,7 @@
         "stattrak_value": 2.14,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/CZ75-Auto_Silver.png"
   },
@@ -259,11 +259,11 @@
     "collection": "The Ancient Collection",
     "price": {
       "price_string": "$2.43 - $52.55",
-      "price_stattrak_string": "$0.02 - $4.50",
+      "price_stattrak_string": "$0.03 - $4.50",
       "currency": "USD",
       "min": {
         "value": 2.43,
-        "stattrak_value": 0.02,
+        "stattrak_value": 0.03,
         "unit": "USD"
       },
       "max": {
@@ -271,7 +271,7 @@
         "stattrak_value": 4.5,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/G3SG1_Ancient_Ritual.png"
   },
@@ -281,11 +281,11 @@
     "rarity": "Industrial SMG",
     "collection": "The Ancient Collection",
     "price": {
-      "price_string": "$2.47 - $29.18",
+      "price_string": "$2.42 - $29.18",
       "price_stattrak_string": "$0.05 - $2.00",
       "currency": "USD",
       "min": {
-        "value": 2.47,
+        "value": 2.42,
         "stattrak_value": 0.05,
         "unit": "USD"
       },
@@ -294,7 +294,7 @@
         "stattrak_value": 2,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MP7_Tall_Grass.png"
   },
@@ -304,20 +304,20 @@
     "rarity": "Industrial Pistol",
     "collection": "The Ancient Collection",
     "price": {
-      "price_string": "$2.42 - $11.48",
-      "price_stattrak_string": "$0.04 - $1.16",
+      "price_string": "$2.45 - $10.93",
+      "price_stattrak_string": "$0.06 - $0.99",
       "currency": "USD",
       "min": {
-        "value": 2.42,
-        "stattrak_value": 0.04,
+        "value": 2.45,
+        "stattrak_value": 0.06,
         "unit": "USD"
       },
       "max": {
-        "value": 11.48,
-        "stattrak_value": 1.16,
+        "value": 10.93,
+        "stattrak_value": 0.99,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P2000_Panther_Camo.png"
   },
@@ -327,20 +327,20 @@
     "rarity": "Consumer Pistol",
     "collection": "The Ancient Collection",
     "price": {
-      "price_string": "$0.47 - $10.69",
+      "price_string": "$0.45 - $10.05",
       "price_stattrak_string": "$0.01 - $2.00",
       "currency": "USD",
       "min": {
-        "value": 0.47,
+        "value": 0.45,
         "stattrak_value": 0.01,
         "unit": "USD"
       },
       "max": {
-        "value": 10.69,
+        "value": 10.05,
         "stattrak_value": 2,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/R8_Revolver_Night.png"
   },
@@ -350,11 +350,11 @@
     "rarity": "Consumer Sniper Rifle",
     "collection": "The Ancient Collection",
     "price": {
-      "price_string": "$0.45 - $16.78",
+      "price_string": "$0.43 - $16.78",
       "price_stattrak_string": "$0.01 - $2.49",
       "currency": "USD",
       "min": {
-        "value": 0.45,
+        "value": 0.43,
         "stattrak_value": 0.01,
         "unit": "USD"
       },
@@ -363,7 +363,7 @@
         "stattrak_value": 2.49,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SSG_08_Jungle_Dashed.png"
   },
@@ -374,19 +374,19 @@
     "collection": "The Ancient Collection",
     "price": {
       "price_string": "$0.47 - $1.68",
-      "price_stattrak_string": "$0.01 - $0.99",
+      "price_stattrak_string": "$0.02 - $1.00",
       "currency": "USD",
       "min": {
         "value": 0.47,
-        "stattrak_value": 0.01,
+        "stattrak_value": 0.02,
         "unit": "USD"
       },
       "max": {
         "value": 1.68,
-        "stattrak_value": 0.99,
+        "stattrak_value": 1,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Nova_Army_Sheen.png"
   },
@@ -396,7 +396,7 @@
     "rarity": "Consumer Rifle",
     "collection": "The Ancient Collection",
     "price": {
-      "price_string": "$0.47 - $17.10",
+      "price_string": "$0.47 - $15.74",
       "price_stattrak_string": "$0.02 - $1.00",
       "currency": "USD",
       "min": {
@@ -405,11 +405,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 17.1,
+        "value": 15.74,
         "stattrak_value": 1,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SG_553_Lush_Ruins.png"
   },
@@ -419,20 +419,20 @@
     "rarity": "Consumer SMG",
     "collection": "The Ancient Collection",
     "price": {
-      "price_string": "$0.48 - $20.48",
-      "price_stattrak_string": "$0.01 - $0.99",
+      "price_string": "$0.45 - $20.48",
+      "price_stattrak_string": "$0.01 - $2.00",
       "currency": "USD",
       "min": {
-        "value": 0.48,
+        "value": 0.45,
         "stattrak_value": 0.01,
         "unit": "USD"
       },
       "max": {
         "value": 20.48,
-        "stattrak_value": 0.99,
+        "stattrak_value": 2,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P90_Ancient_Earth.png"
   },
@@ -442,20 +442,20 @@
     "rarity": "Consumer Grade Container",
     "collection": "Introduced: 27 November 2024",
     "price": {
-      "price_string": "$2.90",
+      "price_string": "$2.49",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 2.9,
+        "value": 2.49,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 2.9,
+        "value": 2.49,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Shanghai_2024_Ancient_Souvenir_Package.png"
   },
@@ -465,20 +465,20 @@
     "rarity": "Consumer Grade Container",
     "collection": "Introduced: 14 March 2024",
     "price": {
-      "price_string": "$2.41",
+      "price_string": "$2.84",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 2.41,
+        "value": 2.84,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 2.41,
+        "value": 2.84,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Copenhagen_2024_Ancient_Souvenir_Package.png"
   },
@@ -501,7 +501,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Paris_2023_Ancient_Souvenir_Package.png"
   },
@@ -524,7 +524,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Rio_2022_Ancient_Souvenir_Package.png"
   },
@@ -534,20 +534,20 @@
     "rarity": "Consumer Grade Container",
     "collection": "Introduced: 03 May 2022",
     "price": {
-      "price_string": "$4.16",
+      "price_string": "$4.30",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 4.16,
+        "value": 4.3,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 4.16,
+        "value": 4.3,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Antwerp_2022_Ancient_Souvenir_Package.png"
   },
@@ -570,7 +570,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-10T06:13:54-08:00"
+      "updated_at": "2025-12-11T03:59:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Stockholm_2021_Ancient_Souvenir_Package.png"
   }
