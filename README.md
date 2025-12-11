@@ -1,4 +1,4 @@
-## Cs2Scraper  [![PkgGoDev](https://pkg.go.dev/badge/github.com/eovacius/csgodatabase-scraper)](https://pkg.go.dev/github.com/eovacius/csgodatabase-scraper) (Beta)
+## CSGO database scraper  [![PkgGoDev](https://pkg.go.dev/badge/github.com/eovacius/csgodatabase-scraper)](https://pkg.go.dev/github.com/eovacius/csgodatabase-scraper) (Beta)
 
 
 <strong>csgodatabase-scraper</strong> is a scraping tool to retrieve fresh data with prices and wrap it up in convenient JSON file with clean structure
