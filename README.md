@@ -65,7 +65,7 @@ The scraper uses the `chromedp` library because it provides a **high-level inter
 
 ## What you'll need
 
-1. <a href="https://go.dev/doc/install">Golang</a> obviously
+1. <a href="https://go.dev/doc/install">Golang</a> installed
 2. Chromium `sudo apt install chromium-browser`
 
 
@@ -102,6 +102,7 @@ go run . --aggressive # [duration: ~10-20s]
 ```bash
 go run . --stealth # [duration: ~90s-120s]
 ```
+
 
 
 
