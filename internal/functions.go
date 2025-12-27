@@ -34,14 +34,29 @@ func RemoveDuplicates(skins []config.Skin) []config.Skin {
 	return filtered
 }
 
+func detectCurrency(values ...string) string {
+	currencies := map[string]string{
+		"$": "USD",
+		"€": "EUR",
+		"£": "GBP",
+		"₽": "RUB",
+	}
+
+	for _, v := range values {
+		for symbol, code := range currencies {
+			if strings.Contains(v, symbol) {
+				return code
+			}
+		}
+	}
+	return "UNKNOWN"
+}
+
 func ParsePrice(raw, stattRaw string) config.Price {
 	raw = strings.TrimSpace(raw)
 	stattrakRaw := strings.TrimSpace(stattRaw)
 
-	var currency string
-	if strings.Contains(raw, "$") || strings.Contains(stattrakRaw, "$") {
-		currency = "USD"
-	}
+	currency := detectCurrency(raw, stattrakRaw)
 
 	price := config.Price{
 		PriceString:         raw,
