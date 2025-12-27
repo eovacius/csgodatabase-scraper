@@ -5,20 +5,20 @@
     "rarity": "Mil-spec Pistol",
     "collection": "The Aztec Collection",
     "price": {
-      "price_string": "$3.76 - $5.85",
+      "price_string": "$4.76 - $14.85",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 3.76,
+        "value": 4.76,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 5.85,
+        "value": 14.85,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:51-08:00"
+      "updated_at": "2025-12-26T12:13:54-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Tec-9_Ossified.png"
   },
@@ -28,7 +28,7 @@
     "rarity": "Industrial Rifle",
     "collection": "The Aztec Collection",
     "price": {
-      "price_string": "$7.24 - $172.47",
+      "price_string": "$7.24 - $154.60",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -37,11 +37,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 172.47,
+        "value": 154.6,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:51-08:00"
+      "updated_at": "2025-12-26T12:13:54-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/M4A4_Jungle_Tiger.png"
   },
@@ -51,20 +51,20 @@
     "rarity": "Industrial Rifle",
     "collection": "The Aztec Collection",
     "price": {
-      "price_string": "$5.67 - $210.00",
+      "price_string": "$5.75 - $399.99",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 5.67,
+        "value": 5.75,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 210,
+        "value": 399.99,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:51-08:00"
+      "updated_at": "2025-12-26T12:13:54-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AK-47_Jungle_Spray.png"
   },
@@ -74,20 +74,20 @@
     "rarity": "Consumer Sniper Rifle",
     "collection": "The Aztec Collection",
     "price": {
-      "price_string": "$1.39 - $57.60",
+      "price_string": "$1.40 - $43.21",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 1.39,
+        "value": 1.4,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 57.6,
+        "value": 43.21,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:51-08:00"
+      "updated_at": "2025-12-26T12:13:54-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SSG_08_Lichen_Dashed.png"
   },
@@ -97,20 +97,20 @@
     "rarity": "Consumer Pistol",
     "collection": "The Aztec Collection",
     "price": {
-      "price_string": "$1.95 - $64.16",
+      "price_string": "$1.98 - $72.49",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 1.95,
+        "value": 1.98,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 64.16,
+        "value": 72.49,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:51-08:00"
+      "updated_at": "2025-12-26T12:13:54-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Five-SeveN_Jungle.png"
   },
@@ -120,11 +120,11 @@
     "rarity": "Consumer Shotgun",
     "collection": "The Aztec Collection",
     "price": {
-      "price_string": "$1.48 - $99.92",
+      "price_string": "$1.17 - $99.92",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 1.48,
+        "value": 1.17,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -133,7 +133,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:51-08:00"
+      "updated_at": "2025-12-26T12:13:54-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Nova_Forest_Leaves.png"
   }

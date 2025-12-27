@@ -5,20 +5,20 @@
     "rarity": "Restricted Pistol",
     "collection": "The Vertigo Collection",
     "price": {
-      "price_string": "$6.33 - $20.91",
-      "price_stattrak_string": "$17.01 - $30.00",
+      "price_string": "$6.33 - $36.22",
+      "price_stattrak_string": "$17.00 - $29.92",
       "currency": "USD",
       "min": {
         "value": 6.33,
-        "stattrak_value": 17.01,
+        "stattrak_value": 17,
         "unit": "USD"
       },
       "max": {
-        "value": 20.91,
-        "stattrak_value": 30,
+        "value": 36.22,
+        "stattrak_value": 29.92,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:54-08:00"
+      "updated_at": "2025-12-26T12:13:57-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Dual_Berettas_Demolition.png"
   },
@@ -28,20 +28,20 @@
     "rarity": "Mil-spec Rifle",
     "collection": "The Vertigo Collection",
     "price": {
-      "price_string": "$36.36 - $471.33",
-      "price_stattrak_string": "$34.08 - $760.48",
+      "price_string": "$36.37 - $471.33",
+      "price_stattrak_string": "$36.58 - $777.55",
       "currency": "USD",
       "min": {
-        "value": 36.36,
-        "stattrak_value": 34.08,
+        "value": 36.37,
+        "stattrak_value": 36.58,
         "unit": "USD"
       },
       "max": {
         "value": 471.33,
-        "stattrak_value": 760.48,
+        "stattrak_value": 777.55,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:54-08:00"
+      "updated_at": "2025-12-26T12:13:57-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AK-47_Black_Laminate.png"
   },
@@ -52,7 +52,7 @@
     "collection": "The Vertigo Collection",
     "price": {
       "price_string": "$3.31 - $40.80",
-      "price_stattrak_string": "$2.79 - $1815.24",
+      "price_stattrak_string": "$2.79 - $9999.00",
       "currency": "USD",
       "min": {
         "value": 3.31,
@@ -61,10 +61,10 @@
       },
       "max": {
         "value": 40.8,
-        "stattrak_value": 1815.24,
+        "stattrak_value": 9999,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:54-08:00"
+      "updated_at": "2025-12-26T12:13:57-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P90_Glacier_Mesh.png"
   },
@@ -74,20 +74,20 @@
     "rarity": "Industrial SMG",
     "collection": "The Vertigo Collection",
     "price": {
-      "price_string": "$9.23 - $40.00",
-      "price_stattrak_string": "$0.67 - $41.89",
+      "price_string": "$10.04 - $20.00",
+      "price_stattrak_string": "$0.64 - $41.89",
       "currency": "USD",
       "min": {
-        "value": 9.23,
-        "stattrak_value": 0.67,
+        "value": 10.04,
+        "stattrak_value": 0.64,
         "unit": "USD"
       },
       "max": {
-        "value": 40,
+        "value": 20,
         "stattrak_value": 41.89,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:54-08:00"
+      "updated_at": "2025-12-26T12:13:57-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/PP-Bizon_Carbon_Fiber.png"
   },
@@ -110,7 +110,7 @@
         "stattrak_value": 99.99,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:54-08:00"
+      "updated_at": "2025-12-26T12:13:57-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/XM1014_Urban_Perforated.png"
   },
@@ -133,7 +133,7 @@
         "stattrak_value": 81.74,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:54-08:00"
+      "updated_at": "2025-12-26T12:13:57-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MAC-10_Urban_DDPAT.png"
   },
@@ -143,20 +143,20 @@
     "rarity": "Consumer Grade Container",
     "collection": "Introduced:",
     "price": {
-      "price_string": "$9.29",
+      "price_string": "$9.64",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 9.29,
+        "value": 9.64,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 9.29,
+        "value": 9.64,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:54-08:00"
+      "updated_at": "2025-12-26T12:13:57-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Berlin_2019_Vertigo_Souvenir_Package.png"
   }

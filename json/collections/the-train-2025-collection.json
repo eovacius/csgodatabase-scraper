@@ -5,20 +5,20 @@
     "rarity": "Covert Sniper Rifle",
     "collection": "The Train 2025 Collection",
     "price": {
-      "price_string": "$102.45 - $2337.84",
-      "price_stattrak_string": "$170.00 - $1990.17",
+      "price_string": "$103.09 - $2868.82",
+      "price_stattrak_string": "$84.67 - $1990.17",
       "currency": "USD",
       "min": {
-        "value": 102.45,
-        "stattrak_value": 170,
+        "value": 103.09,
+        "stattrak_value": 84.67,
         "unit": "USD"
       },
       "max": {
-        "value": 2337.84,
+        "value": 2868.82,
         "stattrak_value": 1990.17,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:47-08:00"
+      "updated_at": "2025-12-26T12:13:50-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AWP_LongDog.png"
   },
@@ -28,20 +28,20 @@
     "rarity": "Classified SMG",
     "collection": "The Train 2025 Collection",
     "price": {
-      "price_string": "$13.00 - $289.69",
-      "price_stattrak_string": "$22.21 - $524.27",
+      "price_string": "$13.00 - $333.23",
+      "price_stattrak_string": "$23.21 - $524.27",
       "currency": "USD",
       "min": {
         "value": 13,
-        "stattrak_value": 22.21,
+        "stattrak_value": 23.21,
         "unit": "USD"
       },
       "max": {
-        "value": 289.69,
+        "value": 333.23,
         "stattrak_value": 524.27,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:47-08:00"
+      "updated_at": "2025-12-26T12:13:50-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MP9_Latte_Rush.png"
   },
@@ -51,20 +51,20 @@
     "rarity": "Classified Rifle",
     "collection": "The Train 2025 Collection",
     "price": {
-      "price_string": "$22.01 - $683.66",
-      "price_stattrak_string": "$44.74 - $720.14",
+      "price_string": "$23.21 - $649.16",
+      "price_stattrak_string": "$48.79 - $1964.92",
       "currency": "USD",
       "min": {
-        "value": 22.01,
-        "stattrak_value": 44.74,
+        "value": 23.21,
+        "stattrak_value": 48.79,
         "unit": "USD"
       },
       "max": {
-        "value": 683.66,
-        "stattrak_value": 720.14,
+        "value": 649.16,
+        "stattrak_value": 1964.92,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:47-08:00"
+      "updated_at": "2025-12-26T12:13:50-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/M4A4_Hellish.png"
   },
@@ -74,20 +74,20 @@
     "rarity": "Restricted Pistol",
     "collection": "The Train 2025 Collection",
     "price": {
-      "price_string": "$2.69 - $51.01",
-      "price_stattrak_string": "$3.24 - $75.90",
+      "price_string": "$2.69 - $52.73",
+      "price_stattrak_string": "$1.46 - $75.90",
       "currency": "USD",
       "min": {
         "value": 2.69,
-        "stattrak_value": 3.24,
+        "stattrak_value": 1.46,
         "unit": "USD"
       },
       "max": {
-        "value": 51.01,
+        "value": 52.73,
         "stattrak_value": 75.9,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:47-08:00"
+      "updated_at": "2025-12-26T12:13:50-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Zeus_x27_Charged_Up.png"
   },
@@ -97,20 +97,20 @@
     "rarity": "Restricted Pistol",
     "collection": "The Train 2025 Collection",
     "price": {
-      "price_string": "$3.46 - $451.99",
+      "price_string": "$3.24 - $670.88",
       "price_stattrak_string": "$5.02 - $524.27",
       "currency": "USD",
       "min": {
-        "value": 3.46,
+        "value": 3.24,
         "stattrak_value": 5.02,
         "unit": "USD"
       },
       "max": {
-        "value": 451.99,
+        "value": 670.88,
         "stattrak_value": 524.27,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:47-08:00"
+      "updated_at": "2025-12-26T12:13:50-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Tec-9_Whiteout.png"
   },
@@ -120,20 +120,20 @@
     "rarity": "Restricted SMG",
     "collection": "The Train 2025 Collection",
     "price": {
-      "price_string": "$3.10 - $41.40",
-      "price_stattrak_string": "$6.00 - $39.20",
+      "price_string": "$3.36 - $42.21",
+      "price_stattrak_string": "$7.69 - $55.00",
       "currency": "USD",
       "min": {
-        "value": 3.1,
-        "stattrak_value": 6,
+        "value": 3.36,
+        "stattrak_value": 7.69,
         "unit": "USD"
       },
       "max": {
-        "value": 41.4,
-        "stattrak_value": 39.2,
+        "value": 42.21,
+        "stattrak_value": 55,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:47-08:00"
+      "updated_at": "2025-12-26T12:13:50-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MAC-10_Derailment.png"
   },
@@ -143,20 +143,20 @@
     "rarity": "Mil-spec Shotgun",
     "collection": "The Train 2025 Collection",
     "price": {
-      "price_string": "$0.35 - $12.35",
-      "price_stattrak_string": "$0.16 - $12.81",
+      "price_string": "$0.34 - $11.55",
+      "price_stattrak_string": "$0.14 - $6.21",
       "currency": "USD",
       "min": {
-        "value": 0.35,
-        "stattrak_value": 0.16,
+        "value": 0.34,
+        "stattrak_value": 0.14,
         "unit": "USD"
       },
       "max": {
-        "value": 12.35,
-        "stattrak_value": 12.81,
+        "value": 11.55,
+        "stattrak_value": 6.21,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:47-08:00"
+      "updated_at": "2025-12-26T12:13:50-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/XM1014_Run_Run_Run.png"
   },
@@ -166,20 +166,20 @@
     "rarity": "Mil-spec SMG",
     "collection": "The Train 2025 Collection",
     "price": {
-      "price_string": "$0.34 - $8.93",
-      "price_stattrak_string": "$0.20 - $38.46",
+      "price_string": "$0.33 - $9.40",
+      "price_stattrak_string": "$0.17 - $15.00",
       "currency": "USD",
       "min": {
-        "value": 0.34,
-        "stattrak_value": 0.2,
+        "value": 0.33,
+        "stattrak_value": 0.17,
         "unit": "USD"
       },
       "max": {
-        "value": 8.93,
-        "stattrak_value": 38.46,
+        "value": 9.4,
+        "stattrak_value": 15,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:47-08:00"
+      "updated_at": "2025-12-26T12:13:50-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/UMP-45_Late_Night_Transit.png"
   },
@@ -189,20 +189,20 @@
     "rarity": "Mil-spec Rifle",
     "collection": "The Train 2025 Collection",
     "price": {
-      "price_string": "$0.36 - $8.48",
-      "price_stattrak_string": "$0.39 - $20.26",
+      "price_string": "$0.35 - $7.72",
+      "price_stattrak_string": "$0.37 - $19.55",
       "currency": "USD",
       "min": {
-        "value": 0.36,
-        "stattrak_value": 0.39,
+        "value": 0.35,
+        "stattrak_value": 0.37,
         "unit": "USD"
       },
       "max": {
-        "value": 8.48,
-        "stattrak_value": 20.26,
+        "value": 7.72,
+        "stattrak_value": 19.55,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:47-08:00"
+      "updated_at": "2025-12-26T12:13:50-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/FAMAS_2A2F.png"
   },
@@ -212,20 +212,20 @@
     "rarity": "Mil-spec Pistol",
     "collection": "The Train 2025 Collection",
     "price": {
-      "price_string": "$0.35 - $12.00",
-      "price_stattrak_string": "$0.65 - $114.26",
+      "price_string": "$0.36 - $12.13",
+      "price_stattrak_string": "$0.55 - $114.26",
       "currency": "USD",
       "min": {
-        "value": 0.35,
-        "stattrak_value": 0.65,
+        "value": 0.36,
+        "stattrak_value": 0.55,
         "unit": "USD"
       },
       "max": {
-        "value": 12,
+        "value": 12.13,
         "stattrak_value": 114.26,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:47-08:00"
+      "updated_at": "2025-12-26T12:13:50-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Glock-18_Green_Line.png"
   },
@@ -235,20 +235,20 @@
     "rarity": "Industrial Pistol",
     "collection": "The Train 2025 Collection",
     "price": {
-      "price_string": "$0.05 - $1.60",
-      "price_stattrak_string": "$0.07 - $0.29",
+      "price_string": "$0.04 - $1.60",
+      "price_stattrak_string": "$0.04 - $0.25",
       "currency": "USD",
       "min": {
-        "value": 0.05,
-        "stattrak_value": 0.07,
+        "value": 0.04,
+        "stattrak_value": 0.04,
         "unit": "USD"
       },
       "max": {
         "value": 1.6,
-        "stattrak_value": 0.29,
+        "stattrak_value": 0.25,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:47-08:00"
+      "updated_at": "2025-12-26T12:13:50-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P250_Constructivist.png"
   },
@@ -258,20 +258,20 @@
     "rarity": "Industrial Shotgun",
     "collection": "The Train 2025 Collection",
     "price": {
-      "price_string": "$0.05 - $1.50",
-      "price_stattrak_string": "$0.05 - $13.48",
+      "price_string": "$0.05 - $0.92",
+      "price_stattrak_string": "$0.02 - $0.74",
       "currency": "USD",
       "min": {
         "value": 0.05,
-        "stattrak_value": 0.05,
+        "stattrak_value": 0.02,
         "unit": "USD"
       },
       "max": {
-        "value": 1.5,
-        "stattrak_value": 13.48,
+        "value": 0.92,
+        "stattrak_value": 0.74,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:47-08:00"
+      "updated_at": "2025-12-26T12:13:50-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Nova_Rain_Station.png"
   },
@@ -281,20 +281,20 @@
     "rarity": "Industrial Rifle",
     "collection": "The Train 2025 Collection",
     "price": {
-      "price_string": "$0.09 - $1.23",
-      "price_stattrak_string": "$0.38 - $2.41",
+      "price_string": "$0.06 - $1.11",
+      "price_stattrak_string": "$0.27 - $3.72",
       "currency": "USD",
       "min": {
-        "value": 0.09,
-        "stattrak_value": 0.38,
+        "value": 0.06,
+        "stattrak_value": 0.27,
         "unit": "USD"
       },
       "max": {
-        "value": 1.23,
-        "stattrak_value": 2.41,
+        "value": 1.11,
+        "stattrak_value": 3.72,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:47-08:00"
+      "updated_at": "2025-12-26T12:13:50-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Galil_AR_Green_Apple.png"
   },
@@ -304,20 +304,20 @@
     "rarity": "Industrial SMG",
     "collection": "The Train 2025 Collection",
     "price": {
-      "price_string": "$0.04 - $3.33",
-      "price_stattrak_string": "$0.03 - $10.08",
+      "price_string": "$0.04 - $3.00",
+      "price_stattrak_string": "$0.02 - $10.08",
       "currency": "USD",
       "min": {
         "value": 0.04,
-        "stattrak_value": 0.03,
+        "stattrak_value": 0.02,
         "unit": "USD"
       },
       "max": {
-        "value": 3.33,
+        "value": 3,
         "stattrak_value": 10.08,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:47-08:00"
+      "updated_at": "2025-12-26T12:13:50-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P90_Straight_Dimes.png"
   },
@@ -328,19 +328,19 @@
     "collection": "The Train 2025 Collection",
     "price": {
       "price_string": "$0.04 - $1.00",
-      "price_stattrak_string": "$0.03 - $3.58",
+      "price_stattrak_string": "$0.02 - $3.63",
       "currency": "USD",
       "min": {
         "value": 0.04,
-        "stattrak_value": 0.03,
+        "stattrak_value": 0.02,
         "unit": "USD"
       },
       "max": {
         "value": 1,
-        "stattrak_value": 3.58,
+        "stattrak_value": 3.63,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:47-08:00"
+      "updated_at": "2025-12-26T12:13:50-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/CZ75-Auto_Copper_Fiber.png"
   },
@@ -350,20 +350,20 @@
     "rarity": "Industrial Rifle",
     "collection": "The Train 2025 Collection",
     "price": {
-      "price_string": "$0.04 - $4.03",
-      "price_stattrak_string": "$0.03 - $17.52",
+      "price_string": "$0.04 - $6.53",
+      "price_stattrak_string": "$0.02 - $17.52",
       "currency": "USD",
       "min": {
         "value": 0.04,
-        "stattrak_value": 0.03,
+        "stattrak_value": 0.02,
         "unit": "USD"
       },
       "max": {
-        "value": 4.03,
+        "value": 6.53,
         "stattrak_value": 17.52,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:47-08:00"
+      "updated_at": "2025-12-26T12:13:50-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AUG_Steel_Sentinel.png"
   }

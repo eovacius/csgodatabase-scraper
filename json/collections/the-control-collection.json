@@ -5,20 +5,20 @@
     "rarity": "Covert Sniper Rifle",
     "collection": "The Control Collection",
     "price": {
-      "price_string": "$1018.98 - $1591.54",
+      "price_string": "$1050.97 - $1738.17",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 1018.98,
+        "value": 1050.97,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 1591.54,
+        "value": 1738.17,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AWP_Fade.png"
   },
@@ -28,20 +28,20 @@
     "rarity": "Classified Rifle",
     "collection": "The Control Collection",
     "price": {
-      "price_string": "$949.99 - $1570.53",
+      "price_string": "$977.08 - $1657.78",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 949.99,
+        "value": 977.08,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 1570.53,
+        "value": 1657.78,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/M4A1-S_Blue_Phosphor.png"
   },
@@ -51,7 +51,7 @@
     "rarity": "Classified Pistol",
     "collection": "The Control Collection",
     "price": {
-      "price_string": "$126.93 - $867.65",
+      "price_string": "$126.93 - $1047.01",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -60,11 +60,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 867.65,
+        "value": 1047.01,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/USP-S_Target_Acquired.png"
   },
@@ -74,20 +74,20 @@
     "rarity": "Restricted SMG",
     "collection": "The Control Collection",
     "price": {
-      "price_string": "$95.02 - $250.00",
+      "price_string": "$95.55 - $173.83",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 95.02,
+        "value": 95.55,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 250,
+        "value": 173.83,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/UMP-45_Crime_Scene.png"
   },
@@ -97,7 +97,7 @@
     "rarity": "Restricted Pistol",
     "collection": "The Control Collection",
     "price": {
-      "price_string": "$108.23 - $179.09",
+      "price_string": "$108.23 - $195.74",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -106,11 +106,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 179.09,
+        "value": 195.74,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Five-SeveN_Berries_And_Cherries.png"
   },
@@ -120,20 +120,20 @@
     "rarity": "Restricted Rifle",
     "collection": "The Control Collection",
     "price": {
-      "price_string": "$92.72 - $199.00",
+      "price_string": "$101.72 - $211.18",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 92.72,
+        "value": 101.72,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 199,
+        "value": 211.18,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/FAMAS_Prime_Conspiracy.png"
   },
@@ -143,11 +143,11 @@
     "rarity": "Mil-spec Sniper Rifle",
     "collection": "The Control Collection",
     "price": {
-      "price_string": "$15.54 - $34.00",
+      "price_string": "$16.92 - $34.00",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 15.54,
+        "value": 16.92,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -156,7 +156,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SCAR-20_Magna_Carta.png"
   },
@@ -166,11 +166,11 @@
     "rarity": "Mil-spec Pistol",
     "collection": "The Control Collection",
     "price": {
-      "price_string": "$17.06 - $87.44",
+      "price_string": "$17.94 - $87.44",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 17.06,
+        "value": 17.94,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -179,7 +179,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P2000_Dispatch.png"
   },
@@ -189,20 +189,20 @@
     "rarity": "Mil-spec Sniper Rifle",
     "collection": "The Control Collection",
     "price": {
-      "price_string": "$17.49 - $43.19",
+      "price_string": "$17.91 - $51.43",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 17.49,
+        "value": 17.91,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 43.19,
+        "value": 51.43,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SSG_08_Threat_Detected.png"
   },
@@ -212,20 +212,20 @@
     "rarity": "Mil-spec Rifle",
     "collection": "The Control Collection",
     "price": {
-      "price_string": "$16.05 - $107.99",
+      "price_string": "$18.15 - $111.15",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 16.05,
+        "value": 18.15,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 107.99,
+        "value": 111.15,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/M4A4_Global_Offensive.png"
   },
@@ -235,20 +235,20 @@
     "rarity": "Industrial Shotgun",
     "collection": "The Control Collection",
     "price": {
-      "price_string": "$3.12 - $4.82",
+      "price_string": "$3.33 - $4.61",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 3.12,
+        "value": 3.33,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 4.82,
+        "value": 4.61,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MAG-7_Carbon_Fiber.png"
   },
@@ -258,20 +258,20 @@
     "rarity": "Industrial SMG",
     "collection": "The Control Collection",
     "price": {
-      "price_string": "$2.50 - $13.68",
+      "price_string": "$2.66 - $12.69",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 2.5,
+        "value": 2.66,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 13.68,
+        "value": 12.69,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MP5-SD_Nitro.png"
   },
@@ -281,20 +281,20 @@
     "rarity": "Industrial Pistol",
     "collection": "The Control Collection",
     "price": {
-      "price_string": "$2.48 - $11.63",
+      "price_string": "$2.78 - $6.71",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 2.48,
+        "value": 2.78,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 11.63,
+        "value": 6.71,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Dual_Berettas_Switch_Board.png"
   },
@@ -304,20 +304,20 @@
     "rarity": "Industrial Pistol",
     "collection": "The Control Collection",
     "price": {
-      "price_string": "$3.23 - $8.10",
+      "price_string": "$3.29 - $8.00",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 3.23,
+        "value": 3.29,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 8.1,
+        "value": 8,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Desert_Eagle_The_Bronze.png"
   },
@@ -327,20 +327,20 @@
     "rarity": "Consumer Pistol",
     "collection": "The Control Collection",
     "price": {
-      "price_string": "$0.42 - $3.52",
+      "price_string": "$0.43 - $3.49",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 0.42,
+        "value": 0.43,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 3.52,
+        "value": 3.49,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/CZ75-Auto_Jungle_Dashed.png"
   },
@@ -350,20 +350,20 @@
     "rarity": "Consumer Pistol",
     "collection": "The Control Collection",
     "price": {
-      "price_string": "$0.38 - $7.00",
+      "price_string": "$0.44 - $6.41",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 0.38,
+        "value": 0.44,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 7,
+        "value": 6.41,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P250_Forest_Night.png"
   },
@@ -373,11 +373,11 @@
     "rarity": "Consumer SMG",
     "collection": "The Control Collection",
     "price": {
-      "price_string": "$0.46 - $1.79",
+      "price_string": "$0.48 - $1.79",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 0.46,
+        "value": 0.48,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -386,7 +386,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MP9_Army_Sheen.png"
   },
@@ -396,20 +396,20 @@
     "rarity": "Consumer Rifle",
     "collection": "The Control Collection",
     "price": {
-      "price_string": "$0.42 - $1.87",
+      "price_string": "$0.46 - $1.76",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 0.42,
+        "value": 0.46,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 1.87,
+        "value": 1.76,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AUG_Surveillance.png"
   },
@@ -419,20 +419,20 @@
     "rarity": "Consumer Shotgun",
     "collection": "The Control Collection",
     "price": {
-      "price_string": "$0.40 - $1.69",
+      "price_string": "$0.44 - $3.57",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 0.4,
+        "value": 0.44,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 1.69,
+        "value": 3.57,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/XM1014_Charter.png"
   }

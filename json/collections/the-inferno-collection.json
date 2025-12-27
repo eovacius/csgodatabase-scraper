@@ -5,20 +5,20 @@
     "rarity": "Mil-spec Pistol",
     "collection": "The Inferno Collection",
     "price": {
-      "price_string": "$1.68 - $100.02",
+      "price_string": "$1.70 - $99.59",
       "price_stattrak_string": "$11.15 - $295.97",
       "currency": "USD",
       "min": {
-        "value": 1.68,
+        "value": 1.7,
         "stattrak_value": 11.15,
         "unit": "USD"
       },
       "max": {
-        "value": 100.02,
+        "value": 99.59,
         "stattrak_value": 295.97,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:52-08:00"
+      "updated_at": "2025-12-26T12:13:55-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Tec-9_Brass.png"
   },
@@ -28,20 +28,20 @@
     "rarity": "Mil-spec Pistol",
     "collection": "The Inferno Collection",
     "price": {
-      "price_string": "$2.11 - $16.80",
-      "price_stattrak_string": "$10.69 - $92.25",
+      "price_string": "$2.11 - $30.00",
+      "price_stattrak_string": "$10.60 - $92.25",
       "currency": "USD",
       "min": {
         "value": 2.11,
-        "stattrak_value": 10.69,
+        "stattrak_value": 10.6,
         "unit": "USD"
       },
       "max": {
-        "value": 16.8,
+        "value": 30,
         "stattrak_value": 92.25,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:52-08:00"
+      "updated_at": "2025-12-26T12:13:55-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Dual_Berettas_Anodized_Navy.png"
   },
@@ -52,11 +52,11 @@
     "collection": "The Inferno Collection",
     "price": {
       "price_string": "$3.10 - $431.20",
-      "price_stattrak_string": "$8.16 - $444.19",
+      "price_stattrak_string": "$9.38 - $444.19",
       "currency": "USD",
       "min": {
         "value": 3.1,
-        "stattrak_value": 8.16,
+        "stattrak_value": 9.38,
         "unit": "USD"
       },
       "max": {
@@ -64,7 +64,7 @@
         "stattrak_value": 444.19,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:52-08:00"
+      "updated_at": "2025-12-26T12:13:55-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/M4A4_Tornado.png"
   },
@@ -74,20 +74,20 @@
     "rarity": "Industrial Pistol",
     "collection": "The Inferno Collection",
     "price": {
-      "price_string": "$1.21 - $56.37",
-      "price_stattrak_string": "$1.76 - $589.00",
+      "price_string": "$1.38 - $109.17",
+      "price_stattrak_string": "$1.40 - $589.00",
       "currency": "USD",
       "min": {
-        "value": 1.21,
-        "stattrak_value": 1.76,
+        "value": 1.38,
+        "stattrak_value": 1.4,
         "unit": "USD"
       },
       "max": {
-        "value": 56.37,
+        "value": 109.17,
         "stattrak_value": 589,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:52-08:00"
+      "updated_at": "2025-12-26T12:13:55-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P250_Gunsmoke.png"
   },
@@ -98,11 +98,11 @@
     "collection": "The Inferno Collection",
     "price": {
       "price_string": "$1.34 - $39.81",
-      "price_stattrak_string": "$0.49 - $192188.36",
+      "price_stattrak_string": "$0.50 - $192188.36",
       "currency": "USD",
       "min": {
         "value": 1.34,
-        "stattrak_value": 0.49,
+        "stattrak_value": 0.5,
         "unit": "USD"
       },
       "max": {
@@ -110,7 +110,7 @@
         "stattrak_value": 192188.36,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:52-08:00"
+      "updated_at": "2025-12-26T12:13:55-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Nova_Walnut.png"
   },
@@ -120,11 +120,11 @@
     "rarity": "Consumer Shotgun",
     "collection": "The Inferno Collection",
     "price": {
-      "price_string": "$1.15 - $116.76",
+      "price_string": "$1.16 - $116.76",
       "price_stattrak_string": "$0.32 - $44.61",
       "currency": "USD",
       "min": {
-        "value": 1.15,
+        "value": 1.16,
         "stattrak_value": 0.32,
         "unit": "USD"
       },
@@ -133,7 +133,7 @@
         "stattrak_value": 44.61,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:52-08:00"
+      "updated_at": "2025-12-26T12:13:55-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MAG-7_Sand_Dune.png"
   },
@@ -145,18 +145,18 @@
     "price": {
       "price_string": "",
       "price_stattrak_string": "",
-      "currency": "",
+      "currency": "UNKNOWN",
       "min": {
         "value": 0,
         "stattrak_value": 0,
-        "unit": ""
+        "unit": "UNKNOWN"
       },
       "max": {
         "value": 0,
         "stattrak_value": 0,
-        "unit": ""
+        "unit": "UNKNOWN"
       },
-      "updated_at": "2025-12-11T04:49:52-08:00"
+      "updated_at": "2025-12-26T12:13:55-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Boston_2018_Inferno_Souvenir_Package.png"
   },
@@ -166,20 +166,20 @@
     "rarity": "Consumer Grade Container",
     "collection": "Introduced:",
     "price": {
-      "price_string": "$22.60",
+      "price_string": "$21.18",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 22.6,
+        "value": 21.18,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 22.6,
+        "value": 21.18,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:52-08:00"
+      "updated_at": "2025-12-26T12:13:55-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Krakow_2017_Inferno_Souvenir_Package.png"
   },
@@ -202,7 +202,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:52-08:00"
+      "updated_at": "2025-12-26T12:13:55-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/MLG_Columbus_2016_Inferno_Souvenir_Package.png"
   },
@@ -214,18 +214,18 @@
     "price": {
       "price_string": "",
       "price_stattrak_string": "",
-      "currency": "",
+      "currency": "UNKNOWN",
       "min": {
         "value": 0,
         "stattrak_value": 0,
-        "unit": ""
+        "unit": "UNKNOWN"
       },
       "max": {
         "value": 0,
         "stattrak_value": 0,
-        "unit": ""
+        "unit": "UNKNOWN"
       },
-      "updated_at": "2025-12-11T04:49:52-08:00"
+      "updated_at": "2025-12-26T12:13:55-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/DreamHack_Cluj-Napoca_2015_Inferno_Souvenir_Package.png"
   },
@@ -237,18 +237,18 @@
     "price": {
       "price_string": "",
       "price_stattrak_string": "",
-      "currency": "",
+      "currency": "UNKNOWN",
       "min": {
         "value": 0,
         "stattrak_value": 0,
-        "unit": ""
+        "unit": "UNKNOWN"
       },
       "max": {
         "value": 0,
         "stattrak_value": 0,
-        "unit": ""
+        "unit": "UNKNOWN"
       },
-      "updated_at": "2025-12-11T04:49:52-08:00"
+      "updated_at": "2025-12-26T12:13:55-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/ESL_One_Cologne_2015_Inferno_Souvenir_Package.png"
   },
@@ -260,18 +260,18 @@
     "price": {
       "price_string": "",
       "price_stattrak_string": "",
-      "currency": "",
+      "currency": "UNKNOWN",
       "min": {
         "value": 0,
         "stattrak_value": 0,
-        "unit": ""
+        "unit": "UNKNOWN"
       },
       "max": {
         "value": 0,
         "stattrak_value": 0,
-        "unit": ""
+        "unit": "UNKNOWN"
       },
-      "updated_at": "2025-12-11T04:49:52-08:00"
+      "updated_at": "2025-12-26T12:13:55-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/ESL_One_Katowice_2015_Inferno_Souvenir_Package.png"
   },
@@ -294,7 +294,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:52-08:00"
+      "updated_at": "2025-12-26T12:13:55-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/DreamHack_2014_Inferno_Souvenir_Package.png"
   },
@@ -317,7 +317,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:52-08:00"
+      "updated_at": "2025-12-26T12:13:55-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/ESL_One_Cologne_2014_Inferno_Souvenir_Package.png"
   }
