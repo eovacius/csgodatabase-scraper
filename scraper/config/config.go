@@ -33,6 +33,10 @@ var CollectionsList = []string{
 	"the-office-collection", "the-train-collection", "the-vertigo-collection", "the-alpha-collection", "the-blacksite-collection",
 }
 
+var Agents = []string{
+	"chef-descadron-rouchard-gendarmerie-nationale",
+}
+
 // Scraper settings
 var (
 	Target   = "https://www.csgodatabase.com" // target site to scrape from

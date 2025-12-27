@@ -24,3 +24,21 @@ type PriceValue struct {
 	StattrakValue float64 `json:"stattrak_value"`
 	Unit          string  `json:"unit"`
 }
+
+// agents models
+type PriceSimple struct {
+	PriceString string     `json:"price_string"`
+	Currency    string     `json:"currency"`
+	From        PriceValue `json:"starts_from"`
+	UpdatedAt   string     `json:"updated_at"`
+}
+
+type Agent struct {
+	Name        string      `json:"name"`
+	Affiliation string      `json:"affiliation"`
+	Side        string      `json:"side"`
+	Collection  string      `json:"collection"`
+	Rarity      string      `json:"rarity"`
+	Price       PriceSimple `json:"price"`
+	URL         string      `json:"url"`
+}
