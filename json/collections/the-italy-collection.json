@@ -5,20 +5,20 @@
     "rarity": "Restricted Sniper Rifle",
     "collection": "The Italy Collection",
     "price": {
-      "price_string": "$0.51 - $1.77",
+      "price_string": "$0.57 - $1.89",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 0.51,
+        "value": 0.57,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 1.77,
+        "value": 1.89,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:52-08:00"
+      "updated_at": "2025-12-26T12:13:55-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AWP_Pit_Viper.png"
   },
@@ -28,20 +28,20 @@
     "rarity": "Mil-spec Shotgun",
     "collection": "The Italy Collection",
     "price": {
-      "price_string": "$0.11 - $2.89",
+      "price_string": "$0.12 - $2.59",
       "price_stattrak_string": "$46.19 - $175.15",
       "currency": "USD",
       "min": {
-        "value": 0.11,
+        "value": 0.12,
         "stattrak_value": 46.19,
         "unit": "USD"
       },
       "max": {
-        "value": 2.89,
+        "value": 2.59,
         "stattrak_value": 175.15,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:52-08:00"
+      "updated_at": "2025-12-26T12:13:55-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Sawed-Off_Full_Stop.png"
   },
@@ -51,8 +51,8 @@
     "rarity": "Mil-spec Pistol",
     "collection": "The Italy Collection",
     "price": {
-      "price_string": "$0.78 - $3.88",
-      "price_stattrak_string": "$190.46 - $767.97",
+      "price_string": "$0.78 - $3.99",
+      "price_stattrak_string": "$190.46 - $785.41",
       "currency": "USD",
       "min": {
         "value": 0.78,
@@ -60,11 +60,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 3.88,
-        "stattrak_value": 767.97,
+        "value": 3.99,
+        "stattrak_value": 785.41,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:52-08:00"
+      "updated_at": "2025-12-26T12:13:55-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Glock-18_Candy_Apple.png"
   },
@@ -74,11 +74,11 @@
     "rarity": "Mil-spec SMG",
     "collection": "The Italy Collection",
     "price": {
-      "price_string": "$0.57 - $3.85",
+      "price_string": "$0.60 - $3.85",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 0.57,
+        "value": 0.6,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -87,7 +87,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:52-08:00"
+      "updated_at": "2025-12-26T12:13:55-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MP7_Anodized_Navy.png"
   },
@@ -97,12 +97,12 @@
     "rarity": "Industrial Rifle",
     "collection": "The Italy Collection",
     "price": {
-      "price_string": "$0.10 - $18.33",
-      "price_stattrak_string": "$282.20 - $1909.01",
+      "price_string": "$0.09 - $18.33",
+      "price_stattrak_string": "$255.78 - $1909.01",
       "currency": "USD",
       "min": {
-        "value": 0.1,
-        "stattrak_value": 282.2,
+        "value": 0.09,
+        "stattrak_value": 255.78,
         "unit": "USD"
       },
       "max": {
@@ -110,7 +110,7 @@
         "stattrak_value": 1909.01,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:52-08:00"
+      "updated_at": "2025-12-26T12:13:55-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/M4A1-S_Boreal_Forest.png"
   },
@@ -120,20 +120,20 @@
     "rarity": "Industrial Shotgun",
     "collection": "The Italy Collection",
     "price": {
-      "price_string": "$0.06 - $4.88",
-      "price_stattrak_string": "$63.19 - $1167.75",
+      "price_string": "$0.07 - $2.99",
+      "price_stattrak_string": "$60.82 - $1167.75",
       "currency": "USD",
       "min": {
-        "value": 0.06,
-        "stattrak_value": 63.19,
+        "value": 0.07,
+        "stattrak_value": 60.82,
         "unit": "USD"
       },
       "max": {
-        "value": 4.88,
+        "value": 2.99,
         "stattrak_value": 1167.75,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:52-08:00"
+      "updated_at": "2025-12-26T12:13:55-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Nova_Candy_Apple.png"
   },
@@ -143,20 +143,20 @@
     "rarity": "Industrial SMG",
     "collection": "The Italy Collection",
     "price": {
-      "price_string": "$0.05 - $100.00",
+      "price_string": "$0.06 - $100.01",
       "price_stattrak_string": "$15.89 - $301.28",
       "currency": "USD",
       "min": {
-        "value": 0.05,
+        "value": 0.06,
         "stattrak_value": 15.89,
         "unit": "USD"
       },
       "max": {
-        "value": 100,
+        "value": 100.01,
         "stattrak_value": 301.28,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:52-08:00"
+      "updated_at": "2025-12-26T12:13:55-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/UMP-45_Gunsmoke.png"
   },
@@ -166,20 +166,20 @@
     "rarity": "Industrial Shotgun",
     "collection": "The Italy Collection",
     "price": {
-      "price_string": "$0.05 - $0.84",
-      "price_stattrak_string": "$34.29 - $321.91",
+      "price_string": "$0.02 - $0.27",
+      "price_stattrak_string": "$40.33 - $321.91",
       "currency": "USD",
       "min": {
-        "value": 0.05,
-        "stattrak_value": 34.29,
+        "value": 0.02,
+        "stattrak_value": 40.33,
         "unit": "USD"
       },
       "max": {
-        "value": 0.84,
+        "value": 0.27,
         "stattrak_value": 321.91,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:52-08:00"
+      "updated_at": "2025-12-26T12:13:55-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/XM1014_CaliCamo.png"
   },
@@ -189,11 +189,11 @@
     "rarity": "Industrial Pistol",
     "collection": "The Italy Collection",
     "price": {
-      "price_string": "$0.07 - $1.00",
+      "price_string": "$0.06 - $1.00",
       "price_stattrak_string": "$33.13 - $400.00",
       "currency": "USD",
       "min": {
-        "value": 0.07,
+        "value": 0.06,
         "stattrak_value": 33.13,
         "unit": "USD"
       },
@@ -202,7 +202,7 @@
         "stattrak_value": 400,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:52-08:00"
+      "updated_at": "2025-12-26T12:13:55-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Dual_Berettas_Stained.png"
   },
@@ -212,20 +212,20 @@
     "rarity": "Industrial Pistol",
     "collection": "The Italy Collection",
     "price": {
-      "price_string": "$0.06 - $4.67",
-      "price_stattrak_string": "$44.55 - $89.92",
+      "price_string": "$0.05 - $4.67",
+      "price_stattrak_string": "$46.80 - $450.00",
       "currency": "USD",
       "min": {
-        "value": 0.06,
-        "stattrak_value": 44.55,
+        "value": 0.05,
+        "stattrak_value": 46.8,
         "unit": "USD"
       },
       "max": {
         "value": 4.67,
-        "stattrak_value": 89.92,
+        "stattrak_value": 450,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:52-08:00"
+      "updated_at": "2025-12-26T12:13:55-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P2000_Granite_Marbleized.png"
   },
@@ -248,7 +248,7 @@
         "stattrak_value": 216.56,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:52-08:00"
+      "updated_at": "2025-12-26T12:13:55-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Nova_Sand_Dune.png"
   },
@@ -259,7 +259,7 @@
     "collection": "The Italy Collection",
     "price": {
       "price_string": "$0.02 - $7.50",
-      "price_stattrak_string": "$11.65 - $75.00",
+      "price_stattrak_string": "$11.65 - $100000.00",
       "currency": "USD",
       "min": {
         "value": 0.02,
@@ -268,10 +268,10 @@
       },
       "max": {
         "value": 7.5,
-        "stattrak_value": 75,
+        "stattrak_value": 100000,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:52-08:00"
+      "updated_at": "2025-12-26T12:13:55-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AUG_Contractor.png"
   },
@@ -281,11 +281,11 @@
     "rarity": "Consumer Pistol",
     "collection": "The Italy Collection",
     "price": {
-      "price_string": "$0.01 - $4935.26",
+      "price_string": "$0.02 - $4935.26",
       "price_stattrak_string": "$11.35 - $170.00",
       "currency": "USD",
       "min": {
-        "value": 0.01,
+        "value": 0.02,
         "stattrak_value": 11.35,
         "unit": "USD"
       },
@@ -294,7 +294,7 @@
         "stattrak_value": 170,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:52-08:00"
+      "updated_at": "2025-12-26T12:13:55-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Tec-9_Groundwater.png"
   },
@@ -305,11 +305,11 @@
     "collection": "The Italy Collection",
     "price": {
       "price_string": "$0.01 - $4935.26",
-      "price_stattrak_string": "$11.01 - $227.58",
+      "price_stattrak_string": "$14.76 - $227.58",
       "currency": "USD",
       "min": {
         "value": 0.01,
-        "stattrak_value": 11.01,
+        "stattrak_value": 14.76,
         "unit": "USD"
       },
       "max": {
@@ -317,7 +317,7 @@
         "stattrak_value": 227.58,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:52-08:00"
+      "updated_at": "2025-12-26T12:13:55-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/FAMAS_Colony.png"
   },
@@ -327,20 +327,20 @@
     "rarity": "Consumer SMG",
     "collection": "The Italy Collection",
     "price": {
-      "price_string": "$0.01 - $1.84",
-      "price_stattrak_string": "$10.40 - $250.00",
+      "price_string": "$0.01 - $20.85",
+      "price_stattrak_string": "$10.23 - $250.00",
       "currency": "USD",
       "min": {
         "value": 0.01,
-        "stattrak_value": 10.4,
+        "stattrak_value": 10.23,
         "unit": "USD"
       },
       "max": {
-        "value": 1.84,
+        "value": 20.85,
         "stattrak_value": 250,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:52-08:00"
+      "updated_at": "2025-12-26T12:13:55-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/PP-Bizon_Sand_Dashed.png"
   }

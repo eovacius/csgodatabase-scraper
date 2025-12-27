@@ -5,20 +5,20 @@
     "rarity": "Covert Pistol",
     "collection": "The Spectrum Collection",
     "price": {
-      "price_string": "$78.50 - $293.25",
-      "price_stattrak_string": "$35.68 - $240.88",
+      "price_string": "$80.64 - $253.91",
+      "price_stattrak_string": "$35.68 - $244.42",
       "currency": "USD",
       "min": {
-        "value": 78.5,
+        "value": 80.64,
         "stattrak_value": 35.68,
         "unit": "USD"
       },
       "max": {
-        "value": 293.25,
-        "stattrak_value": 240.88,
+        "value": 253.91,
+        "stattrak_value": 244.42,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/USP-S_Neo-Noir.png"
   },
@@ -28,20 +28,20 @@
     "rarity": "Covert Rifle",
     "collection": "The Spectrum Collection",
     "price": {
-      "price_string": "$136.80 - $358.60",
-      "price_stattrak_string": "$258.00 - $626.03",
+      "price_string": "$143.83 - $357.94",
+      "price_stattrak_string": "$262.99 - $655.00",
       "currency": "USD",
       "min": {
-        "value": 136.8,
-        "stattrak_value": 258,
+        "value": 143.83,
+        "stattrak_value": 262.99,
         "unit": "USD"
       },
       "max": {
-        "value": 358.6,
-        "stattrak_value": 626.03,
+        "value": 357.94,
+        "stattrak_value": 655,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AK-47_Bloodsport.png"
   },
@@ -51,20 +51,20 @@
     "rarity": "Classified Rifle",
     "collection": "The Spectrum Collection",
     "price": {
-      "price_string": "$12.05 - $110.09",
-      "price_stattrak_string": "$26.23 - $148.78",
+      "price_string": "$12.48 - $113.76",
+      "price_stattrak_string": "$26.23 - $147.21",
       "currency": "USD",
       "min": {
-        "value": 12.05,
+        "value": 12.48,
         "stattrak_value": 26.23,
         "unit": "USD"
       },
       "max": {
-        "value": 110.09,
-        "stattrak_value": 148.78,
+        "value": 113.76,
+        "stattrak_value": 147.21,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/M4A1-S_Decimator.png"
   },
@@ -75,7 +75,7 @@
     "collection": "The Spectrum Collection",
     "price": {
       "price_string": "$10.56 - $1798.61",
-      "price_stattrak_string": "$15.10 - $45.74",
+      "price_stattrak_string": "$15.10 - $51.08",
       "currency": "USD",
       "min": {
         "value": 10.56,
@@ -84,10 +84,10 @@
       },
       "max": {
         "value": 1798.61,
-        "stattrak_value": 45.74,
+        "stattrak_value": 51.08,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/CZ75-Auto_Xiangliu.png"
   },
@@ -97,20 +97,20 @@
     "rarity": "Classified Sniper Rifle",
     "collection": "The Spectrum Collection",
     "price": {
-      "price_string": "$12.62 - $40.87",
-      "price_stattrak_string": "$21.70 - $52.74",
+      "price_string": "$12.75 - $41.71",
+      "price_stattrak_string": "$22.96 - $53.06",
       "currency": "USD",
       "min": {
-        "value": 12.62,
-        "stattrak_value": 21.7,
+        "value": 12.75,
+        "stattrak_value": 22.96,
         "unit": "USD"
       },
       "max": {
-        "value": 40.87,
-        "stattrak_value": 52.74,
+        "value": 41.71,
+        "stattrak_value": 53.06,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AWP_Fever_Dream.png"
   },
@@ -120,12 +120,12 @@
     "rarity": "Restricted Machine Gun",
     "collection": "The Spectrum Collection",
     "price": {
-      "price_string": "$1.28 - $4.97",
-      "price_stattrak_string": "$2.27 - $9.33",
+      "price_string": "$1.34 - $4.97",
+      "price_stattrak_string": "$2.42 - $9.33",
       "currency": "USD",
       "min": {
-        "value": 1.28,
-        "stattrak_value": 2.27,
+        "value": 1.34,
+        "stattrak_value": 2.42,
         "unit": "USD"
       },
       "max": {
@@ -133,7 +133,7 @@
         "stattrak_value": 9.33,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/M249_Emerald_Poison_Dart.png"
   },
@@ -143,12 +143,12 @@
     "rarity": "Restricted Rifle",
     "collection": "The Spectrum Collection",
     "price": {
-      "price_string": "$1.54 - $16.96",
-      "price_stattrak_string": "$3.09 - $50.00",
+      "price_string": "$2.07 - $16.96",
+      "price_stattrak_string": "$3.81 - $50.00",
       "currency": "USD",
       "min": {
-        "value": 1.54,
-        "stattrak_value": 3.09,
+        "value": 2.07,
+        "stattrak_value": 3.81,
         "unit": "USD"
       },
       "max": {
@@ -156,7 +156,7 @@
         "stattrak_value": 50,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Galil_AR_Crimson_Tsunami.png"
   },
@@ -166,12 +166,12 @@
     "rarity": "Restricted Shotgun",
     "collection": "The Spectrum Collection",
     "price": {
-      "price_string": "$1.30 - $4.62",
-      "price_stattrak_string": "$2.43 - $999.00",
+      "price_string": "$1.47 - $4.62",
+      "price_stattrak_string": "$2.47 - $999.00",
       "currency": "USD",
       "min": {
-        "value": 1.3,
-        "stattrak_value": 2.43,
+        "value": 1.47,
+        "stattrak_value": 2.47,
         "unit": "USD"
       },
       "max": {
@@ -179,7 +179,7 @@
         "stattrak_value": 999,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/XM1014_Seasons.png"
   },
@@ -190,11 +190,11 @@
     "collection": "The Spectrum Collection",
     "price": {
       "price_string": "$1.16 - $12.00",
-      "price_stattrak_string": "$2.09 - $9999.00",
+      "price_stattrak_string": "$2.30 - $9999.00",
       "currency": "USD",
       "min": {
         "value": 1.16,
-        "stattrak_value": 2.09,
+        "stattrak_value": 2.3,
         "unit": "USD"
       },
       "max": {
@@ -202,7 +202,7 @@
         "stattrak_value": 9999,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/UMP-45_Scaffold.png"
   },
@@ -212,12 +212,12 @@
     "rarity": "Restricted SMG",
     "collection": "The Spectrum Collection",
     "price": {
-      "price_string": "$1.32 - $150.00",
-      "price_stattrak_string": "$2.36 - $1911.00",
+      "price_string": "$1.37 - $150.00",
+      "price_stattrak_string": "$2.25 - $1911.00",
       "currency": "USD",
       "min": {
-        "value": 1.32,
-        "stattrak_value": 2.36,
+        "value": 1.37,
+        "stattrak_value": 2.25,
         "unit": "USD"
       },
       "max": {
@@ -225,7 +225,7 @@
         "stattrak_value": 1911,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MAC-10_Last_Dive.png"
   },
@@ -235,7 +235,7 @@
     "rarity": "Mil-spec Pistol",
     "collection": "The Spectrum Collection",
     "price": {
-      "price_string": "$0.34 - $1.18",
+      "price_string": "$0.34 - $1.22",
       "price_stattrak_string": "$0.93 - $22.40",
       "currency": "USD",
       "min": {
@@ -244,11 +244,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 1.18,
+        "value": 1.22,
         "stattrak_value": 22.4,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Desert_Eagle_Oxide_Blaze.png"
   },
@@ -258,20 +258,20 @@
     "rarity": "Mil-spec Pistol",
     "collection": "The Spectrum Collection",
     "price": {
-      "price_string": "$0.27 - $2.00",
-      "price_stattrak_string": "$0.28 - $2.46",
+      "price_string": "$0.28 - $2.00",
+      "price_stattrak_string": "$0.28 - $3.38",
       "currency": "USD",
       "min": {
-        "value": 0.27,
+        "value": 0.28,
         "stattrak_value": 0.28,
         "unit": "USD"
       },
       "max": {
         "value": 2,
-        "stattrak_value": 2.46,
+        "stattrak_value": 3.38,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Five-SeveN_Capillary.png"
   },
@@ -281,20 +281,20 @@
     "rarity": "Mil-spec Pistol",
     "collection": "The Spectrum Collection",
     "price": {
-      "price_string": "$0.25 - $4.30",
-      "price_stattrak_string": "$0.25 - $1.26",
+      "price_string": "$0.16 - $4.30",
+      "price_stattrak_string": "$0.29 - $2.41",
       "currency": "USD",
       "min": {
-        "value": 0.25,
-        "stattrak_value": 0.25,
+        "value": 0.16,
+        "stattrak_value": 0.29,
         "unit": "USD"
       },
       "max": {
         "value": 4.3,
-        "stattrak_value": 1.26,
+        "stattrak_value": 2.41,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P250_Ripple.png"
   },
@@ -304,12 +304,12 @@
     "rarity": "Mil-spec SMG",
     "collection": "The Spectrum Collection",
     "price": {
-      "price_string": "$0.23 - $25.00",
-      "price_stattrak_string": "$0.23 - $3.00",
+      "price_string": "$0.22 - $25.00",
+      "price_stattrak_string": "$0.28 - $3.00",
       "currency": "USD",
       "min": {
-        "value": 0.23,
-        "stattrak_value": 0.23,
+        "value": 0.22,
+        "stattrak_value": 0.28,
         "unit": "USD"
       },
       "max": {
@@ -317,7 +317,7 @@
         "stattrak_value": 3,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/PP-Bizon_Jungle_Slipstream.png"
   },
@@ -327,20 +327,20 @@
     "rarity": "Mil-spec Sniper Rifle",
     "collection": "The Spectrum Collection",
     "price": {
-      "price_string": "$0.23 - $4.00",
-      "price_stattrak_string": "$0.24 - $1.75",
+      "price_string": "$0.22 - $1.01",
+      "price_stattrak_string": "$0.26 - $2.06",
       "currency": "USD",
       "min": {
-        "value": 0.23,
-        "stattrak_value": 0.24,
+        "value": 0.22,
+        "stattrak_value": 0.26,
         "unit": "USD"
       },
       "max": {
-        "value": 4,
-        "stattrak_value": 1.75,
+        "value": 1.01,
+        "stattrak_value": 2.06,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SCAR-20_Blueprint.png"
   },
@@ -350,20 +350,20 @@
     "rarity": "Mil-spec Shotgun",
     "collection": "The Spectrum Collection",
     "price": {
-      "price_string": "$0.22 - $19.92",
-      "price_stattrak_string": "$0.26 - $9.07",
+      "price_string": "$0.23 - $15.00",
+      "price_stattrak_string": "$0.25 - $9.07",
       "currency": "USD",
       "min": {
-        "value": 0.22,
-        "stattrak_value": 0.26,
+        "value": 0.23,
+        "stattrak_value": 0.25,
         "unit": "USD"
       },
       "max": {
-        "value": 19.92,
+        "value": 15,
         "stattrak_value": 9.07,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Sawed-Off_Zander.png"
   },
@@ -373,20 +373,20 @@
     "rarity": "Mil-spec SMG",
     "collection": "The Spectrum Collection",
     "price": {
-      "price_string": "$0.25 - $3.00",
-      "price_stattrak_string": "$0.27 - $1.38",
+      "price_string": "$0.23 - $3.00",
+      "price_stattrak_string": "$0.29 - $4.00",
       "currency": "USD",
       "min": {
-        "value": 0.25,
-        "stattrak_value": 0.27,
+        "value": 0.23,
+        "stattrak_value": 0.29,
         "unit": "USD"
       },
       "max": {
         "value": 3,
-        "stattrak_value": 1.38,
+        "stattrak_value": 4,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MP7_Akoben.png"
   },
@@ -396,20 +396,20 @@
     "rarity": "Extraordinary Knife",
     "collection": "",
     "price": {
-      "price_string": "$81.90 - $208.91",
-      "price_stattrak_string": "$96.47 - $325.47",
+      "price_string": "$79.99 - $208.91",
+      "price_stattrak_string": "$90.45 - $273.07",
       "currency": "USD",
       "min": {
-        "value": 81.9,
-        "stattrak_value": 96.47,
+        "value": 79.99,
+        "stattrak_value": 90.45,
         "unit": "USD"
       },
       "max": {
         "value": 208.91,
-        "stattrak_value": 325.47,
+        "stattrak_value": 273.07,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/knives/Bowie_Knife_Damascus_Steel.png"
   },
@@ -419,20 +419,20 @@
     "rarity": "Extraordinary Knife",
     "collection": "",
     "price": {
-      "price_string": "$263.46 - $2036.60",
-      "price_stattrak_string": "$310.53 - $586.36",
+      "price_string": "$263.60 - $2036.60",
+      "price_stattrak_string": "$293.74 - $700.01",
       "currency": "USD",
       "min": {
-        "value": 263.46,
-        "stattrak_value": 310.53,
+        "value": 263.6,
+        "stattrak_value": 293.74,
         "unit": "USD"
       },
       "max": {
         "value": 2036.6,
-        "stattrak_value": 586.36,
+        "stattrak_value": 700.01,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/knives/Bowie_Knife_Doppler.png"
   },
@@ -442,12 +442,12 @@
     "rarity": "Extraordinary Knife",
     "collection": "",
     "price": {
-      "price_string": "$177.00 - $429.07",
-      "price_stattrak_string": "$209.03 - $563.90",
+      "price_string": "$180.64 - $429.07",
+      "price_stattrak_string": "$211.59 - $563.90",
       "currency": "USD",
       "min": {
-        "value": 177,
-        "stattrak_value": 209.03,
+        "value": 180.64,
+        "stattrak_value": 211.59,
         "unit": "USD"
       },
       "max": {
@@ -455,7 +455,7 @@
         "stattrak_value": 563.9,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/knives/Bowie_Knife_Marble_Fade.png"
   },
@@ -465,12 +465,12 @@
     "rarity": "Extraordinary Knife",
     "collection": "",
     "price": {
-      "price_string": "$55.72 - $162.00",
-      "price_stattrak_string": "$66.42 - $161.00",
+      "price_string": "$55.00 - $162.00",
+      "price_stattrak_string": "$63.44 - $161.00",
       "currency": "USD",
       "min": {
-        "value": 55.72,
-        "stattrak_value": 66.42,
+        "value": 55,
+        "stattrak_value": 63.44,
         "unit": "USD"
       },
       "max": {
@@ -478,7 +478,7 @@
         "stattrak_value": 161,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/knives/Bowie_Knife_Rust_Coat.png"
   },
@@ -488,20 +488,20 @@
     "rarity": "Extraordinary Knife",
     "collection": "",
     "price": {
-      "price_string": "$144.09 - $279.90",
-      "price_stattrak_string": "$167.37 - $289.41",
+      "price_string": "$139.38 - $277.77",
+      "price_stattrak_string": "$165.99 - $289.41",
       "currency": "USD",
       "min": {
-        "value": 144.09,
-        "stattrak_value": 167.37,
+        "value": 139.38,
+        "stattrak_value": 165.99,
         "unit": "USD"
       },
       "max": {
-        "value": 279.9,
+        "value": 277.77,
         "stattrak_value": 289.41,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/knives/Bowie_Knife_Tiger_Tooth.png"
   },
@@ -511,12 +511,12 @@
     "rarity": "Extraordinary Knife",
     "collection": "",
     "price": {
-      "price_string": "$1.75 - $194.55",
-      "price_stattrak_string": "$80.67 - $223.26",
+      "price_string": "$66.74 - $194.55",
+      "price_stattrak_string": "$78.66 - $223.26",
       "currency": "USD",
       "min": {
-        "value": 1.75,
-        "stattrak_value": 80.67,
+        "value": 66.74,
+        "stattrak_value": 78.66,
         "unit": "USD"
       },
       "max": {
@@ -524,7 +524,7 @@
         "stattrak_value": 223.26,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/knives/Bowie_Knife_Ultraviolet.png"
   },
@@ -534,12 +534,12 @@
     "rarity": "Extraordinary Knife",
     "collection": "",
     "price": {
-      "price_string": "$750.70 - $1604.02",
-      "price_stattrak_string": "$840.00 - $1741.04",
+      "price_string": "$799.00 - $1604.02",
+      "price_stattrak_string": "$858.56 - $1741.04",
       "currency": "USD",
       "min": {
-        "value": 750.7,
-        "stattrak_value": 840,
+        "value": 799,
+        "stattrak_value": 858.56,
         "unit": "USD"
       },
       "max": {
@@ -547,7 +547,7 @@
         "stattrak_value": 1741.04,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/knives/Butterfly_Knife_Damascus_Steel.png"
   },
@@ -557,11 +557,11 @@
     "rarity": "Extraordinary Knife",
     "collection": "",
     "price": {
-      "price_string": "$2043.49 - $12801.80",
+      "price_string": "$1753.86 - $12801.80",
       "price_stattrak_string": "$1824.55 - $15180.71",
       "currency": "USD",
       "min": {
-        "value": 2043.49,
+        "value": 1753.86,
         "stattrak_value": 1824.55,
         "unit": "USD"
       },
@@ -570,7 +570,7 @@
         "stattrak_value": 15180.71,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/knives/Butterfly_Knife_Doppler.png"
   },
@@ -580,20 +580,20 @@
     "rarity": "Extraordinary Knife",
     "collection": "",
     "price": {
-      "price_string": "$1672.69 - $2519.67",
-      "price_stattrak_string": "$1603.90 - $2497.74",
+      "price_string": "$1697.65 - $2946.31",
+      "price_stattrak_string": "$1800.00 - $2464.88",
       "currency": "USD",
       "min": {
-        "value": 1672.69,
-        "stattrak_value": 1603.9,
+        "value": 1697.65,
+        "stattrak_value": 1800,
         "unit": "USD"
       },
       "max": {
-        "value": 2519.67,
-        "stattrak_value": 2497.74,
+        "value": 2946.31,
+        "stattrak_value": 2464.88,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/knives/Butterfly_Knife_Marble_Fade.png"
   },
@@ -603,20 +603,20 @@
     "rarity": "Extraordinary Knife",
     "collection": "",
     "price": {
-      "price_string": "$569.96 - $901.62",
-      "price_stattrak_string": "$620.51 - $957.62",
+      "price_string": "$575.98 - $948.40",
+      "price_stattrak_string": "$614.44 - $957.62",
       "currency": "USD",
       "min": {
-        "value": 569.96,
-        "stattrak_value": 620.51,
+        "value": 575.98,
+        "stattrak_value": 614.44,
         "unit": "USD"
       },
       "max": {
-        "value": 901.62,
+        "value": 948.4,
         "stattrak_value": 957.62,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/knives/Butterfly_Knife_Rust_Coat.png"
   },
@@ -626,20 +626,20 @@
     "rarity": "Extraordinary Knife",
     "collection": "",
     "price": {
-      "price_string": "$1338.00 - $2500.00",
-      "price_stattrak_string": "$1399.98 - $2335.48",
+      "price_string": "$1300.00 - $2700.23",
+      "price_stattrak_string": "$1360.13 - $2335.48",
       "currency": "USD",
       "min": {
-        "value": 1338,
-        "stattrak_value": 1399.98,
+        "value": 1300,
+        "stattrak_value": 1360.13,
         "unit": "USD"
       },
       "max": {
-        "value": 2500,
+        "value": 2700.23,
         "stattrak_value": 2335.48,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/knives/Butterfly_Knife_Tiger_Tooth.png"
   },
@@ -649,20 +649,20 @@
     "rarity": "Extraordinary Knife",
     "collection": "",
     "price": {
-      "price_string": "$544.30 - $1400.00",
-      "price_stattrak_string": "$634.39 - $1319.62",
+      "price_string": "$558.97 - $1500.00",
+      "price_stattrak_string": "$687.22 - $1250.63",
       "currency": "USD",
       "min": {
-        "value": 544.3,
-        "stattrak_value": 634.39,
+        "value": 558.97,
+        "stattrak_value": 687.22,
         "unit": "USD"
       },
       "max": {
-        "value": 1400,
-        "stattrak_value": 1319.62,
+        "value": 1500,
+        "stattrak_value": 1250.63,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/knives/Butterfly_Knife_Ultraviolet.png"
   },
@@ -672,12 +672,12 @@
     "rarity": "Extraordinary Knife",
     "collection": "",
     "price": {
-      "price_string": "$88.49 - $216.04",
-      "price_stattrak_string": "$108.84 - $251.77",
+      "price_string": "$93.99 - $216.04",
+      "price_stattrak_string": "$107.96 - $251.77",
       "currency": "USD",
       "min": {
-        "value": 88.49,
-        "stattrak_value": 108.84,
+        "value": 93.99,
+        "stattrak_value": 107.96,
         "unit": "USD"
       },
       "max": {
@@ -685,7 +685,7 @@
         "stattrak_value": 251.77,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/knives/Falchion_Knife_Damascus_Steel.png"
   },
@@ -695,12 +695,12 @@
     "rarity": "Extraordinary Knife",
     "collection": "",
     "price": {
-      "price_string": "$291.48 - $1496.40",
-      "price_stattrak_string": "$337.74 - $1458.52",
+      "price_string": "$303.47 - $1496.40",
+      "price_stattrak_string": "$337.05 - $1458.52",
       "currency": "USD",
       "min": {
-        "value": 291.48,
-        "stattrak_value": 337.74,
+        "value": 303.47,
+        "stattrak_value": 337.05,
         "unit": "USD"
       },
       "max": {
@@ -708,7 +708,7 @@
         "stattrak_value": 1458.52,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/knives/Falchion_Knife_Doppler.png"
   },
@@ -718,20 +718,20 @@
     "rarity": "Extraordinary Knife",
     "collection": "",
     "price": {
-      "price_string": "$190.00 - $298.07",
-      "price_stattrak_string": "$221.33 - $382.05",
+      "price_string": "$189.67 - $487.26",
+      "price_stattrak_string": "$221.23 - $382.05",
       "currency": "USD",
       "min": {
-        "value": 190,
-        "stattrak_value": 221.33,
+        "value": 189.67,
+        "stattrak_value": 221.23,
         "unit": "USD"
       },
       "max": {
-        "value": 298.07,
+        "value": 487.26,
         "stattrak_value": 382.05,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/knives/Falchion_Knife_Marble_Fade.png"
   },
@@ -741,12 +741,12 @@
     "rarity": "Extraordinary Knife",
     "collection": "",
     "price": {
-      "price_string": "$64.23 - $113.66",
-      "price_stattrak_string": "$73.06 - $130.22",
+      "price_string": "$63.09 - $113.66",
+      "price_stattrak_string": "$71.46 - $130.22",
       "currency": "USD",
       "min": {
-        "value": 64.23,
-        "stattrak_value": 73.06,
+        "value": 63.09,
+        "stattrak_value": 71.46,
         "unit": "USD"
       },
       "max": {
@@ -754,7 +754,7 @@
         "stattrak_value": 130.22,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/knives/Falchion_Knife_Rust_Coat.png"
   },
@@ -764,12 +764,12 @@
     "rarity": "Extraordinary Knife",
     "collection": "",
     "price": {
-      "price_string": "$155.00 - $331.35",
-      "price_stattrak_string": "$180.88 - $325.24",
+      "price_string": "$153.62 - $331.35",
+      "price_stattrak_string": "$177.05 - $325.24",
       "currency": "USD",
       "min": {
-        "value": 155,
-        "stattrak_value": 180.88,
+        "value": 153.62,
+        "stattrak_value": 177.05,
         "unit": "USD"
       },
       "max": {
@@ -777,7 +777,7 @@
         "stattrak_value": 325.24,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/knives/Falchion_Knife_Tiger_Tooth.png"
   },
@@ -787,20 +787,20 @@
     "rarity": "Extraordinary Knife",
     "collection": "",
     "price": {
-      "price_string": "$79.09 - $180.22",
-      "price_stattrak_string": "$90.11 - $176.56",
+      "price_string": "$77.35 - $178.55",
+      "price_stattrak_string": "$90.24 - $176.56",
       "currency": "USD",
       "min": {
-        "value": 79.09,
-        "stattrak_value": 90.11,
+        "value": 77.35,
+        "stattrak_value": 90.24,
         "unit": "USD"
       },
       "max": {
-        "value": 180.22,
+        "value": 178.55,
         "stattrak_value": 176.56,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/knives/Falchion_Knife_Ultraviolet.png"
   }

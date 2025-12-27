@@ -5,20 +5,20 @@
     "rarity": "Classified Rifle",
     "collection": "The Baggage Collection",
     "price": {
-      "price_string": "$276.25 - $843.69",
+      "price_string": "$291.94 - $780.18",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 276.25,
+        "value": 291.94,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 843.69,
+        "value": 780.18,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:52-08:00"
+      "updated_at": "2025-12-26T12:13:54-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AK-47_Jet_Set.png"
   },
@@ -28,7 +28,7 @@
     "rarity": "Restricted Pistol",
     "collection": "The Baggage Collection",
     "price": {
-      "price_string": "$67.47 - $304.35",
+      "price_string": "$67.47 - $603.12",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -37,11 +37,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 304.35,
+        "value": 603.12,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:52-08:00"
+      "updated_at": "2025-12-26T12:13:54-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Desert_Eagle_Pilot.png"
   },
@@ -51,20 +51,20 @@
     "rarity": "Restricted Rifle",
     "collection": "The Baggage Collection",
     "price": {
-      "price_string": "$81.77 - $308.52",
+      "price_string": "$85.91 - $358.00",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 81.77,
+        "value": 85.91,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 308.52,
+        "value": 358,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:52-08:00"
+      "updated_at": "2025-12-26T12:13:54-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AK-47_First_Class.png"
   },
@@ -87,7 +87,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:52-08:00"
+      "updated_at": "2025-12-26T12:13:54-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/USP-S_Business_Class.png"
   },
@@ -99,18 +99,18 @@
     "price": {
       "price_string": "",
       "price_stattrak_string": "",
-      "currency": "",
+      "currency": "UNKNOWN",
       "min": {
         "value": 0,
         "stattrak_value": 0,
-        "unit": ""
+        "unit": "UNKNOWN"
       },
       "max": {
         "value": 0,
         "stattrak_value": 0,
-        "unit": ""
+        "unit": "UNKNOWN"
       },
-      "updated_at": "2025-12-11T04:49:52-08:00"
+      "updated_at": "2025-12-26T12:13:54-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Sawed-Off_First_Class.png"
   },
@@ -120,11 +120,11 @@
     "rarity": "Mil-spec Shotgun",
     "collection": "The Baggage Collection",
     "price": {
-      "price_string": "$44.16 - $99.48",
+      "price_string": "$41.07 - $99.48",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 44.16,
+        "value": 41.07,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -133,7 +133,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:52-08:00"
+      "updated_at": "2025-12-26T12:13:54-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/XM1014_Red_Leather.png"
   },
@@ -143,11 +143,11 @@
     "rarity": "Industrial Pistol",
     "collection": "The Baggage Collection",
     "price": {
-      "price_string": "$6.97 - $66.00",
+      "price_string": "$6.83 - $66.00",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 6.97,
+        "value": 6.83,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -156,7 +156,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:52-08:00"
+      "updated_at": "2025-12-26T12:13:54-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P2000_Coach_Class.png"
   },
@@ -166,20 +166,20 @@
     "rarity": "Industrial Rifle",
     "collection": "The Baggage Collection",
     "price": {
-      "price_string": "$6.84 - $42.34",
+      "price_string": "$6.19 - $40.87",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 6.84,
+        "value": 6.19,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 42.34,
+        "value": 40.87,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:52-08:00"
+      "updated_at": "2025-12-26T12:13:54-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SG_553_Traveler.png"
   },
@@ -189,20 +189,20 @@
     "rarity": "Industrial SMG",
     "collection": "The Baggage Collection",
     "price": {
-      "price_string": "$6.83 - $28.02",
+      "price_string": "$8.13 - $55.00",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 6.83,
+        "value": 8.13,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 28.02,
+        "value": 55,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:52-08:00"
+      "updated_at": "2025-12-26T12:13:54-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MAC-10_Commuter.png"
   },
@@ -212,20 +212,20 @@
     "rarity": "Industrial SMG",
     "collection": "The Baggage Collection",
     "price": {
-      "price_string": "$6.35 - $30.00",
+      "price_string": "$6.66 - $27.00",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 6.35,
+        "value": 6.66,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 30,
+        "value": 27,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:52-08:00"
+      "updated_at": "2025-12-26T12:13:54-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P90_Leather.png"
   },
@@ -248,7 +248,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:52-08:00"
+      "updated_at": "2025-12-26T12:13:54-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/CZ75-Auto_Green_Plaid.png"
   },
@@ -271,7 +271,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:52-08:00"
+      "updated_at": "2025-12-26T12:13:54-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/G3SG1_Contractor.png"
   },
@@ -281,20 +281,20 @@
     "rarity": "Consumer Sniper Rifle",
     "collection": "The Baggage Collection",
     "price": {
-      "price_string": "$2.72 - $108.99",
+      "price_string": "$3.37 - $114.83",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 2.72,
+        "value": 3.37,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 108.99,
+        "value": 114.83,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:52-08:00"
+      "updated_at": "2025-12-26T12:13:54-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SSG_08_Sand_Dune.png"
   },
@@ -317,7 +317,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:52-08:00"
+      "updated_at": "2025-12-26T12:13:54-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MP7_Olive_Plaid.png"
   },
@@ -327,20 +327,20 @@
     "rarity": "Consumer SMG",
     "collection": "The Baggage Collection",
     "price": {
-      "price_string": "$2.55 - $16.45",
+      "price_string": "$2.48 - $13.51",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 2.55,
+        "value": 2.48,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 16.45,
+        "value": 13.51,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:52-08:00"
+      "updated_at": "2025-12-26T12:13:54-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MP9_Green_Plaid.png"
   }

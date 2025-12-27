@@ -5,20 +5,20 @@
     "rarity": "Restricted Rifle",
     "collection": "The Safehouse Collection",
     "price": {
-      "price_string": "$0.35 - $14.64",
+      "price_string": "$0.34 - $14.20",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 0.35,
+        "value": 0.34,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 14.64,
+        "value": 14.2,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:48-08:00"
+      "updated_at": "2025-12-26T12:13:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/M4A1-S_Nitro.png"
   },
@@ -28,20 +28,20 @@
     "rarity": "Mil-spec Pistol",
     "collection": "The Safehouse Collection",
     "price": {
-      "price_string": "$0.08 - $0.96",
-      "price_stattrak_string": "$430.85 - $527.80",
+      "price_string": "$0.09 - $0.96",
+      "price_stattrak_string": "$430.85 - $527.77",
       "currency": "USD",
       "min": {
-        "value": 0.08,
+        "value": 0.09,
         "stattrak_value": 430.85,
         "unit": "USD"
       },
       "max": {
         "value": 0.96,
-        "stattrak_value": 527.8,
+        "stattrak_value": 527.77,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:48-08:00"
+      "updated_at": "2025-12-26T12:13:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Five-SeveN_Silver_Quartz.png"
   },
@@ -64,7 +64,7 @@
         "stattrak_value": 350.32,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:48-08:00"
+      "updated_at": "2025-12-26T12:13:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/FAMAS_Teardown.png"
   },
@@ -74,11 +74,11 @@
     "rarity": "Mil-spec Sniper Rifle",
     "collection": "The Safehouse Collection",
     "price": {
-      "price_string": "$0.83 - $1.30",
+      "price_string": "$0.71 - $1.30",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 0.83,
+        "value": 0.71,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -87,7 +87,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:48-08:00"
+      "updated_at": "2025-12-26T12:13:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SSG_08_Acid_Fade.png"
   },
@@ -97,20 +97,20 @@
     "rarity": "Industrial Pistol",
     "collection": "The Safehouse Collection",
     "price": {
-      "price_string": "$0.03 - $2.31",
+      "price_string": "$0.02 - $2.10",
       "price_stattrak_string": "$78.43 - $247.48",
       "currency": "USD",
       "min": {
-        "value": 0.03,
+        "value": 0.02,
         "stattrak_value": 78.43,
         "unit": "USD"
       },
       "max": {
-        "value": 2.31,
+        "value": 2.1,
         "stattrak_value": 247.48,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:48-08:00"
+      "updated_at": "2025-12-26T12:13:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/USP-S_Forest_Leaves.png"
   },
@@ -120,20 +120,20 @@
     "rarity": "Industrial Machine Gun",
     "collection": "The Safehouse Collection",
     "price": {
-      "price_string": "$0.02 - $7.58",
-      "price_stattrak_string": "$35.88 - $89.00",
+      "price_string": "$0.02 - $6.97",
+      "price_stattrak_string": "$36.24 - $89.00",
       "currency": "USD",
       "min": {
         "value": 0.02,
-        "stattrak_value": 35.88,
+        "stattrak_value": 36.24,
         "unit": "USD"
       },
       "max": {
-        "value": 7.58,
+        "value": 6.97,
         "stattrak_value": 89,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:48-08:00"
+      "updated_at": "2025-12-26T12:13:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/M249_Gator_Mesh.png"
   },
@@ -143,20 +143,20 @@
     "rarity": "Industrial Rifle",
     "collection": "The Safehouse Collection",
     "price": {
-      "price_string": "$0.02 - $100.01",
-      "price_stattrak_string": "$33.48 - $401.77",
+      "price_string": "$0.02 - $2.00",
+      "price_stattrak_string": "$45.27 - $437.86",
       "currency": "USD",
       "min": {
         "value": 0.02,
-        "stattrak_value": 33.48,
+        "stattrak_value": 45.27,
         "unit": "USD"
       },
       "max": {
-        "value": 100.01,
-        "stattrak_value": 401.77,
+        "value": 2,
+        "stattrak_value": 437.86,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:48-08:00"
+      "updated_at": "2025-12-26T12:13:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AUG_Condemned.png"
   },
@@ -166,20 +166,20 @@
     "rarity": "Industrial Sniper Rifle",
     "collection": "The Safehouse Collection",
     "price": {
-      "price_string": "$0.02 - $0.24",
+      "price_string": "$0.03 - $0.33",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 0.02,
+        "value": 0.03,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 0.24,
+        "value": 0.33,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:48-08:00"
+      "updated_at": "2025-12-26T12:13:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/G3SG1_VariCamo.png"
   },
@@ -189,8 +189,8 @@
     "rarity": "Industrial Rifle",
     "collection": "The Safehouse Collection",
     "price": {
-      "price_string": "$0.03 - $7.00",
-      "price_stattrak_string": "$30.90 - $241.63",
+      "price_string": "$0.03 - $5.00",
+      "price_stattrak_string": "$30.90 - $306.88",
       "currency": "USD",
       "min": {
         "value": 0.03,
@@ -198,11 +198,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 7,
-        "stattrak_value": 241.63,
+        "value": 5,
+        "stattrak_value": 306.88,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:48-08:00"
+      "updated_at": "2025-12-26T12:13:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Galil_AR_VariCamo.png"
   },
@@ -213,11 +213,11 @@
     "collection": "The Safehouse Collection",
     "price": {
       "price_string": "$0.03 - $3.32",
-      "price_stattrak_string": "$40.51 - $199.00",
+      "price_stattrak_string": "$51.77 - $199.00",
       "currency": "USD",
       "min": {
         "value": 0.03,
-        "stattrak_value": 40.51,
+        "stattrak_value": 51.77,
         "unit": "USD"
       },
       "max": {
@@ -225,7 +225,7 @@
         "stattrak_value": 199,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:48-08:00"
+      "updated_at": "2025-12-26T12:13:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MP9_Orange_Peel.png"
   },
@@ -235,7 +235,7 @@
     "rarity": "Consumer Sniper Rifle",
     "collection": "The Safehouse Collection",
     "price": {
-      "price_string": "$0.01 - $0.99",
+      "price_string": "$0.01 - $95.96",
       "price_stattrak_string": "$8.26 - $96.13",
       "currency": "USD",
       "min": {
@@ -244,11 +244,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 0.99,
+        "value": 95.96,
         "stattrak_value": 96.13,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:48-08:00"
+      "updated_at": "2025-12-26T12:13:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SCAR-20_Contractor.png"
   },
@@ -259,11 +259,11 @@
     "collection": "The Safehouse Collection",
     "price": {
       "price_string": "$0.01 - $19.01",
-      "price_stattrak_string": "$15.18 - $700.00",
+      "price_stattrak_string": "$15.78 - $700.00",
       "currency": "USD",
       "min": {
         "value": 0.01,
-        "stattrak_value": 15.18,
+        "stattrak_value": 15.78,
         "unit": "USD"
       },
       "max": {
@@ -271,7 +271,7 @@
         "stattrak_value": 700,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:48-08:00"
+      "updated_at": "2025-12-26T12:13:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Tec-9_Army_Mesh.png"
   },
@@ -282,11 +282,11 @@
     "collection": "The Safehouse Collection",
     "price": {
       "price_string": "$0.01 - $0.99",
-      "price_stattrak_string": "$10.36 - $256.04",
+      "price_stattrak_string": "$7.60 - $256.04",
       "currency": "USD",
       "min": {
         "value": 0.01,
-        "stattrak_value": 10.36,
+        "stattrak_value": 7.6,
         "unit": "USD"
       },
       "max": {
@@ -294,7 +294,7 @@
         "stattrak_value": 256.04,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:48-08:00"
+      "updated_at": "2025-12-26T12:13:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Dual_Berettas_Contractor.png"
   },
@@ -305,11 +305,11 @@
     "collection": "The Safehouse Collection",
     "price": {
       "price_string": "$0.01 - $0.99",
-      "price_stattrak_string": "$23.59 - $99.95",
+      "price_stattrak_string": "$22.21 - $99.95",
       "currency": "USD",
       "min": {
         "value": 0.01,
-        "stattrak_value": 23.59,
+        "stattrak_value": 22.21,
         "unit": "USD"
       },
       "max": {
@@ -317,7 +317,7 @@
         "stattrak_value": 99.95,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:48-08:00"
+      "updated_at": "2025-12-26T12:13:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SSG_08_Blue_Spruce.png"
   },
@@ -328,11 +328,11 @@
     "collection": "The Safehouse Collection",
     "price": {
       "price_string": "$0.01 - $1.00",
-      "price_stattrak_string": "$11.13 - $150.00",
+      "price_stattrak_string": "$9.65 - $150.00",
       "currency": "USD",
       "min": {
         "value": 0.01,
-        "stattrak_value": 11.13,
+        "stattrak_value": 9.65,
         "unit": "USD"
       },
       "max": {
@@ -340,7 +340,7 @@
         "stattrak_value": 150,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:48-08:00"
+      "updated_at": "2025-12-26T12:13:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MP7_Army_Recon.png"
   }

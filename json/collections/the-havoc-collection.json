@@ -18,7 +18,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AK-47_X-Ray.png"
   },
@@ -28,7 +28,7 @@
     "rarity": "Classified SMG",
     "collection": "The Havoc Collection",
     "price": {
-      "price_string": "$228.19 - $710.31",
+      "price_string": "$228.19 - $800.17",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -37,11 +37,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 710.31,
+        "value": 800.17,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MAC-10_Hot_Snakes.png"
   },
@@ -51,11 +51,11 @@
     "rarity": "Classified Sniper Rifle",
     "collection": "The Havoc Collection",
     "price": {
-      "price_string": "$616.72 - $21905.82",
+      "price_string": "$574.16 - $21905.82",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 616.72,
+        "value": 574.16,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -64,7 +64,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AWP_Silk_Tiger.png"
   },
@@ -74,20 +74,20 @@
     "rarity": "Restricted Rifle",
     "collection": "The Havoc Collection",
     "price": {
-      "price_string": "$97.87 - $161.90",
+      "price_string": "$102.24 - $162.08",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 97.87,
+        "value": 102.24,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 161.9,
+        "value": 162.08,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SG_553_Hypnotic.png"
   },
@@ -97,20 +97,20 @@
     "rarity": "Restricted Rifle",
     "collection": "The Havoc Collection",
     "price": {
-      "price_string": "$52.31 - $511.60",
+      "price_string": "$86.32 - $505.70",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 52.31,
+        "value": 86.32,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 511.6,
+        "value": 505.7,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Galil_AR_Phoenix_Blacklight.png"
   },
@@ -120,20 +120,20 @@
     "rarity": "Restricted Pistol",
     "collection": "The Havoc Collection",
     "price": {
-      "price_string": "$90.47 - $443.41",
+      "price_string": "$96.71 - $414.51",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 90.47,
+        "value": 96.71,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 443.41,
+        "value": 414.51,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Glock-18_Franklin.png"
   },
@@ -143,20 +143,20 @@
     "rarity": "Mil-spec Pistol",
     "collection": "The Havoc Collection",
     "price": {
-      "price_string": "$22.78 - $89.99",
+      "price_string": "$22.42 - $120.42",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 22.78,
+        "value": 22.42,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 89.99,
+        "value": 120.42,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P250_Bengal_Tiger.png"
   },
@@ -166,7 +166,7 @@
     "rarity": "Mil-spec SMG",
     "collection": "The Havoc Collection",
     "price": {
-      "price_string": "$21.10 - $45.50",
+      "price_string": "$21.10 - $46.27",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -175,11 +175,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 45.5,
+        "value": 46.27,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P90_Tiger_Pit.png"
   },
@@ -189,11 +189,11 @@
     "rarity": "Mil-spec Machine Gun",
     "collection": "The Havoc Collection",
     "price": {
-      "price_string": "$27.11 - $70000.00",
+      "price_string": "$24.67 - $70000.00",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 27.11,
+        "value": 24.67,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -202,7 +202,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Negev_Phoenix_Stencil.png"
   },
@@ -212,7 +212,7 @@
     "rarity": "Mil-spec Pistol",
     "collection": "The Havoc Collection",
     "price": {
-      "price_string": "$15.25 - $135.22",
+      "price_string": "$15.25 - $133.83",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -221,11 +221,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 135.22,
+        "value": 133.83,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Desert_Eagle_Night_Heist.png"
   },
@@ -235,11 +235,11 @@
     "rarity": "Industrial Shotgun",
     "collection": "The Havoc Collection",
     "price": {
-      "price_string": "$2.66 - $14.59",
+      "price_string": "$2.68 - $14.59",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 2.66,
+        "value": 2.68,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -248,7 +248,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Nova_Rust_Coat.png"
   },
@@ -258,20 +258,20 @@
     "rarity": "Industrial Pistol",
     "collection": "The Havoc Collection",
     "price": {
-      "price_string": "$2.96 - $13.45",
+      "price_string": "$2.99 - $19.53",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 2.96,
+        "value": 2.99,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 13.45,
+        "value": 19.53,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/R8_Revolver_Phoenix_Marker.png"
   },
@@ -281,11 +281,11 @@
     "rarity": "Industrial SMG",
     "collection": "The Havoc Collection",
     "price": {
-      "price_string": "$3.26 - $22.27",
+      "price_string": "$3.40 - $22.27",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 3.26,
+        "value": 3.4,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -294,7 +294,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/UMP-45_Houndstooth.png"
   },
@@ -304,11 +304,11 @@
     "rarity": "Industrial SMG",
     "collection": "The Havoc Collection",
     "price": {
-      "price_string": "$3.44 - $10.42",
+      "price_string": "$3.66 - $10.42",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 3.44,
+        "value": 3.66,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -317,7 +317,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MP7_Vault_Heist.png"
   },
@@ -327,11 +327,11 @@
     "rarity": "Consumer Machine Gun",
     "collection": "The Havoc Collection",
     "price": {
-      "price_string": "$0.45 - $12.07",
+      "price_string": "$0.44 - $12.07",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 0.45,
+        "value": 0.44,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -340,7 +340,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/M249_Predator.png"
   },
@@ -350,11 +350,11 @@
     "rarity": "Consumer SMG",
     "collection": "The Havoc Collection",
     "price": {
-      "price_string": "$0.45 - $33.84",
+      "price_string": "$0.46 - $33.84",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 0.45,
+        "value": 0.46,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -363,7 +363,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/PP-Bizon_Death_Rattle.png"
   },
@@ -373,20 +373,20 @@
     "rarity": "Consumer Shotgun",
     "collection": "The Havoc Collection",
     "price": {
-      "price_string": "$0.44 - $19.03",
+      "price_string": "$0.42 - $19.26",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 0.44,
+        "value": 0.42,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 19.03,
+        "value": 19.26,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Sawed-Off_Clay_Ambush.png"
   },
@@ -396,20 +396,20 @@
     "rarity": "Consumer Pistol",
     "collection": "The Havoc Collection",
     "price": {
-      "price_string": "$0.44 - $18.42",
+      "price_string": "$0.46 - $16.33",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 0.44,
+        "value": 0.46,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 18.42,
+        "value": 16.33,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Tec-9_Phoenix_Chalk.png"
   },
@@ -419,20 +419,20 @@
     "rarity": "Consumer Pistol",
     "collection": "The Havoc Collection",
     "price": {
-      "price_string": "$0.44 - $15.43",
+      "price_string": "$0.42 - $15.42",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 0.44,
+        "value": 0.42,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 15.43,
+        "value": 15.42,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:49-08:00"
+      "updated_at": "2025-12-26T12:13:51-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Dual_Berettas_Heist.png"
   }

@@ -5,11 +5,11 @@
     "rarity": "Restricted Sniper Rifle",
     "collection": "The Alpha Collection",
     "price": {
-      "price_string": "$36.08 - $115.43",
+      "price_string": "$37.78 - $115.43",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 36.08,
+        "value": 37.78,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -18,7 +18,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:54-08:00"
+      "updated_at": "2025-12-26T12:13:57-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SCAR-20_Emerald.png"
   },
@@ -41,7 +41,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:54-08:00"
+      "updated_at": "2025-12-26T12:13:57-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/FAMAS_Spitfire.png"
   },
@@ -51,11 +51,11 @@
     "rarity": "Mil-spec Rifle",
     "collection": "The Alpha Collection",
     "price": {
-      "price_string": "$24.36 - $267.28",
+      "price_string": "$33.20 - $267.28",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 24.36,
+        "value": 33.2,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -64,7 +64,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:54-08:00"
+      "updated_at": "2025-12-26T12:13:57-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AUG_Anodized_Navy.png"
   },
@@ -87,7 +87,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:54-08:00"
+      "updated_at": "2025-12-26T12:13:57-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/PP-Bizon_Rust_Coat.png"
   },
@@ -97,7 +97,7 @@
     "rarity": "Mil-spec Shotgun",
     "collection": "The Alpha Collection",
     "price": {
-      "price_string": "$10.07 - $50.83",
+      "price_string": "$10.07 - $47.36",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -106,11 +106,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 50.83,
+        "value": 47.36,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:54-08:00"
+      "updated_at": "2025-12-26T12:13:57-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MAG-7_Hazard.png"
   },
@@ -120,11 +120,11 @@
     "rarity": "Industrial Pistol",
     "collection": "The Alpha Collection",
     "price": {
-      "price_string": "$3.14 - $71.64",
+      "price_string": "$3.32 - $71.64",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 3.14,
+        "value": 3.32,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -133,7 +133,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:54-08:00"
+      "updated_at": "2025-12-26T12:13:57-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P250_Facets.png"
   },
@@ -143,11 +143,11 @@
     "rarity": "Industrial Shotgun",
     "collection": "The Alpha Collection",
     "price": {
-      "price_string": "$3.73 - $35.02",
+      "price_string": "$2.94 - $35.02",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 3.73,
+        "value": 2.94,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -156,7 +156,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:54-08:00"
+      "updated_at": "2025-12-26T12:13:57-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Sawed-Off_Mosaico.png"
   },
@@ -166,7 +166,7 @@
     "rarity": "Industrial Machine Gun",
     "collection": "The Alpha Collection",
     "price": {
-      "price_string": "$3.77 - $280.00",
+      "price_string": "$3.77 - $300.00",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -175,11 +175,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 280,
+        "value": 300,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:54-08:00"
+      "updated_at": "2025-12-26T12:13:57-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Negev_Palm.png"
   },
@@ -189,11 +189,11 @@
     "rarity": "Industrial Sniper Rifle",
     "collection": "The Alpha Collection",
     "price": {
-      "price_string": "$4.02 - $1740.94",
+      "price_string": "$1.15 - $1740.94",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 4.02,
+        "value": 1.15,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -202,7 +202,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:54-08:00"
+      "updated_at": "2025-12-26T12:13:57-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SSG_08_Mayan_Dreams.png"
   },
@@ -212,20 +212,20 @@
     "rarity": "Industrial Pistol",
     "collection": "The Alpha Collection",
     "price": {
-      "price_string": "$5.86 - $291.94",
+      "price_string": "$6.03 - $339.66",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 5.86,
+        "value": 6.03,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 291.94,
+        "value": 339.66,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:54-08:00"
+      "updated_at": "2025-12-26T12:13:57-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Glock-18_Sand_Dune.png"
   },
@@ -248,7 +248,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:54-08:00"
+      "updated_at": "2025-12-26T12:13:57-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MP7_Groundwater.png"
   },
@@ -271,7 +271,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:54-08:00"
+      "updated_at": "2025-12-26T12:13:57-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/XM1014_Jungle.png"
   },
@@ -281,7 +281,7 @@
     "rarity": "Consumer Pistol",
     "collection": "The Alpha Collection",
     "price": {
-      "price_string": "$11.03 - $31.58",
+      "price_string": "$11.03 - $50.66",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -290,11 +290,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 31.58,
+        "value": 50.66,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:54-08:00"
+      "updated_at": "2025-12-26T12:13:57-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Five-SeveN_Anodized_Gunmetal.png"
   },
@@ -317,7 +317,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:54-08:00"
+      "updated_at": "2025-12-26T12:13:57-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MP9_Dry_Season.png"
   },
@@ -340,7 +340,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:54-08:00"
+      "updated_at": "2025-12-26T12:13:57-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Tec-9_Tornado.png"
   },
@@ -350,7 +350,7 @@
     "rarity": "Consumer Machine Gun",
     "collection": "The Alpha Collection",
     "price": {
-      "price_string": "$2.47 - $42.26",
+      "price_string": "$2.47 - $35.00",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -359,11 +359,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 42.26,
+        "value": 35,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-11T04:49:54-08:00"
+      "updated_at": "2025-12-26T12:13:57-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/M249_Jungle_DDPAT.png"
   }
