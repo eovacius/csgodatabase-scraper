@@ -18,7 +18,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:52-08:00"
+      "updated_at": "2025-12-27T13:00:52-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AWP_Gungnir.png"
   },
@@ -41,7 +41,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:52-08:00"
+      "updated_at": "2025-12-27T13:00:52-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Negev_Mj%C3%B6lnir.png"
   },
@@ -64,7 +64,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:52-08:00"
+      "updated_at": "2025-12-27T13:00:52-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AUG_Flame_J%C3%B6rmungandr.png"
   },
@@ -74,7 +74,7 @@
     "rarity": "Restricted Pistol",
     "collection": "The Norse Collection",
     "price": {
-      "price_string": "$416.35 - $1634.24",
+      "price_string": "$416.35 - $1642.57",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -83,11 +83,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 1634.24,
+        "value": 1642.57,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:52-08:00"
+      "updated_at": "2025-12-27T13:00:52-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Desert_Eagle_Emerald_J%C3%B6rmungandr.png"
   },
@@ -110,7 +110,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:52-08:00"
+      "updated_at": "2025-12-27T13:00:52-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P90_Astral_J%C3%B6rmungandr.png"
   },
@@ -133,7 +133,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:52-08:00"
+      "updated_at": "2025-12-27T13:00:52-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/CZ75-Auto_Emerald_Quartz.png"
   },
@@ -143,11 +143,11 @@
     "rarity": "Mil-spec SMG",
     "collection": "The Norse Collection",
     "price": {
-      "price_string": "$110.23 - $924.99",
+      "price_string": "$111.30 - $924.99",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 110.23,
+        "value": 111.3,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -156,7 +156,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:52-08:00"
+      "updated_at": "2025-12-27T13:00:52-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MAC-10_Copper_Borre.png"
   },
@@ -166,11 +166,11 @@
     "rarity": "Mil-spec Sniper Rifle",
     "collection": "The Norse Collection",
     "price": {
-      "price_string": "$117.47 - $959.07",
+      "price_string": "$114.38 - $959.07",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 117.47,
+        "value": 114.38,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -179,7 +179,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:52-08:00"
+      "updated_at": "2025-12-27T13:00:52-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SCAR-20_Brass.png"
   },
@@ -202,7 +202,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:52-08:00"
+      "updated_at": "2025-12-27T13:00:52-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/XM1014_Frost_Borre.png"
   },
@@ -212,11 +212,11 @@
     "rarity": "Industrial Shotgun",
     "collection": "The Norse Collection",
     "price": {
-      "price_string": "$21.64 - $41.77",
+      "price_string": "$21.26 - $41.77",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 21.64,
+        "value": 21.26,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -225,7 +225,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:52-08:00"
+      "updated_at": "2025-12-27T13:00:52-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MAG-7_Chainmail.png"
   },
@@ -235,7 +235,7 @@
     "rarity": "Industrial Rifle",
     "collection": "The Norse Collection",
     "price": {
-      "price_string": "$48.93 - $314.08",
+      "price_string": "$48.93 - $320.06",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -244,11 +244,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 314.08,
+        "value": 320.06,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:52-08:00"
+      "updated_at": "2025-12-27T13:00:52-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/M4A1-S_Moss_Quartz.png"
   },
@@ -258,11 +258,11 @@
     "rarity": "Industrial Pistol",
     "collection": "The Norse Collection",
     "price": {
-      "price_string": "$20.00 - $66.00",
+      "price_string": "$19.74 - $66.00",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 20,
+        "value": 19.74,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -271,7 +271,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:52-08:00"
+      "updated_at": "2025-12-27T13:00:52-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/USP-S_Pathfinder.png"
   },
@@ -294,7 +294,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:52-08:00"
+      "updated_at": "2025-12-27T13:00:52-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Dual_Berettas_Pyre.png"
   },
@@ -304,7 +304,7 @@
     "rarity": "Consumer SMG",
     "collection": "The Norse Collection",
     "price": {
-      "price_string": "$6.54 - $19.31",
+      "price_string": "$6.54 - $20.37",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -313,11 +313,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 19.31,
+        "value": 20.37,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:52-08:00"
+      "updated_at": "2025-12-27T13:00:52-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MP7_Scorched.png"
   },
@@ -327,7 +327,7 @@
     "rarity": "Consumer Rifle",
     "collection": "The Norse Collection",
     "price": {
-      "price_string": "$7.84 - $20.03",
+      "price_string": "$7.84 - $19.82",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -336,11 +336,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 20.03,
+        "value": 19.82,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:52-08:00"
+      "updated_at": "2025-12-27T13:00:52-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/FAMAS_Night_Borre.png"
   },
@@ -363,7 +363,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:52-08:00"
+      "updated_at": "2025-12-27T13:00:52-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SSG_08_Red_Stone.png"
   },
@@ -373,11 +373,11 @@
     "rarity": "Consumer Rifle",
     "collection": "The Norse Collection",
     "price": {
-      "price_string": "$7.43 - $50.00",
+      "price_string": "$7.79 - $50.00",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 7.43,
+        "value": 7.79,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -386,7 +386,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:52-08:00"
+      "updated_at": "2025-12-27T13:00:52-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Galil_AR_Tornado.png"
   },
@@ -396,7 +396,7 @@
     "rarity": "Consumer Rifle",
     "collection": "The Norse Collection",
     "price": {
-      "price_string": "$6.45 - $16.49",
+      "price_string": "$6.45 - $19.17",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -405,11 +405,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 16.49,
+        "value": 19.17,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:52-08:00"
+      "updated_at": "2025-12-27T13:00:52-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SG_553_Barricade.png"
   }

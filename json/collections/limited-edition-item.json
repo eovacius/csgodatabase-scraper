@@ -5,20 +5,20 @@
     "rarity": "Classified Pistol",
     "collection": "Limited Edition Item",
     "price": {
-      "price_string": "$1.12 - $111.58",
+      "price_string": "$1.09 - $117.18",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 1.12,
+        "value": 1.09,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 111.58,
+        "value": 117.18,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:49-08:00"
+      "updated_at": "2025-12-27T13:00:48-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Desert_Eagle_Heat_Treated.png"
   },
@@ -28,11 +28,11 @@
     "rarity": "Classified Rifle",
     "collection": "Limited Edition Item",
     "price": {
-      "price_string": "$1.12 - $81.67",
+      "price_string": "$1.13 - $81.67",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 1.12,
+        "value": 1.13,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -41,7 +41,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:49-08:00"
+      "updated_at": "2025-12-27T13:00:48-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/M4A1-S_Solitude.png"
   },
@@ -51,11 +51,11 @@
     "rarity": "Restricted Shotgun",
     "collection": "Limited Edition Item",
     "price": {
-      "price_string": "$0.53 - $4355.00",
+      "price_string": "$0.52 - $4355.00",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 0.53,
+        "value": 0.52,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -64,7 +64,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:49-08:00"
+      "updated_at": "2025-12-27T13:00:48-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/XM1014_Solitude.png"
   }

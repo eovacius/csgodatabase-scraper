@@ -5,20 +5,20 @@
     "rarity": "Covert Rifle",
     "collection": "The Sport \u0026 Field Collection",
     "price": {
-      "price_string": "$538.42 - $859.66",
+      "price_string": "$542.97 - $861.76",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 538.42,
+        "value": 542.97,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 859.66,
+        "value": 861.76,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:50-08:00"
+      "updated_at": "2025-12-27T13:00:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/M4A1-S_Fade.png"
   },
@@ -28,20 +28,20 @@
     "rarity": "Classified Pistol",
     "collection": "The Sport \u0026 Field Collection",
     "price": {
-      "price_string": "$56.88 - $347.09",
+      "price_string": "$56.19 - $346.77",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 56.88,
+        "value": 56.19,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 347.09,
+        "value": 346.77,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:50-08:00"
+      "updated_at": "2025-12-27T13:00:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Glock-18_AXIA.png"
   },
@@ -51,7 +51,7 @@
     "rarity": "Classified Rifle",
     "collection": "The Sport \u0026 Field Collection",
     "price": {
-      "price_string": "$51.32 - $172.22",
+      "price_string": "$51.32 - $172.67",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -60,11 +60,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 172.22,
+        "value": 172.67,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:50-08:00"
+      "updated_at": "2025-12-27T13:00:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Galil_AR_Rainbow_Spoon.png"
   },
@@ -74,7 +74,7 @@
     "rarity": "Restricted SMG",
     "collection": "The Sport \u0026 Field Collection",
     "price": {
-      "price_string": "$5.66 - $28.54",
+      "price_string": "$5.66 - $28.08",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -83,11 +83,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 28.54,
+        "value": 28.08,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:50-08:00"
+      "updated_at": "2025-12-27T13:00:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/UMP-45_Crimson_Foil.png"
   },
@@ -97,20 +97,20 @@
     "rarity": "Restricted SMG",
     "collection": "The Sport \u0026 Field Collection",
     "price": {
-      "price_string": "$5.82 - $29.74",
+      "price_string": "$5.67 - $29.56",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 5.82,
+        "value": 5.67,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 29.74,
+        "value": 29.56,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:50-08:00"
+      "updated_at": "2025-12-27T13:00:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MP9_Arctic_Tri-Tone.png"
   },
@@ -120,20 +120,20 @@
     "rarity": "Restricted Pistol",
     "collection": "The Sport \u0026 Field Collection",
     "price": {
-      "price_string": "$5.80 - $37.91",
+      "price_string": "$5.62 - $39.20",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 5.8,
+        "value": 5.62,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 37.91,
+        "value": 39.2,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:50-08:00"
+      "updated_at": "2025-12-27T13:00:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Five-SeveN_Heat_Treated.png"
   },
@@ -143,20 +143,20 @@
     "rarity": "Mil-spec Pistol",
     "collection": "The Sport \u0026 Field Collection",
     "price": {
-      "price_string": "$0.60 - $7.91",
+      "price_string": "$0.64 - $7.86",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 0.6,
+        "value": 0.64,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 7.91,
+        "value": 7.86,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:50-08:00"
+      "updated_at": "2025-12-27T13:00:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/USP-S_Alpine_Camo.png"
   },
@@ -179,7 +179,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:50-08:00"
+      "updated_at": "2025-12-27T13:00:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SSG_08_Zeno.png"
   },
@@ -189,11 +189,11 @@
     "rarity": "Mil-spec Pistol",
     "collection": "The Sport \u0026 Field Collection",
     "price": {
-      "price_string": "$0.59 - $50.00",
+      "price_string": "$0.56 - $50.00",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 0.59,
+        "value": 0.56,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -202,7 +202,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:50-08:00"
+      "updated_at": "2025-12-27T13:00:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P250_Small_Game.png"
   },
@@ -225,7 +225,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:50-08:00"
+      "updated_at": "2025-12-27T13:00:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Nova_Yorkshire.png"
   },
@@ -235,7 +235,7 @@
     "rarity": "Industrial SMG",
     "collection": "The Sport \u0026 Field Collection",
     "price": {
-      "price_string": "$0.06 - $0.73",
+      "price_string": "$0.06 - $0.38",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -244,11 +244,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 0.73,
+        "value": 0.38,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:50-08:00"
+      "updated_at": "2025-12-27T13:00:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MP5-SD_Savannah_Halftone.png"
   },
@@ -258,7 +258,7 @@
     "rarity": "Industrial SMG",
     "collection": "The Sport \u0026 Field Collection",
     "price": {
-      "price_string": "$0.07 - $0.83",
+      "price_string": "$0.07 - $0.64",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -267,11 +267,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 0.83,
+        "value": 0.64,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:50-08:00"
+      "updated_at": "2025-12-27T13:00:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/PP-Bizon_Cold_Cell.png"
   },
@@ -294,7 +294,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:50-08:00"
+      "updated_at": "2025-12-27T13:00:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Tec-9_Tiger_Stencil.png"
   },
@@ -304,7 +304,7 @@
     "rarity": "Industrial Shotgun",
     "collection": "The Sport \u0026 Field Collection",
     "price": {
-      "price_string": "$0.06 - $5.26",
+      "price_string": "$0.06 - $0.60",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -313,11 +313,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 5.26,
+        "value": 0.6,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:50-08:00"
+      "updated_at": "2025-12-27T13:00:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MAG-7_Wildwood.png"
   },
@@ -340,7 +340,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:50-08:00"
+      "updated_at": "2025-12-27T13:00:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/FAMAS_Half_Sleeve.png"
   },
@@ -363,7 +363,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:50-08:00"
+      "updated_at": "2025-12-27T13:00:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AK-47_Olive_Polycam.png"
   }

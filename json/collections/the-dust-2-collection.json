@@ -5,11 +5,11 @@
     "rarity": "Classified Pistol",
     "collection": "The Dust 2 Collection",
     "price": {
-      "price_string": "$1.16 - $82.92",
+      "price_string": "$1.15 - $82.92",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 1.16,
+        "value": 1.15,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -18,7 +18,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/R8_Revolver_Amber_Fade.png"
   },
@@ -29,11 +29,11 @@
     "collection": "The Dust 2 Collection",
     "price": {
       "price_string": "$0.48 - $5.96",
-      "price_stattrak_string": "$18.10 - $179.23",
+      "price_stattrak_string": "$18.02 - $179.23",
       "currency": "USD",
       "min": {
         "value": 0.48,
-        "stattrak_value": 18.1,
+        "stattrak_value": 18.02,
         "unit": "USD"
       },
       "max": {
@@ -41,7 +41,7 @@
         "stattrak_value": 179.23,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P2000_Amber_Fade.png"
   },
@@ -51,12 +51,12 @@
     "rarity": "Mil-spec Rifle",
     "collection": "The Dust 2 Collection",
     "price": {
-      "price_string": "$0.13 - $2.22",
-      "price_stattrak_string": "$17.52 - $343.66",
+      "price_string": "$0.16 - $2.22",
+      "price_stattrak_string": "$17.53 - $343.66",
       "currency": "USD",
       "min": {
-        "value": 0.13,
-        "stattrak_value": 17.52,
+        "value": 0.16,
+        "stattrak_value": 17.53,
         "unit": "USD"
       },
       "max": {
@@ -64,7 +64,7 @@
         "stattrak_value": 343.66,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/M4A1-S_VariCamo.png"
   },
@@ -75,11 +75,11 @@
     "collection": "The Dust 2 Collection",
     "price": {
       "price_string": "$0.07 - $4.19",
-      "price_stattrak_string": "$4.79 - $249.99",
+      "price_stattrak_string": "$4.37 - $249.99",
       "currency": "USD",
       "min": {
         "value": 0.07,
-        "stattrak_value": 4.79,
+        "stattrak_value": 4.37,
         "unit": "USD"
       },
       "max": {
@@ -87,7 +87,7 @@
         "stattrak_value": 249.99,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SG_553_Damascus_Steel.png"
   },
@@ -97,12 +97,12 @@
     "rarity": "Mil-spec SMG",
     "collection": "The Dust 2 Collection",
     "price": {
-      "price_string": "$0.07 - $3.63",
-      "price_stattrak_string": "$5.75 - $582.71",
+      "price_string": "$0.08 - $3.63",
+      "price_stattrak_string": "$5.74 - $582.71",
       "currency": "USD",
       "min": {
-        "value": 0.07,
-        "stattrak_value": 5.75,
+        "value": 0.08,
+        "stattrak_value": 5.74,
         "unit": "USD"
       },
       "max": {
@@ -110,7 +110,7 @@
         "stattrak_value": 582.71,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/PP-Bizon_Brass.png"
   },
@@ -121,11 +121,11 @@
     "collection": "The Dust 2 Collection",
     "price": {
       "price_string": "$0.02 - $1.00",
-      "price_stattrak_string": "$0.64 - $102.41",
+      "price_stattrak_string": "$0.66 - $102.41",
       "currency": "USD",
       "min": {
         "value": 0.02,
-        "stattrak_value": 0.64,
+        "stattrak_value": 0.66,
         "unit": "USD"
       },
       "max": {
@@ -133,7 +133,7 @@
         "stattrak_value": 102.41,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Sawed-Off_Snake_Camo.png"
   },
@@ -143,12 +143,12 @@
     "rarity": "Industrial Pistol",
     "collection": "The Dust 2 Collection",
     "price": {
-      "price_string": "$0.03 - $7.00",
-      "price_stattrak_string": "$1.02 - $12.00",
+      "price_string": "$0.02 - $7.00",
+      "price_stattrak_string": "$1.41 - $12.00",
       "currency": "USD",
       "min": {
-        "value": 0.03,
-        "stattrak_value": 1.02,
+        "value": 0.02,
+        "stattrak_value": 1.41,
         "unit": "USD"
       },
       "max": {
@@ -156,7 +156,7 @@
         "stattrak_value": 12,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Five-SeveN_Orange_Peel.png"
   },
@@ -167,11 +167,11 @@
     "collection": "The Dust 2 Collection",
     "price": {
       "price_string": "$0.02 - $10.00",
-      "price_stattrak_string": "$1.51 - $29.92",
+      "price_stattrak_string": "$1.50 - $29.92",
       "currency": "USD",
       "min": {
         "value": 0.02,
-        "stattrak_value": 1.51,
+        "stattrak_value": 1.5,
         "unit": "USD"
       },
       "max": {
@@ -179,7 +179,7 @@
         "stattrak_value": 29.92,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Tec-9_VariCamo.png"
   },
@@ -189,11 +189,11 @@
     "rarity": "Industrial Rifle",
     "collection": "The Dust 2 Collection",
     "price": {
-      "price_string": "$0.05 - $58.19",
+      "price_string": "$0.06 - $58.19",
       "price_stattrak_string": "$11.32 - $2871.00",
       "currency": "USD",
       "min": {
-        "value": 0.05,
+        "value": 0.06,
         "stattrak_value": 11.32,
         "unit": "USD"
       },
@@ -202,7 +202,7 @@
         "stattrak_value": 2871,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AK-47_Safari_Mesh.png"
   },
@@ -212,7 +212,7 @@
     "rarity": "Industrial SMG",
     "collection": "The Dust 2 Collection",
     "price": {
-      "price_string": "$0.02 - $2.94",
+      "price_string": "$0.02 - $1.97",
       "price_stattrak_string": "$1.17 - $500.00",
       "currency": "USD",
       "min": {
@@ -221,11 +221,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 2.94,
+        "value": 1.97,
         "stattrak_value": 500,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MAC-10_Palm.png"
   },
@@ -248,7 +248,7 @@
         "stattrak_value": 589,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P250_Sand_Dune.png"
   },
@@ -271,7 +271,7 @@
         "stattrak_value": 200,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SCAR-20_Sand_Mesh.png"
   },
@@ -294,7 +294,7 @@
         "stattrak_value": 45,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Nova_Predator.png"
   },
@@ -317,7 +317,7 @@
         "stattrak_value": 199.02,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/G3SG1_Desert_Storm.png"
   },
@@ -340,7 +340,7 @@
         "stattrak_value": 50,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MP9_Sand_Dashed.png"
   },
@@ -351,11 +351,11 @@
     "collection": "The Dust 2 Collection",
     "price": {
       "price_string": "$0.01 - $4935.26",
-      "price_stattrak_string": "$0.20 - $40.00",
+      "price_stattrak_string": "$0.17 - $40.00",
       "currency": "USD",
       "min": {
         "value": 0.01,
-        "stattrak_value": 0.2,
+        "stattrak_value": 0.17,
         "unit": "USD"
       },
       "max": {
@@ -363,7 +363,7 @@
         "stattrak_value": 40,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P90_Sand_Spray.png"
   },
@@ -386,7 +386,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Berlin_2019_Dust_II_Souvenir_Package.png"
   },
@@ -409,7 +409,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Katowice_2019_Dust_II_Souvenir_Package.png"
   },
@@ -419,20 +419,20 @@
     "rarity": "Consumer Grade Container",
     "collection": "Introduced:",
     "price": {
-      "price_string": "$18.33",
+      "price_string": "$18.36",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 18.33,
+        "value": 18.36,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 18.33,
+        "value": 18.36,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/London_2018_Dust_II_Souvenir_Package.png"
   },
@@ -442,20 +442,20 @@
     "rarity": "Consumer Grade Container",
     "collection": "Introduced:",
     "price": {
-      "price_string": "$25.95",
+      "price_string": "$25.76",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 25.95,
+        "value": 25.76,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 25.95,
+        "value": 25.76,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Atlanta_2017_Dust_II_Souvenir_Package.png"
   },
@@ -478,7 +478,7 @@
         "stattrak_value": 0,
         "unit": "UNKNOWN"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Cologne_2016_Dust_II_Souvenir_Package.png"
   },
@@ -501,7 +501,7 @@
         "stattrak_value": 0,
         "unit": "UNKNOWN"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/MLG_Columbus_2016_Dust_II_Souvenir_Package.png"
   },
@@ -524,7 +524,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/DreamHack_Cluj-Napoca_2015_Dust_II_Souvenir_Package.png"
   },
@@ -547,7 +547,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/ESL_One_Cologne_2015_Dust_II_Souvenir_Package.png"
   },
@@ -570,7 +570,7 @@
         "stattrak_value": 0,
         "unit": "UNKNOWN"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/ESL_One_Katowice_2015_Dust_II_Souvenir_Package.png"
   },
@@ -593,7 +593,7 @@
         "stattrak_value": 0,
         "unit": "UNKNOWN"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/DreamHack_2014_Dust_II_Souvenir_Package.png"
   },
@@ -616,7 +616,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/ESL_One_Cologne_2014_Dust_II_Souvenir_Package.png"
   }

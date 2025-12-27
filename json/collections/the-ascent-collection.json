@@ -5,11 +5,11 @@
     "rarity": "Classified Rifle",
     "collection": "The Ascent Collection",
     "price": {
-      "price_string": "$11.00 - $274.40",
+      "price_string": "$11.04 - $274.40",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 11,
+        "value": 11.04,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -18,7 +18,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/M4A1-S_Stratosphere.png"
   },
@@ -28,20 +28,20 @@
     "rarity": "Restricted Rifle",
     "collection": "The Ascent Collection",
     "price": {
-      "price_string": "$4.44 - $59.15",
+      "price_string": "$4.47 - $59.03",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 4.44,
+        "value": 4.47,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 59.15,
+        "value": 59.03,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AK-47_Midnight_Laminate.png"
   },
@@ -51,11 +51,11 @@
     "rarity": "Restricted Pistol",
     "collection": "The Ascent Collection",
     "price": {
-      "price_string": "$1.90 - $35.03",
+      "price_string": "$1.87 - $35.03",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 1.9,
+        "value": 1.87,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -64,7 +64,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/USP-S_Royal_Guard.png"
   },
@@ -87,7 +87,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Desert_Eagle_Mint_Fan.png"
   },
@@ -97,11 +97,11 @@
     "rarity": "Mil-spec Rifle",
     "collection": "The Ascent Collection",
     "price": {
-      "price_string": "$0.36 - $23.24",
+      "price_string": "$0.40 - $23.24",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 0.36,
+        "value": 0.4,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -110,7 +110,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/FAMAS_Yeti_Camo.png"
   },
@@ -133,7 +133,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P2000_Royal_Baroque.png"
   },
@@ -143,11 +143,11 @@
     "rarity": "Mil-spec SMG",
     "collection": "The Ascent Collection",
     "price": {
-      "price_string": "$0.72 - $9.13",
+      "price_string": "$0.70 - $9.13",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 0.72,
+        "value": 0.7,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -156,7 +156,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MP9_Cobalt_Paisley.png"
   },
@@ -166,7 +166,7 @@
     "rarity": "Mil-spec SMG",
     "collection": "The Ascent Collection",
     "price": {
-      "price_string": "$0.43 - $24.21",
+      "price_string": "$0.43 - $6.97",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -175,11 +175,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 24.21,
+        "value": 6.97,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P90_Reef_Grief.png"
   },
@@ -202,7 +202,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Zeus_x27_Electric_Blue.png"
   },
@@ -225,7 +225,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Nova_Turquoise_Pour.png"
   },
@@ -248,7 +248,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/M4A4_Naval_Shred_Camo.png"
   },
@@ -258,11 +258,11 @@
     "rarity": "Industrial Rifle",
     "collection": "The Ascent Collection",
     "price": {
-      "price_string": "$0.04 - $1.26",
+      "price_string": "$0.03 - $1.26",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 0.04,
+        "value": 0.03,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -271,7 +271,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Galil_AR_Robin's_Egg.png"
   },
@@ -294,7 +294,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Glock-18_Ocean_Topo.png"
   },
@@ -317,7 +317,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Dual_Berettas_Rose_Nacre.png"
   },
@@ -340,7 +340,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Five-SeveN_Sky_Blue.png"
   },
@@ -363,7 +363,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/XM1014_Gum_Wall_Camo.png"
   },
@@ -386,7 +386,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Negev_Sour_Grapes.png"
   },
@@ -396,7 +396,7 @@
     "rarity": "Consumer Pistol",
     "collection": "The Ascent Collection",
     "price": {
-      "price_string": "$0.01 - $99.41",
+      "price_string": "$0.01 - $99.40",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -405,11 +405,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 99.41,
+        "value": 99.4,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Tec-9_Blue_Blast.png"
   },
@@ -419,7 +419,7 @@
     "rarity": "Consumer SMG",
     "collection": "The Ascent Collection",
     "price": {
-      "price_string": "$0.01 - $1.08",
+      "price_string": "$0.01 - $1.17",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -428,11 +428,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 1.08,
+        "value": 1.17,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MP9_Buff_Blue.png"
   },
@@ -455,7 +455,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P90_Blue_Tac.png"
   },
@@ -465,7 +465,7 @@
     "rarity": "Consumer Pistol",
     "collection": "The Ascent Collection",
     "price": {
-      "price_string": "$0.01 - $0.97",
+      "price_string": "$0.01 - $0.96",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -474,11 +474,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 0.97,
+        "value": 0.96,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P250_Plum_Netting.png"
   },
@@ -488,7 +488,7 @@
     "rarity": "Consumer Rifle",
     "collection": "The Ascent Collection",
     "price": {
-      "price_string": "$0.01 - $0.29",
+      "price_string": "$0.01 - $2.00",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -497,11 +497,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 0.29,
+        "value": 2,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SG_553_Night_Camo.png"
   },
@@ -511,7 +511,7 @@
     "rarity": "Consumer Shotgun",
     "collection": "The Ascent Collection",
     "price": {
-      "price_string": "$0.01 - $5.48",
+      "price_string": "$0.01 - $5.47",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -520,11 +520,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 5.48,
+        "value": 5.47,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Sawed-Off_Runoff.png"
   },
@@ -547,7 +547,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/R8_Revolver_Cobalt_Grip.png"
   },
@@ -557,7 +557,7 @@
     "rarity": "Consumer Rifle",
     "collection": "The Ascent Collection",
     "price": {
-      "price_string": "$0.01 - $0.25",
+      "price_string": "$0.01 - $0.24",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -566,11 +566,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 0.25,
+        "value": 0.24,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Galil_AR_Grey_Smoke.png"
   },
@@ -593,7 +593,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SSG_08_Grey_Smoke.png"
   },
@@ -603,7 +603,7 @@
     "rarity": "Consumer SMG",
     "collection": "The Ascent Collection",
     "price": {
-      "price_string": "$0.01 - $9.99",
+      "price_string": "$0.01 - $6.00",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -612,11 +612,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 9.99,
+        "value": 6,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MP5-SD_Lime_Hex.png"
   },
@@ -626,7 +626,7 @@
     "rarity": "Consumer SMG",
     "collection": "The Ascent Collection",
     "price": {
-      "price_string": "$0.01 - $9.24",
+      "price_string": "$0.01 - $9.23",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -635,11 +635,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 9.24,
+        "value": 9.23,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:48-08:00"
+      "updated_at": "2025-12-27T13:00:47-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MAC-10_Storm_Camo.png"
   }

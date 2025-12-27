@@ -5,11 +5,11 @@
     "rarity": "Covert Sniper Rifle",
     "collection": "The Cobblestone Collection",
     "price": {
-      "price_string": "$5513.09 - $15000.00",
+      "price_string": "$5410.73 - $15000.00",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 5513.09,
+        "value": 5410.73,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -18,7 +18,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:53-08:00"
+      "updated_at": "2025-12-27T13:00:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AWP_Dragon_Lore.png"
   },
@@ -28,20 +28,20 @@
     "rarity": "Classified Rifle",
     "collection": "The Cobblestone Collection",
     "price": {
-      "price_string": "$4041.55 - $5916.16",
+      "price_string": "$3961.03 - $4774.04",
       "price_stattrak_string": "$2861.04 - $4087.11",
       "currency": "USD",
       "min": {
-        "value": 4041.55,
+        "value": 3961.03,
         "stattrak_value": 2861.04,
         "unit": "USD"
       },
       "max": {
-        "value": 5916.16,
+        "value": 4774.04,
         "stattrak_value": 4087.11,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:53-08:00"
+      "updated_at": "2025-12-27T13:00:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/M4A1-S_Knight.png"
   },
@@ -64,7 +64,7 @@
         "stattrak_value": 495,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:53-08:00"
+      "updated_at": "2025-12-27T13:00:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Desert_Eagle_Hand_Cannon.png"
   },
@@ -74,20 +74,20 @@
     "rarity": "Restricted Pistol",
     "collection": "The Cobblestone Collection",
     "price": {
-      "price_string": "$558.04 - $1200.00",
+      "price_string": "$555.75 - $842.53",
       "price_stattrak_string": "$91.04 - $582.92",
       "currency": "USD",
       "min": {
-        "value": 558.04,
+        "value": 555.75,
         "stattrak_value": 91.04,
         "unit": "USD"
       },
       "max": {
-        "value": 1200,
+        "value": 842.53,
         "stattrak_value": 582.92,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:53-08:00"
+      "updated_at": "2025-12-27T13:00:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/CZ75-Auto_Chalice.png"
   },
@@ -97,20 +97,20 @@
     "rarity": "Mil-spec SMG",
     "collection": "The Cobblestone Collection",
     "price": {
-      "price_string": "$102.76 - $5530.85",
-      "price_stattrak_string": "$17.50 - $200.00",
+      "price_string": "$106.04 - $5530.85",
+      "price_stattrak_string": "$17.50 - $202.99",
       "currency": "USD",
       "min": {
-        "value": 102.76,
+        "value": 106.04,
         "stattrak_value": 17.5,
         "unit": "USD"
       },
       "max": {
         "value": 5530.85,
-        "stattrak_value": 200,
+        "stattrak_value": 202.99,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:53-08:00"
+      "updated_at": "2025-12-27T13:00:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MP9_Dark_Age.png"
   },
@@ -120,20 +120,20 @@
     "rarity": "Mil-spec Pistol",
     "collection": "The Cobblestone Collection",
     "price": {
-      "price_string": "$100.48 - $175.15",
-      "price_stattrak_string": "$10.16 - $39.99",
+      "price_string": "$99.47 - $175.15",
+      "price_stattrak_string": "$10.16 - $42.05",
       "currency": "USD",
       "min": {
-        "value": 100.48,
+        "value": 99.47,
         "stattrak_value": 10.16,
         "unit": "USD"
       },
       "max": {
         "value": 175.15,
-        "stattrak_value": 39.99,
+        "stattrak_value": 42.05,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:53-08:00"
+      "updated_at": "2025-12-27T13:00:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P2000_Chainmail.png"
   },
@@ -143,20 +143,20 @@
     "rarity": "Industrial Pistol",
     "collection": "The Cobblestone Collection",
     "price": {
-      "price_string": "$11.50 - $174.82",
+      "price_string": "$13.18 - $269.00",
       "price_stattrak_string": "$11.51 - $88.88",
       "currency": "USD",
       "min": {
-        "value": 11.5,
+        "value": 13.18,
         "stattrak_value": 11.51,
         "unit": "USD"
       },
       "max": {
-        "value": 174.82,
+        "value": 269,
         "stattrak_value": 88.88,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:53-08:00"
+      "updated_at": "2025-12-27T13:00:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/USP-S_Royal_Blue.png"
   },
@@ -166,20 +166,20 @@
     "rarity": "Industrial Shotgun",
     "collection": "The Cobblestone Collection",
     "price": {
-      "price_string": "$11.70 - $30.11",
-      "price_stattrak_string": "$5.09 - $14.31",
+      "price_string": "$11.82 - $25.69",
+      "price_stattrak_string": "$5.07 - $15.01",
       "currency": "USD",
       "min": {
-        "value": 11.7,
-        "stattrak_value": 5.09,
+        "value": 11.82,
+        "stattrak_value": 5.07,
         "unit": "USD"
       },
       "max": {
-        "value": 30.11,
-        "stattrak_value": 14.31,
+        "value": 25.69,
+        "stattrak_value": 15.01,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:53-08:00"
+      "updated_at": "2025-12-27T13:00:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Nova_Green_Apple.png"
   },
@@ -189,20 +189,20 @@
     "rarity": "Industrial Shotgun",
     "collection": "The Cobblestone Collection",
     "price": {
-      "price_string": "$16.57 - $25.08",
+      "price_string": "$16.29 - $23.93",
       "price_stattrak_string": "$11.88 - $35.08",
       "currency": "USD",
       "min": {
-        "value": 16.57,
+        "value": 16.29,
         "stattrak_value": 11.88,
         "unit": "USD"
       },
       "max": {
-        "value": 25.08,
+        "value": 23.93,
         "stattrak_value": 35.08,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:53-08:00"
+      "updated_at": "2025-12-27T13:00:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MAG-7_Silver.png"
   },
@@ -212,20 +212,20 @@
     "rarity": "Industrial Shotgun",
     "collection": "The Cobblestone Collection",
     "price": {
-      "price_string": "$11.56 - $35.02",
-      "price_stattrak_string": "$2.20 - $24.87",
+      "price_string": "$11.53 - $35.02",
+      "price_stattrak_string": "$2.20 - $21.71",
       "currency": "USD",
       "min": {
-        "value": 11.56,
+        "value": 11.53,
         "stattrak_value": 2.2,
         "unit": "USD"
       },
       "max": {
         "value": 35.02,
-        "stattrak_value": 24.87,
+        "stattrak_value": 21.71,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:53-08:00"
+      "updated_at": "2025-12-27T13:00:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Sawed-Off_Rust_Coat.png"
   },
@@ -235,12 +235,12 @@
     "rarity": "Consumer SMG",
     "collection": "The Cobblestone Collection",
     "price": {
-      "price_string": "$2.13 - $5.71",
-      "price_stattrak_string": "$0.88 - $100.00",
+      "price_string": "$1.98 - $5.71",
+      "price_stattrak_string": "$0.89 - $100.00",
       "currency": "USD",
       "min": {
-        "value": 2.13,
-        "stattrak_value": 0.88,
+        "value": 1.98,
+        "stattrak_value": 0.89,
         "unit": "USD"
       },
       "max": {
@@ -248,7 +248,7 @@
         "stattrak_value": 100,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:53-08:00"
+      "updated_at": "2025-12-27T13:00:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P90_Storm.png"
   },
@@ -258,20 +258,20 @@
     "rarity": "Consumer SMG",
     "collection": "The Cobblestone Collection",
     "price": {
-      "price_string": "$2.02 - $24.22",
+      "price_string": "$2.10 - $20.46",
       "price_stattrak_string": "$0.97 - $117.31",
       "currency": "USD",
       "min": {
-        "value": 2.02,
+        "value": 2.1,
         "stattrak_value": 0.97,
         "unit": "USD"
       },
       "max": {
-        "value": 24.22,
+        "value": 20.46,
         "stattrak_value": 117.31,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:53-08:00"
+      "updated_at": "2025-12-27T13:00:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/UMP-45_Indigo.png"
   },
@@ -281,20 +281,20 @@
     "rarity": "Consumer SMG",
     "collection": "The Cobblestone Collection",
     "price": {
-      "price_string": "$2.04 - $42.88",
+      "price_string": "$2.01 - $63.28",
       "price_stattrak_string": "$1.41 - $150.00",
       "currency": "USD",
       "min": {
-        "value": 2.04,
+        "value": 2.01,
         "stattrak_value": 1.41,
         "unit": "USD"
       },
       "max": {
-        "value": 42.88,
+        "value": 63.28,
         "stattrak_value": 150,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:53-08:00"
+      "updated_at": "2025-12-27T13:00:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MAC-10_Indigo.png"
   },
@@ -304,12 +304,12 @@
     "rarity": "Consumer Sniper Rifle",
     "collection": "The Cobblestone Collection",
     "price": {
-      "price_string": "$1.92 - $23.63",
-      "price_stattrak_string": "$0.86 - $69.99",
+      "price_string": "$2.02 - $23.63",
+      "price_stattrak_string": "$0.79 - $69.99",
       "currency": "USD",
       "min": {
-        "value": 1.92,
-        "stattrak_value": 0.86,
+        "value": 2.02,
+        "stattrak_value": 0.79,
         "unit": "USD"
       },
       "max": {
@@ -317,7 +317,7 @@
         "stattrak_value": 69.99,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:53-08:00"
+      "updated_at": "2025-12-27T13:00:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SCAR-20_Storm.png"
   },
@@ -328,19 +328,19 @@
     "collection": "The Cobblestone Collection",
     "price": {
       "price_string": "$1.99 - $8.17",
-      "price_stattrak_string": "$1.54 - $5.10",
+      "price_stattrak_string": "$1.51 - $9.22",
       "currency": "USD",
       "min": {
         "value": 1.99,
-        "stattrak_value": 1.54,
+        "stattrak_value": 1.51,
         "unit": "USD"
       },
       "max": {
         "value": 8.17,
-        "stattrak_value": 5.1,
+        "stattrak_value": 9.22,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:53-08:00"
+      "updated_at": "2025-12-27T13:00:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Dual_Berettas_Briar.png"
   },
@@ -350,20 +350,20 @@
     "rarity": "Consumer Grade Container",
     "collection": "Introduced:",
     "price": {
-      "price_string": "$1158.94",
+      "price_string": "$1159.53",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 1158.94,
+        "value": 1159.53,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 1158.94,
+        "value": 1159.53,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:53-08:00"
+      "updated_at": "2025-12-27T13:00:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Boston_2018_Cobblestone_Souvenir_Package.png"
   },
@@ -386,7 +386,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:53-08:00"
+      "updated_at": "2025-12-27T13:00:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Krakow_2017_Cobblestone_Souvenir_Package.png"
   },
@@ -409,7 +409,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:53-08:00"
+      "updated_at": "2025-12-27T13:00:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Atlanta_2017_Cobblestone_Souvenir_Package.png"
   },
@@ -432,7 +432,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:53-08:00"
+      "updated_at": "2025-12-27T13:00:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Cologne_2016_Cobblestone_Souvenir_Package.png"
   },
@@ -442,20 +442,20 @@
     "rarity": "Consumer Grade Container",
     "collection": "Introduced: 28 March 2016",
     "price": {
-      "price_string": "$1735.20",
+      "price_string": "$1763.51",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 1735.2,
+        "value": 1763.51,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 1735.2,
+        "value": 1763.51,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:53-08:00"
+      "updated_at": "2025-12-27T13:00:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/MLG_Columbus_2016_Cobblestone_Souvenir_Package.png"
   },
@@ -478,7 +478,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:53-08:00"
+      "updated_at": "2025-12-27T13:00:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/DreamHack_Cluj-Napoca_2015_Cobblestone_Souvenir_Package.png"
   },
@@ -488,20 +488,20 @@
     "rarity": "Consumer Grade Container",
     "collection": "Introduced:",
     "price": {
-      "price_string": "$1368.14",
+      "price_string": "$1353.93",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 1368.14,
+        "value": 1353.93,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 1368.14,
+        "value": 1353.93,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:53-08:00"
+      "updated_at": "2025-12-27T13:00:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/ESL_One_Cologne_2015_Cobblestone_Souvenir_Package.png"
   },
@@ -524,7 +524,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:53-08:00"
+      "updated_at": "2025-12-27T13:00:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/ESL_One_Katowice_2015_Cobblestone_Souvenir_Package.png"
   },
@@ -547,7 +547,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:53-08:00"
+      "updated_at": "2025-12-27T13:00:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/DreamHack_2014_Cobblestone_Souvenir_Package.png"
   },
@@ -570,7 +570,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:53-08:00"
+      "updated_at": "2025-12-27T13:00:53-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/ESL_One_Cologne_2014_Cobblestone_Souvenir_Package.png"
   }

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Chef d'Escadron Rouchard",
+    "affiliation": "Gendarmerie Nationale",
+    "side": "",
+    "collection": "Riptide Agents",
+    "rarity": "Master Agent",
+    "price": {
+      "price_string": "$25.87",
+      "currency": "USD",
+      "starts_from": {
+        "value": 25.87,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-27T13:00:46-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/agents/Chef_d'Escadron_Rouchard_Gendarmerie_Nationale.png"
+  },
+  {
+    "name": "Chem-Haz Capitaine",
+    "affiliation": "Gendarmerie Nationale",
+    "side": "",
+    "collection": "Riptide Agents",
+    "rarity": "Superior Agent",
+    "price": {
+      "price_string": "$24.99",
+      "currency": "USD",
+      "starts_from": {
+        "value": 24.99,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-27T13:00:46-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/agents/Chem-Haz_Capitaine_Gendarmerie_Nationale.png"
+  },
+  {
+    "name": "Officer Jacques Beltram",
+    "affiliation": "Gendarmerie Nationale",
+    "side": "",
+    "collection": "Riptide Agents",
+    "rarity": "Exceptional Agent",
+    "price": {
+      "price_string": "$19.18",
+      "currency": "USD",
+      "starts_from": {
+        "value": 19.18,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-27T13:00:46-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/agents/Officer_Jacques_Beltram_Gendarmerie_Nationale.png"
+  },
+  {
+    "name": "Sous-Lieutenant Medic",
+    "affiliation": "Gendarmerie Nationale",
+    "side": "",
+    "collection": "Riptide Agents",
+    "rarity": "Exceptional Agent",
+    "price": {
+      "price_string": "$12.33",
+      "currency": "USD",
+      "starts_from": {
+        "value": 12.33,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-27T13:00:46-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/agents/Sous-Lieutenant_Medic_Gendarmerie_Nationale.png"
+  },
+  {
+    "name": "Aspirant",
+    "affiliation": "Gendarmerie Nationale",
+    "side": "",
+    "collection": "Riptide Agents",
+    "rarity": "Distinguished Agent",
+    "price": {
+      "price_string": "$12.49",
+      "currency": "USD",
+      "starts_from": {
+        "value": 12.49,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-27T13:00:46-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/agents/Aspirant_Gendarmerie_Nationale.png"
+  }
+]

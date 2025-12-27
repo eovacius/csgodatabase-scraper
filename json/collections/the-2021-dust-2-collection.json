@@ -5,20 +5,20 @@
     "rarity": "Covert Rifle",
     "collection": "The 2021 Dust 2 Collection",
     "price": {
-      "price_string": "$1717.01 - $5833.43",
-      "price_stattrak_string": "$1591.57 - $3999.00",
+      "price_string": "$1696.08 - $5831.17",
+      "price_stattrak_string": "$1589.37 - $3999.00",
       "currency": "USD",
       "min": {
-        "value": 1717.01,
-        "stattrak_value": 1591.57,
+        "value": 1696.08,
+        "stattrak_value": 1589.37,
         "unit": "USD"
       },
       "max": {
-        "value": 5833.43,
+        "value": 5831.17,
         "stattrak_value": 3999,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:50-08:00"
+      "updated_at": "2025-12-27T13:00:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AK-47_Gold_Arabesque.png"
   },
@@ -28,12 +28,12 @@
     "rarity": "Classified SMG",
     "collection": "The 2021 Dust 2 Collection",
     "price": {
-      "price_string": "$582.05 - $1500.00",
-      "price_stattrak_string": "$51.90 - $64.78",
+      "price_string": "$578.93 - $1500.00",
+      "price_stattrak_string": "$50.86 - $64.78",
       "currency": "USD",
       "min": {
-        "value": 582.05,
-        "stattrak_value": 51.9,
+        "value": 578.93,
+        "stattrak_value": 50.86,
         "unit": "USD"
       },
       "max": {
@@ -41,7 +41,7 @@
         "stattrak_value": 64.78,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:50-08:00"
+      "updated_at": "2025-12-27T13:00:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/UMP-45_Fade.png"
   },
@@ -52,7 +52,7 @@
     "collection": "The 2021 Dust 2 Collection",
     "price": {
       "price_string": "$343.99 - $1168.91",
-      "price_stattrak_string": "$62.51 - $525.24",
+      "price_stattrak_string": "$62.51 - $446.42",
       "currency": "USD",
       "min": {
         "value": 343.99,
@@ -61,10 +61,10 @@
       },
       "max": {
         "value": 1168.91,
-        "stattrak_value": 525.24,
+        "stattrak_value": 446.42,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:50-08:00"
+      "updated_at": "2025-12-27T13:00:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SSG_08_Death_Strike.png"
   },
@@ -75,19 +75,19 @@
     "collection": "The 2021 Dust 2 Collection",
     "price": {
       "price_string": "$75.07 - $222.22",
-      "price_stattrak_string": "$6.43 - $78.11",
+      "price_stattrak_string": "$6.11 - $106.83",
       "currency": "USD",
       "min": {
         "value": 75.07,
-        "stattrak_value": 6.43,
+        "stattrak_value": 6.11,
         "unit": "USD"
       },
       "max": {
         "value": 222.22,
-        "stattrak_value": 78.11,
+        "stattrak_value": 106.83,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:50-08:00"
+      "updated_at": "2025-12-27T13:00:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MAC-10_Case_Hardened.png"
   },
@@ -98,19 +98,19 @@
     "collection": "The 2021 Dust 2 Collection",
     "price": {
       "price_string": "$81.74 - $239.40",
-      "price_stattrak_string": "$6.75 - $15.18",
+      "price_stattrak_string": "$6.82 - $16.22",
       "currency": "USD",
       "min": {
         "value": 81.74,
-        "stattrak_value": 6.75,
+        "stattrak_value": 6.82,
         "unit": "USD"
       },
       "max": {
         "value": 239.4,
-        "stattrak_value": 15.18,
+        "stattrak_value": 16.22,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:50-08:00"
+      "updated_at": "2025-12-27T13:00:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/USP-S_Orange_Anolis.png"
   },
@@ -133,7 +133,7 @@
         "stattrak_value": 29.99,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:50-08:00"
+      "updated_at": "2025-12-27T13:00:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/M4A4_Red_DDPAT.png"
   },
@@ -143,20 +143,20 @@
     "rarity": "Mil-spec Rifle",
     "collection": "The 2021 Dust 2 Collection",
     "price": {
-      "price_string": "$19.98 - $47.36",
-      "price_stattrak_string": "$0.81 - $8.15",
+      "price_string": "$19.98 - $50.65",
+      "price_stattrak_string": "$0.87 - $8.15",
       "currency": "USD",
       "min": {
         "value": 19.98,
-        "stattrak_value": 0.81,
+        "stattrak_value": 0.87,
         "unit": "USD"
       },
       "max": {
-        "value": 47.36,
+        "value": 50.65,
         "stattrak_value": 8.15,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:50-08:00"
+      "updated_at": "2025-12-27T13:00:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Galil_AR_Amber_Fade.png"
   },
@@ -166,20 +166,20 @@
     "rarity": "Mil-spec Sniper Rifle",
     "collection": "The 2021 Dust 2 Collection",
     "price": {
-      "price_string": "$14.12 - $37.13",
-      "price_stattrak_string": "$0.17 - $5.00",
+      "price_string": "$14.56 - $45.00",
+      "price_stattrak_string": "$0.18 - $5.00",
       "currency": "USD",
       "min": {
-        "value": 14.12,
-        "stattrak_value": 0.17,
+        "value": 14.56,
+        "stattrak_value": 0.18,
         "unit": "USD"
       },
       "max": {
-        "value": 37.13,
+        "value": 45,
         "stattrak_value": 5,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:50-08:00"
+      "updated_at": "2025-12-27T13:00:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/G3SG1_New_Roots.png"
   },
@@ -189,12 +189,12 @@
     "rarity": "Mil-spec Pistol",
     "collection": "The 2021 Dust 2 Collection",
     "price": {
-      "price_string": "$14.89 - $56.00",
-      "price_stattrak_string": "$0.19 - $4.73",
+      "price_string": "$15.15 - $56.00",
+      "price_stattrak_string": "$0.21 - $4.73",
       "currency": "USD",
       "min": {
-        "value": 14.89,
-        "stattrak_value": 0.19,
+        "value": 15.15,
+        "stattrak_value": 0.21,
         "unit": "USD"
       },
       "max": {
@@ -202,7 +202,7 @@
         "stattrak_value": 4.73,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:50-08:00"
+      "updated_at": "2025-12-27T13:00:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P250_Black_\u0026_Tan.png"
   },
@@ -212,20 +212,20 @@
     "rarity": "Mil-spec Shotgun",
     "collection": "The 2021 Dust 2 Collection",
     "price": {
-      "price_string": "$13.86 - $37.54",
-      "price_stattrak_string": "$0.09 - $7.00",
+      "price_string": "$13.54 - $37.54",
+      "price_stattrak_string": "$0.09 - $6.00",
       "currency": "USD",
       "min": {
-        "value": 13.86,
+        "value": 13.54,
         "stattrak_value": 0.09,
         "unit": "USD"
       },
       "max": {
         "value": 37.54,
-        "stattrak_value": 7,
+        "stattrak_value": 6,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:50-08:00"
+      "updated_at": "2025-12-27T13:00:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Nova_Quick_Sand.png"
   },
@@ -235,12 +235,12 @@
     "rarity": "Industrial Machine Gun",
     "collection": "The 2021 Dust 2 Collection",
     "price": {
-      "price_string": "$2.46 - $8.98",
-      "price_stattrak_string": "$0.02 - $1.00",
+      "price_string": "$2.48 - $8.98",
+      "price_stattrak_string": "$0.03 - $1.00",
       "currency": "USD",
       "min": {
-        "value": 2.46,
-        "stattrak_value": 0.02,
+        "value": 2.48,
+        "stattrak_value": 0.03,
         "unit": "USD"
       },
       "max": {
@@ -248,7 +248,7 @@
         "stattrak_value": 1,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:50-08:00"
+      "updated_at": "2025-12-27T13:00:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/M249_Midnight_Palm.png"
   },
@@ -258,12 +258,12 @@
     "rarity": "Industrial SMG",
     "collection": "The 2021 Dust 2 Collection",
     "price": {
-      "price_string": "$2.37 - $8.00",
-      "price_stattrak_string": "$0.04 - $1.00",
+      "price_string": "$2.34 - $8.00",
+      "price_stattrak_string": "$0.03 - $1.00",
       "currency": "USD",
       "min": {
-        "value": 2.37,
-        "stattrak_value": 0.04,
+        "value": 2.34,
+        "stattrak_value": 0.03,
         "unit": "USD"
       },
       "max": {
@@ -271,7 +271,7 @@
         "stattrak_value": 1,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:50-08:00"
+      "updated_at": "2025-12-27T13:00:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MP9_Old_Roots.png"
   },
@@ -281,12 +281,12 @@
     "rarity": "Industrial Rifle",
     "collection": "The 2021 Dust 2 Collection",
     "price": {
-      "price_string": "$2.30 - $5.67",
-      "price_stattrak_string": "$0.04 - $2.00",
+      "price_string": "$2.38 - $5.67",
+      "price_stattrak_string": "$0.03 - $2.00",
       "currency": "USD",
       "min": {
-        "value": 2.3,
-        "stattrak_value": 0.04,
+        "value": 2.38,
+        "stattrak_value": 0.03,
         "unit": "USD"
       },
       "max": {
@@ -294,7 +294,7 @@
         "stattrak_value": 2,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:50-08:00"
+      "updated_at": "2025-12-27T13:00:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AUG_Spalted_Wood.png"
   },
@@ -305,11 +305,11 @@
     "collection": "The 2021 Dust 2 Collection",
     "price": {
       "price_string": "$2.30 - $6.94",
-      "price_stattrak_string": "$0.03 - $2.00",
+      "price_stattrak_string": "$0.04 - $2.00",
       "currency": "USD",
       "min": {
         "value": 2.3,
-        "stattrak_value": 0.03,
+        "stattrak_value": 0.04,
         "unit": "USD"
       },
       "max": {
@@ -317,7 +317,7 @@
         "stattrak_value": 2,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:50-08:00"
+      "updated_at": "2025-12-27T13:00:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Five-SeveN_Withered_Vine.png"
   },
@@ -327,20 +327,20 @@
     "rarity": "Consumer Rifle",
     "collection": "The 2021 Dust 2 Collection",
     "price": {
-      "price_string": "$0.37 - $0.91",
+      "price_string": "$0.38 - $1.54",
       "price_stattrak_string": "$0.02 - $1.00",
       "currency": "USD",
       "min": {
-        "value": 0.37,
+        "value": 0.38,
         "stattrak_value": 0.02,
         "unit": "USD"
       },
       "max": {
-        "value": 0.91,
+        "value": 1.54,
         "stattrak_value": 1,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:50-08:00"
+      "updated_at": "2025-12-27T13:00:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SG_553_Bleached.png"
   },
@@ -350,8 +350,8 @@
     "rarity": "Consumer SMG",
     "collection": "The 2021 Dust 2 Collection",
     "price": {
-      "price_string": "$0.36 - $1.35",
-      "price_stattrak_string": "$0.02 - $1.00",
+      "price_string": "$0.36 - $1.33",
+      "price_stattrak_string": "$0.02 - $0.99",
       "currency": "USD",
       "min": {
         "value": 0.36,
@@ -359,11 +359,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 1.35,
-        "stattrak_value": 1,
+        "value": 1.33,
+        "stattrak_value": 0.99,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:50-08:00"
+      "updated_at": "2025-12-27T13:00:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MP7_Prey.png"
   },
@@ -373,20 +373,20 @@
     "rarity": "Consumer SMG",
     "collection": "The 2021 Dust 2 Collection",
     "price": {
-      "price_string": "$0.38 - $1.11",
-      "price_stattrak_string": "$0.02 - $3.10",
+      "price_string": "$0.38 - $1.95",
+      "price_stattrak_string": "$0.01 - $3.10",
       "currency": "USD",
       "min": {
         "value": 0.38,
-        "stattrak_value": 0.02,
+        "stattrak_value": 0.01,
         "unit": "USD"
       },
       "max": {
-        "value": 1.11,
+        "value": 1.95,
         "stattrak_value": 3.1,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:50-08:00"
+      "updated_at": "2025-12-27T13:00:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P90_Desert_DDPAT.png"
   },
@@ -396,20 +396,20 @@
     "rarity": "Consumer Shotgun",
     "collection": "The 2021 Dust 2 Collection",
     "price": {
-      "price_string": "$0.38 - $1.11",
-      "price_stattrak_string": "$0.02 - $7.89",
+      "price_string": "$0.38 - $1.95",
+      "price_stattrak_string": "$0.01 - $7.89",
       "currency": "USD",
       "min": {
         "value": 0.38,
-        "stattrak_value": 0.02,
+        "stattrak_value": 0.01,
         "unit": "USD"
       },
       "max": {
-        "value": 1.11,
+        "value": 1.95,
         "stattrak_value": 7.89,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:50-08:00"
+      "updated_at": "2025-12-27T13:00:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Sawed-Off_Parched.png"
   },
@@ -419,11 +419,11 @@
     "rarity": "Consumer Pistol",
     "collection": "The 2021 Dust 2 Collection",
     "price": {
-      "price_string": "$0.37 - $1.08",
+      "price_string": "$0.39 - $1.08",
       "price_stattrak_string": "$0.02 - $1.00",
       "currency": "USD",
       "min": {
-        "value": 0.37,
+        "value": 0.39,
         "stattrak_value": 0.02,
         "unit": "USD"
       },
@@ -432,7 +432,7 @@
         "stattrak_value": 1,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:50-08:00"
+      "updated_at": "2025-12-27T13:00:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/R8_Revolver_Desert_Brush.png"
   },
@@ -442,20 +442,20 @@
     "rarity": "Consumer Grade Container",
     "collection": "Introduced: 27 November 2024",
     "price": {
-      "price_string": "$2.95",
+      "price_string": "$2.84",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 2.95,
+        "value": 2.84,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 2.95,
+        "value": 2.84,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:50-08:00"
+      "updated_at": "2025-12-27T13:00:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Shanghai_2024_Dust_II_Souvenir_Package.png"
   },
@@ -478,7 +478,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:50-08:00"
+      "updated_at": "2025-12-27T13:00:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Rio_2022_Dust_II_Souvenir_Package.png"
   },
@@ -488,20 +488,20 @@
     "rarity": "Consumer Grade Container",
     "collection": "Introduced: 03 May 2022",
     "price": {
-      "price_string": "$5.20",
+      "price_string": "$4.81",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 5.2,
+        "value": 4.81,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 5.2,
+        "value": 4.81,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:50-08:00"
+      "updated_at": "2025-12-27T13:00:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Antwerp_2022_Dust_II_Souvenir_Package.png"
   },
@@ -524,7 +524,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-26T12:13:50-08:00"
+      "updated_at": "2025-12-27T13:00:49-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Stockholm_2021_Dust_II_Souvenir_Package.png"
   }
