@@ -9,8 +9,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/eovacius/csgodatabase-scraper/scraper"
 	"github.com/eovacius/csgodatabase-scraper/scraper/config"
+	"github.com/eovacius/csgodatabase-scraper/scraper/worker"
 )
 
 func main() {
@@ -32,16 +32,21 @@ func main() {
 
 	fmt.Println("[*] Starting scraper...")
 
-	skins, err := scraper.ScrapeSkins()
+	skins, agents, err := worker.ScrapeSkins()
 	if err != nil {
 		log.Fatalf("\033[31m[!]\033[0m Error during scraping: %v", err)
+	}
+
+	combinedData := config.DataOutput{
+		Skins:  skins,
+		Agents: agents,
 	}
 
 	if len(skins) == 0 {
 		log.Fatalf("\033[31m[!]\033[0m No skins were scraped! Exiting...")
 	}
 
-	jsonData, err := json.MarshalIndent(skins, "", "  ")
+	jsonData, err := json.MarshalIndent(combinedData, "", "  ")
 	if err != nil {
 		log.Fatalf("\033[31m[!]\033[0m Error marshaling JSON: %v", err)
 	}

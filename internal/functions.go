@@ -99,6 +99,36 @@ func ParsePrice(raw, stattRaw string) config.Price {
 	return price
 }
 
+func ParseAgentPrice(raw string) config.PriceSimple {
+	raw = strings.TrimSpace(raw)
+
+	currency := detectCurrency(raw, "")
+
+	price := config.PriceSimple{
+		PriceString: raw,
+		Currency:    currency,
+		From:        config.PriceValue{Value: 0, StattrakValue: 0, Unit: currency},
+		UpdatedAt:   time.Now().Format(time.RFC3339),
+	}
+
+	if raw == "" {
+		return price
+	}
+
+	re := regexp.MustCompile(`[\d.,]+`)
+	parts := strings.Split(raw, "-")
+
+	if len(parts) == 1 {
+		v, _ := strconv.ParseFloat(strings.ReplaceAll(re.FindString(parts[0]), ",", ""), 64)
+		price.From.Value = v
+	} else if len(parts) >= 2 {
+		v1, _ := strconv.ParseFloat(strings.ReplaceAll(re.FindString(parts[0]), ",", ""), 64)
+		price.From.Value = v1
+	}
+
+	return price
+}
+
 func SpecialMark(weapon string) string {
 	keywords := []string{"Knife", "Gloves", "Wraps"}
 	for _, keyword := range keywords {

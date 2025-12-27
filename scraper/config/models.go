@@ -42,3 +42,8 @@ type Agent struct {
 	Price       PriceSimple `json:"price"`
 	URL         string      `json:"url"`
 }
+
+type DataOutput struct {
+	Skins  []Skin
+	Agents []Agent
+}

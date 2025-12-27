@@ -1,4 +1,4 @@
-package scraper
+package worker
 
 import (
 	"testing"
@@ -10,7 +10,7 @@ func BenchmarkScrapeSkins(b *testing.B) {
 	b.ReportAllocs()
 
 	for i := 0; i < b.N; i++ {
-		_, err := ScrapeSkins()
+		_, _, err := ScrapeSkins()
 		if err != nil {
 			b.Fatal(err)
 		}
