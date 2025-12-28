@@ -25,6 +25,7 @@ func RemoveDuplicates(skins []config.Skin) []config.Skin {
 	}
 
 	// temporary filter to remove souvenir packages as scraper can't handle them without separating each souvenir by subdomain
+	//FIX: handle souvenirs
 	var filtered []config.Skin
 	for _, skin := range unique {
 		if skin.Weapon != "Souvenir Package" {
@@ -32,6 +33,20 @@ func RemoveDuplicates(skins []config.Skin) []config.Skin {
 		}
 	}
 	return filtered
+}
+
+func RemoveAgentDuplicates(agents []config.Agent) []config.Agent {
+	seen := make(map[string]bool)
+	var unique []config.Agent
+
+	for _, a := range agents {
+		key := a.Name + "|" + a.Affiliation + "|" + a.Side
+		if !seen[key] {
+			seen[key] = true
+			unique = append(unique, a)
+		}
+	}
+	return unique
 }
 
 func detectCurrency(values ...string) string {

@@ -34,7 +34,11 @@ var CollectionsList = []string{
 }
 
 var Agents = []string{
-	"chef-descadron-rouchard-gendarmerie-nationale",
+	"chef-descadron-rouchard-gendarmerie-nationale", "medium-rare-crasswater-guerrilla-warfare", "cmdr-frank-wet-sox-baroud-seal-frogman",
+	"bloody-darryl-the-strapped-the-professionals", "lieutenant-tree-hugger-farlow-swat", "primeiro-tenente-brazilian-1st-battalion",
+	"mr-muhlik-elite-crew", "d-squadron-officer-nzsas", "rezan-the-redshirt-sabre", "two-times-mccoy-tacp-cavalry", "blueberries-buckshot-nswc-seal",
+	"street-soldier-phoenix", "dragomir-sabre-footsoldier", "special-agent-ava-fbi", "two-times-mccoy-usaf-tacp", "michael-syfers-fbi-sniper",
+	"markus-delrow-fbi-hrt", "3rd-commando-company-ksk", "b-squadron-officer-sas", "operator-fbi-swat",
 }
 
 // Scraper settings

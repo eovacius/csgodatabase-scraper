@@ -14,7 +14,6 @@ if (url.includes('collection') || url.includes('cases')){
         url: container.querySelector('img')?.src?.replace('/webp/', '/').replace('.webp', '.png') || ''
      }));
 } else if (url.includes('agents')){
-    //FIX: side is not compatible. should work with selectors
     Array.from(document.querySelectorAll('.item-box')).map(container => ({
         name: container.querySelector('.block.txt-med.txt-white')?.textContent.trim() || '',
         affiliation: container.querySelector('.block.txt-small.txt-dark-grey')?.textContent.trim() || '',

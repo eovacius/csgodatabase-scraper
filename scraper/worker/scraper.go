@@ -15,16 +15,20 @@ import (
 
 // Run func executes the scraping process and returns a slice of Skin structs with error if any.
 func ScrapeSkins() ([]config.Skin, []config.Agent, error) {
-	// fancy ascii title ;)
+	// fancy ascii title ;) happy 2026!
 	fmt.Print("\033[34m" + `
-   ____  ____     ____    ____      ____    ____        _       ____   U _____ u   ____     
-U /"___|/ __"| u |___"\  / __"| uU /"___|U |  _"\ u U  /"\  u U|  _"\ u\| ___"|/U |  _"\ u  
-\| | u <\___ \/  U __) |<\___ \/ \| | u   \| |_) |/  \/ _ \/  \| |_) |/ |  _|"   \| |_) |/  
- | |/__ u___) |  \/ __/ \u___) |  | |/__   |  _ <    / ___ \   |  __/   | |___    |  _ <    
-  \____||____/>> |_____|u|____/>>  \____|  |_| \_\  /_/   \_\  |_|      |_____|   |_| \_\   
- _// \\  )(  (__)<<  //   )(  (__)_// \\   //   \\_  \\    >>  ||>>_    <<   >>   //   \\_  
-(__)(__)(__)    (__)(__) (__)    (__)(__) (__)  (__)(__)  (__)(__)__)  (__) (__) (__)  (__) 
-		` + "\033[0m")
+                                .___       __        ___.                                                                                  
+  ____   ______ ____   ____   __| _/____ _/  |______ \_ |__ _____    ______ ____             ______ ________________  ______   ___________ 
+_/ ___\ /  ___// ___\ /  _ \ / __ |\__  \\   __\__  \ | __ \\__  \  /  ___// __ \   ______  /  ___// ___\_  __ \__  \ \____ \_/ __ \_  __ \
+\  \___ \___ \/ /_/  >  <_> ) /_/ | / __ \|  |  / __ \| \_\ \/ __ \_\___ \\  ___/  /_____/  \___ \\  \___|  | \// __ \|  |_> >  ___/|  | \/  
+ \___  >____  >___  / \____/\____ |(____  /__| (____  /___  (____  /____  >\___  >         /____  >\___  >__|  (____  /   __/ \___  >__|   
+     \/     \/_____/             \/     \/          \/    \/     \/     \/     \/               \/     \/           \/|__|        \/     
+		
+✻     °      ❅      ⁎     ❄        +  ❆       ° ❉  °  ✽  ⁎     ❉  +    °      ✻  ❆            ❅❄        ✽      °   ✼  ❄         ⁎ 
+❅ °    ✼  ✻     ⁎       ✽       +      ❆ ✻     °      ❅      ⁎     ❄        +  ❆       ° ❉°  ✽  ⁎     ❉  +    °      ✻  ❆            ❅
+    ❄        ✽      °   ✼  ❄         ⁎     ❅°    ✼  ✻     ⁎       ✽       +      ❆  ° ❉°  ✽  ⁎     ❉  +    °      ✻  ❆            ❅
+	 
+	 ` + "\033[0m")
 
 	allocCtx, cancel := chromedp.NewExecAllocator(context.Background(), config.Opts...)
 	defer cancel()
@@ -56,7 +60,10 @@ U /"___|/ __"| u |___"\  / __"| uU /"___|U |  _"\ u U  /"\  u U|  _"\ u\| ___"|/
 	merged := append(cases, collections...)
 
 	uniqueSkins := internal.RemoveDuplicates(merged)
-	return uniqueSkins, agents, nil
+	uniqueAgents := internal.RemoveAgentDuplicates(agents)
+
+	return uniqueSkins, uniqueAgents, nil
+
 }
 
 func spawnAgentWorker(browserCtx context.Context, wg *sync.WaitGroup, target *[]config.Agent, list []string, name string) {
