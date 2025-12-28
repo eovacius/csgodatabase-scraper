@@ -18,7 +18,7 @@
         "stattrak_value": 1581.53,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:58-08:00"
+      "updated_at": "2025-12-28T05:20:07-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/M4A4_Eye_of_Horus.png"
   },
@@ -28,7 +28,7 @@
     "rarity": "Classified Rifle",
     "collection": "The Anubis Collection",
     "price": {
-      "price_string": "$40.86 - $383.06",
+      "price_string": "$40.86 - $400.00",
       "price_stattrak_string": "$40.33 - $1000.00",
       "currency": "USD",
       "min": {
@@ -37,11 +37,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 383.06,
+        "value": 400,
         "stattrak_value": 1000,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:58-08:00"
+      "updated_at": "2025-12-28T05:20:07-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/FAMAS_Waters_of_Nephthys.png"
   },
@@ -51,8 +51,8 @@
     "rarity": "Classified Pistol",
     "collection": "The Anubis Collection",
     "price": {
-      "price_string": "$22.77 - $422.51",
-      "price_stattrak_string": "$29.18 - $339.16",
+      "price_string": "$22.77 - $422.64",
+      "price_stattrak_string": "$29.18 - $330.81",
       "currency": "USD",
       "min": {
         "value": 22.77,
@@ -60,11 +60,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 422.51,
-        "stattrak_value": 339.16,
+        "value": 422.64,
+        "stattrak_value": 330.81,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:58-08:00"
+      "updated_at": "2025-12-28T05:20:07-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P250_Apep's_Curse.png"
   },
@@ -74,7 +74,7 @@
     "rarity": "Restricted Pistol",
     "collection": "The Anubis Collection",
     "price": {
-      "price_string": "$4.66 - $142.25",
+      "price_string": "$4.66 - $140.27",
       "price_stattrak_string": "$13.30 - $185.47",
       "currency": "USD",
       "min": {
@@ -83,11 +83,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 142.25,
+        "value": 140.27,
         "stattrak_value": 185.47,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:58-08:00"
+      "updated_at": "2025-12-28T05:20:07-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Glock-18_Ramese's_Reach.png"
   },
@@ -97,20 +97,20 @@
     "rarity": "Restricted Shotgun",
     "collection": "The Anubis Collection",
     "price": {
-      "price_string": "$3.27 - $45.58",
-      "price_stattrak_string": "$4.67 - $80.16",
+      "price_string": "$3.27 - $45.37",
+      "price_stattrak_string": "$4.48 - $80.16",
       "currency": "USD",
       "min": {
         "value": 3.27,
-        "stattrak_value": 4.67,
+        "stattrak_value": 4.48,
         "unit": "USD"
       },
       "max": {
-        "value": 45.58,
+        "value": 45.37,
         "stattrak_value": 80.16,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:58-08:00"
+      "updated_at": "2025-12-28T05:20:07-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Nova_Sobek's_Bite.png"
   },
@@ -121,11 +121,11 @@
     "collection": "The Anubis Collection",
     "price": {
       "price_string": "$3.49 - $99.00",
-      "price_stattrak_string": "$6.65 - $118.49",
+      "price_stattrak_string": "$6.11 - $118.49",
       "currency": "USD",
       "min": {
         "value": 3.49,
-        "stattrak_value": 6.65,
+        "stattrak_value": 6.11,
         "unit": "USD"
       },
       "max": {
@@ -133,7 +133,7 @@
         "stattrak_value": 118.49,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:58-08:00"
+      "updated_at": "2025-12-28T05:20:07-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P90_ScaraB_Rush.png"
   },
@@ -143,7 +143,7 @@
     "rarity": "Mil-spec Sniper Rifle",
     "collection": "The Anubis Collection",
     "price": {
-      "price_string": "$2.62 - $17.82",
+      "price_string": "$2.62 - $18.18",
       "price_stattrak_string": "$8.90 - $83.36",
       "currency": "USD",
       "min": {
@@ -152,11 +152,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 17.82,
+        "value": 18.18,
         "stattrak_value": 83.36,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:58-08:00"
+      "updated_at": "2025-12-28T05:20:07-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AWP_Black_Nile.png"
   },
@@ -167,7 +167,7 @@
     "collection": "The Anubis Collection",
     "price": {
       "price_string": "$1.62 - $22.25",
-      "price_stattrak_string": "$6.76 - $44.35",
+      "price_stattrak_string": "$6.76 - $48.07",
       "currency": "USD",
       "min": {
         "value": 1.62,
@@ -176,10 +176,10 @@
       },
       "max": {
         "value": 22.25,
-        "stattrak_value": 44.35,
+        "stattrak_value": 48.07,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:58-08:00"
+      "updated_at": "2025-12-28T05:20:07-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AK-47_Steel_Delta.png"
   },
@@ -202,7 +202,7 @@
         "stattrak_value": 24.99,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:58-08:00"
+      "updated_at": "2025-12-28T05:20:07-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Tec-9_Mummy's_Rot.png"
   },
@@ -213,7 +213,7 @@
     "collection": "The Anubis Collection",
     "price": {
       "price_string": "$0.33 - $18.99",
-      "price_stattrak_string": "$0.26 - $16.44",
+      "price_stattrak_string": "$0.26 - $16.00",
       "currency": "USD",
       "min": {
         "value": 0.33,
@@ -222,10 +222,10 @@
       },
       "max": {
         "value": 18.99,
-        "stattrak_value": 16.44,
+        "stattrak_value": 16,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:58-08:00"
+      "updated_at": "2025-12-28T05:20:07-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MAG-7_Copper_Coated.png"
   },
@@ -235,20 +235,20 @@
     "rarity": "Industrial Rifle",
     "collection": "The Anubis Collection",
     "price": {
-      "price_string": "$0.21 - $4.15",
-      "price_stattrak_string": "$1.10 - $18.00",
+      "price_string": "$0.21 - $4.27",
+      "price_stattrak_string": "$1.04 - $9.99",
       "currency": "USD",
       "min": {
         "value": 0.21,
-        "stattrak_value": 1.1,
+        "stattrak_value": 1.04,
         "unit": "USD"
       },
       "max": {
-        "value": 4.15,
-        "stattrak_value": 18,
+        "value": 4.27,
+        "stattrak_value": 9.99,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:58-08:00"
+      "updated_at": "2025-12-28T05:20:07-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/M4A1-S_Mud-Spec.png"
   },
@@ -258,20 +258,20 @@
     "rarity": "Industrial Pistol",
     "collection": "The Anubis Collection",
     "price": {
-      "price_string": "$0.09 - $2.79",
-      "price_stattrak_string": "$0.27 - $120.00",
+      "price_string": "$0.09 - $2.78",
+      "price_stattrak_string": "$0.30 - $120.00",
       "currency": "USD",
       "min": {
         "value": 0.09,
-        "stattrak_value": 0.27,
+        "stattrak_value": 0.3,
         "unit": "USD"
       },
       "max": {
-        "value": 2.79,
+        "value": 2.78,
         "stattrak_value": 120,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:58-08:00"
+      "updated_at": "2025-12-28T05:20:07-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/USP-S_Desert_Tactical.png"
   },
@@ -281,20 +281,20 @@
     "rarity": "Industrial Sniper Rifle",
     "collection": "The Anubis Collection",
     "price": {
-      "price_string": "$0.11 - $2.35",
+      "price_string": "$0.03 - $2.27",
       "price_stattrak_string": "$0.07 - $3.84",
       "currency": "USD",
       "min": {
-        "value": 0.11,
+        "value": 0.03,
         "stattrak_value": 0.07,
         "unit": "USD"
       },
       "max": {
-        "value": 2.35,
+        "value": 2.27,
         "stattrak_value": 3.84,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:58-08:00"
+      "updated_at": "2025-12-28T05:20:07-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SSG_08_Azure_Glyph.png"
   },
@@ -304,8 +304,8 @@
     "rarity": "Industrial SMG",
     "collection": "The Anubis Collection",
     "price": {
-      "price_string": "$0.09 - $2.19",
-      "price_stattrak_string": "$0.05 - $3.42",
+      "price_string": "$0.09 - $2.21",
+      "price_stattrak_string": "$0.05 - $3.53",
       "currency": "USD",
       "min": {
         "value": 0.09,
@@ -313,11 +313,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 2.19,
-        "stattrak_value": 3.42,
+        "value": 2.21,
+        "stattrak_value": 3.53,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:58-08:00"
+      "updated_at": "2025-12-28T05:20:07-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MAC-10_Echoing_Sands.png"
   },
@@ -340,7 +340,7 @@
         "stattrak_value": 5,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:58-08:00"
+      "updated_at": "2025-12-28T05:20:07-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/M249_Submerged.png"
   },
@@ -351,7 +351,7 @@
     "collection": "The Anubis Collection",
     "price": {
       "price_string": "$0.02 - $1.00",
-      "price_stattrak_string": "$0.02 - $1.00",
+      "price_stattrak_string": "$0.02 - $1.04",
       "currency": "USD",
       "min": {
         "value": 0.02,
@@ -360,10 +360,10 @@
       },
       "max": {
         "value": 1,
-        "stattrak_value": 1,
+        "stattrak_value": 1.04,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:58-08:00"
+      "updated_at": "2025-12-28T05:20:07-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/R8_Revolver_Inlay.png"
   },
@@ -373,7 +373,7 @@
     "rarity": "Consumer Shotgun",
     "collection": "The Anubis Collection",
     "price": {
-      "price_string": "$0.02 - $0.80",
+      "price_string": "$0.02 - $1.02",
       "price_stattrak_string": "$0.02 - $10.00",
       "currency": "USD",
       "min": {
@@ -382,11 +382,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 0.8,
+        "value": 1.02,
         "stattrak_value": 10,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:58-08:00"
+      "updated_at": "2025-12-28T05:20:07-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/XM1014_Hieroglyph.png"
   },
@@ -396,8 +396,8 @@
     "rarity": "Consumer Rifle",
     "collection": "The Anubis Collection",
     "price": {
-      "price_string": "$0.02 - $1.00",
-      "price_stattrak_string": "$0.02 - $2.00",
+      "price_string": "$0.02 - $5.06",
+      "price_stattrak_string": "$0.02 - $1.00",
       "currency": "USD",
       "min": {
         "value": 0.02,
@@ -405,11 +405,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 1,
-        "stattrak_value": 2,
+        "value": 5.06,
+        "stattrak_value": 1,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:58-08:00"
+      "updated_at": "2025-12-28T05:20:07-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AUG_Snake_Pit.png"
   },
@@ -432,7 +432,7 @@
         "stattrak_value": 23.18,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:58-08:00"
+      "updated_at": "2025-12-28T05:20:07-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MP7_Sunbaked.png"
   }

@@ -18,7 +18,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:55-08:00"
+      "updated_at": "2025-12-28T05:20:03-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Glock-18_Brass.png"
   },
@@ -28,7 +28,7 @@
     "rarity": "Restricted Pistol",
     "collection": "The Dust Collection",
     "price": {
-      "price_string": "$945.24 - $1544.89",
+      "price_string": "$945.24 - $1531.52",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -37,11 +37,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 1544.89,
+        "value": 1531.52,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:55-08:00"
+      "updated_at": "2025-12-28T05:20:03-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Desert_Eagle_Blaze.png"
   },
@@ -51,7 +51,7 @@
     "rarity": "Restricted Pistol",
     "collection": "The Dust Collection",
     "price": {
-      "price_string": "$10.73 - $73.93",
+      "price_string": "$10.73 - $75.66",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -60,11 +60,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 73.93,
+        "value": 75.66,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:55-08:00"
+      "updated_at": "2025-12-28T05:20:03-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P2000_Scorpion.png"
   },
@@ -87,7 +87,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:55-08:00"
+      "updated_at": "2025-12-28T05:20:03-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AWP_Snake_Camo.png"
   },
@@ -97,7 +97,7 @@
     "rarity": "Mil-spec Shotgun",
     "collection": "The Dust Collection",
     "price": {
-      "price_string": "$107.43 - $292.05",
+      "price_string": "$107.43 - $275.00",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -106,11 +106,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 292.05,
+        "value": 275,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:55-08:00"
+      "updated_at": "2025-12-28T05:20:03-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Sawed-Off_Copper.png"
   },
@@ -120,20 +120,20 @@
     "rarity": "Mil-spec Rifle",
     "collection": "The Dust Collection",
     "price": {
-      "price_string": "$96.09 - $121.73",
+      "price_string": "$94.17 - $121.72",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 96.09,
+        "value": 94.17,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 121.73,
+        "value": 121.72,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:55-08:00"
+      "updated_at": "2025-12-28T05:20:03-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AUG_Copperhead.png"
   },
@@ -143,11 +143,11 @@
     "rarity": "Industrial Sniper Rifle",
     "collection": "The Dust Collection",
     "price": {
-      "price_string": "$18.01 - $46.00",
+      "price_string": "$16.47 - $46.00",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 18.01,
+        "value": 16.47,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -156,7 +156,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:55-08:00"
+      "updated_at": "2025-12-28T05:20:03-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SCAR-20_Palm.png"
   },
@@ -179,7 +179,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:55-08:00"
+      "updated_at": "2025-12-28T05:20:03-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AK-47_Predator.png"
   },
@@ -202,7 +202,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:55-08:00"
+      "updated_at": "2025-12-28T05:20:03-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/M4A4_Desert_Storm.png"
   }

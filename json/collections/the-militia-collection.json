@@ -18,7 +18,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:56-08:00"
+      "updated_at": "2025-12-28T05:20:04-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SCAR-20_Splash_Jam.png"
   },
@@ -28,11 +28,11 @@
     "rarity": "Restricted Rifle",
     "collection": "The Militia Collection",
     "price": {
-      "price_string": "$45.44 - $1167.75",
+      "price_string": "$45.00 - $1167.75",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 45.44,
+        "value": 45,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -41,7 +41,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:56-08:00"
+      "updated_at": "2025-12-28T05:20:04-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/M4A4_Modern_Hunter.png"
   },
@@ -64,7 +64,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:56-08:00"
+      "updated_at": "2025-12-28T05:20:04-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P250_Modern_Hunter.png"
   },
@@ -87,7 +87,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:56-08:00"
+      "updated_at": "2025-12-28T05:20:04-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Nova_Modern_Hunter.png"
   },
@@ -110,7 +110,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:56-08:00"
+      "updated_at": "2025-12-28T05:20:04-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Nova_Blaze_Orange.png"
   },
@@ -133,7 +133,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:56-08:00"
+      "updated_at": "2025-12-28T05:20:04-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/XM1014_Blaze_Orange.png"
   },
@@ -156,7 +156,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:56-08:00"
+      "updated_at": "2025-12-28T05:20:04-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/PP-Bizon_Modern_Hunter.png"
   },
@@ -166,11 +166,11 @@
     "rarity": "Industrial Pistol",
     "collection": "The Militia Collection",
     "price": {
-      "price_string": "$5.91 - $140.00",
+      "price_string": "$6.38 - $140.00",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 5.91,
+        "value": 6.38,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -179,7 +179,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:56-08:00"
+      "updated_at": "2025-12-28T05:20:04-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P2000_Grassland_Leaves.png"
   },
@@ -202,7 +202,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:56-08:00"
+      "updated_at": "2025-12-28T05:20:04-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/XM1014_Grassland.png"
   },
@@ -225,7 +225,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:56-08:00"
+      "updated_at": "2025-12-28T05:20:04-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MAC-10_Tornado.png"
   },
@@ -248,7 +248,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:56-08:00"
+      "updated_at": "2025-12-28T05:20:04-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/PP-Bizon_Forest_Leaves.png"
   }

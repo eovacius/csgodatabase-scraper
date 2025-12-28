@@ -5,20 +5,20 @@
     "rarity": "Classified Rifle",
     "collection": "The Overpass Collection",
     "price": {
-      "price_string": "$120.17 - $1741.93",
-      "price_stattrak_string": "$109.90 - $3064.81",
+      "price_string": "$119.80 - $1741.93",
+      "price_stattrak_string": "$116.36 - $3064.58",
       "currency": "USD",
       "min": {
-        "value": 120.17,
-        "stattrak_value": 109.9,
+        "value": 119.8,
+        "stattrak_value": 116.36,
         "unit": "USD"
       },
       "max": {
         "value": 1741.93,
-        "stattrak_value": 3064.81,
+        "stattrak_value": 3064.58,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:53-08:00"
+      "updated_at": "2025-12-28T05:20:02-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/M4A1-S_Master_Piece.png"
   },
@@ -28,7 +28,7 @@
     "rarity": "Restricted Pistol",
     "collection": "The Overpass Collection",
     "price": {
-      "price_string": "$27.73 - $370.12",
+      "price_string": "$27.73 - $382.83",
       "price_stattrak_string": "$22.21 - $178.54",
       "currency": "USD",
       "min": {
@@ -37,11 +37,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 370.12,
+        "value": 382.83,
         "stattrak_value": 178.54,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:53-08:00"
+      "updated_at": "2025-12-28T05:20:02-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/USP-S_Road_Rash.png"
   },
@@ -51,20 +51,20 @@
     "rarity": "Restricted Sniper Rifle",
     "collection": "The Overpass Collection",
     "price": {
-      "price_string": "$37.36 - $301.23",
-      "price_stattrak_string": "$22.89 - $449.57",
+      "price_string": "$37.36 - $309.58",
+      "price_stattrak_string": "$22.87 - $449.57",
       "currency": "USD",
       "min": {
         "value": 37.36,
-        "stattrak_value": 22.89,
+        "stattrak_value": 22.87,
         "unit": "USD"
       },
       "max": {
-        "value": 301.23,
+        "value": 309.58,
         "stattrak_value": 449.57,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:53-08:00"
+      "updated_at": "2025-12-28T05:20:02-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AWP_Pink_DDPAT.png"
   },
@@ -75,11 +75,11 @@
     "collection": "The Overpass Collection",
     "price": {
       "price_string": "$8.74 - $44.00",
-      "price_stattrak_string": "$0.70 - $25.00",
+      "price_stattrak_string": "$0.62 - $25.00",
       "currency": "USD",
       "min": {
         "value": 8.74,
-        "stattrak_value": 0.7,
+        "stattrak_value": 0.62,
         "unit": "USD"
       },
       "max": {
@@ -87,7 +87,7 @@
         "stattrak_value": 25,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:53-08:00"
+      "updated_at": "2025-12-28T05:20:02-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/XM1014_VariCamo_Blue.png"
   },
@@ -97,7 +97,7 @@
     "rarity": "Mil-spec Pistol",
     "collection": "The Overpass Collection",
     "price": {
-      "price_string": "$8.22 - $113.98",
+      "price_string": "$8.22 - $113.70",
       "price_stattrak_string": "$0.50 - $150.00",
       "currency": "USD",
       "min": {
@@ -106,11 +106,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 113.98,
+        "value": 113.7,
         "stattrak_value": 150,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:53-08:00"
+      "updated_at": "2025-12-28T05:20:02-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/CZ75-Auto_Nitro.png"
   },
@@ -120,7 +120,7 @@
     "rarity": "Mil-spec Sniper Rifle",
     "collection": "The Overpass Collection",
     "price": {
-      "price_string": "$10.77 - $42.44",
+      "price_string": "$10.77 - $43.54",
       "price_stattrak_string": "$4.66 - $115.00",
       "currency": "USD",
       "min": {
@@ -129,11 +129,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 42.44,
+        "value": 43.54,
         "stattrak_value": 115,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:53-08:00"
+      "updated_at": "2025-12-28T05:20:02-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SSG_08_Detour.png"
   },
@@ -144,7 +144,7 @@
     "collection": "The Overpass Collection",
     "price": {
       "price_string": "$1.47 - $159.99",
-      "price_stattrak_string": "$0.32 - $79.64",
+      "price_stattrak_string": "$0.32 - $77.33",
       "currency": "USD",
       "min": {
         "value": 1.47,
@@ -153,10 +153,10 @@
       },
       "max": {
         "value": 159.99,
-        "stattrak_value": 79.64,
+        "stattrak_value": 77.33,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:53-08:00"
+      "updated_at": "2025-12-28T05:20:02-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Glock-18_Night.png"
   },
@@ -166,20 +166,20 @@
     "rarity": "Industrial Pistol",
     "collection": "The Overpass Collection",
     "price": {
-      "price_string": "$1.66 - $70000.00",
-      "price_stattrak_string": "$0.50 - $100.00",
+      "price_string": "$1.71 - $70000.00",
+      "price_stattrak_string": "$0.56 - $41.89",
       "currency": "USD",
       "min": {
-        "value": 1.66,
-        "stattrak_value": 0.5,
+        "value": 1.71,
+        "stattrak_value": 0.56,
         "unit": "USD"
       },
       "max": {
         "value": 70000,
-        "stattrak_value": 100,
+        "stattrak_value": 41.89,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:53-08:00"
+      "updated_at": "2025-12-28T05:20:02-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Desert_Eagle_Urban_DDPAT.png"
   },
@@ -190,19 +190,19 @@
     "collection": "The Overpass Collection",
     "price": {
       "price_string": "$1.25 - $140.00",
-      "price_stattrak_string": "$0.08 - $19.43",
+      "price_stattrak_string": "$0.07 - $21.03",
       "currency": "USD",
       "min": {
         "value": 1.25,
-        "stattrak_value": 0.08,
+        "stattrak_value": 0.07,
         "unit": "USD"
       },
       "max": {
         "value": 140,
-        "stattrak_value": 19.43,
+        "stattrak_value": 21.03,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:53-08:00"
+      "updated_at": "2025-12-28T05:20:02-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P2000_Grassland.png"
   },
@@ -225,7 +225,7 @@
         "stattrak_value": 29.99,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:53-08:00"
+      "updated_at": "2025-12-28T05:20:02-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MP7_Gunsmoke.png"
   },
@@ -235,20 +235,20 @@
     "rarity": "Consumer Shotgun",
     "collection": "The Overpass Collection",
     "price": {
-      "price_string": "$0.29 - $1.93",
+      "price_string": "$0.28 - $1.92",
       "price_stattrak_string": "$0.02 - $20.92",
       "currency": "USD",
       "min": {
-        "value": 0.29,
+        "value": 0.28,
         "stattrak_value": 0.02,
         "unit": "USD"
       },
       "max": {
-        "value": 1.93,
+        "value": 1.92,
         "stattrak_value": 20.92,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:53-08:00"
+      "updated_at": "2025-12-28T05:20:02-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MAG-7_Storm.png"
   },
@@ -271,7 +271,7 @@
         "stattrak_value": 1,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:53-08:00"
+      "updated_at": "2025-12-28T05:20:02-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Sawed-Off_Sage_Spray.png"
   },
@@ -281,8 +281,8 @@
     "rarity": "Consumer Machine Gun",
     "collection": "The Overpass Collection",
     "price": {
-      "price_string": "$0.30 - $3.70",
-      "price_stattrak_string": "$0.02 - $7.00",
+      "price_string": "$0.30 - $3.60",
+      "price_stattrak_string": "$0.02 - $6.05",
       "currency": "USD",
       "min": {
         "value": 0.3,
@@ -290,11 +290,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 3.7,
-        "stattrak_value": 7,
+        "value": 3.6,
+        "stattrak_value": 6.05,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:53-08:00"
+      "updated_at": "2025-12-28T05:20:02-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/M249_Contrast_Spray.png"
   },
@@ -305,7 +305,7 @@
     "collection": "The Overpass Collection",
     "price": {
       "price_string": "$0.27 - $3.23",
-      "price_stattrak_string": "$0.02 - $2.00",
+      "price_stattrak_string": "$0.02 - $1.50",
       "currency": "USD",
       "min": {
         "value": 0.27,
@@ -314,10 +314,10 @@
       },
       "max": {
         "value": 3.23,
-        "stattrak_value": 2,
+        "stattrak_value": 1.5,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:53-08:00"
+      "updated_at": "2025-12-28T05:20:02-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/UMP-45_Scorched.png"
   },
@@ -340,7 +340,7 @@
         "stattrak_value": 36,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:53-08:00"
+      "updated_at": "2025-12-28T05:20:02-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MP9_Storm.png"
   },
@@ -363,7 +363,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:53-08:00"
+      "updated_at": "2025-12-28T05:20:02-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Copenhagen_2024_Overpass_Souvenir_Package.png"
   },
@@ -386,7 +386,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:53-08:00"
+      "updated_at": "2025-12-28T05:20:02-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Paris_2023_Overpass_Souvenir_Package.png"
   },
@@ -409,7 +409,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:53-08:00"
+      "updated_at": "2025-12-28T05:20:02-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Rio_2022_Overpass_Souvenir_Package.png"
   },
@@ -419,20 +419,20 @@
     "rarity": "Consumer Grade Container",
     "collection": "Introduced: 03 May 2022",
     "price": {
-      "price_string": "$3.16",
+      "price_string": "$2.63",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 3.16,
+        "value": 2.63,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 3.16,
+        "value": 2.63,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:53-08:00"
+      "updated_at": "2025-12-28T05:20:02-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Antwerp_2022_Overpass_Souvenir_Package.png"
   },
@@ -455,7 +455,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:53-08:00"
+      "updated_at": "2025-12-28T05:20:02-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Stockholm_2021_Overpass_Souvenir_Package.png"
   },
@@ -478,7 +478,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:53-08:00"
+      "updated_at": "2025-12-28T05:20:02-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Berlin_2019_Overpass_Souvenir_Package.png"
   },
@@ -501,7 +501,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:53-08:00"
+      "updated_at": "2025-12-28T05:20:02-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Katowice_2019_Overpass_Souvenir_Package.png"
   },
@@ -511,20 +511,20 @@
     "rarity": "Consumer Grade Container",
     "collection": "Introduced:",
     "price": {
-      "price_string": "$27.59",
+      "price_string": "$28.11",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 27.59,
+        "value": 28.11,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 27.59,
+        "value": 28.11,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:53-08:00"
+      "updated_at": "2025-12-28T05:20:02-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/London_2018_Overpass_Souvenir_Package.png"
   },
@@ -547,7 +547,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:53-08:00"
+      "updated_at": "2025-12-28T05:20:02-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Boston_2018_Overpass_Souvenir_Package.png"
   },
@@ -557,20 +557,20 @@
     "rarity": "Consumer Grade Container",
     "collection": "Introduced:",
     "price": {
-      "price_string": "$54.93",
+      "price_string": "$54.86",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 54.93,
+        "value": 54.86,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 54.93,
+        "value": 54.86,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:53-08:00"
+      "updated_at": "2025-12-28T05:20:02-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Krakow_2017_Overpass_Souvenir_Package.png"
   },
@@ -593,7 +593,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:53-08:00"
+      "updated_at": "2025-12-28T05:20:02-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Atlanta_2017_Overpass_Souvenir_Package.png"
   },
@@ -616,7 +616,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:53-08:00"
+      "updated_at": "2025-12-28T05:20:02-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Cologne_2016_Overpass_Souvenir_Package.png"
   },
@@ -639,7 +639,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:53-08:00"
+      "updated_at": "2025-12-28T05:20:02-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/MLG_Columbus_2016_Overpass_Souvenir_Package.png"
   },
@@ -662,7 +662,7 @@
         "stattrak_value": 0,
         "unit": "UNKNOWN"
       },
-      "updated_at": "2025-12-27T13:00:53-08:00"
+      "updated_at": "2025-12-28T05:20:02-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/DreamHack_Cluj-Napoca_2015_Overpass_Souvenir_Package.png"
   },
@@ -685,7 +685,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:53-08:00"
+      "updated_at": "2025-12-28T05:20:02-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/ESL_One_Cologne_2015_Overpass_Souvenir_Package.png"
   },
@@ -708,7 +708,7 @@
         "stattrak_value": 0,
         "unit": "UNKNOWN"
       },
-      "updated_at": "2025-12-27T13:00:53-08:00"
+      "updated_at": "2025-12-28T05:20:02-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/ESL_One_Katowice_2015_Overpass_Souvenir_Package.png"
   },
@@ -731,7 +731,7 @@
         "stattrak_value": 0,
         "unit": "UNKNOWN"
       },
-      "updated_at": "2025-12-27T13:00:53-08:00"
+      "updated_at": "2025-12-28T05:20:02-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/DreamHack_2014_Overpass_Souvenir_Package.png"
   },
@@ -754,7 +754,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:53-08:00"
+      "updated_at": "2025-12-28T05:20:02-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/ESL_One_Cologne_2014_Overpass_Souvenir_Package.png"
   }

@@ -6,11 +6,11 @@
     "collection": "The Mirage Collection",
     "price": {
       "price_string": "$5.37 - $1835.32",
-      "price_stattrak_string": "$19.57 - $49.00",
+      "price_stattrak_string": "$19.38 - $49.00",
       "currency": "USD",
       "min": {
         "value": 5.37,
-        "stattrak_value": 19.57,
+        "stattrak_value": 19.38,
         "unit": "USD"
       },
       "max": {
@@ -18,7 +18,7 @@
         "stattrak_value": 49,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:56-08:00"
+      "updated_at": "2025-12-28T05:20:04-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MAG-7_Bulldozer.png"
   },
@@ -28,20 +28,20 @@
     "rarity": "Mil-spec SMG",
     "collection": "The Mirage Collection",
     "price": {
-      "price_string": "$38.54 - $64.39",
-      "price_stattrak_string": "$39.95 - $125.00",
+      "price_string": "$38.54 - $63.97",
+      "price_stattrak_string": "$41.00 - $125.00",
       "currency": "USD",
       "min": {
         "value": 38.54,
-        "stattrak_value": 39.95,
+        "stattrak_value": 41,
         "unit": "USD"
       },
       "max": {
-        "value": 64.39,
+        "value": 63.97,
         "stattrak_value": 125,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:56-08:00"
+      "updated_at": "2025-12-28T05:20:04-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/UMP-45_Blaze.png"
   },
@@ -51,20 +51,20 @@
     "rarity": "Mil-spec SMG",
     "collection": "The Mirage Collection",
     "price": {
-      "price_string": "$14.99 - $52.97",
-      "price_stattrak_string": "$16.85 - $42.41",
+      "price_string": "$15.84 - $53.65",
+      "price_stattrak_string": "$17.21 - $42.41",
       "currency": "USD",
       "min": {
-        "value": 14.99,
-        "stattrak_value": 16.85,
+        "value": 15.84,
+        "stattrak_value": 17.21,
         "unit": "USD"
       },
       "max": {
-        "value": 52.97,
+        "value": 53.65,
         "stattrak_value": 42.41,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:56-08:00"
+      "updated_at": "2025-12-28T05:20:04-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MAC-10_Amber_Fade.png"
   },
@@ -74,7 +74,7 @@
     "rarity": "Mil-spec SMG",
     "collection": "The Mirage Collection",
     "price": {
-      "price_string": "$133.31 - $722.63",
+      "price_string": "$133.31 - $720.67",
       "price_stattrak_string": "$215.08 - $700.00",
       "currency": "USD",
       "min": {
@@ -83,11 +83,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 722.63,
+        "value": 720.67,
         "stattrak_value": 700,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:56-08:00"
+      "updated_at": "2025-12-28T05:20:04-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MP9_Hot_Rod.png"
   },
@@ -98,11 +98,11 @@
     "collection": "The Mirage Collection",
     "price": {
       "price_string": "$13.07 - $2538.28",
-      "price_stattrak_string": "$0.95 - $750.00",
+      "price_stattrak_string": "$0.93 - $750.00",
       "currency": "USD",
       "min": {
         "value": 13.07,
-        "stattrak_value": 0.95,
+        "stattrak_value": 0.93,
         "unit": "USD"
       },
       "max": {
@@ -110,7 +110,7 @@
         "stattrak_value": 750,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:56-08:00"
+      "updated_at": "2025-12-28T05:20:04-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Negev_CaliCamo.png"
   },
@@ -133,7 +133,7 @@
         "stattrak_value": 210.24,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:56-08:00"
+      "updated_at": "2025-12-28T05:20:04-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Glock-18_Groundwater.png"
   },
@@ -156,7 +156,7 @@
         "stattrak_value": 35,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:56-08:00"
+      "updated_at": "2025-12-28T05:20:04-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SG_553_Gator_Mesh.png"
   },
@@ -179,7 +179,7 @@
         "stattrak_value": 232.81,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:56-08:00"
+      "updated_at": "2025-12-28T05:20:04-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SSG_08_Tropical_Storm.png"
   },
@@ -202,7 +202,7 @@
         "stattrak_value": 6.01,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:56-08:00"
+      "updated_at": "2025-12-28T05:20:04-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MP7_Orange_Peel.png"
   },
@@ -213,19 +213,19 @@
     "collection": "The Mirage Collection",
     "price": {
       "price_string": "$1.76 - $169.74",
-      "price_stattrak_string": "$0.29 - $11.60",
+      "price_stattrak_string": "$0.26 - $29.14",
       "currency": "USD",
       "min": {
         "value": 1.76,
-        "stattrak_value": 0.29,
+        "stattrak_value": 0.26,
         "unit": "USD"
       },
       "max": {
         "value": 169.74,
-        "stattrak_value": 11.6,
+        "stattrak_value": 29.14,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:56-08:00"
+      "updated_at": "2025-12-28T05:20:04-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P250_Bone_Mask.png"
   },
@@ -236,11 +236,11 @@
     "collection": "The Mirage Collection",
     "price": {
       "price_string": "$1.97 - $27.55",
-      "price_stattrak_string": "$0.26 - $30.00",
+      "price_stattrak_string": "$0.24 - $30.00",
       "currency": "USD",
       "min": {
         "value": 1.97,
-        "stattrak_value": 0.26,
+        "stattrak_value": 0.24,
         "unit": "USD"
       },
       "max": {
@@ -248,7 +248,7 @@
         "stattrak_value": 30,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:56-08:00"
+      "updated_at": "2025-12-28T05:20:04-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AUG_Colony.png"
   },
@@ -271,7 +271,7 @@
         "stattrak_value": 35,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:56-08:00"
+      "updated_at": "2025-12-28T05:20:04-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Five-SeveN_Contractor.png"
   },
@@ -294,7 +294,7 @@
         "stattrak_value": 27.48,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:56-08:00"
+      "updated_at": "2025-12-28T05:20:04-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/G3SG1_Safari_Mesh.png"
   },
@@ -305,11 +305,11 @@
     "collection": "The Mirage Collection",
     "price": {
       "price_string": "$2.47 - $1300.00",
-      "price_stattrak_string": "$0.70 - $23.00",
+      "price_stattrak_string": "$0.69 - $23.00",
       "currency": "USD",
       "min": {
         "value": 2.47,
-        "stattrak_value": 0.7,
+        "stattrak_value": 0.69,
         "unit": "USD"
       },
       "max": {
@@ -317,7 +317,7 @@
         "stattrak_value": 23,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:56-08:00"
+      "updated_at": "2025-12-28T05:20:04-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Galil_AR_Hunting_Blind.png"
   },
@@ -340,7 +340,7 @@
         "stattrak_value": 39.99,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:56-08:00"
+      "updated_at": "2025-12-28T05:20:04-08:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P90_Scorched.png"
   },
@@ -363,7 +363,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:56-08:00"
+      "updated_at": "2025-12-28T05:20:04-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Berlin_2019_Mirage_Souvenir_Package.png"
   },
@@ -386,7 +386,7 @@
         "stattrak_value": 0,
         "unit": "UNKNOWN"
       },
-      "updated_at": "2025-12-27T13:00:56-08:00"
+      "updated_at": "2025-12-28T05:20:04-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Katowice_2019_Mirage_Souvenir_Package.png"
   },
@@ -396,20 +396,20 @@
     "rarity": "Consumer Grade Container",
     "collection": "Introduced:",
     "price": {
-      "price_string": "$18.06",
+      "price_string": "$18.07",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 18.06,
+        "value": 18.07,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 18.06,
+        "value": 18.07,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:56-08:00"
+      "updated_at": "2025-12-28T05:20:04-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/London_2018_Mirage_Souvenir_Package.png"
   },
@@ -419,20 +419,20 @@
     "rarity": "Consumer Grade Container",
     "collection": "Introduced:",
     "price": {
-      "price_string": "$18.76",
+      "price_string": "$18.80",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 18.76,
+        "value": 18.8,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 18.76,
+        "value": 18.8,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:56-08:00"
+      "updated_at": "2025-12-28T05:20:04-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Boston_2018_Mirage_Souvenir_Package.png"
   },
@@ -442,20 +442,20 @@
     "rarity": "Consumer Grade Container",
     "collection": "Introduced:",
     "price": {
-      "price_string": "$42.80",
+      "price_string": "$35.84",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 42.8,
+        "value": 35.84,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 42.8,
+        "value": 35.84,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:56-08:00"
+      "updated_at": "2025-12-28T05:20:04-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Krakow_2017_Mirage_Souvenir_Package.png"
   },
@@ -478,7 +478,7 @@
         "stattrak_value": 0,
         "unit": "UNKNOWN"
       },
-      "updated_at": "2025-12-27T13:00:56-08:00"
+      "updated_at": "2025-12-28T05:20:04-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Atlanta_2017_Mirage_Souvenir_Package.png"
   },
@@ -501,7 +501,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:56-08:00"
+      "updated_at": "2025-12-28T05:20:04-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Cologne_2016_Mirage_Souvenir_Package.png"
   },
@@ -524,7 +524,7 @@
         "stattrak_value": 0,
         "unit": "UNKNOWN"
       },
-      "updated_at": "2025-12-27T13:00:56-08:00"
+      "updated_at": "2025-12-28T05:20:04-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/MLG_Columbus_2016_Mirage_Souvenir_Package.png"
   },
@@ -547,7 +547,7 @@
         "stattrak_value": 0,
         "unit": "UNKNOWN"
       },
-      "updated_at": "2025-12-27T13:00:56-08:00"
+      "updated_at": "2025-12-28T05:20:04-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/DreamHack_Cluj-Napoca_2015_Mirage_Souvenir_Package.png"
   },
@@ -570,7 +570,7 @@
         "stattrak_value": 0,
         "unit": "UNKNOWN"
       },
-      "updated_at": "2025-12-27T13:00:56-08:00"
+      "updated_at": "2025-12-28T05:20:04-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/ESL_One_Cologne_2015_Mirage_Souvenir_Package.png"
   },
@@ -593,7 +593,7 @@
         "stattrak_value": 0,
         "unit": "UNKNOWN"
       },
-      "updated_at": "2025-12-27T13:00:56-08:00"
+      "updated_at": "2025-12-28T05:20:04-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/ESL_One_Katowice_2015_Mirage_Souvenir_Package.png"
   },
@@ -616,7 +616,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-27T13:00:56-08:00"
+      "updated_at": "2025-12-28T05:20:04-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/DreamHack_2014_Mirage_Souvenir_Package.png"
   },
@@ -639,7 +639,7 @@
         "stattrak_value": 0,
         "unit": "UNKNOWN"
       },
-      "updated_at": "2025-12-27T13:00:56-08:00"
+      "updated_at": "2025-12-28T05:20:04-08:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/ESL_One_Cologne_2014_Mirage_Souvenir_Package.png"
   }
