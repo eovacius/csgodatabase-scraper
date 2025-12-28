@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Slingshot",
+    "affiliation": "Phoenix",
+    "side": "T",
+    "collection": "Shattered Web Agents",
+    "rarity": "Exceptional Agent",
+    "price": {
+      "price_string": "$12.46",
+      "currency": "USD",
+      "starts_from": {
+        "value": 12.46,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-28T06:15:50-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/agents/Slingshot_Phoenix.png"
+  },
+  {
+    "name": "Enforcer",
+    "affiliation": "Phoenix",
+    "side": "T",
+    "collection": "Shattered Web Agents",
+    "rarity": "Distinguished Agent",
+    "price": {
+      "price_string": "$7.50",
+      "currency": "USD",
+      "starts_from": {
+        "value": 7.5,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-28T06:15:50-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/agents/Enforcer_Phoenix.png"
+  },
+  {
+    "name": "Soldier",
+    "affiliation": "Phoenix",
+    "side": "T",
+    "collection": "Shattered Web Agents",
+    "rarity": "Distinguished Agent",
+    "price": {
+      "price_string": "$7.24",
+      "currency": "USD",
+      "starts_from": {
+        "value": 7.24,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-28T06:15:50-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/agents/Soldier_Phoenix.png"
+  },
+  {
+    "name": "Street Soldier",
+    "affiliation": "Phoenix",
+    "side": "T",
+    "collection": "Broken Fang Agents",
+    "rarity": "Distinguished Agent",
+    "price": {
+      "price_string": "$24.41",
+      "currency": "USD",
+      "starts_from": {
+        "value": 24.41,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-28T06:15:50-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/agents/Street_Soldier_Phoenix.png"
+  }
+]

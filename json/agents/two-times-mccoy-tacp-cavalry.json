@@ -1,0 +1,20 @@
+[
+  {
+    "name": "'Two Times' McCoy",
+    "affiliation": "TACP Cavalry",
+    "side": "T",
+    "collection": "Broken Fang Agents",
+    "rarity": "Superior Agent",
+    "price": {
+      "price_string": "$9.17",
+      "currency": "USD",
+      "starts_from": {
+        "value": 9.17,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-28T06:15:50-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/agents/'Two_Times'_McCoy_TACP_Cavalry.png"
+  }
+]

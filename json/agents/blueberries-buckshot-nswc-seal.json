@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Lt. Commander Ricksaw",
+    "affiliation": "NSWC SEAL",
+    "side": "CT",
+    "collection": "Shattered Web Agents",
+    "rarity": "Master Agent",
+    "price": {
+      "price_string": "$18.51",
+      "currency": "USD",
+      "starts_from": {
+        "value": 18.51,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-28T06:15:50-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/agents/Lt._Commander_Ricksaw_NSWC_SEAL.png"
+  },
+  {
+    "name": "Buckshot",
+    "affiliation": "NSWC SEAL",
+    "side": "CT",
+    "collection": "Shattered Web Agents",
+    "rarity": "Exceptional Agent",
+    "price": {
+      "price_string": "$7.87",
+      "currency": "USD",
+      "starts_from": {
+        "value": 7.87,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-28T06:15:50-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/agents/Buckshot_NSWC_SEAL.png"
+  },
+  {
+    "name": "'Blueberries' Buckshot",
+    "affiliation": "NSWC SEAL",
+    "side": "CT",
+    "collection": "Broken Fang Agents",
+    "rarity": "Exceptional Agent",
+    "price": {
+      "price_string": "$15.53",
+      "currency": "USD",
+      "starts_from": {
+        "value": 15.53,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-28T06:15:50-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/agents/'Blueberries'_Buckshot_NSWC_SEAL.png"
+  },
+  {
+    "name": "Seal Team 6 Soldier",
+    "affiliation": "NSWC SEAL",
+    "side": "CT",
+    "collection": "Shattered Web Agents",
+    "rarity": "Distinguished Agent",
+    "price": {
+      "price_string": "$10.66",
+      "currency": "USD",
+      "starts_from": {
+        "value": 10.66,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-28T06:15:50-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/agents/Seal_Team_6_Soldier_NSWC_SEAL.png"
+  }
+]

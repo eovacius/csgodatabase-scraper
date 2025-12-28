@@ -1,0 +1,20 @@
+[
+  {
+    "name": "3rd Commando Company",
+    "affiliation": "KSK",
+    "side": "CT",
+    "collection": "Shattered Web Agents",
+    "rarity": "Distinguished Agent",
+    "price": {
+      "price_string": "$11.16",
+      "currency": "USD",
+      "starts_from": {
+        "value": 11.16,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-28T06:15:51-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/agents/3rd_Commando_Company_KSK.png"
+  }
+]

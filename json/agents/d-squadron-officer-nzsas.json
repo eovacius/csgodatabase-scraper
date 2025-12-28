@@ -1,0 +1,20 @@
+[
+  {
+    "name": "D Squadron Officer",
+    "affiliation": "NZSAS",
+    "side": "CT",
+    "collection": "Riptide Agents",
+    "rarity": "Distinguished Agent",
+    "price": {
+      "price_string": "$93.99",
+      "currency": "USD",
+      "starts_from": {
+        "value": 93.99,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-28T06:15:49-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/agents/D_Squadron_Officer_NZSAS.png"
+  }
+]

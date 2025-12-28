@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Cmdr. Mae 'Dead Cold' Jamison",
+    "affiliation": "SWAT",
+    "side": "CT",
+    "collection": "Broken Fang Agents",
+    "rarity": "Master Agent",
+    "price": {
+      "price_string": "$22.47",
+      "currency": "USD",
+      "starts_from": {
+        "value": 22.47,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-28T06:15:48-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/agents/Cmdr._Mae_'Dead_Cold'_Jamison_SWAT.png"
+  },
+  {
+    "name": "1st Lieutenant Farlow",
+    "affiliation": "SWAT",
+    "side": "CT",
+    "collection": "Broken Fang Agents",
+    "rarity": "Superior Agent",
+    "price": {
+      "price_string": "$10.14",
+      "currency": "USD",
+      "starts_from": {
+        "value": 10.14,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-28T06:15:48-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/agents/1st_Lieutenant_Farlow_SWAT.png"
+  },
+  {
+    "name": "Sergeant Bombson",
+    "affiliation": "SWAT",
+    "side": "CT",
+    "collection": "Broken Fang Agents",
+    "rarity": "Exceptional Agent",
+    "price": {
+      "price_string": "$13.82",
+      "currency": "USD",
+      "starts_from": {
+        "value": 13.82,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-28T06:15:48-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/agents/Sergeant_Bombson_SWAT.png"
+  },
+  {
+    "name": "John 'Van Healen' Kask",
+    "affiliation": "SWAT",
+    "side": "CT",
+    "collection": "Broken Fang Agents",
+    "rarity": "Exceptional Agent",
+    "price": {
+      "price_string": "$14.26",
+      "currency": "USD",
+      "starts_from": {
+        "value": 14.26,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-28T06:15:48-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/agents/John_'Van_Healen'_Kask_SWAT.png"
+  },
+  {
+    "name": "Lieutenant 'Tree Hugger' Farlow",
+    "affiliation": "SWAT",
+    "side": "CT",
+    "collection": "Riptide Agents",
+    "rarity": "Exceptional Agent",
+    "price": {
+      "price_string": "$18.23",
+      "currency": "USD",
+      "starts_from": {
+        "value": 18.23,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-28T06:15:48-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/agents/Lieutenant_'Tree_Hugger'_Farlow_SWAT.png"
+  },
+  {
+    "name": "Bio-Haz Specialist",
+    "affiliation": "SWAT",
+    "side": "CT",
+    "collection": "Broken Fang Agents",
+    "rarity": "Distinguished Agent",
+    "price": {
+      "price_string": "$12.40",
+      "currency": "USD",
+      "starts_from": {
+        "value": 12.4,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-28T06:15:48-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/agents/Bio-Haz_Specialist_SWAT.png"
+  },
+  {
+    "name": "Chem-Haz Specialist",
+    "affiliation": "SWAT",
+    "side": "CT",
+    "collection": "Broken Fang Agents",
+    "rarity": "Distinguished Agent",
+    "price": {
+      "price_string": "$12.79",
+      "currency": "USD",
+      "starts_from": {
+        "value": 12.79,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2025-12-28T06:15:48-08:00"
+    },
+    "url": "https://www.csgodatabase.com/images/agents/Chem-Haz_Specialist_SWAT.png"
+  }
+]
