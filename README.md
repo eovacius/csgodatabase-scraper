@@ -3,7 +3,7 @@
 
 <strong>csgodatabase-scraper</strong> is a scraping tool to retrieve fresh data with prices and wrap it up in convenient JSON file with clean structure
 
-Example json:
+Example skins json:
 
 ```json
 {
@@ -25,9 +25,32 @@ Example json:
         "stattrak_value": 694.48,
         "unit": "USD"
       },
-      "updated_at": "2025-11-09T20:31:26+04:00"
+      "updated_at": "2026-01-09T00:00:00Z"
     },
     "url": "https://www.example.com/images/AK-47_Inheritance.png"
+}
+```
+
+Agents json:
+
+```json
+{
+    "name": "Chef d'Escadron Rouchard",
+    "affiliation": "Gendarmerie Nationale",
+    "side": "CT",
+    "collection": "Riptide Agents",
+    "rarity": "Master Agent",
+    "price": {
+      "price_string": "$25.79",
+      "currency": "USD",
+      "starts_from": {
+        "value": 25.79,
+        "stattrak_value": 0,
+        "unit": "USD"
+      },
+      "updated_at": "2026-01-09T00:00:00Z"
+    },
+    "url": "https://www.example.com/images/Chef_d'Escadron_Rouchard_Gendarmerie_Nationale.png"
 }
 ```
 
