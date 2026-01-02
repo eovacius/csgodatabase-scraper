@@ -6,14 +6,14 @@
     "collection": "Shattered Web Agents",
     "rarity": "Master Agent",
     "price": {
-      "price_string": "$12.56",
+      "price_string": "$12.91",
       "currency": "USD",
       "starts_from": {
-        "value": 12.56,
+        "value": 12.91,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:49-08:00"
+      "updated_at": "2026-01-02T22:29:51+04:00"
     },
     "url": "https://www.csgodatabase.com/images/agents/The_Elite_Mr._Muhlik_Elite_Crew.png"
   },
@@ -24,14 +24,14 @@
     "collection": "Shattered Web Agents",
     "rarity": "Superior Agent",
     "price": {
-      "price_string": "$8.59",
+      "price_string": "$9.46",
       "currency": "USD",
       "starts_from": {
-        "value": 8.59,
+        "value": 9.46,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:49-08:00"
+      "updated_at": "2026-01-02T22:29:51+04:00"
     },
     "url": "https://www.csgodatabase.com/images/agents/Prof._Shahmat_Elite_Crew.png"
   },
@@ -42,14 +42,14 @@
     "collection": "Shattered Web Agents",
     "rarity": "Exceptional Agent",
     "price": {
-      "price_string": "$11.24",
+      "price_string": "$11.38",
       "currency": "USD",
       "starts_from": {
-        "value": 11.24,
+        "value": 11.38,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:49-08:00"
+      "updated_at": "2026-01-02T22:29:51+04:00"
     },
     "url": "https://www.csgodatabase.com/images/agents/Osiris_Elite_Crew.png"
   },
@@ -67,7 +67,7 @@
         "stattrak_value": 0,
         "unit": "UNKNOWN"
       },
-      "updated_at": "2025-12-28T06:15:49-08:00"
+      "updated_at": "2026-01-02T22:29:51+04:00"
     },
     "url": "https://www.csgodatabase.com/images/agents/Ground_Rebel_Elite_Crew.png"
   },
@@ -85,7 +85,7 @@
         "stattrak_value": 0,
         "unit": "UNKNOWN"
       },
-      "updated_at": "2025-12-28T06:15:49-08:00"
+      "updated_at": "2026-01-02T22:29:51+04:00"
     },
     "url": "https://www.csgodatabase.com/images/agents/Mr._Muhlik_Elite_Crew.png"
   }

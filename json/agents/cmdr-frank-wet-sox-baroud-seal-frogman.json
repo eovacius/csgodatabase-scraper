@@ -6,14 +6,14 @@
     "collection": "Riptide Agents",
     "rarity": "Master Agent",
     "price": {
-      "price_string": "$53.35",
+      "price_string": "$52.98",
       "currency": "USD",
       "starts_from": {
-        "value": 53.35,
+        "value": 52.98,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:48-08:00"
+      "updated_at": "2026-01-02T22:29:50+04:00"
     },
     "url": "https://www.csgodatabase.com/images/agents/Cmdr._Frank_'Wet_Sox'_Baroud_SEAL_Frogman.png"
   },
@@ -24,14 +24,14 @@
     "collection": "Riptide Agents",
     "rarity": "Master Agent",
     "price": {
-      "price_string": "$65.09",
+      "price_string": "$66.04",
       "currency": "USD",
       "starts_from": {
-        "value": 65.09,
+        "value": 66.04,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:48-08:00"
+      "updated_at": "2026-01-02T22:29:50+04:00"
     },
     "url": "https://www.csgodatabase.com/images/agents/Cmdr._Davida_'Goggles'_Fernandez_SEAL_Frogman.png"
   },
@@ -42,14 +42,14 @@
     "collection": "Riptide Agents",
     "rarity": "Superior Agent",
     "price": {
-      "price_string": "$19.78",
+      "price_string": "$20.57",
       "currency": "USD",
       "starts_from": {
-        "value": 19.78,
+        "value": 20.57,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:48-08:00"
+      "updated_at": "2026-01-02T22:29:50+04:00"
     },
     "url": "https://www.csgodatabase.com/images/agents/Lieutenant_Rex_Krikey_SEAL_Frogman.png"
   }

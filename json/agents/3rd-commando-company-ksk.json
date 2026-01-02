@@ -6,14 +6,14 @@
     "collection": "Shattered Web Agents",
     "rarity": "Distinguished Agent",
     "price": {
-      "price_string": "$11.16",
+      "price_string": "$12.25",
       "currency": "USD",
       "starts_from": {
-        "value": 11.16,
+        "value": 12.25,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:51-08:00"
+      "updated_at": "2026-01-02T22:29:55+04:00"
     },
     "url": "https://www.csgodatabase.com/images/agents/3rd_Commando_Company_KSK.png"
   }

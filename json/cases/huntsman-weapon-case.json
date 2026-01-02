@@ -5,20 +5,20 @@
     "rarity": "",
     "collection": "The Huntsman Collection",
     "price": {
-      "price_string": "$4709.98 - $9217.29",
-      "price_stattrak_string": "$8955.74 - $24910.41",
+      "price_string": "$4698.99 - $9217.29",
+      "price_stattrak_string": "$8955.74 - $26151.18",
       "currency": "USD",
       "min": {
-        "value": 4709.98,
+        "value": 4698.99,
         "stattrak_value": 8955.74,
         "unit": "USD"
       },
       "max": {
         "value": 9217.29,
-        "stattrak_value": 24910.41,
+        "stattrak_value": 26151.18,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:54-08:00"
+      "updated_at": "2026-01-02T22:29:59+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/M4A4_Howl.png"
   },
@@ -28,20 +28,20 @@
     "rarity": "Covert Rifle",
     "collection": "The Huntsman Collection",
     "price": {
-      "price_string": "$120.43 - $1295.84",
-      "price_stattrak_string": "$248.41 - $2296.04",
+      "price_string": "$118.30 - $1286.42",
+      "price_stattrak_string": "$243.30 - $2310.09",
       "currency": "USD",
       "min": {
-        "value": 120.43,
-        "stattrak_value": 248.41,
+        "value": 118.3,
+        "stattrak_value": 243.3,
         "unit": "USD"
       },
       "max": {
-        "value": 1295.84,
-        "stattrak_value": 2296.04,
+        "value": 1286.42,
+        "stattrak_value": 2310.09,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:54-08:00"
+      "updated_at": "2026-01-02T22:29:59+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AK-47_Vulcan.png"
   },
@@ -51,20 +51,20 @@
     "rarity": "Covert Rifle",
     "collection": "The Huntsman Collection",
     "price": {
-      "price_string": "$33.25 - $1835.32",
-      "price_stattrak_string": "$10.67 - $118.23",
+      "price_string": "$31.90 - $1835.32",
+      "price_stattrak_string": "$10.67 - $118.33",
       "currency": "USD",
       "min": {
-        "value": 33.25,
+        "value": 31.9,
         "stattrak_value": 10.67,
         "unit": "USD"
       },
       "max": {
         "value": 1835.32,
-        "stattrak_value": 118.23,
+        "stattrak_value": 118.33,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:54-08:00"
+      "updated_at": "2026-01-02T22:29:59+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/M4A4_Desert-Strike.png"
   },
@@ -74,8 +74,8 @@
     "rarity": "Classified Rifle",
     "collection": "The Huntsman Collection",
     "price": {
-      "price_string": "$33.78 - $410.74",
-      "price_stattrak_string": "$45.24 - $321.21",
+      "price_string": "$33.78 - $419.54",
+      "price_stattrak_string": "$45.24 - $326.15",
       "currency": "USD",
       "min": {
         "value": 33.78,
@@ -83,11 +83,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 410.74,
-        "stattrak_value": 321.21,
+        "value": 419.54,
+        "stattrak_value": 326.15,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:54-08:00"
+      "updated_at": "2026-01-02T22:29:59+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/M4A1-S_Atomic_Alloy.png"
   },
@@ -97,20 +97,20 @@
     "rarity": "Classified Pistol",
     "collection": "The Huntsman Collection",
     "price": {
-      "price_string": "$50.95 - $330.11",
-      "price_stattrak_string": "$120.39 - $999.99",
+      "price_string": "$50.95 - $331.99",
+      "price_stattrak_string": "$117.26 - $999.99",
       "currency": "USD",
       "min": {
         "value": 50.95,
-        "stattrak_value": 120.39,
+        "stattrak_value": 117.26,
         "unit": "USD"
       },
       "max": {
-        "value": 330.11,
+        "value": 331.99,
         "stattrak_value": 999.99,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:54-08:00"
+      "updated_at": "2026-01-02T22:29:59+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/USP-S_Orion.png"
   },
@@ -120,20 +120,20 @@
     "rarity": "Classified Pistol",
     "collection": "The Huntsman Collection",
     "price": {
-      "price_string": "$36.95 - $135.80",
-      "price_stattrak_string": "$57.10 - $379.00",
+      "price_string": "$36.70 - $140.00",
+      "price_stattrak_string": "$55.80 - $379.00",
       "currency": "USD",
       "min": {
-        "value": 36.95,
-        "stattrak_value": 57.1,
+        "value": 36.7,
+        "stattrak_value": 55.8,
         "unit": "USD"
       },
       "max": {
-        "value": 135.8,
+        "value": 140,
         "stattrak_value": 379,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:54-08:00"
+      "updated_at": "2026-01-02T22:29:59+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/USP-S_Caiman.png"
   },
@@ -143,20 +143,20 @@
     "rarity": "Classified Sniper Rifle",
     "collection": "The Huntsman Collection",
     "price": {
-      "price_string": "$26.50 - $79.99",
-      "price_stattrak_string": "$51.00 - $149.78",
+      "price_string": "$26.50 - $79.40",
+      "price_stattrak_string": "$54.18 - $140.43",
       "currency": "USD",
       "min": {
         "value": 26.5,
-        "stattrak_value": 51,
+        "stattrak_value": 54.18,
         "unit": "USD"
       },
       "max": {
-        "value": 79.99,
-        "stattrak_value": 149.78,
+        "value": 79.4,
+        "stattrak_value": 140.43,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:54-08:00"
+      "updated_at": "2026-01-02T22:29:59+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SCAR-20_Cyrex.png"
   },
@@ -166,12 +166,12 @@
     "rarity": "Restricted Rifle",
     "collection": "The Huntsman Collection",
     "price": {
-      "price_string": "$5.86 - $248.77",
-      "price_stattrak_string": "$6.71 - $455.30",
+      "price_string": "$5.56 - $248.77",
+      "price_stattrak_string": "$6.82 - $455.30",
       "currency": "USD",
       "min": {
-        "value": 5.86,
-        "stattrak_value": 6.71,
+        "value": 5.56,
+        "stattrak_value": 6.82,
         "unit": "USD"
       },
       "max": {
@@ -179,7 +179,7 @@
         "stattrak_value": 455.3,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:54-08:00"
+      "updated_at": "2026-01-02T22:29:59+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AUG_Torque.png"
   },
@@ -190,19 +190,19 @@
     "collection": "The Huntsman Collection",
     "price": {
       "price_string": "$6.43 - $15.17",
-      "price_stattrak_string": "$8.22 - $25.00",
+      "price_stattrak_string": "$7.98 - $32.69",
       "currency": "USD",
       "min": {
         "value": 6.43,
-        "stattrak_value": 8.22,
+        "stattrak_value": 7.98,
         "unit": "USD"
       },
       "max": {
         "value": 15.17,
-        "stattrak_value": 25,
+        "stattrak_value": 32.69,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:54-08:00"
+      "updated_at": "2026-01-02T22:29:59+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/XM1014_Heaven_Guard.png"
   },
@@ -212,20 +212,20 @@
     "rarity": "Restricted SMG",
     "collection": "The Huntsman Collection",
     "price": {
-      "price_string": "$5.67 - $19.01",
-      "price_stattrak_string": "$7.92 - $25.00",
+      "price_string": "$5.58 - $18.77",
+      "price_stattrak_string": "$7.86 - $25.00",
       "currency": "USD",
       "min": {
-        "value": 5.67,
-        "stattrak_value": 7.92,
+        "value": 5.58,
+        "stattrak_value": 7.86,
         "unit": "USD"
       },
       "max": {
-        "value": 19.01,
+        "value": 18.77,
         "stattrak_value": 25,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:54-08:00"
+      "updated_at": "2026-01-02T22:29:59+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MAC-10_Tatter.png"
   },
@@ -235,7 +235,7 @@
     "rarity": "Restricted SMG",
     "collection": "The Huntsman Collection",
     "price": {
-      "price_string": "$8.72 - $23.07",
+      "price_string": "$8.72 - $23.69",
       "price_stattrak_string": "$12.88 - $35.53",
       "currency": "USD",
       "min": {
@@ -244,11 +244,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 23.07,
+        "value": 23.69,
         "stattrak_value": 35.53,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:54-08:00"
+      "updated_at": "2026-01-02T22:29:59+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MAC-10_Curse.png"
   },
@@ -258,12 +258,12 @@
     "rarity": "Restricted SMG",
     "collection": "The Huntsman Collection",
     "price": {
-      "price_string": "$5.51 - $60.00",
-      "price_stattrak_string": "$6.73 - $45.00",
+      "price_string": "$5.44 - $60.00",
+      "price_stattrak_string": "$6.75 - $45.00",
       "currency": "USD",
       "min": {
-        "value": 5.51,
-        "stattrak_value": 6.73,
+        "value": 5.44,
+        "stattrak_value": 6.75,
         "unit": "USD"
       },
       "max": {
@@ -271,7 +271,7 @@
         "stattrak_value": 45,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:54-08:00"
+      "updated_at": "2026-01-02T22:29:59+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/PP-Bizon_Antique.png"
   },
@@ -281,20 +281,20 @@
     "rarity": "Mil-spec Pistol",
     "collection": "The Huntsman Collection",
     "price": {
-      "price_string": "$2.21 - $27.89",
-      "price_stattrak_string": "$2.99 - $67.24",
+      "price_string": "$2.21 - $26.25",
+      "price_stattrak_string": "$2.90 - $101.70",
       "currency": "USD",
       "min": {
         "value": 2.21,
-        "stattrak_value": 2.99,
+        "stattrak_value": 2.9,
         "unit": "USD"
       },
       "max": {
-        "value": 27.89,
-        "stattrak_value": 67.24,
+        "value": 26.25,
+        "stattrak_value": 101.7,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:54-08:00"
+      "updated_at": "2026-01-02T22:29:59+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Tec-9_Isaac.png"
   },
@@ -304,11 +304,11 @@
     "rarity": "Mil-spec Pistol",
     "collection": "The Huntsman Collection",
     "price": {
-      "price_string": "$3.22 - $35.70",
+      "price_string": "$3.05 - $35.70",
       "price_stattrak_string": "$2.36 - $245.79",
       "currency": "USD",
       "min": {
-        "value": 3.22,
+        "value": 3.05,
         "stattrak_value": 2.36,
         "unit": "USD"
       },
@@ -317,7 +317,7 @@
         "stattrak_value": 245.79,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:54-08:00"
+      "updated_at": "2026-01-02T22:29:59+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/CZ75-Auto_Poison_Dart.png"
   },
@@ -327,20 +327,20 @@
     "rarity": "Mil-spec Pistol",
     "collection": "The Huntsman Collection",
     "price": {
-      "price_string": "$0.88 - $10.31",
-      "price_stattrak_string": "$1.17 - $5.83",
+      "price_string": "$0.80 - $10.31",
+      "price_stattrak_string": "$1.17 - $6.80",
       "currency": "USD",
       "min": {
-        "value": 0.88,
+        "value": 0.8,
         "stattrak_value": 1.17,
         "unit": "USD"
       },
       "max": {
         "value": 10.31,
-        "stattrak_value": 5.83,
+        "stattrak_value": 6.8,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:54-08:00"
+      "updated_at": "2026-01-02T22:29:59+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/CZ75-Auto_Twist.png"
   },
@@ -350,20 +350,20 @@
     "rarity": "Mil-spec Pistol",
     "collection": "The Huntsman Collection",
     "price": {
-      "price_string": "$5.04 - $18.00",
+      "price_string": "$5.13 - $25.00",
       "price_stattrak_string": "$1.65 - $1835.32",
       "currency": "USD",
       "min": {
-        "value": 5.04,
+        "value": 5.13,
         "stattrak_value": 1.65,
         "unit": "USD"
       },
       "max": {
-        "value": 18,
+        "value": 25,
         "stattrak_value": 1835.32,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:54-08:00"
+      "updated_at": "2026-01-02T22:29:59+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Dual_Berettas_Retribution.png"
   },
@@ -374,19 +374,19 @@
     "collection": "The Huntsman Collection",
     "price": {
       "price_string": "$1.00 - $100.00",
-      "price_stattrak_string": "$1.17 - $6.99",
+      "price_stattrak_string": "$1.13 - $4.60",
       "currency": "USD",
       "min": {
         "value": 1,
-        "stattrak_value": 1.17,
+        "stattrak_value": 1.13,
         "unit": "USD"
       },
       "max": {
         "value": 100,
-        "stattrak_value": 6.99,
+        "stattrak_value": 4.6,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:54-08:00"
+      "updated_at": "2026-01-02T22:29:59+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P2000_Pulse.png"
   },
@@ -396,20 +396,20 @@
     "rarity": "Mil-spec Rifle",
     "collection": "The Huntsman Collection",
     "price": {
-      "price_string": "$1.23 - $6.07",
-      "price_stattrak_string": "$1.45 - $10.32",
+      "price_string": "$1.15 - $5.88",
+      "price_stattrak_string": "$1.34 - $10.27",
       "currency": "USD",
       "min": {
-        "value": 1.23,
-        "stattrak_value": 1.45,
+        "value": 1.15,
+        "stattrak_value": 1.34,
         "unit": "USD"
       },
       "max": {
-        "value": 6.07,
-        "stattrak_value": 10.32,
+        "value": 5.88,
+        "stattrak_value": 10.27,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:54-08:00"
+      "updated_at": "2026-01-02T22:29:59+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Galil_AR_Kami.png"
   },
@@ -419,7 +419,7 @@
     "rarity": "Mil-spec Sniper Rifle",
     "collection": "The Huntsman Collection",
     "price": {
-      "price_string": "$1.12 - $2.08",
+      "price_string": "$1.12 - $2.48",
       "price_stattrak_string": "$1.53 - $4.87",
       "currency": "USD",
       "min": {
@@ -428,11 +428,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 2.08,
+        "value": 2.48,
         "stattrak_value": 4.87,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:54-08:00"
+      "updated_at": "2026-01-02T22:29:59+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SSG_08_Slashed.png"
   },
@@ -442,20 +442,20 @@
     "rarity": "Mil-spec SMG",
     "collection": "The Huntsman Collection",
     "price": {
-      "price_string": "$1.38 - $2.36",
-      "price_stattrak_string": "$1.54 - $3.89",
+      "price_string": "$1.37 - $2.28",
+      "price_stattrak_string": "$1.54 - $3.88",
       "currency": "USD",
       "min": {
-        "value": 1.38,
+        "value": 1.37,
         "stattrak_value": 1.54,
         "unit": "USD"
       },
       "max": {
-        "value": 2.36,
-        "stattrak_value": 3.89,
+        "value": 2.28,
+        "stattrak_value": 3.88,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:54-08:00"
+      "updated_at": "2026-01-02T22:29:59+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P90_Module.png"
   },
@@ -478,7 +478,7 @@
         "stattrak_value": 55,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:54-08:00"
+      "updated_at": "2026-01-02T22:29:59+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P90_Desert_Warfare.png"
   },
@@ -501,7 +501,7 @@
         "stattrak_value": 0,
         "unit": "UNKNOWN"
       },
-      "updated_at": "2025-12-28T06:15:54-08:00"
+      "updated_at": "2026-01-02T22:29:59+04:00"
     },
     "url": "https://www.csgodatabase.com/images/knives/Huntsman_Knife.png"
   },
@@ -511,12 +511,12 @@
     "rarity": "Extraordinary Knife",
     "collection": "",
     "price": {
-      "price_string": "$120.45 - $245.80",
-      "price_stattrak_string": "$169.44 - $400.00",
+      "price_string": "$116.73 - $245.80",
+      "price_stattrak_string": "$174.85 - $400.00",
       "currency": "USD",
       "min": {
-        "value": 120.45,
-        "stattrak_value": 169.44,
+        "value": 116.73,
+        "stattrak_value": 174.85,
         "unit": "USD"
       },
       "max": {
@@ -524,7 +524,7 @@
         "stattrak_value": 400,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:54-08:00"
+      "updated_at": "2026-01-02T22:29:59+04:00"
     },
     "url": "https://www.csgodatabase.com/images/knives/Huntsman_Knife_Blue_Steel.png"
   },
@@ -534,11 +534,11 @@
     "rarity": "Extraordinary Knife",
     "collection": "",
     "price": {
-      "price_string": "$61.96 - $140.12",
+      "price_string": "$64.89 - $140.12",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 61.96,
+        "value": 64.89,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -547,7 +547,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:54-08:00"
+      "updated_at": "2026-01-02T22:29:59+04:00"
     },
     "url": "https://www.csgodatabase.com/images/knives/Huntsman_Knife_Boreal_Forest.png"
   },
@@ -557,20 +557,20 @@
     "rarity": "Extraordinary Knife",
     "collection": "",
     "price": {
-      "price_string": "$161.78 - $583.07",
+      "price_string": "$159.18 - $502.79",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 161.78,
+        "value": 159.18,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 583.07,
+        "value": 502.79,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:54-08:00"
+      "updated_at": "2026-01-02T22:29:59+04:00"
     },
     "url": "https://www.csgodatabase.com/images/knives/Huntsman_Knife_Case_Hardened.png"
   },
@@ -580,20 +580,20 @@
     "rarity": "Extraordinary Knife",
     "collection": "",
     "price": {
-      "price_string": "$114.19 - $1227.06",
-      "price_stattrak_string": "$289.40 - $502.13",
+      "price_string": "$115.49 - $1292.30",
+      "price_stattrak_string": "$288.70 - $502.13",
       "currency": "USD",
       "min": {
-        "value": 114.19,
-        "stattrak_value": 289.4,
+        "value": 115.49,
+        "stattrak_value": 288.7,
         "unit": "USD"
       },
       "max": {
-        "value": 1227.06,
+        "value": 1292.3,
         "stattrak_value": 502.13,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:54-08:00"
+      "updated_at": "2026-01-02T22:29:59+04:00"
     },
     "url": "https://www.csgodatabase.com/images/knives/Huntsman_Knife_Crimson_Web.png"
   },
@@ -603,12 +603,12 @@
     "rarity": "Extraordinary Knife",
     "collection": "",
     "price": {
-      "price_string": "$258.96 - $429.08",
-      "price_stattrak_string": "$307.86 - $500.84",
+      "price_string": "$257.69 - $429.08",
+      "price_stattrak_string": "$310.13 - $500.84",
       "currency": "USD",
       "min": {
-        "value": 258.96,
-        "stattrak_value": 307.86,
+        "value": 257.69,
+        "stattrak_value": 310.13,
         "unit": "USD"
       },
       "max": {
@@ -616,7 +616,7 @@
         "stattrak_value": 500.84,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:54-08:00"
+      "updated_at": "2026-01-02T22:29:59+04:00"
     },
     "url": "https://www.csgodatabase.com/images/knives/Huntsman_Knife_Fade.png"
   },
@@ -626,12 +626,12 @@
     "rarity": "Extraordinary Knife",
     "collection": "",
     "price": {
-      "price_string": "$65.00 - $181.75",
-      "price_stattrak_string": "$73.41 - $181.95",
+      "price_string": "$64.97 - $181.75",
+      "price_stattrak_string": "$73.56 - $181.95",
       "currency": "USD",
       "min": {
-        "value": 65,
-        "stattrak_value": 73.41,
+        "value": 64.97,
+        "stattrak_value": 73.56,
         "unit": "USD"
       },
       "max": {
@@ -639,7 +639,7 @@
         "stattrak_value": 181.95,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:54-08:00"
+      "updated_at": "2026-01-02T22:29:59+04:00"
     },
     "url": "https://www.csgodatabase.com/images/knives/Huntsman_Knife_Forest_DDPAT.png"
   },
@@ -649,12 +649,12 @@
     "rarity": "Extraordinary Knife",
     "collection": "",
     "price": {
-      "price_string": "$81.62 - $490.63",
-      "price_stattrak_string": "$89.51 - $280.00",
+      "price_string": "$79.83 - $490.63",
+      "price_stattrak_string": "$97.81 - $280.00",
       "currency": "USD",
       "min": {
-        "value": 81.62,
-        "stattrak_value": 89.51,
+        "value": 79.83,
+        "stattrak_value": 97.81,
         "unit": "USD"
       },
       "max": {
@@ -662,7 +662,7 @@
         "stattrak_value": 280,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:54-08:00"
+      "updated_at": "2026-01-02T22:29:59+04:00"
     },
     "url": "https://www.csgodatabase.com/images/knives/Huntsman_Knife_Night.png"
   },
@@ -685,7 +685,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:54-08:00"
+      "updated_at": "2026-01-02T22:29:59+04:00"
     },
     "url": "https://www.csgodatabase.com/images/knives/Huntsman_Knife_Safari_Mesh.png"
   },
@@ -695,20 +695,20 @@
     "rarity": "Extraordinary Knife",
     "collection": "",
     "price": {
-      "price_string": "$68.37 - $142.82",
-      "price_stattrak_string": "$78.86 - $322.11",
+      "price_string": "$65.47 - $142.82",
+      "price_stattrak_string": "$85.01 - $375.28",
       "currency": "USD",
       "min": {
-        "value": 68.37,
-        "stattrak_value": 78.86,
+        "value": 65.47,
+        "stattrak_value": 85.01,
         "unit": "USD"
       },
       "max": {
         "value": 142.82,
-        "stattrak_value": 322.11,
+        "stattrak_value": 375.28,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:54-08:00"
+      "updated_at": "2026-01-02T22:29:59+04:00"
     },
     "url": "https://www.csgodatabase.com/images/knives/Huntsman_Knife_Scorched.png"
   },
@@ -718,20 +718,20 @@
     "rarity": "Extraordinary Knife",
     "collection": "",
     "price": {
-      "price_string": "$209.71 - $466.50",
+      "price_string": "$201.99 - $499.99",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 209.71,
+        "value": 201.99,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 466.5,
+        "value": 499.99,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:54-08:00"
+      "updated_at": "2026-01-02T22:29:59+04:00"
     },
     "url": "https://www.csgodatabase.com/images/knives/Huntsman_Knife_Slaughter.png"
   },
@@ -741,20 +741,20 @@
     "rarity": "Extraordinary Knife",
     "collection": "",
     "price": {
-      "price_string": "$90.19 - $786.32",
-      "price_stattrak_string": "$107.01 - $232.79",
+      "price_string": "$92.50 - $787.74",
+      "price_stattrak_string": "$101.10 - $239.88",
       "currency": "USD",
       "min": {
-        "value": 90.19,
-        "stattrak_value": 107.01,
+        "value": 92.5,
+        "stattrak_value": 101.1,
         "unit": "USD"
       },
       "max": {
-        "value": 786.32,
-        "stattrak_value": 232.79,
+        "value": 787.74,
+        "stattrak_value": 239.88,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:54-08:00"
+      "updated_at": "2026-01-02T22:29:59+04:00"
     },
     "url": "https://www.csgodatabase.com/images/knives/Huntsman_Knife_Stained.png"
   },
@@ -764,20 +764,20 @@
     "rarity": "Extraordinary Knife",
     "collection": "",
     "price": {
-      "price_string": "$65.89 - $198.48",
-      "price_stattrak_string": "$81.16 - $134.49",
+      "price_string": "$66.70 - $198.48",
+      "price_stattrak_string": "$81.22 - $184.08",
       "currency": "USD",
       "min": {
-        "value": 65.89,
-        "stattrak_value": 81.16,
+        "value": 66.7,
+        "stattrak_value": 81.22,
         "unit": "USD"
       },
       "max": {
         "value": 198.48,
-        "stattrak_value": 134.49,
+        "stattrak_value": 184.08,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:54-08:00"
+      "updated_at": "2026-01-02T22:29:59+04:00"
     },
     "url": "https://www.csgodatabase.com/images/knives/Huntsman_Knife_Urban_Masked.png"
   }

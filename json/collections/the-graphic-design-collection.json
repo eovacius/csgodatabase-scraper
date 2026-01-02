@@ -5,7 +5,7 @@
     "rarity": "Covert Sniper Rifle",
     "collection": "The Graphic Design Collection",
     "price": {
-      "price_string": "$128.45 - $3968.14",
+      "price_string": "$128.45 - $4000.38",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -14,11 +14,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 3968.14,
+        "value": 4000.38,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:49-08:00"
+      "updated_at": "2026-01-02T22:29:51+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AWP_CMYK.png"
   },
@@ -28,7 +28,7 @@
     "rarity": "Classified Pistol",
     "collection": "The Graphic Design Collection",
     "price": {
-      "price_string": "$60.72 - $1500.00",
+      "price_string": "$60.72 - $738.20",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -37,11 +37,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 1500,
+        "value": 738.2,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:49-08:00"
+      "updated_at": "2026-01-02T22:29:51+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Desert_Eagle_Starcade.png"
   },
@@ -51,7 +51,7 @@
     "rarity": "Classified Rifle",
     "collection": "The Graphic Design Collection",
     "price": {
-      "price_string": "$26.73 - $332.99",
+      "price_string": "$26.73 - $316.42",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -60,11 +60,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 332.99,
+        "value": 316.42,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:49-08:00"
+      "updated_at": "2026-01-02T22:29:51+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AUG_Lil'_Pig.png"
   },
@@ -74,7 +74,7 @@
     "rarity": "Restricted SMG",
     "collection": "The Graphic Design Collection",
     "price": {
-      "price_string": "$7.39 - $49.87",
+      "price_string": "$7.39 - $49.72",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -83,11 +83,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 49.87,
+        "value": 49.72,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:49-08:00"
+      "updated_at": "2026-01-02T22:29:51+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P90_Attack_Vector.png"
   },
@@ -97,7 +97,7 @@
     "rarity": "Restricted Rifle",
     "collection": "The Graphic Design Collection",
     "price": {
-      "price_string": "$7.09 - $582.19",
+      "price_string": "$7.09 - $81.40",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -106,11 +106,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 582.19,
+        "value": 81.4,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:49-08:00"
+      "updated_at": "2026-01-02T22:29:51+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/M4A4_Polysoup.png"
   },
@@ -120,7 +120,7 @@
     "rarity": "Restricted Pistol",
     "collection": "The Graphic Design Collection",
     "price": {
-      "price_string": "$7.17 - $52.19",
+      "price_string": "$7.17 - $49.72",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -129,11 +129,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 52.19,
+        "value": 49.72,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:49-08:00"
+      "updated_at": "2026-01-02T22:29:51+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/CZ75-Auto_Slalom.png"
   },
@@ -156,7 +156,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:49-08:00"
+      "updated_at": "2026-01-02T22:29:51+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/XM1014_Halftone_Shift.png"
   },
@@ -166,7 +166,7 @@
     "rarity": "Mil-spec Rifle",
     "collection": "The Graphic Design Collection",
     "price": {
-      "price_string": "$1.17 - $7.89",
+      "price_string": "$1.17 - $35.00",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -175,11 +175,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 7.89,
+        "value": 35,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:49-08:00"
+      "updated_at": "2026-01-02T22:29:51+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SG_553_Berry_Gel_Coat.png"
   },
@@ -202,7 +202,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:49-08:00"
+      "updated_at": "2026-01-02T22:29:51+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SCAR-20_Wild_Berry.png"
   },
@@ -225,7 +225,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:49-08:00"
+      "updated_at": "2026-01-02T22:29:51+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AK-47_Crossfade.png"
   },
@@ -235,7 +235,7 @@
     "rarity": "Industrial Sniper Rifle",
     "collection": "The Graphic Design Collection",
     "price": {
-      "price_string": "$0.21 - $4.75",
+      "price_string": "$0.21 - $0.87",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -244,11 +244,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 4.75,
+        "value": 0.87,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:49-08:00"
+      "updated_at": "2026-01-02T22:29:51+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SSG_08_Halftone_Whorl.png"
   },
@@ -258,20 +258,20 @@
     "rarity": "Industrial Pistol",
     "collection": "The Graphic Design Collection",
     "price": {
-      "price_string": "$0.20 - $3.75",
+      "price_string": "$0.16 - $1.06",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 0.2,
+        "value": 0.16,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 3.75,
+        "value": 1.06,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:49-08:00"
+      "updated_at": "2026-01-02T22:29:51+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P2000_Coral_Halftone.png"
   },
@@ -281,7 +281,7 @@
     "rarity": "Industrial SMG",
     "collection": "The Graphic Design Collection",
     "price": {
-      "price_string": "$0.19 - $24.98",
+      "price_string": "$0.19 - $1.89",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -290,11 +290,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 24.98,
+        "value": 1.89,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:49-08:00"
+      "updated_at": "2026-01-02T22:29:51+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MP7_Astrolabe.png"
   },
@@ -317,7 +317,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:49-08:00"
+      "updated_at": "2026-01-02T22:29:51+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/M249_Spectrogram.png"
   },
@@ -327,7 +327,7 @@
     "rarity": "Industrial Rifle",
     "collection": "The Graphic Design Collection",
     "price": {
-      "price_string": "$0.22 - $2.55",
+      "price_string": "$0.22 - $2.47",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -336,11 +336,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 2.55,
+        "value": 2.47,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:49-08:00"
+      "updated_at": "2026-01-02T22:29:51+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Galil_AR_NV.png"
   },
@@ -350,20 +350,20 @@
     "rarity": "Industrial Rifle",
     "collection": "The Graphic Design Collection",
     "price": {
-      "price_string": "$0.23 - $39.98",
+      "price_string": "$0.22 - $0.85",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 0.23,
+        "value": 0.22,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 39.98,
+        "value": 0.85,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:49-08:00"
+      "updated_at": "2026-01-02T22:29:51+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/FAMAS_Halftone_Wash.png"
   }

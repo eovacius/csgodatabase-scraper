@@ -6,14 +6,14 @@
     "collection": "Broken Fang Agents",
     "rarity": "Distinguished Agent",
     "price": {
-      "price_string": "$10.61",
+      "price_string": "$14.97",
       "currency": "USD",
       "starts_from": {
-        "value": 10.61,
+        "value": 14.97,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:50-08:00"
+      "updated_at": "2026-01-02T22:29:53+04:00"
     },
     "url": "https://www.csgodatabase.com/images/agents/Dragomir_Sabre_Footsoldier.png"
   }

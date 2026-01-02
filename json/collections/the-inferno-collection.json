@@ -5,8 +5,8 @@
     "rarity": "Mil-spec Pistol",
     "collection": "The Inferno Collection",
     "price": {
-      "price_string": "$1.70 - $98.88",
-      "price_stattrak_string": "$11.15 - $295.97",
+      "price_string": "$1.70 - $108.45",
+      "price_stattrak_string": "$11.15 - $450.00",
       "currency": "USD",
       "min": {
         "value": 1.7,
@@ -14,11 +14,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 98.88,
-        "stattrak_value": 295.97,
+        "value": 108.45,
+        "stattrak_value": 450,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:55-08:00"
+      "updated_at": "2026-01-02T22:29:58+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Tec-9_Brass.png"
   },
@@ -29,11 +29,11 @@
     "collection": "The Inferno Collection",
     "price": {
       "price_string": "$2.11 - $30.00",
-      "price_stattrak_string": "$10.58 - $92.25",
+      "price_stattrak_string": "$10.01 - $92.25",
       "currency": "USD",
       "min": {
         "value": 2.11,
-        "stattrak_value": 10.58,
+        "stattrak_value": 10.01,
         "unit": "USD"
       },
       "max": {
@@ -41,7 +41,7 @@
         "stattrak_value": 92.25,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:55-08:00"
+      "updated_at": "2026-01-02T22:29:58+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Dual_Berettas_Anodized_Navy.png"
   },
@@ -52,11 +52,11 @@
     "collection": "The Inferno Collection",
     "price": {
       "price_string": "$3.10 - $431.20",
-      "price_stattrak_string": "$9.43 - $444.19",
+      "price_stattrak_string": "$9.34 - $444.19",
       "currency": "USD",
       "min": {
         "value": 3.1,
-        "stattrak_value": 9.43,
+        "stattrak_value": 9.34,
         "unit": "USD"
       },
       "max": {
@@ -64,7 +64,7 @@
         "stattrak_value": 444.19,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:55-08:00"
+      "updated_at": "2026-01-02T22:29:58+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/M4A4_Tornado.png"
   },
@@ -74,20 +74,20 @@
     "rarity": "Industrial Pistol",
     "collection": "The Inferno Collection",
     "price": {
-      "price_string": "$1.60 - $109.17",
-      "price_stattrak_string": "$1.86 - $589.00",
+      "price_string": "$1.75 - $55.81",
+      "price_stattrak_string": "$1.82 - $589.00",
       "currency": "USD",
       "min": {
-        "value": 1.6,
-        "stattrak_value": 1.86,
+        "value": 1.75,
+        "stattrak_value": 1.82,
         "unit": "USD"
       },
       "max": {
-        "value": 109.17,
+        "value": 55.81,
         "stattrak_value": 589,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:55-08:00"
+      "updated_at": "2026-01-02T22:29:58+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P250_Gunsmoke.png"
   },
@@ -110,7 +110,7 @@
         "stattrak_value": 192188.36,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:55-08:00"
+      "updated_at": "2026-01-02T22:29:58+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Nova_Walnut.png"
   },
@@ -133,7 +133,7 @@
         "stattrak_value": 44.61,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:55-08:00"
+      "updated_at": "2026-01-02T22:29:58+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MAG-7_Sand_Dune.png"
   },
@@ -156,7 +156,7 @@
         "stattrak_value": 0,
         "unit": "UNKNOWN"
       },
-      "updated_at": "2025-12-28T06:15:55-08:00"
+      "updated_at": "2026-01-02T22:29:58+04:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Boston_2018_Inferno_Souvenir_Package.png"
   },
@@ -166,20 +166,20 @@
     "rarity": "Consumer Grade Container",
     "collection": "Introduced:",
     "price": {
-      "price_string": "$18.97",
+      "price_string": "$19.68",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 18.97,
+        "value": 19.68,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 18.97,
+        "value": 19.68,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:55-08:00"
+      "updated_at": "2026-01-02T22:29:58+04:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Krakow_2017_Inferno_Souvenir_Package.png"
   },
@@ -202,7 +202,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:55-08:00"
+      "updated_at": "2026-01-02T22:29:58+04:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/MLG_Columbus_2016_Inferno_Souvenir_Package.png"
   },
@@ -225,7 +225,7 @@
         "stattrak_value": 0,
         "unit": "UNKNOWN"
       },
-      "updated_at": "2025-12-28T06:15:55-08:00"
+      "updated_at": "2026-01-02T22:29:58+04:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/DreamHack_Cluj-Napoca_2015_Inferno_Souvenir_Package.png"
   },
@@ -248,7 +248,7 @@
         "stattrak_value": 0,
         "unit": "UNKNOWN"
       },
-      "updated_at": "2025-12-28T06:15:55-08:00"
+      "updated_at": "2026-01-02T22:29:58+04:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/ESL_One_Cologne_2015_Inferno_Souvenir_Package.png"
   },
@@ -271,7 +271,7 @@
         "stattrak_value": 0,
         "unit": "UNKNOWN"
       },
-      "updated_at": "2025-12-28T06:15:55-08:00"
+      "updated_at": "2026-01-02T22:29:58+04:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/ESL_One_Katowice_2015_Inferno_Souvenir_Package.png"
   },
@@ -294,7 +294,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:55-08:00"
+      "updated_at": "2026-01-02T22:29:58+04:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/DreamHack_2014_Inferno_Souvenir_Package.png"
   },
@@ -317,7 +317,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:55-08:00"
+      "updated_at": "2026-01-02T22:29:58+04:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/ESL_One_Cologne_2014_Inferno_Souvenir_Package.png"
   }

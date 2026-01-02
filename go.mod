@@ -1,8 +1,6 @@
 module github.com/eovacius/csgodatabase-scraper
 
-go 1.24
-
-toolchain go1.25.4
+go 1.25.5
 
 require github.com/chromedp/chromedp v0.14.2
 

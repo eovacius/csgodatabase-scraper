@@ -5,7 +5,7 @@
     "rarity": "Restricted Pistol",
     "collection": "The Assault Collection",
     "price": {
-      "price_string": "$1488.21 - $3474.78",
+      "price_string": "$1488.21 - $3469.73",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -14,11 +14,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 3474.78,
+        "value": 3469.73,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:54-08:00"
+      "updated_at": "2026-01-02T22:29:57+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Glock-18_Fade.png"
   },
@@ -28,7 +28,7 @@
     "rarity": "Restricted SMG",
     "collection": "The Assault Collection",
     "price": {
-      "price_string": "$52.15 - $2000.00",
+      "price_string": "$52.15 - $9999.00",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -37,11 +37,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 2000,
+        "value": 9999,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:54-08:00"
+      "updated_at": "2026-01-02T22:29:57+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MP9_Bulldozer.png"
   },
@@ -51,20 +51,20 @@
     "rarity": "Mil-spec Rifle",
     "collection": "The Assault Collection",
     "price": {
-      "price_string": "$464.42 - $906.98",
+      "price_string": "$489.44 - $829.42",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 464.42,
+        "value": 489.44,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 906.98,
+        "value": 829.42,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:54-08:00"
+      "updated_at": "2026-01-02T22:29:57+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AUG_Hot_Rod.png"
   },
@@ -87,7 +87,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:54-08:00"
+      "updated_at": "2026-01-02T22:29:57+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Negev_Anodized_Navy.png"
   },
@@ -97,20 +97,20 @@
     "rarity": "Industrial Pistol",
     "collection": "The Assault Collection",
     "price": {
-      "price_string": "$72.33 - $131.43",
+      "price_string": "$69.38 - $131.32",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 72.33,
+        "value": 69.38,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 131.43,
+        "value": 131.32,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:54-08:00"
+      "updated_at": "2026-01-02T22:29:57+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Five-SeveN_Candy_Apple.png"
   },
@@ -133,7 +133,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:54-08:00"
+      "updated_at": "2026-01-02T22:29:57+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/UMP-45_Caramel.png"
   },
@@ -143,11 +143,11 @@
     "rarity": "Consumer Rifle",
     "collection": "The Assault Collection",
     "price": {
-      "price_string": "$5.01 - $483.07",
+      "price_string": "$10.24 - $483.07",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 5.01,
+        "value": 10.24,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -156,7 +156,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:54-08:00"
+      "updated_at": "2026-01-02T22:29:57+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SG_553_Tornado.png"
   }

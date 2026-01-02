@@ -6,14 +6,14 @@
     "collection": "Riptide Agents",
     "rarity": "Master Agent",
     "price": {
-      "price_string": "$25.79",
+      "price_string": "$26.10",
       "currency": "USD",
       "starts_from": {
-        "value": 25.79,
+        "value": 26.1,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:47-08:00"
+      "updated_at": "2026-01-02T22:29:49+04:00"
     },
     "url": "https://www.csgodatabase.com/images/agents/Chef_d'Escadron_Rouchard_Gendarmerie_Nationale.png"
   },
@@ -24,14 +24,14 @@
     "collection": "Riptide Agents",
     "rarity": "Superior Agent",
     "price": {
-      "price_string": "$24.58",
+      "price_string": "$24.77",
       "currency": "USD",
       "starts_from": {
-        "value": 24.58,
+        "value": 24.77,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:47-08:00"
+      "updated_at": "2026-01-02T22:29:49+04:00"
     },
     "url": "https://www.csgodatabase.com/images/agents/Chem-Haz_Capitaine_Gendarmerie_Nationale.png"
   },
@@ -42,14 +42,14 @@
     "collection": "Riptide Agents",
     "rarity": "Exceptional Agent",
     "price": {
-      "price_string": "$19.39",
+      "price_string": "$20.35",
       "currency": "USD",
       "starts_from": {
-        "value": 19.39,
+        "value": 20.35,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:47-08:00"
+      "updated_at": "2026-01-02T22:29:49+04:00"
     },
     "url": "https://www.csgodatabase.com/images/agents/Officer_Jacques_Beltram_Gendarmerie_Nationale.png"
   },
@@ -67,7 +67,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:47-08:00"
+      "updated_at": "2026-01-02T22:29:49+04:00"
     },
     "url": "https://www.csgodatabase.com/images/agents/Sous-Lieutenant_Medic_Gendarmerie_Nationale.png"
   },
@@ -78,14 +78,14 @@
     "collection": "Riptide Agents",
     "rarity": "Distinguished Agent",
     "price": {
-      "price_string": "$12.46",
+      "price_string": "$13.45",
       "currency": "USD",
       "starts_from": {
-        "value": 12.46,
+        "value": 13.45,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2025-12-28T06:15:47-08:00"
+      "updated_at": "2026-01-02T22:29:49+04:00"
     },
     "url": "https://www.csgodatabase.com/images/agents/Aspirant_Gendarmerie_Nationale.png"
   }
