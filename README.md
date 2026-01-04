@@ -83,7 +83,6 @@ The scraper uses the `chromedp` library because it provides a **high-level inter
 - Navigate websites like a real browser.
 - Execute custom JavaScript on the page to extract dynamic content.
 - Bypass certain basic anti-bot protections that block simple HTTP requests.
-- Wait for elements to load and handle asynchronous content reliably.
 - And it helps disguise the script as a real user because it operates through an actual browser.
 
 ## What you'll need
@@ -125,6 +124,7 @@ go run . --aggressive # [duration: ~10-20s]
 ```bash
 go run . --stealth # [duration: ~90s-120s]
 ```
+
 
 
 
