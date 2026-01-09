@@ -5,20 +5,20 @@
     "rarity": "Restricted Pistol",
     "collection": "The Nuke Collection",
     "price": {
-      "price_string": "$21.44 - $1000.00",
-      "price_stattrak_string": "$118.06 - $583.87",
+      "price_string": "$21.44 - $648.92",
+      "price_stattrak_string": "$116.58 - $583.87",
       "currency": "USD",
       "min": {
         "value": 21.44,
-        "stattrak_value": 118.06,
+        "stattrak_value": 116.58,
         "unit": "USD"
       },
       "max": {
-        "value": 1000,
+        "value": 648.92,
         "stattrak_value": 583.87,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:30:00+04:00"
+      "updated_at": "2026-01-09T21:42:27+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P250_Nuclear_Threat.png"
   },
@@ -41,7 +41,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:30:00+04:00"
+      "updated_at": "2026-01-09T21:42:27+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Tec-9_Nuclear_Threat.png"
   },
@@ -51,20 +51,20 @@
     "rarity": "Mil-spec Rifle",
     "collection": "The Nuke Collection",
     "price": {
-      "price_string": "$22.73 - $1443.30",
-      "price_stattrak_string": "$42.85 - $187.79",
+      "price_string": "$22.73 - $1536.98",
+      "price_stattrak_string": "$46.74 - $467.06",
       "currency": "USD",
       "min": {
         "value": 22.73,
-        "stattrak_value": 42.85,
+        "stattrak_value": 46.74,
         "unit": "USD"
       },
       "max": {
-        "value": 1443.3,
-        "stattrak_value": 187.79,
+        "value": 1536.98,
+        "stattrak_value": 467.06,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:30:00+04:00"
+      "updated_at": "2026-01-09T21:42:27+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/M4A4_Radiation_Hazard.png"
   },
@@ -74,20 +74,20 @@
     "rarity": "Industrial SMG",
     "collection": "The Nuke Collection",
     "price": {
-      "price_string": "$7.59 - $36.47",
-      "price_stattrak_string": "$4.12 - $39.99",
+      "price_string": "$7.59 - $55.00",
+      "price_stattrak_string": "$4.13 - $39.99",
       "currency": "USD",
       "min": {
         "value": 7.59,
-        "stattrak_value": 4.12,
+        "stattrak_value": 4.13,
         "unit": "USD"
       },
       "max": {
-        "value": 36.47,
+        "value": 55,
         "stattrak_value": 39.99,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:30:00+04:00"
+      "updated_at": "2026-01-09T21:42:27+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/UMP-45_Fallout_Warning.png"
   },
@@ -97,12 +97,12 @@
     "rarity": "Industrial Shotgun",
     "collection": "The Nuke Collection",
     "price": {
-      "price_string": "$7.19 - $57.00",
-      "price_stattrak_string": "$5.74 - $600.00",
+      "price_string": "$7.13 - $57.00",
+      "price_stattrak_string": "$5.32 - $600.00",
       "currency": "USD",
       "min": {
-        "value": 7.19,
-        "stattrak_value": 5.74,
+        "value": 7.13,
+        "stattrak_value": 5.32,
         "unit": "USD"
       },
       "max": {
@@ -110,7 +110,7 @@
         "stattrak_value": 600,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:30:00+04:00"
+      "updated_at": "2026-01-09T21:42:27+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/XM1014_Fallout_Warning.png"
   },
@@ -133,7 +133,7 @@
         "stattrak_value": 99.99,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:30:00+04:00"
+      "updated_at": "2026-01-09T21:42:27+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P90_Fallout_Warning.png"
   },
@@ -156,7 +156,7 @@
         "stattrak_value": 42.97,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:30:00+04:00"
+      "updated_at": "2026-01-09T21:42:27+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MAG-7_Irradiated_Alert.png"
   },
@@ -167,11 +167,11 @@
     "collection": "The Nuke Collection",
     "price": {
       "price_string": "$1.52 - $52.54",
-      "price_stattrak_string": "$0.34 - $9.99",
+      "price_stattrak_string": "$0.33 - $9.99",
       "currency": "USD",
       "min": {
         "value": 1.52,
-        "stattrak_value": 0.34,
+        "stattrak_value": 0.33,
         "unit": "USD"
       },
       "max": {
@@ -179,7 +179,7 @@
         "stattrak_value": 9.99,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:30:00+04:00"
+      "updated_at": "2026-01-09T21:42:27+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Sawed-Off_Irradiated_Alert.png"
   },
@@ -189,20 +189,20 @@
     "rarity": "Consumer SMG",
     "collection": "The Nuke Collection",
     "price": {
-      "price_string": "$2.08 - $40.89",
-      "price_stattrak_string": "$0.45 - $8.99",
+      "price_string": "$2.08 - $33.62",
+      "price_stattrak_string": "$0.46 - $12.23",
       "currency": "USD",
       "min": {
         "value": 2.08,
-        "stattrak_value": 0.45,
+        "stattrak_value": 0.46,
         "unit": "USD"
       },
       "max": {
-        "value": 40.89,
-        "stattrak_value": 8.99,
+        "value": 33.62,
+        "stattrak_value": 12.23,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:30:00+04:00"
+      "updated_at": "2026-01-09T21:42:27+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/PP-Bizon_Irradiated_Alert.png"
   },
@@ -212,20 +212,20 @@
     "rarity": "Consumer Grade Container",
     "collection": "Introduced:",
     "price": {
-      "price_string": "$68.84",
+      "price_string": "$60.00",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 68.84,
+        "value": 60,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 68.84,
+        "value": 60,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:30:00+04:00"
+      "updated_at": "2026-01-09T21:42:27+04:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Boston_2018_Nuke_Souvenir_Package.png"
   },
@@ -248,7 +248,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:30:00+04:00"
+      "updated_at": "2026-01-09T21:42:27+04:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Krakow_2017_Nuke_Souvenir_Package.png"
   },
@@ -258,20 +258,20 @@
     "rarity": "Consumer Grade Container",
     "collection": "Introduced:",
     "price": {
-      "price_string": "$49.49",
+      "price_string": "$51.23",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 49.49,
+        "value": 51.23,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 49.49,
+        "value": 51.23,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:30:00+04:00"
+      "updated_at": "2026-01-09T21:42:27+04:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Atlanta_2017_Nuke_Souvenir_Package.png"
   },
@@ -294,7 +294,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:30:00+04:00"
+      "updated_at": "2026-01-09T21:42:27+04:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Cologne_2016_Nuke_Souvenir_Package.png"
   },
@@ -317,7 +317,7 @@
         "stattrak_value": 0,
         "unit": "UNKNOWN"
       },
-      "updated_at": "2026-01-02T22:30:00+04:00"
+      "updated_at": "2026-01-09T21:42:27+04:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/MLG_Columbus_2016_Nuke_Souvenir_Package.png"
   },
@@ -340,7 +340,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:30:00+04:00"
+      "updated_at": "2026-01-09T21:42:27+04:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/ESL_One_Katowice_2015_Nuke_Souvenir_Package.png"
   },
@@ -363,7 +363,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:30:00+04:00"
+      "updated_at": "2026-01-09T21:42:27+04:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/DreamHack_2014_Nuke_Souvenir_Package.png"
   },
@@ -386,7 +386,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:30:00+04:00"
+      "updated_at": "2026-01-09T21:42:27+04:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/ESL_One_Cologne_2014_Nuke_Souvenir_Package.png"
   }

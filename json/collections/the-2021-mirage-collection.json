@@ -5,8 +5,8 @@
     "rarity": "Covert Sniper Rifle",
     "collection": "The 2021 Mirage Collection",
     "price": {
-      "price_string": "$1467.10 - $5738.38",
-      "price_stattrak_string": "$1255.33 - $3839.99",
+      "price_string": "$1467.10 - $6073.53",
+      "price_stattrak_string": "$1255.33 - $4129.99",
       "currency": "USD",
       "min": {
         "value": 1467.1,
@@ -14,11 +14,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 5738.38,
-        "stattrak_value": 3839.99,
+        "value": 6073.53,
+        "stattrak_value": 4129.99,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:52+04:00"
+      "updated_at": "2026-01-09T21:42:19+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AWP_Desert_Hydra.png"
   },
@@ -28,20 +28,20 @@
     "rarity": "Classified Pistol",
     "collection": "The 2021 Mirage Collection",
     "price": {
-      "price_string": "$296.08 - $2007.72",
-      "price_stattrak_string": "$150.62 - $799.69",
+      "price_string": "$296.08 - $2028.62",
+      "price_stattrak_string": "$150.36 - $774.94",
       "currency": "USD",
       "min": {
         "value": 296.08,
-        "stattrak_value": 150.62,
+        "stattrak_value": 150.36,
         "unit": "USD"
       },
       "max": {
-        "value": 2007.72,
-        "stattrak_value": 799.69,
+        "value": 2028.62,
+        "stattrak_value": 774.94,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:52+04:00"
+      "updated_at": "2026-01-09T21:42:19+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Desert_Eagle_Fennec_Fox.png"
   },
@@ -51,20 +51,20 @@
     "rarity": "Classified SMG",
     "collection": "The 2021 Mirage Collection",
     "price": {
-      "price_string": "$304.95 - $793.30",
+      "price_string": "$302.76 - $781.04",
       "price_stattrak_string": "$14.00 - $63.01",
       "currency": "USD",
       "min": {
-        "value": 304.95,
+        "value": 302.76,
         "stattrak_value": 14,
         "unit": "USD"
       },
       "max": {
-        "value": 793.3,
+        "value": 781.04,
         "stattrak_value": 63.01,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:52+04:00"
+      "updated_at": "2026-01-09T21:42:19+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MP5-SD_Oxide_Oasis.png"
   },
@@ -74,8 +74,8 @@
     "rarity": "Restricted Pistol",
     "collection": "The 2021 Mirage Collection",
     "price": {
-      "price_string": "$67.92 - $257.00",
-      "price_stattrak_string": "$2.50 - $110.00",
+      "price_string": "$67.92 - $295.00",
+      "price_stattrak_string": "$2.50 - $197.88",
       "currency": "USD",
       "min": {
         "value": 67.92,
@@ -83,11 +83,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 257,
-        "stattrak_value": 110,
+        "value": 295,
+        "stattrak_value": 197.88,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:52+04:00"
+      "updated_at": "2026-01-09T21:42:19+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Glock-18_Pink_DDPAT.png"
   },
@@ -98,19 +98,19 @@
     "collection": "The 2021 Mirage Collection",
     "price": {
       "price_string": "$57.80 - $160.00",
-      "price_stattrak_string": "$1.46 - $4.86",
+      "price_stattrak_string": "$1.54 - $5.26",
       "currency": "USD",
       "min": {
         "value": 57.8,
-        "stattrak_value": 1.46,
+        "stattrak_value": 1.54,
         "unit": "USD"
       },
       "max": {
         "value": 160,
-        "stattrak_value": 4.86,
+        "stattrak_value": 5.26,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:52+04:00"
+      "updated_at": "2026-01-09T21:42:19+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/XM1014_Elegant_Vines.png"
   },
@@ -121,7 +121,7 @@
     "collection": "The 2021 Mirage Collection",
     "price": {
       "price_string": "$61.38 - $550.00",
-      "price_stattrak_string": "$1.58 - $8.82",
+      "price_stattrak_string": "$1.58 - $12.03",
       "currency": "USD",
       "min": {
         "value": 61.38,
@@ -130,10 +130,10 @@
       },
       "max": {
         "value": 550,
-        "stattrak_value": 8.82,
+        "stattrak_value": 12.03,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:52+04:00"
+      "updated_at": "2026-01-09T21:42:19+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AUG_Sand_Storm.png"
   },
@@ -143,8 +143,8 @@
     "rarity": "Mil-spec Pistol",
     "collection": "The 2021 Mirage Collection",
     "price": {
-      "price_string": "$14.04 - $84.66",
-      "price_stattrak_string": "$1.38 - $15.90",
+      "price_string": "$14.04 - $95.60",
+      "price_stattrak_string": "$1.38 - $14.03",
       "currency": "USD",
       "min": {
         "value": 14.04,
@@ -152,11 +152,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 84.66,
-        "stattrak_value": 15.9,
+        "value": 95.6,
+        "stattrak_value": 14.03,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:52+04:00"
+      "updated_at": "2026-01-09T21:42:19+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/USP-S_Purple_DDPAT.png"
   },
@@ -166,20 +166,20 @@
     "rarity": "Mil-spec Machine Gun",
     "collection": "The 2021 Mirage Collection",
     "price": {
-      "price_string": "$11.78 - $31.38",
-      "price_stattrak_string": "$0.16 - $5.86",
+      "price_string": "$12.45 - $33.00",
+      "price_stattrak_string": "$0.14 - $5.86",
       "currency": "USD",
       "min": {
-        "value": 11.78,
-        "stattrak_value": 0.16,
+        "value": 12.45,
+        "stattrak_value": 0.14,
         "unit": "USD"
       },
       "max": {
-        "value": 31.38,
+        "value": 33,
         "stattrak_value": 5.86,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:52+04:00"
+      "updated_at": "2026-01-09T21:42:19+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/M249_Humidor.png"
   },
@@ -189,20 +189,20 @@
     "rarity": "Mil-spec Rifle",
     "collection": "The 2021 Mirage Collection",
     "price": {
-      "price_string": "$12.22 - $99.50",
-      "price_stattrak_string": "$0.15 - $2.33",
+      "price_string": "$12.94 - $99.50",
+      "price_stattrak_string": "$0.15 - $2.45",
       "currency": "USD",
       "min": {
-        "value": 12.22,
+        "value": 12.94,
         "stattrak_value": 0.15,
         "unit": "USD"
       },
       "max": {
         "value": 99.5,
-        "stattrak_value": 2.33,
+        "stattrak_value": 2.45,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:52+04:00"
+      "updated_at": "2026-01-09T21:42:19+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SG_553_Desert_Blossom.png"
   },
@@ -212,20 +212,20 @@
     "rarity": "Mil-spec SMG",
     "collection": "The 2021 Mirage Collection",
     "price": {
-      "price_string": "$11.94 - $47.04",
-      "price_stattrak_string": "$0.17 - $3.11",
+      "price_string": "$12.46 - $100.00",
+      "price_stattrak_string": "$0.17 - $2.10",
       "currency": "USD",
       "min": {
-        "value": 11.94,
+        "value": 12.46,
         "stattrak_value": 0.17,
         "unit": "USD"
       },
       "max": {
-        "value": 47.04,
-        "stattrak_value": 3.11,
+        "value": 100,
+        "stattrak_value": 2.1,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:52+04:00"
+      "updated_at": "2026-01-09T21:42:19+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MP9_Music_Box.png"
   },
@@ -235,7 +235,7 @@
     "rarity": "Industrial Rifle",
     "collection": "The 2021 Mirage Collection",
     "price": {
-      "price_string": "$2.13 - $5.64",
+      "price_string": "$2.13 - $8.64",
       "price_stattrak_string": "$0.03 - $1.50",
       "currency": "USD",
       "min": {
@@ -244,11 +244,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 5.64,
+        "value": 8.64,
         "stattrak_value": 1.5,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:52+04:00"
+      "updated_at": "2026-01-09T21:42:19+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/FAMAS_CaliCamo.png"
   },
@@ -258,20 +258,20 @@
     "rarity": "Industrial Pistol",
     "collection": "The 2021 Mirage Collection",
     "price": {
-      "price_string": "$2.32 - $11.39",
+      "price_string": "$2.34 - $10.48",
       "price_stattrak_string": "$0.03 - $69.42",
       "currency": "USD",
       "min": {
-        "value": 2.32,
+        "value": 2.34,
         "stattrak_value": 0.03,
         "unit": "USD"
       },
       "max": {
-        "value": 11.39,
+        "value": 10.48,
         "stattrak_value": 69.42,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:52+04:00"
+      "updated_at": "2026-01-09T21:42:19+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Dual_Berettas_Drift_Wood.png"
   },
@@ -281,20 +281,20 @@
     "rarity": "Industrial SMG",
     "collection": "The 2021 Mirage Collection",
     "price": {
-      "price_string": "$1.99 - $10.68",
-      "price_stattrak_string": "$0.04 - $1.21",
+      "price_string": "$1.99 - $10.14",
+      "price_stattrak_string": "$0.03 - $1.00",
       "currency": "USD",
       "min": {
         "value": 1.99,
-        "stattrak_value": 0.04,
+        "stattrak_value": 0.03,
         "unit": "USD"
       },
       "max": {
-        "value": 10.68,
-        "stattrak_value": 1.21,
+        "value": 10.14,
+        "stattrak_value": 1,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:52+04:00"
+      "updated_at": "2026-01-09T21:42:19+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P90_Verdant_Growth.png"
   },
@@ -304,11 +304,11 @@
     "rarity": "Industrial Pistol",
     "collection": "The 2021 Mirage Collection",
     "price": {
-      "price_string": "$2.30 - $3131313.00",
+      "price_string": "$2.34 - $3131313.00",
       "price_stattrak_string": "$0.03 - $1.00",
       "currency": "USD",
       "min": {
-        "value": 2.3,
+        "value": 2.34,
         "stattrak_value": 0.03,
         "unit": "USD"
       },
@@ -317,7 +317,7 @@
         "stattrak_value": 1,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:52+04:00"
+      "updated_at": "2026-01-09T21:42:19+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/CZ75-Auto_Midnight_Palm.png"
   },
@@ -327,20 +327,20 @@
     "rarity": "Consumer Pistol",
     "collection": "The 2021 Mirage Collection",
     "price": {
-      "price_string": "$0.30 - $1.18",
-      "price_stattrak_string": "$0.01 - $1.00",
+      "price_string": "$0.30 - $1.39",
+      "price_stattrak_string": "$0.02 - $1.00",
       "currency": "USD",
       "min": {
         "value": 0.3,
-        "stattrak_value": 0.01,
+        "stattrak_value": 0.02,
         "unit": "USD"
       },
       "max": {
-        "value": 1.18,
+        "value": 1.39,
         "stattrak_value": 1,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:52+04:00"
+      "updated_at": "2026-01-09T21:42:19+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P250_Drought.png"
   },
@@ -350,20 +350,20 @@
     "rarity": "Consumer Shotgun",
     "collection": "The 2021 Mirage Collection",
     "price": {
-      "price_string": "$0.32 - $1.09",
-      "price_stattrak_string": "$0.01 - $1.00",
+      "price_string": "$0.32 - $9.99",
+      "price_stattrak_string": "$0.02 - $1.00",
       "currency": "USD",
       "min": {
         "value": 0.32,
-        "stattrak_value": 0.01,
+        "stattrak_value": 0.02,
         "unit": "USD"
       },
       "max": {
-        "value": 1.09,
+        "value": 9.99,
         "stattrak_value": 1,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:52+04:00"
+      "updated_at": "2026-01-09T21:42:19+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MAG-7_Navy_Sheen.png"
   },
@@ -373,20 +373,20 @@
     "rarity": "Consumer SMG",
     "collection": "The 2021 Mirage Collection",
     "price": {
-      "price_string": "$0.33 - $0.83",
+      "price_string": "$0.35 - $1.98",
       "price_stattrak_string": "$0.01 - $2.00",
       "currency": "USD",
       "min": {
-        "value": 0.33,
+        "value": 0.35,
         "stattrak_value": 0.01,
         "unit": "USD"
       },
       "max": {
-        "value": 0.83,
+        "value": 1.98,
         "stattrak_value": 2,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:52+04:00"
+      "updated_at": "2026-01-09T21:42:19+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/PP-Bizon_Anolis.png"
   },
@@ -396,20 +396,20 @@
     "rarity": "Consumer Sniper Rifle",
     "collection": "The 2021 Mirage Collection",
     "price": {
-      "price_string": "$0.32 - $1.10",
-      "price_stattrak_string": "$0.01 - $2.07",
+      "price_string": "$0.33 - $1.95",
+      "price_stattrak_string": "$0.02 - $2.07",
       "currency": "USD",
       "min": {
-        "value": 0.32,
-        "stattrak_value": 0.01,
+        "value": 0.33,
+        "stattrak_value": 0.02,
         "unit": "USD"
       },
       "max": {
-        "value": 1.1,
+        "value": 1.95,
         "stattrak_value": 2.07,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:52+04:00"
+      "updated_at": "2026-01-09T21:42:19+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SSG_08_Prey.png"
   },
@@ -419,20 +419,20 @@
     "rarity": "Consumer SMG",
     "collection": "The 2021 Mirage Collection",
     "price": {
-      "price_string": "$0.31 - $2.80",
-      "price_stattrak_string": "$0.01 - $1.00",
+      "price_string": "$0.33 - $1.27",
+      "price_stattrak_string": "$0.02 - $1.00",
       "currency": "USD",
       "min": {
-        "value": 0.31,
-        "stattrak_value": 0.01,
+        "value": 0.33,
+        "stattrak_value": 0.02,
         "unit": "USD"
       },
       "max": {
-        "value": 2.8,
+        "value": 1.27,
         "stattrak_value": 1,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:52+04:00"
+      "updated_at": "2026-01-09T21:42:19+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MAC-10_Sienna_Damask.png"
   },
@@ -455,7 +455,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:52+04:00"
+      "updated_at": "2026-01-09T21:42:19+04:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Shanghai_2024_Mirage_Souvenir_Package.png"
   },
@@ -465,20 +465,20 @@
     "rarity": "Consumer Grade Container",
     "collection": "Introduced: 14 March 2024",
     "price": {
-      "price_string": "$2.50",
+      "price_string": "$2.79",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 2.5,
+        "value": 2.79,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 2.5,
+        "value": 2.79,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:52+04:00"
+      "updated_at": "2026-01-09T21:42:19+04:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Copenhagen_2024_Mirage_Souvenir_Package.png"
   },
@@ -488,20 +488,20 @@
     "rarity": "Consumer Grade Container",
     "collection": "Introduced: 05 May 2023",
     "price": {
-      "price_string": "$2.30",
+      "price_string": "$2.10",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 2.3,
+        "value": 2.1,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 2.3,
+        "value": 2.1,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:52+04:00"
+      "updated_at": "2026-01-09T21:42:19+04:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Paris_2023_Mirage_Souvenir_Package.png"
   },
@@ -511,20 +511,20 @@
     "rarity": "Consumer Grade Container",
     "collection": "Introduced: 21 October 2022",
     "price": {
-      "price_string": "$3.01",
+      "price_string": "$2.75",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 3.01,
+        "value": 2.75,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 3.01,
+        "value": 2.75,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:52+04:00"
+      "updated_at": "2026-01-09T21:42:19+04:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Rio_2022_Mirage_Souvenir_Package.png"
   },
@@ -534,20 +534,20 @@
     "rarity": "Consumer Grade Container",
     "collection": "Introduced: 03 May 2022",
     "price": {
-      "price_string": "$3.56",
+      "price_string": "$3.65",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 3.56,
+        "value": 3.65,
         "stattrak_value": 0,
         "unit": "USD"
       },
       "max": {
-        "value": 3.56,
+        "value": 3.65,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:52+04:00"
+      "updated_at": "2026-01-09T21:42:19+04:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Antwerp_2022_Mirage_Souvenir_Package.png"
   },
@@ -570,7 +570,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:52+04:00"
+      "updated_at": "2026-01-09T21:42:19+04:00"
     },
     "url": "https://www.csgodatabase.com/images/containers/Stockholm_2021_Mirage_Souvenir_Package.png"
   }

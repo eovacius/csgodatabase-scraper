@@ -98,6 +98,8 @@ func ScrapeAgentsList(ctx context.Context, list []string, key string) []config.A
 
 		filename := fmt.Sprintf("%s/%s.json", path, item)
 		internal.SaveJSON(filename, agents)
+
+		// FIXME properly name json files based on collection not names
 		allAgents = append(allAgents, agents...)
 	}
 

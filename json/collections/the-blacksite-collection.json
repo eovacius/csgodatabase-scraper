@@ -5,8 +5,8 @@
     "rarity": "Restricted SMG",
     "collection": "The Blacksite Collection",
     "price": {
-      "price_string": "$0.27 - $0.90",
-      "price_stattrak_string": "$0.27 - $0.90",
+      "price_string": "$0.27 - $1.00",
+      "price_stattrak_string": "$0.27 - $1.00",
       "currency": "USD",
       "min": {
         "value": 0.27,
@@ -14,11 +14,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 0.9,
-        "stattrak_value": 0.9,
+        "value": 1,
+        "stattrak_value": 1,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:30:01+04:00"
+      "updated_at": "2026-01-09T21:42:29+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MP5-SD_Lab_Rats.png"
   }

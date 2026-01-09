@@ -5,7 +5,7 @@
     "rarity": "Mil-spec Pistol",
     "collection": "The Aztec Collection",
     "price": {
-      "price_string": "$4.76 - $26.49",
+      "price_string": "$4.76 - $45.61",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -14,11 +14,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 26.49,
+        "value": 45.61,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:58+04:00"
+      "updated_at": "2026-01-09T21:42:24+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Tec-9_Ossified.png"
   },
@@ -28,7 +28,7 @@
     "rarity": "Industrial Rifle",
     "collection": "The Aztec Collection",
     "price": {
-      "price_string": "$7.24 - $154.60",
+      "price_string": "$7.24 - $175.00",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -37,11 +37,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 154.6,
+        "value": 175,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:58+04:00"
+      "updated_at": "2026-01-09T21:42:24+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/M4A4_Jungle_Tiger.png"
   },
@@ -51,11 +51,11 @@
     "rarity": "Industrial Rifle",
     "collection": "The Aztec Collection",
     "price": {
-      "price_string": "$5.58 - $399.99",
+      "price_string": "$5.52 - $399.99",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
-        "value": 5.58,
+        "value": 5.52,
         "stattrak_value": 0,
         "unit": "USD"
       },
@@ -64,7 +64,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:58+04:00"
+      "updated_at": "2026-01-09T21:42:24+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AK-47_Jungle_Spray.png"
   },
@@ -87,7 +87,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:58+04:00"
+      "updated_at": "2026-01-09T21:42:24+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SSG_08_Lichen_Dashed.png"
   },
@@ -97,7 +97,7 @@
     "rarity": "Consumer Pistol",
     "collection": "The Aztec Collection",
     "price": {
-      "price_string": "$2.01 - $71.99",
+      "price_string": "$2.01 - $74.49",
       "price_stattrak_string": "",
       "currency": "USD",
       "min": {
@@ -106,11 +106,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 71.99,
+        "value": 74.49,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:58+04:00"
+      "updated_at": "2026-01-09T21:42:24+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Five-SeveN_Jungle.png"
   },
@@ -133,7 +133,7 @@
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:58+04:00"
+      "updated_at": "2026-01-09T21:42:24+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Nova_Forest_Leaves.png"
   }

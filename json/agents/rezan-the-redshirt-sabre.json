@@ -6,14 +6,14 @@
     "collection": "Shattered Web Agents",
     "rarity": "Master Agent",
     "price": {
-      "price_string": "$13.56",
+      "price_string": "$14.35",
       "currency": "USD",
       "starts_from": {
-        "value": 13.56,
+        "value": 14.35,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:52+04:00"
+      "updated_at": "2026-01-09T21:42:19+04:00"
     },
     "url": "https://www.csgodatabase.com/images/agents/'The_Doctor'_Romanov_Sabre.png"
   },
@@ -24,14 +24,14 @@
     "collection": "Shattered Web Agents",
     "rarity": "Superior Agent",
     "price": {
-      "price_string": "$9.99",
+      "price_string": "$9.87",
       "currency": "USD",
       "starts_from": {
-        "value": 9.99,
+        "value": 9.87,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:52+04:00"
+      "updated_at": "2026-01-09T21:42:19+04:00"
     },
     "url": "https://www.csgodatabase.com/images/agents/Blackwolf_Sabre.png"
   },
@@ -42,14 +42,14 @@
     "collection": "Shattered Web Agents",
     "rarity": "Superior Agent",
     "price": {
-      "price_string": "$8.76",
+      "price_string": "$9.11",
       "currency": "USD",
       "starts_from": {
-        "value": 8.76,
+        "value": 9.11,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:52+04:00"
+      "updated_at": "2026-01-09T21:42:19+04:00"
     },
     "url": "https://www.csgodatabase.com/images/agents/Rezan_The_Ready_Sabre.png"
   },
@@ -60,14 +60,14 @@
     "collection": "Broken Fang Agents",
     "rarity": "Superior Agent",
     "price": {
-      "price_string": "$9.29",
+      "price_string": "$9.56",
       "currency": "USD",
       "starts_from": {
-        "value": 9.29,
+        "value": 9.56,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:52+04:00"
+      "updated_at": "2026-01-09T21:42:19+04:00"
     },
     "url": "https://www.csgodatabase.com/images/agents/Rezan_the_Redshirt_Sabre.png"
   },
@@ -78,14 +78,14 @@
     "collection": "Shattered Web Agents",
     "rarity": "Exceptional Agent",
     "price": {
-      "price_string": "$9.11",
+      "price_string": "$9.18",
       "currency": "USD",
       "starts_from": {
-        "value": 9.11,
+        "value": 9.18,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:52+04:00"
+      "updated_at": "2026-01-09T21:42:19+04:00"
     },
     "url": "https://www.csgodatabase.com/images/agents/Maximus_Sabre.png"
   },
@@ -96,14 +96,14 @@
     "collection": "Shattered Web Agents",
     "rarity": "Exceptional Agent",
     "price": {
-      "price_string": "$8.13",
+      "price_string": "$9.83",
       "currency": "USD",
       "starts_from": {
-        "value": 8.13,
+        "value": 9.83,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:52+04:00"
+      "updated_at": "2026-01-09T21:42:19+04:00"
     },
     "url": "https://www.csgodatabase.com/images/agents/Dragomir_Sabre.png"
   }

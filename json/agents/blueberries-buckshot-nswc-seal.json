@@ -6,14 +6,14 @@
     "collection": "Shattered Web Agents",
     "rarity": "Master Agent",
     "price": {
-      "price_string": "$18.13",
+      "price_string": "$18.90",
       "currency": "USD",
       "starts_from": {
-        "value": 18.13,
+        "value": 18.9,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:52+04:00"
+      "updated_at": "2026-01-09T21:42:19+04:00"
     },
     "url": "https://www.csgodatabase.com/images/agents/Lt._Commander_Ricksaw_NSWC_SEAL.png"
   },
@@ -24,14 +24,14 @@
     "collection": "Shattered Web Agents",
     "rarity": "Exceptional Agent",
     "price": {
-      "price_string": "$7.99",
+      "price_string": "$8.57",
       "currency": "USD",
       "starts_from": {
-        "value": 7.99,
+        "value": 8.57,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:52+04:00"
+      "updated_at": "2026-01-09T21:42:19+04:00"
     },
     "url": "https://www.csgodatabase.com/images/agents/Buckshot_NSWC_SEAL.png"
   },
@@ -42,14 +42,14 @@
     "collection": "Broken Fang Agents",
     "rarity": "Exceptional Agent",
     "price": {
-      "price_string": "$16.70",
+      "price_string": "$17.91",
       "currency": "USD",
       "starts_from": {
-        "value": 16.7,
+        "value": 17.91,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:52+04:00"
+      "updated_at": "2026-01-09T21:42:19+04:00"
     },
     "url": "https://www.csgodatabase.com/images/agents/'Blueberries'_Buckshot_NSWC_SEAL.png"
   },
@@ -60,14 +60,14 @@
     "collection": "Shattered Web Agents",
     "rarity": "Distinguished Agent",
     "price": {
-      "price_string": "$10.98",
+      "price_string": "$11.71",
       "currency": "USD",
       "starts_from": {
-        "value": 10.98,
+        "value": 11.71,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:52+04:00"
+      "updated_at": "2026-01-09T21:42:19+04:00"
     },
     "url": "https://www.csgodatabase.com/images/agents/Seal_Team_6_Soldier_NSWC_SEAL.png"
   }

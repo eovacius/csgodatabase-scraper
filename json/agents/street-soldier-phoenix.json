@@ -6,14 +6,14 @@
     "collection": "Shattered Web Agents",
     "rarity": "Exceptional Agent",
     "price": {
-      "price_string": "$12.39",
+      "price_string": "$12.74",
       "currency": "USD",
       "starts_from": {
-        "value": 12.39,
+        "value": 12.74,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:52+04:00"
+      "updated_at": "2026-01-09T21:42:19+04:00"
     },
     "url": "https://www.csgodatabase.com/images/agents/Slingshot_Phoenix.png"
   },
@@ -24,14 +24,14 @@
     "collection": "Shattered Web Agents",
     "rarity": "Distinguished Agent",
     "price": {
-      "price_string": "$7.42",
+      "price_string": "$7.86",
       "currency": "USD",
       "starts_from": {
-        "value": 7.42,
+        "value": 7.86,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:52+04:00"
+      "updated_at": "2026-01-09T21:42:19+04:00"
     },
     "url": "https://www.csgodatabase.com/images/agents/Enforcer_Phoenix.png"
   },
@@ -42,14 +42,14 @@
     "collection": "Shattered Web Agents",
     "rarity": "Distinguished Agent",
     "price": {
-      "price_string": "$7.29",
+      "price_string": "$7.72",
       "currency": "USD",
       "starts_from": {
-        "value": 7.29,
+        "value": 7.72,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:52+04:00"
+      "updated_at": "2026-01-09T21:42:19+04:00"
     },
     "url": "https://www.csgodatabase.com/images/agents/Soldier_Phoenix.png"
   },
@@ -60,14 +60,14 @@
     "collection": "Broken Fang Agents",
     "rarity": "Distinguished Agent",
     "price": {
-      "price_string": "$24.40",
+      "price_string": "$24.10",
       "currency": "USD",
       "starts_from": {
-        "value": 24.4,
+        "value": 24.1,
         "stattrak_value": 0,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:52+04:00"
+      "updated_at": "2026-01-09T21:42:19+04:00"
     },
     "url": "https://www.csgodatabase.com/images/agents/Street_Soldier_Phoenix.png"
   }

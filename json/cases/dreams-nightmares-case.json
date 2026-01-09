@@ -5,20 +5,20 @@
     "rarity": "Covert Rifle",
     "collection": "The Dreams \u0026 Nightmares Collection",
     "price": {
-      "price_string": "$64.11 - $228.10",
-      "price_stattrak_string": "$59.06 - $207.07",
+      "price_string": "$69.90 - $240.49",
+      "price_stattrak_string": "$59.00 - $209.59",
       "currency": "USD",
       "min": {
-        "value": 64.11,
-        "stattrak_value": 59.06,
+        "value": 69.9,
+        "stattrak_value": 59,
         "unit": "USD"
       },
       "max": {
-        "value": 228.1,
-        "stattrak_value": 207.07,
+        "value": 240.49,
+        "stattrak_value": 209.59,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:50+04:00"
+      "updated_at": "2026-01-09T21:42:17+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/AK-47_Nightwish.png"
   },
@@ -28,20 +28,20 @@
     "rarity": "Covert SMG",
     "collection": "The Dreams \u0026 Nightmares Collection",
     "price": {
-      "price_string": "$66.30 - $160.23",
-      "price_stattrak_string": "$60.29 - $144.20",
+      "price_string": "$68.48 - $165.93",
+      "price_stattrak_string": "$60.27 - $146.67",
       "currency": "USD",
       "min": {
-        "value": 66.3,
-        "stattrak_value": 60.29,
+        "value": 68.48,
+        "stattrak_value": 60.27,
         "unit": "USD"
       },
       "max": {
-        "value": 160.23,
-        "stattrak_value": 144.2,
+        "value": 165.93,
+        "stattrak_value": 146.67,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:50+04:00"
+      "updated_at": "2026-01-09T21:42:17+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MP9_Starlight_Protector.png"
   },
@@ -51,20 +51,20 @@
     "rarity": "Classified Pistol",
     "collection": "The Dreams \u0026 Nightmares Collection",
     "price": {
-      "price_string": "$6.19 - $44.59",
-      "price_stattrak_string": "$5.39 - $49.00",
+      "price_string": "$6.69 - $36.81",
+      "price_stattrak_string": "$5.58 - $49.00",
       "currency": "USD",
       "min": {
-        "value": 6.19,
-        "stattrak_value": 5.39,
+        "value": 6.69,
+        "stattrak_value": 5.58,
         "unit": "USD"
       },
       "max": {
-        "value": 44.59,
+        "value": 36.81,
         "stattrak_value": 49,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:50+04:00"
+      "updated_at": "2026-01-09T21:42:17+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Dual_Berettas_Melondrama.png"
   },
@@ -74,20 +74,20 @@
     "rarity": "Classified Rifle",
     "collection": "The Dreams \u0026 Nightmares Collection",
     "price": {
-      "price_string": "$5.98 - $36.91",
-      "price_stattrak_string": "$5.67 - $35.00",
+      "price_string": "$5.98 - $40.89",
+      "price_stattrak_string": "$5.53 - $33.07",
       "currency": "USD",
       "min": {
         "value": 5.98,
-        "stattrak_value": 5.67,
+        "stattrak_value": 5.53,
         "unit": "USD"
       },
       "max": {
-        "value": 36.91,
-        "stattrak_value": 35,
+        "value": 40.89,
+        "stattrak_value": 33.07,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:50+04:00"
+      "updated_at": "2026-01-09T21:42:17+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/FAMAS_Rapid_Eye_Movement.png"
   },
@@ -97,20 +97,20 @@
     "rarity": "Classified SMG",
     "collection": "The Dreams \u0026 Nightmares Collection",
     "price": {
-      "price_string": "$6.00 - $33.22",
-      "price_stattrak_string": "$5.38 - $47.48",
+      "price_string": "$6.40 - $36.21",
+      "price_stattrak_string": "$5.75 - $47.48",
       "currency": "USD",
       "min": {
-        "value": 6,
-        "stattrak_value": 5.38,
+        "value": 6.4,
+        "stattrak_value": 5.75,
         "unit": "USD"
       },
       "max": {
-        "value": 33.22,
+        "value": 36.21,
         "stattrak_value": 47.48,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:50+04:00"
+      "updated_at": "2026-01-09T21:42:17+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MP7_Abyssal_Apparition.png"
   },
@@ -120,20 +120,20 @@
     "rarity": "Restricted SMG",
     "collection": "The Dreams \u0026 Nightmares Collection",
     "price": {
-      "price_string": "$0.16 - $3.07",
-      "price_stattrak_string": "$0.51 - $3.16",
+      "price_string": "$0.16 - $5.00",
+      "price_stattrak_string": "$0.54 - $3.18",
       "currency": "USD",
       "min": {
         "value": 0.16,
-        "stattrak_value": 0.51,
+        "stattrak_value": 0.54,
         "unit": "USD"
       },
       "max": {
-        "value": 3.07,
-        "stattrak_value": 3.16,
+        "value": 5,
+        "stattrak_value": 3.18,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:50+04:00"
+      "updated_at": "2026-01-09T21:42:17+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/PP-Bizon_Space_Cat.png"
   },
@@ -143,12 +143,12 @@
     "rarity": "Restricted Sniper Rifle",
     "collection": "The Dreams \u0026 Nightmares Collection",
     "price": {
-      "price_string": "$0.56 - $17.50",
-      "price_stattrak_string": "$0.52 - $9.19",
+      "price_string": "$0.61 - $17.50",
+      "price_stattrak_string": "$0.51 - $9.19",
       "currency": "USD",
       "min": {
-        "value": 0.56,
-        "stattrak_value": 0.52,
+        "value": 0.61,
+        "stattrak_value": 0.51,
         "unit": "USD"
       },
       "max": {
@@ -156,7 +156,7 @@
         "stattrak_value": 9.19,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:50+04:00"
+      "updated_at": "2026-01-09T21:42:17+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/G3SG1_Dream_Glade.png"
   },
@@ -166,20 +166,20 @@
     "rarity": "Restricted Rifle",
     "collection": "The Dreams \u0026 Nightmares Collection",
     "price": {
-      "price_string": "$0.53 - $3.66",
-      "price_stattrak_string": "$1.71 - $9.09",
+      "price_string": "$0.53 - $3.91",
+      "price_stattrak_string": "$1.98 - $9.56",
       "currency": "USD",
       "min": {
         "value": 0.53,
-        "stattrak_value": 1.71,
+        "stattrak_value": 1.98,
         "unit": "USD"
       },
       "max": {
-        "value": 3.66,
-        "stattrak_value": 9.09,
+        "value": 3.91,
+        "stattrak_value": 9.56,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:50+04:00"
+      "updated_at": "2026-01-09T21:42:17+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/M4A1-S_Night_Terror.png"
   },
@@ -189,7 +189,7 @@
     "rarity": "Restricted Shotgun",
     "collection": "The Dreams \u0026 Nightmares Collection",
     "price": {
-      "price_string": "$0.16 - $2.61",
+      "price_string": "$0.16 - $2.75",
       "price_stattrak_string": "$0.49 - $3.39",
       "currency": "USD",
       "min": {
@@ -198,11 +198,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 2.61,
+        "value": 2.75,
         "stattrak_value": 3.39,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:50+04:00"
+      "updated_at": "2026-01-09T21:42:17+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/XM1014_Zombie_Offensive.png"
   },
@@ -212,20 +212,20 @@
     "rarity": "Restricted Pistol",
     "collection": "The Dreams \u0026 Nightmares Collection",
     "price": {
-      "price_string": "$0.43 - $7.61",
-      "price_stattrak_string": "$0.98 - $10.46",
+      "price_string": "$0.44 - $7.61",
+      "price_stattrak_string": "$0.98 - $10.77",
       "currency": "USD",
       "min": {
-        "value": 0.43,
+        "value": 0.44,
         "stattrak_value": 0.98,
         "unit": "USD"
       },
       "max": {
         "value": 7.61,
-        "stattrak_value": 10.46,
+        "stattrak_value": 10.77,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:50+04:00"
+      "updated_at": "2026-01-09T21:42:17+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/USP-S_Ticket_to_Hell.png"
   },
@@ -235,8 +235,8 @@
     "rarity": "Mil-spec Pistol",
     "collection": "The Dreams \u0026 Nightmares Collection",
     "price": {
-      "price_string": "$0.07 - $1.35",
-      "price_stattrak_string": "$0.11 - $2.17",
+      "price_string": "$0.07 - $1.26",
+      "price_stattrak_string": "$0.11 - $2.14",
       "currency": "USD",
       "min": {
         "value": 0.07,
@@ -244,11 +244,11 @@
         "unit": "USD"
       },
       "max": {
-        "value": 1.35,
-        "stattrak_value": 2.17,
+        "value": 1.26,
+        "stattrak_value": 2.14,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:50+04:00"
+      "updated_at": "2026-01-09T21:42:17+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Five-SeveN_Scrawl.png"
   },
@@ -258,20 +258,20 @@
     "rarity": "Mil-spec SMG",
     "collection": "The Dreams \u0026 Nightmares Collection",
     "price": {
-      "price_string": "$0.07 - $1.44",
-      "price_stattrak_string": "$0.10 - $2.45",
+      "price_string": "$0.07 - $1.50",
+      "price_stattrak_string": "$0.11 - $2.45",
       "currency": "USD",
       "min": {
         "value": 0.07,
-        "stattrak_value": 0.1,
+        "stattrak_value": 0.11,
         "unit": "USD"
       },
       "max": {
-        "value": 1.44,
+        "value": 1.5,
         "stattrak_value": 2.45,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:50+04:00"
+      "updated_at": "2026-01-09T21:42:17+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MAC-10_Ensnared.png"
   },
@@ -281,20 +281,20 @@
     "rarity": "Mil-spec Shotgun",
     "collection": "The Dreams \u0026 Nightmares Collection",
     "price": {
-      "price_string": "$0.05 - $1.00",
-      "price_stattrak_string": "$0.09 - $2.00",
+      "price_string": "$0.07 - $0.99",
+      "price_stattrak_string": "$0.09 - $1.99",
       "currency": "USD",
       "min": {
-        "value": 0.05,
+        "value": 0.07,
         "stattrak_value": 0.09,
         "unit": "USD"
       },
       "max": {
-        "value": 1,
-        "stattrak_value": 2,
+        "value": 0.99,
+        "stattrak_value": 1.99,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:50+04:00"
+      "updated_at": "2026-01-09T21:42:17+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MAG-7_Foresight.png"
   },
@@ -305,7 +305,7 @@
     "collection": "The Dreams \u0026 Nightmares Collection",
     "price": {
       "price_string": "$0.07 - $1.95",
-      "price_stattrak_string": "$0.11 - $1.24",
+      "price_stattrak_string": "$0.11 - $1.42",
       "currency": "USD",
       "min": {
         "value": 0.07,
@@ -314,10 +314,10 @@
       },
       "max": {
         "value": 1.95,
-        "stattrak_value": 1.24,
+        "stattrak_value": 1.42,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:50+04:00"
+      "updated_at": "2026-01-09T21:42:17+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/MP5-SD_Necro_Jr..png"
   },
@@ -327,20 +327,20 @@
     "rarity": "Mil-spec Pistol",
     "collection": "The Dreams \u0026 Nightmares Collection",
     "price": {
-      "price_string": "$0.06 - $1.40",
-      "price_stattrak_string": "$0.10 - $1.53",
+      "price_string": "$0.07 - $1.41",
+      "price_stattrak_string": "$0.11 - $1.38",
       "currency": "USD",
       "min": {
-        "value": 0.06,
-        "stattrak_value": 0.1,
+        "value": 0.07,
+        "stattrak_value": 0.11,
         "unit": "USD"
       },
       "max": {
-        "value": 1.4,
-        "stattrak_value": 1.53,
+        "value": 1.41,
+        "stattrak_value": 1.38,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:50+04:00"
+      "updated_at": "2026-01-09T21:42:17+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/P2000_Lifted_Spirits.png"
   },
@@ -350,12 +350,12 @@
     "rarity": "Mil-spec Sniper Rifle",
     "collection": "The Dreams \u0026 Nightmares Collection",
     "price": {
-      "price_string": "$0.07 - $1.00",
-      "price_stattrak_string": "$0.10 - $2.00",
+      "price_string": "$0.08 - $1.00",
+      "price_stattrak_string": "$0.08 - $2.00",
       "currency": "USD",
       "min": {
-        "value": 0.07,
-        "stattrak_value": 0.1,
+        "value": 0.08,
+        "stattrak_value": 0.08,
         "unit": "USD"
       },
       "max": {
@@ -363,7 +363,7 @@
         "stattrak_value": 2,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:50+04:00"
+      "updated_at": "2026-01-09T21:42:17+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/SCAR-20_Poultrygeist.png"
   },
@@ -373,20 +373,20 @@
     "rarity": "Mil-spec Shotgun",
     "collection": "The Dreams \u0026 Nightmares Collection",
     "price": {
-      "price_string": "$0.08 - $1.38",
-      "price_stattrak_string": "$0.10 - $1.06",
+      "price_string": "$0.07 - $1.38",
+      "price_stattrak_string": "$0.09 - $1.22",
       "currency": "USD",
       "min": {
-        "value": 0.08,
-        "stattrak_value": 0.1,
+        "value": 0.07,
+        "stattrak_value": 0.09,
         "unit": "USD"
       },
       "max": {
         "value": 1.38,
-        "stattrak_value": 1.06,
+        "stattrak_value": 1.22,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:50+04:00"
+      "updated_at": "2026-01-09T21:42:17+04:00"
     },
     "url": "https://www.csgodatabase.com/images/skins/Sawed-Off_Spirit_Board.png"
   },
@@ -396,20 +396,20 @@
     "rarity": "Extraordinary Knife",
     "collection": "",
     "price": {
-      "price_string": "$104.56 - $278.09",
-      "price_stattrak_string": "$125.54 - $194.84",
+      "price_string": "$109.50 - $276.86",
+      "price_stattrak_string": "$125.27 - $194.84",
       "currency": "USD",
       "min": {
-        "value": 104.56,
-        "stattrak_value": 125.54,
+        "value": 109.5,
+        "stattrak_value": 125.27,
         "unit": "USD"
       },
       "max": {
-        "value": 278.09,
+        "value": 276.86,
         "stattrak_value": 194.84,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:50+04:00"
+      "updated_at": "2026-01-09T21:42:17+04:00"
     },
     "url": "https://www.csgodatabase.com/images/knives/Falchion_Knife_Autotronic.png"
   },
@@ -419,12 +419,12 @@
     "rarity": "Extraordinary Knife",
     "collection": "",
     "price": {
-      "price_string": "$67.77 - $191.90",
-      "price_stattrak_string": "$80.04 - $239.00",
+      "price_string": "$67.74 - $191.90",
+      "price_stattrak_string": "$79.17 - $239.00",
       "currency": "USD",
       "min": {
-        "value": 67.77,
-        "stattrak_value": 80.04,
+        "value": 67.74,
+        "stattrak_value": 79.17,
         "unit": "USD"
       },
       "max": {
@@ -432,7 +432,7 @@
         "stattrak_value": 239,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:50+04:00"
+      "updated_at": "2026-01-09T21:42:17+04:00"
     },
     "url": "https://www.csgodatabase.com/images/knives/Falchion_Knife_Black_Laminate.png"
   },
@@ -442,12 +442,12 @@
     "rarity": "Extraordinary Knife",
     "collection": "",
     "price": {
-      "price_string": "$73.55 - $189.99",
-      "price_stattrak_string": "$88.40 - $173.99",
+      "price_string": "$77.06 - $189.99",
+      "price_stattrak_string": "$85.54 - $173.99",
       "currency": "USD",
       "min": {
-        "value": 73.55,
-        "stattrak_value": 88.4,
+        "value": 77.06,
+        "stattrak_value": 85.54,
         "unit": "USD"
       },
       "max": {
@@ -455,7 +455,7 @@
         "stattrak_value": 173.99,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:50+04:00"
+      "updated_at": "2026-01-09T21:42:17+04:00"
     },
     "url": "https://www.csgodatabase.com/images/knives/Falchion_Knife_Bright_Water.png"
   },
@@ -465,20 +465,20 @@
     "rarity": "Extraordinary Knife",
     "collection": "",
     "price": {
-      "price_string": "$86.09 - $175.16",
-      "price_stattrak_string": "$98.69 - $274.13",
+      "price_string": "$88.40 - $215.00",
+      "price_stattrak_string": "$103.56 - $274.13",
       "currency": "USD",
       "min": {
-        "value": 86.09,
-        "stattrak_value": 98.69,
+        "value": 88.4,
+        "stattrak_value": 103.56,
         "unit": "USD"
       },
       "max": {
-        "value": 175.16,
+        "value": 215,
         "stattrak_value": 274.13,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:50+04:00"
+      "updated_at": "2026-01-09T21:42:17+04:00"
     },
     "url": "https://www.csgodatabase.com/images/knives/Falchion_Knife_Freehand.png"
   },
@@ -488,20 +488,20 @@
     "rarity": "Extraordinary Knife",
     "collection": "",
     "price": {
-      "price_string": "$250.00 - $1021.78",
-      "price_stattrak_string": "$282.18 - $432.86",
+      "price_string": "$245.08 - $1021.78",
+      "price_stattrak_string": "$276.21 - $415.03",
       "currency": "USD",
       "min": {
-        "value": 250,
-        "stattrak_value": 282.18,
+        "value": 245.08,
+        "stattrak_value": 276.21,
         "unit": "USD"
       },
       "max": {
         "value": 1021.78,
-        "stattrak_value": 432.86,
+        "stattrak_value": 415.03,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:50+04:00"
+      "updated_at": "2026-01-09T21:42:17+04:00"
     },
     "url": "https://www.csgodatabase.com/images/knives/Falchion_Knife_Gamma_Doppler.png"
   },
@@ -511,20 +511,20 @@
     "rarity": "Extraordinary Knife",
     "collection": "",
     "price": {
-      "price_string": "$106.89 - $268.86",
-      "price_stattrak_string": "$118.58 - $364.86",
+      "price_string": "$107.99 - $268.86",
+      "price_stattrak_string": "$114.96 - $371.65",
       "currency": "USD",
       "min": {
-        "value": 106.89,
-        "stattrak_value": 118.58,
+        "value": 107.99,
+        "stattrak_value": 114.96,
         "unit": "USD"
       },
       "max": {
         "value": 268.86,
-        "stattrak_value": 364.86,
+        "stattrak_value": 371.65,
         "unit": "USD"
       },
-      "updated_at": "2026-01-02T22:29:50+04:00"
+      "updated_at": "2026-01-09T21:42:17+04:00"
     },
     "url": "https://www.csgodatabase.com/images/knives/Falchion_Knife_Lore.png"
   }
