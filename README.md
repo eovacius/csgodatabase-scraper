@@ -113,7 +113,7 @@ go run . # [duration: ~45-60s]
 4. **Apply flags** (optional)
 
 
-- `--aggressive` — scrape aggressively without delay (less safe but much faster)
+- `--aggressive` — scrape aggressively without delay (more detection prone but much faster)
 
 ```bash
 go run . --aggressive # [duration: ~10-20s]
